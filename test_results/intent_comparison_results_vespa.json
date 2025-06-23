@@ -1,0 +1,1338 @@
+[
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Text_Reasoning",
+      "MP_Layout_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        3,
+        39,
+        40,
+        9,
+        42,
+        45,
+        15,
+        16,
+        27,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 4.142277956008911,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "task_tag": "Locating",
+    "subTask": [
+      "Para_Title_Locating"
+    ],
+    "single_intent": {
+      "retrieved_pages": [],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0,
+      "f1": 0,
+      "retrieval_time": 16.57697105407715,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "evidence_pages": [
+      81
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Figure_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        96,
+        66,
+        67,
+        68,
+        101,
+        7,
+        106,
+        19,
+        91,
+        61
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.595069169998169,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Text_Reasoning",
+      "MP_Layout_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        40,
+        74,
+        123,
+        13,
+        87,
+        121,
+        26,
+        59,
+        124,
+        127
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.652686834335327,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "evidence_pages": [
+      33
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Text_Reasoning",
+      "SP_Layout_Reasoning",
+      "SP_Figure_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        97,
+        11,
+        13,
+        79,
+        82,
+        93,
+        56,
+        57,
+        61,
+        62
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.2834060192108154,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "evidence_pages": [
+      74
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        67,
+        74,
+        43,
+        79,
+        20,
+        53,
+        22,
+        56,
+        62,
+        94
+      ],
+      "correct_pages": [
+        74
+      ],
+      "recall": 1.0,
+      "precision": 0.1,
+      "f1": 0.18181818181818182,
+      "retrieval_time": 3.1605238914489746,
+      "success": true
+    }
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "task_tag": "Locating",
+    "subTask": [
+      "Cross_Title_Locating"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        65,
+        34,
+        58,
+        88,
+        45,
+        23,
+        56,
+        57,
+        90,
+        59
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 4.490417003631592,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "evidence_pages": [
+      125
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Table_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        35,
+        5,
+        42,
+        138,
+        52,
+        54,
+        23,
+        24,
+        122,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.3780550956726074,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Text_Understanding",
+      "MP_Layout_Understanding",
+      "MP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        32,
+        96,
+        41,
+        44,
+        45,
+        80,
+        82,
+        19,
+        85,
+        54
+      ],
+      "correct_pages": [
+        96
+      ],
+      "recall": 0.25,
+      "precision": 0.1,
+      "f1": 0.14285714285714288,
+      "retrieval_time": 2.492511034011841,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "evidence_pages": [
+      111
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        6,
+        103,
+        72,
+        10,
+        106,
+        12,
+        43,
+        21,
+        87,
+        30
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 4.175023078918457,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Text_Understanding",
+      "MP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        33,
+        104,
+        91,
+        44,
+        13,
+        46,
+        80,
+        122,
+        59,
+        62
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.056169033050537,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "evidence_pages": [
+      112
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        34,
+        35,
+        100,
+        99,
+        36,
+        66,
+        45,
+        14,
+        16,
+        62
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 7.169104814529419,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "task_tag": "Locating",
+    "subTask": [
+      "Cross_Table_Locating"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        34,
+        44,
+        47,
+        79,
+        18,
+        94,
+        86,
+        55,
+        121,
+        30
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 4.952380895614624,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Layout_Reasoning",
+      "MP_Figure_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        96,
+        6,
+        103,
+        8,
+        106,
+        110,
+        82,
+        84,
+        86,
+        23
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.4025440216064453,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        33,
+        66,
+        5,
+        74,
+        78,
+        21,
+        54,
+        55,
+        57,
+        61
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.956662654876709,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "evidence_pages": [
+      90
+    ],
+    "task_tag": "Locating",
+    "subTask": [
+      "Figure_Table_Locating"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        129,
+        3,
+        6,
+        71,
+        74,
+        17,
+        83,
+        86,
+        25,
+        29
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 11.670870065689087,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "evidence_pages": [
+      73
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        65,
+        72,
+        73,
+        42,
+        75,
+        81,
+        84,
+        22,
+        56,
+        31
+      ],
+      "correct_pages": [
+        73
+      ],
+      "recall": 1.0,
+      "precision": 0.1,
+      "f1": 0.18181818181818182,
+      "retrieval_time": 4.427308082580566,
+      "success": true
+    }
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        5,
+        37,
+        39,
+        40,
+        41,
+        72,
+        80,
+        82,
+        58,
+        63
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.554372787475586,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "evidence_pages": [
+      107
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        102,
+        9,
+        12,
+        46,
+        113,
+        55,
+        90,
+        29,
+        94,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.8240854740142822,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        96,
+        102,
+        11,
+        60,
+        16,
+        84,
+        24,
+        89,
+        59,
+        120
+      ],
+      "correct_pages": [
+        96
+      ],
+      "recall": 0.5,
+      "precision": 0.1,
+      "f1": 0.16666666666666669,
+      "retrieval_time": 2.7577290534973145,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        5,
+        40,
+        78,
+        79,
+        113,
+        82,
+        115,
+        85,
+        28,
+        61
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.14776873588562,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Table_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        64,
+        3,
+        4,
+        42,
+        43,
+        19,
+        56,
+        57,
+        94,
+        95
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.7439727783203125,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "evidence_pages": [
+      140
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        1,
+        101,
+        7,
+        143,
+        29,
+        19,
+        93,
+        60,
+        125,
+        30
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.6382908821105957,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        34,
+        101,
+        41,
+        108,
+        77,
+        79,
+        49,
+        50,
+        91,
+        29
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.3761069774627686,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "evidence_pages": [
+      68
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        5,
+        7,
+        71,
+        72,
+        15,
+        16,
+        22,
+        24,
+        27,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.869173049926758,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Text_Understanding",
+      "MP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        97,
+        2,
+        99,
+        4,
+        133,
+        112,
+        21,
+        25,
+        93,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.804395914077759,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "evidence_pages": [
+      96
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        1,
+        2,
+        5,
+        78,
+        51,
+        20,
+        19,
+        22,
+        24,
+        58
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.8203327655792236,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "evidence_pages": [
+      77
+    ],
+    "task_tag": "Locating",
+    "subTask": [
+      "Cross_Table_Locating"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        65,
+        67,
+        40,
+        77,
+        45,
+        80,
+        18,
+        57,
+        27,
+        30
+      ],
+      "correct_pages": [
+        77
+      ],
+      "recall": 1.0,
+      "precision": 0.1,
+      "f1": 0.18181818181818182,
+      "retrieval_time": 4.333028793334961,
+      "success": true
+    }
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "evidence_pages": [
+      117
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Layout_Understanding",
+      "SP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        64,
+        129,
+        133,
+        7,
+        76,
+        109,
+        14,
+        80,
+        85,
+        30
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.3158516883850098,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "evidence_pages": [
+      64
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Text_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        64,
+        70,
+        8,
+        73,
+        9,
+        60,
+        17,
+        51,
+        53,
+        28
+      ],
+      "correct_pages": [
+        64
+      ],
+      "recall": 1.0,
+      "precision": 0.1,
+      "f1": 0.18181818181818182,
+      "retrieval_time": 3.3964688777923584,
+      "success": true
+    }
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Table_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        37,
+        104,
+        10,
+        45,
+        14,
+        78,
+        49,
+        86,
+        28,
+        61
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 7.476166009902954,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "evidence_pages": [
+      113
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding",
+      "SP_Layout_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        97,
+        98,
+        107,
+        46,
+        114,
+        86,
+        24,
+        58,
+        93,
+        62
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.2315049171447754,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "evidence_pages": [
+      66
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "SP_Layout_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        64,
+        35,
+        4,
+        7,
+        39,
+        46,
+        14,
+        15,
+        58,
+        28
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 4.447670936584473,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Table_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        29
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 5.200434923171997,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Layout_Reasoning",
+      "MP_Table_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        33,
+        34,
+        35,
+        40,
+        8,
+        10,
+        51,
+        53,
+        23,
+        31
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.504918098449707,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "evidence_pages": [
+      103
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "SP_Text_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        32,
+        43,
+        108,
+        111,
+        81,
+        18,
+        93,
+        53,
+        88,
+        125
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.0946760177612305,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Table_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        2,
+        15,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 7.553175926208496,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Table_Reasoning",
+      "MP_Figure_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        26,
+        40,
+        110,
+        48,
+        86,
+        56,
+        121,
+        122,
+        124,
+        93
+      ],
+      "correct_pages": [
+        110
+      ],
+      "recall": 0.5,
+      "precision": 0.1,
+      "f1": 0.16666666666666669,
+      "retrieval_time": 3.1155331134796143,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "task_tag": "Reasoning",
+    "subTask": [
+      "MP_Figure_Reasoning"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        33,
+        2,
+        3,
+        39,
+        18,
+        50,
+        52,
+        23,
+        25,
+        27
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 3.2964463233947754,
+      "success": false
+    }
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "task_tag": "Understanding",
+    "subTask": [
+      "MP_Table_Understanding",
+      "MP_Figure_Understanding"
+    ],
+    "single_intent": {
+      "retrieved_pages": [
+        66,
+        3,
+        98,
+        102,
+        13,
+        83,
+        84,
+        87,
+        23,
+        62
+      ],
+      "correct_pages": [],
+      "recall": 0.0,
+      "precision": 0.0,
+      "f1": 0,
+      "retrieval_time": 2.764064073562622,
+      "success": false
+    }
+  }
+]

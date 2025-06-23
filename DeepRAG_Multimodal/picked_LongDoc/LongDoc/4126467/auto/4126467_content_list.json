@@ -1,0 +1,2830 @@
+[
+    {
+        "type": "text",
+        "text": "Standards and Specifications ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d4d3b20ef022b2fd5c1665821ce16c22c98caa09b1b02781bbcd3340b5d7d5ca.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CITY OF GROVER BEACH COMMUNITY DEVELOPMENT DEPARTMENT ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cityof GroverBeach ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Standards and Specifications ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AdoptedbytheCityCouncil June5,2006 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/600e89a232a6c0993fd0740993e0304eee329b52df07c3846638db357386f77b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/47d549664484dbe29f44eb2797086f04df92e07c09f503b2814785adc750ae22.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Approved: ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/acfeada6a2ef33d0fe1efeb9aff7776d8062334b82ca838d87e28020d8c617a1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Q9JUNEO7 Date ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/32ed2f59a2d0cd8bd879425db49e2cd043b5234291a74f90284e0f3c2c9ba783.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TABLE OF CONTENTS ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECTION NUMBER PAGE NO. ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECTION 1 - General Requirements 1 - 3 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ECTION 2 - Preparation of Plans 4 - 8 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECTION 3 - Inspection 9 - 10 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SECTION 4 - Roads and Streets 11 - 15 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "STANDARD DRAWINGS ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A.1 Curbs 16   \nA.2 Elements of Flexible Paving 17   \nA.3 Concrete Cross gutter 18   \nB.1 Sidewalks 19   \nB.1A Detached Sidewalks 20   \nB.2 Driveway Location 21   \nB.3 Cutting Concrete 22   \nB.4 Standard Upward Driveway 23   \nB.5 Standard Downward Driveway 24   \nB.6 Driveway Ramp 25   \nB.7 Driveways: Asphalt Concrete 26   \nB.8 Commercial or Industrial Off Street Parking 27   \nB.9 Location of Utilities in New Subdivisions 28   \nB.10 Location of Utilities in New Subdivisions (Continued) 29   \nB.11 Temporary Wood Beam Barricade 30   \nB.12 Metal Beam Barricade 31   \nB.13 Standard Street Monument 32   \nB.14 Standard Cantilever Retaining Walls (a - d) a b c d 33 - 36   \nB.15 Standard Street Sign 37 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CLICK ON THE LETTER/NUMBER ON THE LEFT (ie. A1) TO RETRIVE DRAWING ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "B.16 Street Sign Name Details 38   \nB.17 Mailbox Locations 39   \nB.18 Dumpster Enclosure Details (a - f) a b c d e f 40 - 45   \nB.19a Corner Curb Ramp ADA 46   \nB.19b Corner Curb Ramp ADA w/ 12’ Curb Return 47   \nB.19c Corner Curb Ramp ADA (Future) w/ 12’ Curb Return 48   \nB.20 Mid-Block Curb Ramp ADA 49 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SECTION 5 - Drainage 50 – 70 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "STANDARD DRAWINGS ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D.1 Rainfall Intensity Duration Curve 71   \nD.2 Table of Coefficient Runoff Chart 72   \nD.3 Nomograph 73   \nD.4a Standard Drop Inlet 74   \nD.4b Drop Inlet Insert Details 75   \nD.5 Double Drop Inlet 76   \nD.6 Drop Inlet Details 77   \nD.7 Grate Details 78   \nD.8 Grate Details 79   \nD.9 Sidewalk Drain 80   \nD.10 Offstreet Drop Inlet and Junction Box 81   \nD.11 Infiltration Basin Options…Vacant Lot New Construction (Impervious) 82   \nD.12 Infiltration Basin Options…Vacant Lot New Construction (Pervious) 83   \nD.13 Infiltration Basin Options…Redevelopment (No Credit for Existing Drainage) 84   \nD.14 Infiltration Basin Options…Maximum Build-out Examples 85   \nD.15 Backfill Requirements for Storm Drain 86   \nD.16 Typical Storm Drain Manhole 60” 87   \nD.17 Typical Storm Drain Manhole 72” 88 ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "STANDARD DRAWINGS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S.1 Sewer Manhole Cover 108   \nS.2 Typical Drop Manhole 109   \nS.3 Typical Eccentric Cone Precast Concrete Manhole 110   \nS.4 Sewer Cleanout 111   \nS.5a Sewer Lateral Installation 112   \nS.5b Relocate Sewer Over Storm Drain 113   \nS.5c Relocate Sewer Under Storm Drain 114   \nS.6 Sewer Lateral Notes 115   \nS.7 Sewer To Water Relationship 116   \nS.8 Sewer Backwater Prevention Valve 117 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SECTION 7 - Water Supply 118 – 140 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "STANDARD DRAWINGS ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "W.Ia Fire Hydrant Installation 141   \nW.Ib Fire Hydrant Installation Special Tie-in 142   \nW.2 Valve Anchor and Box 143   \nW.3 Thrust Block Requirements 144   \nW.4 Water Service Connection 145   \nW.5 1\" Air & Vacuum Relief Assembly 146   \nW.6 1\" Air & Vacuum Relief Assembly Details 147   \nW.7 Blow-Off Assembly 148   \nW.8 Backfill Requirements for Water or Sewer Lines 149   \nW.9 Water Main Realignment Over Storm Drain 150   \nW.10 Water Main Realignment Under Storm Drain 151 ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CLICK ON THE LETTER/NUMBER ON THE LEFT (ie. A1) TO RETRIVE DRAWING ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SECTION 1 ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "GENERAL REQUIREMENTS ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.01 PURPOSE: ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The purpose of these Standards and Specifications is to provide minimum standards for the design, methods of construction, kinds and uses of materials, and the preparation of plans for construction, repair or alteration of streets, roadways, concrete structures, drainage, sewerage, and water supply facilities within the City of Grover Beach, where any portion of such improvement is to be offered to the City of Grover Beach for operation and/or maintenance. Any items which are not included in these Standards and Specifications shall be constructed in accordance with the State Specifications as defined below or, if not covered in the State Specifications, as approved by the City of Grover Beach, Community Development Director. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1.02 DEFINITIONS: ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In these Specifications or the State Specifications the intent and meaning of the terms that are used shall be as defined in Section I of the State Specifications except as follows: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Consultant - Shall mean any person or persons, firm, partnership or corporation legally authorized to practice civil engineering in the State of California who prepares or submits improvement plans and specifications on behalf of a Developer to the City of Grover Beach for approval. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Contractor - Shall mean any person or persons, firm, partnership, corporation or combination thereof who has/have entered into a contract with any person, corporation, company, special district, or the City of Grover Beach as party or parties of the second part, or legal representatives, for the construction of any improvement within the City of Grover Beach. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Community Development Director or Director - Shall mean the Community Development Director of the City of Grover Beach. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Department - Shall mean the City of Grover Beach Community Development Department.   \n5. Engineer - Shall mean the City Engineer of the City of Grover Beach acting either directly or through an authorized representative.   \n6. Developer - Shall mean the owner or owner's representative.   \n7. Laboratory - Shall mean any testing agency or testing firm, which has been licensed by the State of California to act in such capacity, and meeting the requirements of the Engineer.   \n8. State - When State specifications are applicable, the word \"State\" as used in the State Specifications, shall mean the City of Grover Beach.   \n9. City - Shall mean the City of Grover Beach.   \n10. State Specifications - Shall mean the latest edition of Standard Specifications and Standard Plans of the State of California, Business and Transportation Agency, Department of Transportation. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.03 CONTROL OF MATERIALS: ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Director may make such tests of any of the materials used in any work done under these specifications as considered necessary. Samples of materials for testing shall be furnished to the Director without charge. In lieu of, or in addition to, tests by the Director, properly executed certificates of compliance with these specifications from the manufacturer or fabricator of any materials used in any work done hereunder may be required. Cost of all testing shall be paid for by person, firm or corporation making the improvement. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If pipe manufactured outside of the United States is to be furnished, all the tests required under these specifications shall be conducted within the continental limits of the United States by an established, reputable firm operating in the testing of materials field. The testing firm shall submit a certificate that all the requirements of these specifications have been met. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Requests for substitution of methods or materials differing from those set forth herein will be considered by the Director provided the requester makes any such requests in writing and furnishes complete descriptive information thereon to the Director (including any additional information the Director may request) as early in this process as possible, but, in any event, or not later than the day on which the final improvement plans are submitted for final review by the Director. The Director will consider requests for emergency substitutions involving materials which suddenly become unavailable, provided requests for such emergency substitutions, including all data to show substitutions comply with specifications, are received at least fifteen calendar days before date of use. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SECTION 2 PREPARATION OF PLANS ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2.01 GENERAL: ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All improvement plans shall be prepared and signed by a registered Civil Engineer. Complete plans and specifications for all proposed streets, drainage facilities, sewerage, water distribution systems, industrial and commercial development and residential subdivisions, including any necessary dedications and easements, shall be submitted to the Director for approval and must receive the required approval prior to the beginning of construction of any such improvements. This shall apply where it is the intent that any portion of such improvements will be turned over to the City. Where improvements are required as a condition of City approval of any development, including those where City acceptance of the public ways in said development is not intended, nor imminent, improvement plans acceptable to the Director shall be submitted to assure the City that proper construction standards will be used together with Performance Bonds and Labor and Materials Bonds as necessary to guarantee compliance. Plans not conforming to the normal standards of quality and neatness may be rejected. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Three sets of plans, specifications and special provisions, together with two copies of all computations, cost estimates, bid forms, test data, cross sections, and such other items as may be requested by the Director, shall be submitted to the Director for approval. One copy of the plans showing desired revisions will be returned to the consultant. At such time as the consultant has made the necessary revisions, the original drawings shall be submitted for approval. No construction will be authorized or plan approved until such time as the Director or a designated representative signifies approval by signature on the original drawings of the title sheet. There shall be no alterations made to an approved set of plans unless such alterations are submitted to the Director for approval. Excepted from approval are any features of the plans that are contrary to, in conflict with or do not conform to any Federal or State law, City ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ordinance or Resolution, or generally accepted engineering practice, in keeping with the standards of the profession, even though such errors, omissions or conflicts may have been overlooked in the review of the plans. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Where the improvement plans submitted cover only a portion of the ultimate development, the plans submitted must be accompanied by the approved overall tentative plan, or a study plan if there is no approved overall tentative plan, showing topographic features of the ultimate development at an adequate scale to clearly show the proposed improvements. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A print of the subdivision map shall be included with each set of subdivision improvement plans submitted. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.02 DESIGN ALTERNATIVES: ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The Director may approve design alternatives where the proposed alternate provides the same level of service, approximately the same estimated maintenance costs, and is not adverse to public health, safety and welfare. This provision is intended to provide for some flexibility in designing streets with bike ways, pedestrian paths and bridle paths; when an area specific plan has been approved showing an alternate to the standard drawings or where appropriate in order to provide compatibility with adjacent areas. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2.03 STANDARD SHEETS AND SCALES: ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A. Residential Subdivisions and Commercial or Industrial Streets - These plans shall be prepared on mylar or an approved equal, $24\"\\times36\"$ , Standard Plan - Profile Sheet. Desirable Scales: Horizontal of $1\"=20\"$ with vertical of $1\"=2\"$ or $1^{\\prime}=4^{\\prime}$ ; or horizontal of $1^{\\prime}=50^{\\prime}$ with vertical of $1\"=5\"$ . However, scale may be varied in rough terrain. B. Storm Drainage - Plans for minor drainage facilities may be shown on street plans, if appropriate. Plans for major drainage facilities shall conform to the sheet size and scale as shown for street plans, and shall include hydraulic grade line. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Attention is directed to 2.01 of these Specifications, which requires the submittal of computations with improvement plans at the time such plans are submitted for approval. Off street improvements shall be drawn on sheets and to a scale approved by the Director. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "C. Sanitary Sewerage - Plans for sanitary sewer improvements shall be prepared on standard sheets as defined in paragraph A, and may be submitted on the same plans as the streets. Off street improvements shall be drawn on sheets and to a scale approved by the Director. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D. Water - Plans for water system layout and improvements shall be submitted on the same plans as the streets. Off street improvements shall be drawn on sheets and to a scale approved by the Director. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "E. Utilities - Plans for electric, telephone, cable T.V. and gas system improvements shall be submitted on the same plans as the streets. Each respective utility shall signify approval of the proposed layout of its facility by signing the plans. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "F. Grading - If any grading is proposed, a grading plan shall be submitted with the other required improvement plans. Cut and fill quantities shall be computed and shown on the plan. Existing and final contours shall also be shown. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2.04 PLAN DETAILS: ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The following details are to be shown on plans submitted for approval: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A. Title Sheet - On improvement plans exceeding two sheets in the set, a title sheet shall be prepared showing the entire work complete with the following: a key map showing boundaries of the work, special districts, and City limits; street names; section and/or grant lines and corners; and the location of the work within the City. The title sheet shall also include an index of the sheets; the consultants name, and professional registration number and signature; the date of the drawing; and the blocks for the necessary approvals of the Director, Engineer and effected utilities. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "B. Title Blocks - Each sheet of the set of drawings shall have an approved title block showing the sheet title, sheet number, total number of sheets, date, scale and the consultants name, signature and professional registration number; and the name and/or number of the subdivision or assessment district. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "C. Right of Way - Right of way lines, the boundaries of lots fronting on the street, all easements, section lines and corners, land grant lines, City limit lines and temporary construction easements both existing and proposed shall be shown on the plans. All right of way and easement lines shall be properly dimensioned. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "D. Topography - All pertinent topographic features which may affect the design, construction, and operation of the improvement shall be shown on the plans, including, but not limited to the following: street lines, curbs, sidewalks, shoulders, location and size of existing utility lines, high water and frequent inundation levels, existing structures, fences, houses, trees, and other foliage, drainage ditches, utility poles, fire hydrants, and all other features of the area which may affect the design requirements for the area. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "E. Profiles - The plans shall clearly show the existing and proposed profiles of all roadways, drainage ditches, storm drains, sanitary sewers, water lines and clearances at structures and power lines, including elevations at 25' minimum intervals for warped surfaces. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "F. Stationing and Orientation - The stationing on plans and profile shall read from left to right. Insofar as practical, the plans shall be so arranged that the north arrow is either pointed toward the top or to the right edge of the sheet. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "G. Special Notes - Special notes shall be clearly indicated. The following note shall be conspicuously placed on the first sheet of plans: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\"All construction work and installations shall conform to the City of Grover Beach Standards and Specifications, and all work shall be subject to the approval of the Community Development Director or the City Engineer.\" ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "H. Typical Sections - The plans should include one or more sheets which shall show the following: ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Typical street and road sections   \n2. Detail of all typical concrete structures   \n3. Typical sections of drainage, sewer or water trench construction   \n4. Miscellaneous typical details   \n5. Applicable City standard drawings ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "I. Cross Sections - Cross sectional drawings shall be shown for all culvert and drainage structure locations. Cross sections for the remainder of the street will be required on request of the Engineer. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "J. As-built Plans - During the progress of the work the consultant shall maintain one set of prints of the improvement plans showing all \"As-built\" changes. The Director shall approve each “As-built” change before being made. This set shall be available on the job for inspection by the Director and Engineer at any time. Upon completion of the work, the consultant shall obtain the original drawings of the improvement plans from the office of the Director and make \"As-built\" changes thereon and return the original drawings to the Director. Prior to the City acceptance of the project, the City shall be furnished a complete set of \"As-built\" mylar plans. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3.01 INSPECTION DURING CONSTRUCTION: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Each phase of any and all improvements, constructed to these specifications, must first be inspected and approved by the Director prior to the Contractor's proceeding with subsequent phases. Each phase shall be inspected as the Director considers necessary, but in any case the Director shall make an inspection within two working days after receiving a request for inspection from the Contractor. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The Director may inspect as considered necessary, any improvements required by the City Council or Planning Commission as a condition of approval of any development even though City acceptance is not intended or imminent. Any improvements constructed without approval as provided above, or constructed contrary to the orders or instructions of the Director, will be deemed as not complying with City Standards and Specifications and will not be accepted for maintenance. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "3.02 FINAL INSPECTION: ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Upon completion of any improvements which are constructed under and in conformance with these Standards and Specifications, and prior to requesting final inspection, the area shall be thoroughly cleaned of all rubbish, excess material and equipment; and all portions of the work shall be left in a neat and orderly condition satisfactory to the Director. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Within five days after receiving the request for final inspection, the Director or authorized agent will inspect the work. The Developer or owner's representative will be notified in writing as to any particular defects or deficiencies to be remedied. The Developer or owner's representative shall proceed to correct any such defects or deficiencies at the earliest possible date. At such time as the work has been completed, a second inspection shall be made by the Director within 48 hours after notification that re-inspection is desired to determine if the previously mentioned defects have been repaired, altered and completed in accordance with these Standards and Specifications. At such time as the Director approves the work, a report will be made to the City Council and a recommendation that a Resolution of Acceptance be passed. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "SECTION 4 ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "ROADS AND STREETS ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.01 CLASSES OF ROADS AND STREETS: ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Roads and streets shall be designed in accordance with the adopted Circulation Element of the General Plan of the City and as directed by the Engineer or Director. 4.02 GEOMETRICS AND PROFILES: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The following standards for the design of geometries and profiles for proposed improvements shall govern the preparation of plans for such improvements. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A. Minimum Grades and Maximum Grades 1. Minimum grade along any line on new streets shall be $0.30\\%$ . 2. Minimum grade of gutter sections constructed on existing streets shall be $0.30\\%$ . 3. Maximum grade on new streets shall be $15\\%$ . B. Minimum Cross Gradient 1. Minimum cross section slope on streets shall be $1.5\\%$ . 2. When two streets intersect, neither street shall have a grade greater than $3.0\\%$ for a minimum distance of 40 feet measured from the curb line of the intersected street, except in unusually rough terrain. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "3. The minimum vertical curve length allowable at the intersection of two grades shall be 50 feet. However, vertical curves may be omitted where the algebraic difference in grades does not exceed $0.5\\%$ . ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "C. Minimum Sight Distances ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "1. The minimum stopping sight distance (as defined in Chapter 200 of the Cal Trans Highway Design Manual) over any segment of the roadway shall be 200 feet unless approval for variation is received from the Director. D. Cross Gutters - No cross gutters will be allowed to cross collector streets or arterial routes unless no other provision can be made for adequate drainage. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "E. Curve Data - The curve data for all centerline curves shall be computed and shown on the plans. Minimum radius of curvature on a local street or road centerline shall be 250 feet. In new subdivisions only, the minimum radius of property lines on the exterior of all corner lots shall be 24 feet. The minimum radius of curb returns shall be 30 feet (12 feet optional in residential areas only). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "4.03 SPECIFICATIONS FOR MATERIAL AND CONSTRUCTION: ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A. Contractor's License and Supervision - Any Contractor performing work under these Standards and Specifications is required to possess a valid state license to perform such work. The Contractor or a duly authorized representative must be available on the job site during the time when any work is in progress. If such is not the case, the work shall be stopped at the direction of the Director. B. Safety - All work shall be performed in accordance with the requirements of the State of California, CAL-OSHA. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The Contractor shall conform to the permit requirements of CAL-OSHA and shall obtain a trenching permit directly from the State of California. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The Contractor's attention is directed to the provisions of the Labor Code concerning trench excavation safety plans. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Excavation for any trench five feet or more in depth shall not begin until the Contractor has received approval, from the Division of Occupational Safety and Health, of the Contractor's plan for worker protection from the hazards of caving ground during the excavation of such trench. Such plans shall be submitted to the Division of Occupational Safety and Health at least five days before the Contractor intends to begin excavation for the trench and shall show the provisions to be made for worker protection during such excavation. No such plan shall allow the use of a shoring, sloping or protective system less effective than that required by the Construction Safety Orders or CAL-OSHA, and if such plan varies from the shoring system standards established by CAL-OSHA, the plan shall be prepared and signed by an engineer who is registered as a Civil or Structural Engineer in the State of California. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "C. Materials and Tests - All materials furnished and the methods of performing any proposed work shall conform to and be done in accordance with the applicable portions of these Standards and Specifications of the City, or if the method and materials are not completely set forth therein, the provisions of the State Specifications shall apply. Where a California Test Method is specified, it shall mean the one currently in use by the State. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D. Temporary Improvements - The installation of temporary improvements to make building sites accessible will be approved on an individual basis, provided that it is expressly understood that such improvements are of a temporary nature only, and that they will be removed and replaced with permanent type improvements as soon as reasonably possible and prior to final acceptance inspection of the work by the Director. It shall be further understood that the approval of the installation of temporary improvements in no way obligates the City for any maintenance work. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "E. Roadbed - The roadbed shall be prepared and constructed in accordance with the applicable portions of the State Specifications, unless otherwise modified in the following or approved by the Director. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "1. Asphalt Concrete - Shall conform to the requirements for Type B Asphalt Concrete as specified in Section 39 of the State Specifications utilizing the $3/4$ inch maximum aggregate, for base course, and $1/_{2}$ inch maximum aggregate for the finish course, except that the finish course for open graded asphalt concrete shall be _ inch maximum aggregate. The completed surface shall be sealed with a fog seal at the rate of 0.1 gallons per square yard. The fog seal shall comply and be applied in accordance with Section 37-1 of the State Specifications. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "2. Survey Monuments - Survey monuments shall be provided at the following locations within an improvement. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "a. Centerline of streets at angle points or at intersections with other ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "streets. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "b. At the beginning and end of curves on the street centerline, and ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "radius points of cul-de-sacs. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "c. At all subdivision corners, lot or parcel corners of the development and in such other locations so as to enable any lot or portion of the improvement to be retraced or located. Monuments to be set as shown on record maps shall be a pipe at least 24 inches long and $1\\%$ inches minimum diameter. All monuments shall be capped, stamped or tagged with the land surveyor's or engineer's number. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The Contractor is responsible for the protection and/or proper resetting of all existing monuments and other survey markers. Any survey monuments destroyed by the Contractor shall be replaced at the Contractor's expense. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.04 TESTING OF BASE MATERIALS: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "A. Subgrade Soil l. Resistance factor \"R\" (State Stabilimeter Method) tests shall be made by the Developer as required by the Director. The location of the tests within the area shall be selected so that an average \"R\" value may be determined for the entire development area. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "2. Relative compaction tests shall be made by the Developer as required by the Director on subgrade material and material placed within the street areas of the development as specified by the Director. Said tests will be made prior to placing the next layer of material. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "B. Aggregate Base - Aggregate base shall be Class 2. Tests for aggregate base shall be made by the Developer as required by the Director on a minimum of two representative samples taken as the source from which material will be imported. The sample shall be taken within 15 days prior to placing of either base or sub-base. Test results submitted shall indicate clearly the location of the source of material. Base material shall also be subject to testing as it is delivered to the job site in accordance with State Standards. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The work of furnishing, spreading and compacting the aggregate base shall be done in accordance with these specifications and Section 26 of the State of California Standard Specifications. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "4.05 STREET RIGHT OF WAY: ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Minimum right of way widths shall be as set out in these Standards and Specifications in accordance with the Circulation Element and as directed by the Director. In no instance, without specific approval of the Director, shall a street have a right of way width which is less than those streets of which they are a continuation. Right of way requirements for widening at intersections shall be as shown in the Standards or as approved by the Director. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.06 PLANTING CUT AND FILL SLOPES: ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Cut and fill slopes shall be planted as required by the Director and to the approval of the Director. An erosion control plan shall be submitted when improvement plans are required. The erosion control plan shall be approved by the Director and/or City Engineer. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.07 SOILS AND GEOLOGICAL REPORT: ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The Director may require a soils and geological report to substantiate road design and/or lot stability. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "4.08 PRESERVATION OF TREES:",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Preserve trees if possible. All trees to be removed shall be shown on the improvement plans. The Director may require additional trees to be removed for reasons of safety or maintenance. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DRAINAGE ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5.01 GENERAL STATEMENT: ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "These specifications are intended to meet the requirements of the National Flood Insurance Program. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "While it is intended to permit alternative methods of analysis and solution of drainage problems and to provide for other methods for those situations which do not lend themselves to solution by the following criteria, such alternative methods shall be based upon accepted engineering principles and shall produce results which achieve the product intended by the following specifications. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "It is the general purpose of these standards that waters generated by storms, springs, or other sources be contained on the area to be developed or carried through a system of waterways and conduits and disposed of in such a manner that adjacent improvements, existing or projected, will be free from flood hazard. Flood hazard is defined as potential damage by water having sufficient depth or velocity to damage improvements or to deposit or scour soil other than within channels. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Each improvement shall be designed so as to not increase the rate of flow of water onto adjacent properties. An exception to this may be permitted by the Director if there are adequate downstream facilities provided to handle the total flow without adverse affect on other properties. In this event, the Developer may be required to participate in the cost of said facilities and/or obtain easements or other rights as needed. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Unless an individual project required diversion of water to conform to a comprehensive drainage plan, water shall be received and discharged at the locations that existed prior to development and as nearly as possible in the manner that existed prior to development. Should diversion be required, sufficient work shall be done upstream and/or downstream to provide all affected properties at least the same level of flood protection as existed prior to the diversion. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "At the discretion of the Director, any project may be required to pond or retard all runoff generated by the project. Owner-Developers should expect to pond all runoff from new projects located in areas of the City where existing drainage facilities are already overloaded, where ponding is designed as the method of runoff disposal in the Master Drainage Plan, or where planned facilities do not yet exist. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "These standards are intended to provide general and some detailed design criteria. Most design details are left to the responsibility of the Consultant, subject to approval by the Director, and may be handled by following good engineering practice. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The design standards contained herein are minimal and alternates may be approved, provided such alternates are to a higher standard than those set forth. Exceptions to these standards may be allowed by the Director when it can be determined that such exceptions are in the best interest of the City. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "All drainage facilities shall be maintained by the City, a homeowner's association or an approved maintenance district. The Developer shall complete arrangements for maintenance prior to filing of the final subdivision or parcel map. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "All drainage facilities for new construction or redevelopment of individual properties not in an approved maintenance district or homeowner’s association must comply with the City of Grover Beach Standards for Individual Lot Runoff and be maintained by the owner and retained on site. See section 5.06, G. and Standard Drawings D.11 through D.14. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.02 ALIGNMENT AND CAPACITY: ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "A. Capacity - Special provisions shall be made by the Consultant within the drainage system to insure that the inlet flow line elevations and the capacity of the drainage system are such that the system may be extended to serve and properly handle the entire drainage basin at the time of ultimate development, under 100-year storm conditions. This is to include the entire upstream portion of the basin outside the development, regardless of existing conditions. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "B. Alignment - The diversion of natural drainage will be allowed only within the limits of the proposed improvement. All natural drainage must leave the improved area at its original horizontal and vertical alignment and with approximately the same discharge velocity as existed prior to development, unless adequate downstream facilities exist or a special agreement indemnifying and approved by the City has been executed with the adjoining property owners. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The general location for storm drainage lines shall be six feet northerly or westerly of the centerline of a street. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Other general requirements for storm drains are as follows: ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "1. Storm drainage lines are to be parallel with the centerline of streets unless impracticable. The designer should avoid meandering, offsetting, and unnecessary angular changes (none to exceed $90^{\\circ}$ ). ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "2. Provide junctions between converging lines in such a manner as will minimize losses and utilize available velocity head, and locate the centerlines of the influent and effluent lines so that they will be approximately in the same plane and be as nearly as possible parallel to the resultant vector of the converging lines. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "3. The vertical alignment shall be so designed to eliminate any ponding within the drainage system, other than where sump pumps or basins are provided. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "4. Existing open ditches, paved channels, and swale flows shall be maintained as nearly as possible in their existing alignment. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.03 EASEMENTS: ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Drainage facilities must be located in a public street or within a drainage easement. Necessary dedication of an easement for lines to be constructed on private property must be completed before the improvement will be approved for construction. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Where a minor improvement of a drainage facility falls on adjacent property, written permission from the adjacent property owners for such construction and a copy of the approval of the adjacent owners shall be submitted to the Director prior to approval of the improvement plans. Agreements between property owners shall be recorded and shall hold the City harmless from any damage claim arising from said agreement. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Drainage easements shall be used for drainage purposes exclusively and shall not be combined with easements required for other public utility purposes unless it can be shown to the Director that dual use of said easement will not be conflicting. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "For natural waterways a drainage easement, or right of way when required, shall be provided which includes the entire waterway area plus freeboard. Prior to final approval, the easement shall be staked by the subdivider's engineer or surveyor and reviewed by the Director. In the case of a natural waterway having banks with side slopes steeper than three horizontal to one vertical, the right of way may be required to be increased to provide width for not less than 3 to 1 slopes from the existing toe of bank, plus a 10-foot-wide buffer strip on each side. Additional right of way will also be required where unstable ground conditions exist. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "A. Easements for Closed Conduits - Easements for closed conduits shall meet   \nthe following requirements: Minimum width of 10 feet with pipe at quarter point, on north or west.   \nWhenever possible, rights of way for closed conduits shall be along or adjacent to   \nproperty lines and outside of areas where structures are planned. 2. On pipes of 24 inch diameter and greater, or trenches exceeding five   \nfeet in depth, the easement shall have additional width to provide ample working space   \nas required by the Director. 3. Provide access and working space rights. B. Property Rights for Open Channels - Property rights for major and   \nintermediate open channels shall have sufficient width to contain the open channel with   \nside slopes, and at least one 15 foot service road. All channels having a top width in   \nexcess of 50 feet shall have a 15 foot service road on each side of the channel.   \n5.04 BASIS FOR RUNOFF DESIGN: (Rational Method) A. General - The solution of hydraulic design problems commonly encountered   \nfor areas not to exceed 200 acres may be made by the rational method using the ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "material listed below: (See Standard Drawings D.1 through D.3) ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "1. Rainfall intensity-duration curve   \n2. Time of concentration graph, and   \n3. Runoff coefficient chart ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "For special design problems or drainage areas in excess of 200 acres not susceptible to solution by the above mentioned references, the design engineer shall provide such reference, treatise, model study report, or prototype test as is necessary to conform the hydraulic design. Improvements in natural water courses will not normally be approved unless the capacity of the improved waterway is a least that of the natural waterway. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "All building pads or first floor elevations shall be at least one foot above the 100- year storm flow elevation. B. Gutter Flow - Design depth of flow in gutters shall not exceed the top of an 8 inch curb for the 100-year flow. When the discharge gutter capacity is exceeded, a storm drain or other facility shall be provided to convey the excess flows. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Drainage shall be designed to accommodate ultimate development of up-stream areas. C. Hydraulic Gradients - The hydraulic grade line shall be a minimum of 0.50 feet below the elevation of inlet grates and manhole covers of all structures. D. Ultimate Development - In computing runoff in a partial development, adequate provisions must be made for the drainage of the overall improvement, including possible commercial areas. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "E. Fencing Requirements for Channels ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "1. Constructed channels with side slopes five to one or flatter need not be fenced. 2. Natural channels need not be fenced, except where special hazards exist. 3. For constructed channels (not excepted from fencing) a six foot high chain link fabric with tension wire shall be installed on each side of the right of way. At all road intersections fencing shall prevent public access to channels or culverts, and 14 foot wide chain link drive gates shall be provided at all points of access to maintenance ways, or to channels not requiring maintenance ways. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "4. For minor channels with depths less than three feet, the Director may allow the fence requirement to be waived. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In order to provide a uniform drainage system in the City of Grover Beach, the following criteria will be used in all hydraulic computations unless approval otherwise is received in writing from the Director. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "A. Flow Computations - All flow computations shall be in accordance with the following: 1. Manning's Formula shall be used to compute capacities of all open and closed conduits. 2. The \"n\" values to be used in Manning's Formula shall conform to the following: ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "a. Reinforced concrete pipe 0.013   \nb. Vitrified clay pipe \\* 0.013   \nc. Corrugated Metal Pipe (C.M.P.) 0.023   \nwith paved invert 0.019   \n$100\\%$ paved 0.015   \nd. Smooth Plastic Pipe 0.009   \ne. Asbestos-cement pipe \\* 0.011   \nf. Open channel with gunite lining 0.018   \ng. Asphaltic concrete (smooth)   \nroad berms 0.015   \nh. Sack concrete rip rap 0.030   \ni. Grouted rock rip rap 0.030   \nj. Loose rock rip rap 0.035   \nk. Open channel with paved bottom 0.025   \nl. Earth channel 0.030 ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "\\* For analysis of existing systems only. Not allowed for new installation. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "B. Closed Conduits - Shall be of precast reinforced concrete pipe, corrugated steel pipe, approved non-metallic pipe or an approved equal. Corrugated steel pipe shall not be placed under streets or undesirable locations as determined by the Director. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Minimum pipe diameter allowable on any storm drain shall be 18 inches, except that 15 inch diameter pipe may be used for culverts of not over 20 feet in length. A lesser size may be used for down drains on fill slopes if approved by the Director. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. Minimum design velocity in closed conduits shall be two f.p.s. when conduit is flowing to capacity and should not exceed 15 f.p.s. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "C. Cover Requirements - Minimum cover shall be three feet. At locations where the minimum cover requirements cannot feasibly be obtained, the conduit shall be either encased in concrete or provided with a concrete cover or protected by other methods as approved by the Director for each individual circumstance. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "D. Open Conduits - Open conduits may be natural watercourses, earthen channels, or channels lined with the materials listed below, provided that the selected lining material is approved by the Director and/or City Engineer for the particular channel reach: ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Low-growing grass, which will form a thick, dense sod. The proposed   \ngrass mixture is to be submitted to and approved by the Director.   \n2. Rock slope protection facing class, Method B Placement.   \n3. Concreted-rock slope protection facing class, Method B Placement.   \n4. Sacked concrete slope protection.   \n5. Concrete slope paving.   \n6. Reinforced air-blown mortar. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Minimum velocity for channels flowing full with freeboard shall be 2 feet per second. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Maximum velocity shall be as follows: ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Earth channels not to exceed velocity that would cause erosion (maximum five feet per second). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. Lined channels not to exceed 10 feet per second or as approved by the Director. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Freeboard of at least one foot or 0.2 of the specific energy (whichever is greater) shall be provided at design capacity for all channels. Where linings are required they shall extend to the full height of the freeboard. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "For natural waterways, the design flow may be allowed in the natural overflow area if a drainage easement is provided, which will include the overflow area, and freeboard as specified above exists between the water surface and adjacent ground. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Drainage facilities shall be so constructed and areas adjacent to channels so graded that side drainage will enter in a manner which will prevent erosion within the rights of way. This will often require constructed side inlets and collector ditches to carry side flow to inlets. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "E. Design Computations - The design computation for drainage shall include the following information: ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Drainage area in acres, time of concentration, rainfall intensity and runoff coefficient. 2. Design flow to each structure. 3. Design flow to each pipe. 4. Flow line elevation of each pipe and structure. 5. Top of structure elevation. 6. Water surface elevation at each structure. 7. Hydraulic gradient. 8. Pipe size, length and gradient ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "5.06 DRAINAGE STRUCTURES: ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The design and construction of drainage structures and special drainage items shall conform to the designs contained in these Standards and Specifications (unless otherwise noted). Special care must be taken to insure that all drainage structures and pipes are designed at such a capacity that the drainage system can be extended or enlarged to serve the entire drainage basin at ultimate development. The rational formula (Q-AIR), with all numerical quantities, shall be indicated on the improvement plans at each drainage structure. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "A. Manholes Standard precast concrete manholes shall be used wherever feasible. When cases arise where special manholes or junction boxes are required, the design shall be approved by the Director. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "2. Manholes shall be located at junction points, changes in alignment or gradient and changes in conduit size. On curved pipes with radii of 200 feet to 400 feet, manholes shall be placed at the BC or EC of the curve and on 300 foot maximum intervals along the curve. On curves with radii exceeding 400 feet, manholes shall be placed at the BC or EC of the curve and on 400 foot maximum intervals along the curve for pipes 24 inches and less in diameter and 500 foot maximum intervals along the curve for pipes greater than 24 inches in diameter. Curves with radii less than 200 feet will be handled on an individual basis. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "3. Spacing of manholes or inlets shall not exceed 500 feet for drains 24 inches and smaller in diameter and 600 feet for pipes greater than 24 inches in diameter, except under special approved conditions. The spacing of manholes shall be nearly equal wherever possible. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "4. All manholes or junction boxes, entry to which does not fall in the gutter line, must have standard 24 inch or larger diameter manhole covers. Those falling in the gutter line may use the standard grated drop inlet where the grate serves as an access for cleaning. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "B. Inlets ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Gutter inlets shall be in accordance with the types shown on Standard Drawings D.4 and D.5 or other approved special inlets. See State Standard Drawing D  \n72 for extended curb opening inlets.   \n2. Inlets shall be spaced so that gutter flow does not exceed a depth of 8 inches at the face of the curb for a 100-year storm.   \n3. Grates shall be adequate for State of California H-20 traffic loading. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "C. Junction Boxes ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "1. Junction boxes shall be constructed of Class \"A\" reinforced Portland cement concrete or fabricated from reinforced concrete pipe sections where size limitations permit. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "2. Minimum wall thickness for poured-in-place reinforced concrete junction boxes shall be 6 inches. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "3. The inside dimension of junction boxes shall be such as to provide a minimum of three inches clearance on the outside diameter of the largest outfall pipe. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "4. All manholes used as junction boxes shall have the City standard 24 inch or larger manhole cover. D. Reinforced Concrete Box Culverts, C.M.P. and Structural Plate Arch Culverts ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "1. All materials, designs, and construction shall conform to the requirements of the State Specifications and State Standard Drawings unless otherwise specified by the Director. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "E. Headwalls, Wingwalls, Endwalls, Trash Racks and Railings ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "1. All headwalls, wingwalls, and endwalls shall be of Class \"A\" reinforced portland cement concrete. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "2. All headwalls, wingwalls, and endwalls shall be considered individually and shall be, in general, designed in accordance with State Standards or as approved by the Director. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "3. Trash racks shall be provided where in the opinion of the Director they are necessary to prevent clogging of culverts and storm drains. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "4. On corrugated metal culvert drains, preformed metal end sections may be utilized with the approval of the Director. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "5. Metal plate beam barricade may be required by the Director at culverts, headwalls and box culverts and on steep side slopes. When so required, the barricade shall be installed in accordance with State Standards and Specifications and Standard B.12. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "F. Drainage Pumps ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "1. The use of drainage pumps shall be avoided whenever possible. They shall be used only with the approval of the Director. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "2. If the use of a drainage pump is approved, the drainage system shall be so designed as to provide for gravity outfall during summer months and periods of low water stages. If a low stage gravity outfall is impossible or impracticable, a pump of smaller capacity for low stage flow may be used provided approval is granted by the Director. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "3. Drainage pumps shall be equipped with standby equipment (engine driven pump, standby generator with auto transfer or bypass port and valve as approved by the Director). ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "4. When specified by the Director, the outfall shall be equipped with floodgates of an approved design. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "5. Pumping installations shall be so designed as to accommodate a design storm as specified by the Director. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "6. Each pumping installation shall receive separate approval, including all machinery, electrical system, piping system, housing installation and other miscellaneous design features. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "G. Sumps and Basins Definitions and Specifications: ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "1. Infiltration (Ponding) Basin - Any drainage facility that is used as a terminal disposal facility shall be classified as an infiltration system.   \n2. Underground storage chamber system – Engineered below ground facility that may be used as an alternative to an open infiltration basin.   \n3. Retarding Basin - Any drainage facility which is used to retard the flow and which has a downstream outlet shall be considered as a retarding basin.   \n4. If improvements exist on the lot, which is to be re-developed, no credit may be taken for the existing improvement runoff.   \n5. Maximum side slope for basin(s) and other features is 3:1.   \n6. Drainage runoff from new or existing impervious surfaces shall be directed to the new drainage retention facilities utilizing underground piping. Provide calculations to justify pipe sizes, slopes and inlet capacity.   \n7. Finish floors of new structures including the garage shall be at least 1- foot above the lowest top of curb fronting the development or the lowest drainage overflow. In the case of a lot, which does not drain to the street, all drainage shall be directed into new drainage facilities sized as previously stated. Overflow from these facilities may be directed to the natural existing overflow elevation on the lot. The overflow elevation must be at least 1-foot below the new finish floor elevations. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "8. Underground infiltration systems shall be encapsulated on all sides with an engineering filter fabric such as Mirifi 140N or approved equal. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "9. A silt and debris separator, similar in character to a small septic tank of approximately 300 gallons minimum size shall be utilized ahead of the inlet to the underground infiltration field. The separator shall have two compartments with access to each compartment for cleaning. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "10. The surface drainage inlet to an underground infiltration system shall be depressed below the adjacent grade in a manner so that if the system fails, a surface pool of water is formed on private property to warn the property owner that the system has failed. The elevation of the pool shall be such that overflow occurs at least one foot below finish floor. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "11. The underground infiltration system shall be outside the zone of influence from adjacent building footings as defined by a 30-degree angle between the bottom of the adjacent footing and the bottom of the adjacent infiltration field. In the event that the above separation cannot be achieved, a report from a licensed Geotechnical Engineer shall be supplied to justify the proposed locations. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "12. Underground drainage detention systems shall be designed to retain the amount of drainage described in item No. 1 (next). In the event that rock fill is used as part of an underground retention facility, the volume of the porosity in the rock fill may be utilized. In the absence of laboratory tests, $20\\%$ porosity shall be used. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Capacity Requirement Computation: ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "1. On occasions when the Director requires all runoff from a project to be ponded, the volume of the ponding basin shall be calculated as follows: 0.33 ft. x area x coefficient of runoff Examples: 6,000 square feet residential lot, $35\\%$ coverage: (0.33) (6,000 sq. ft.) $(0.35)=693$ cubic feet storage required. or, 10 acre development, $40\\%$ coverage: (0.33) (10 acres) $(0.40)=1.32\\$ acre feet storage required. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "In addition to the above criteria, ponding basins for subdivisions shall be designed so the design water surface is one foot below the lowest inlet gutter elevation. The basin shall also have at least one foot of freeboard. The inlet structure is to be designed to convey the 10-year flow without ponding and the 100-year flow without exceeding the top of curb. Ponding basins for individual residences may be configured so that the design capacity occurs at pond overflow. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Note: Use of pervious surfaces such as pervious paving is an acceptable way to reduce the impervious coverage used in runoff calculations. In that case, pervious paving and pervious base shall pass a minimum of 3.2 - inches per hour. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "2. Retarding Basin - Retarding basins require special design considerations. The Consultant is to have the design method approved by the Director prior to designing the facilities. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "3. Storage Chamber System – Runoff may be directed to an underground chamber system as an alternative to or in combination with an open ponding basin. Examples of this option are illustrated on City of Grover Beach Standard Drawing Detail Sheets D.11 to and including D.14 ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Fencing Requirements: ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "All constructed water retention facilities with side slopes greater than 5:1 within limits of urban areas shall be provided with a 6 foot chain link fence with concrete footings and vertical redwood slats as required by the Director. A 14 foot wide chain link drive gate shall be provided for access. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Right of Way: ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "1. The top of bank shall be located a minimum of 5 feet inside the right of way line or as dictated by setback requirements. If a fence is required it shall be located 4 inches inside the right of way line except where setbacks are required as a part of Planning Commission approval. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "2. Right of way required for drainage basins shall be deeded in fee to the agency or association maintaining the drainage basin. Reversionary clauses will not be permitted unless the structure is intended to be temporary. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Design - The standard basin design will not apply unless an analysis of soil borings below the invert show that the basin will completely drain within 7 days as determined by a test approved by the Director. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Zone Clearance - Zone clearance shall be obtained from the Community Development Department by the Developer for all drainage basins prior to approval of the plans by the Director. If a conditional permit is required, it shall be obtained prior to approval of the plans. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "All channel realignment, improvement and cross culverts shall be shown on the improvement plans and shall conform to the requirements of these Standards and Specifications. No diversion to roadside ditches will be allowed from natural courses. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "A. Open Channels ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "1. Realigned channels may be required to be lined to an elevation of at least 1.0 foot above the design waterline. The side slopes for realigned channels shall not exceed 2:1 on the lined portion and 3:1 on the unlined portion. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "2. For all intermediate or major channels, either realigned or natural, within an improvement, the following information shall be shown on improvement plans in addition to information heretofore required: ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "a. Typical sections b. Profile of the existing channel for a minimum of 500 feet each side of the development in order to establish an average profile grade through the development. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "B. Outfalls ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "1. Cross culvert design shall be determined on the basis of a 100-year storm with available head. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Waterways placed in closed conduit systems may be designed for full conduit capacity and pressure flow. The hydraulic entrance condition at a closed conduit waterway shall be such that the 100-year discharge will have the specified freeboard in the upstream channel or waterway. The entrance to the closed conduit minor waterway may be submerged provided that the above criteria are satisfied. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "2. Cross culvert profile shall be determined by the average profile of the channel for a minimum distance of 500 feet each side of the installation. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Backfilling operations shall conform to the following requirements: Material for use as structure backfill shall have a sand equivalent value of not less than 20. The percentage composition by weight as determined by laboratory sieves shall conform to the following grading: ",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/b1ef26506c1c38324be7c8b7b3948e037d7644d3d987e48e5be343ff7d05def8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Sieve Size</td><td>Percentage Passing Sieve</td></tr><tr><td>2-1/2\"</td><td>90-100</td></tr><tr><td>No.4</td><td>35-100</td></tr></table></body></html>\n\n",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Structure backfill shall not be placed until the structure footings or other portions of the structure or facility have been inspected by the Director and approved for backfilling. No backfill material shall be deposited against the back of concrete abutments, concrete retaining walls, or the outside walls of cast-in-place concrete culverts until the concrete has developed a strength of not less than 2,500 pounds per square inch in compression as determined by test cylinders cured under conditions similar to those prevailing at the site and tested as approved by the Director. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Backfill material shall be placed in horizontal, uniform layers not exceeding 0.67 foot (8\") in thickness, before compaction, and shall be brought up uniformly on all sides of the structure or facility. Each layer of backfill shall be compacted to a relative compaction of not less than $95\\%$ . Backfill outside the roadway prism shall have a sand equivalent of not less than 20 and shall be compacted to not less than $90\\%$ . It shall conform to the above grading limits. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "At the option of the Contractor, backfill material conforming to the requirements hereinafter specified may be used at the following locations: ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "1. Footings for slope protection, slope paving and aprons.   \n2. Headwalls and culvert wingwalls, except under any roadbed.   \n3. Retaining walls, except for portions under any roadbed. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "The backfill material at the above locations may consist of material from the excavation which is free from stones, or lumps exceeding 2-12 inches in greatest dimension, clay or adobe type material, vegetable matter or other unsatisfactory material, and shall be compacted to a relative compaction of not less than $90\\%$ . When the material from excavation is unsuitable for use as backfill, it shall be disposed of as directed by the Director, and suitable material approved by the Director shall be furnished by the Contractor for the backfill. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Compaction of structure backfill by jetting will be permitted, when the backfill material is of such character that it will be self-draining when compacted and that foundation material will not soften or be otherwise damaged by the applied water and no damage from hydrostatic pressure will result to the structure. When jetting is permitted, material for use as structure backfill shall be placed and compacted in layers not exceeding 2 feet in thickness. The work shall be performed without damage to the structure and embankment, and in such a manner that water will not be impounded. Jetting shall be supplemented by the use of other compaction equipment to obtain the required compaction. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "5.09 SPECIFICATIONS FOR MATERIAL AND CONSTRUCTION: ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "All drainage items shall be of the material and construction method as required in   \naccordance with the applicable portions of the State Specifications as herein noted,   \nspecified or modified. A. Reinforced Concrete Pipe - Shall conform to the specification of ASTM   \nDesignation C-76 Latest Revision. 1. Excavation width for pipe shall be outside diameter plus 12 inches   \nand, 1 inch below the outside diameter of the pipe in uniform material and 6 inches   \nbelow the outside of the pipe in rocky material. 2. Laying of reinforced concrete pipe: Section 65-1.07 of the State   \nSpecifications. 3. Jointing: Section 65-1.06 of the State Specifications. 4. Trench backfill: Section 6.17H of these Specifications. B. Plastic Pipe - Shall conform to Section 64 of the State Specifications. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "C. Corrugated Metal Pipe - Shall conform to the material and construction methods of Section 66 of the State Specifications. Attention is directed to the trench backfill requirements of Section 6.17H of these Specifications, except that pea gravel or other suitable gravel material may be utilized for bedding and backfill. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "D. Concrete Structures - Shall be in accordance with these Standards and Specifications and in addition they shall conform to the requirements of Section 51 of the State Specifications. Backfill shall conform to Section 5.08 of these Specifications. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "E. Reinforcement - Shall conform to the requirements of Section 52 of the State Specifications. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "F. Portland Cement Concrete - Shall be Class \"A\" or \"B\" as specified and conform to the requirements of Section 90 of the State Specifications. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "G. Gunite Lined Channels - Shall be placed as required by these Standards and Specifications, and shall be reinforced with #3 bar minimum and conform to Section 53, \"Shotcrete\" of the State Specifications and to the requirements as follows: ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "1. Channel Preparation - The channel shall be trimmed to the line and grade and cross section as shown on the plans within the following limitations: ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Allowable deviation from profile: 0.05 foot. Allowable deviation of slope and line: 0.15 foot in any 10 foot length section of channel. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Care shall be taken to prevent excavating below ditch grade line or beyond the slope lines. Any deviation in excess of the specified tolerance may not be backfilled with earth, but shall be corrected by the placement of additional gunite materials. The channel shall be clean, damp and free from any rubbish or trash or free flowing or standing water prior to initiating gunite operations. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "2. Placing of Material - Channel lining shall consist of a mixture of portland cement and sand, mixed dry, passed through a flexible hose, hydrated at the nozzle and deposited upon a dampened subgrade by air pressure. The final ditch lining shall not be less than 3 inches in thickness and shall conform to the dimensions shown on the plans. The pneumatic pressure at the gauge shall remain uniform at the following pressures: ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "a. For hose length up to 100 feet - 45 psi b. Where the length of hose exceeds 100 feet the pressure shall be increased 5 psi for each additional 50 feet of hose. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "3. Weep Holes - Shall be provided at intervals of 10 feet midway between contraction joints. The holes shall be backed by a minimum of 1 cubic foot of concrete aggregate tied in approved synthetic filter fabric to insure proper operation of the weep hole. The aggregate shall extend at least 1.5 feet above the weep hole. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "All weep holes shall be 2 inches in diameter and be placed at an elevation of 1 foot above the flow line of the channel. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "4. Curing - Shall be accomplished by the pigmented curing compound method as specified in Section 90- 7.01B of the State Specifications. Surface shall be kept moist or wet until the curing compound is applied. Curing compound shall not be applied to construction joints. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "5. Materials for Gunite Lining a. Portland cement shall conform to the requirements of Section 90 of the State Specifications. Sand shall be washed sand and shall be hard, dense, durable, clean and sharp and graded evenly from fine to course within the following limits: Sieve Size Percent Passing by Weight 3/8\" 100 No. 4 97-100 No. 8 70- 85 No. 16 60- 73 No. 30 36- 47 No. 50 10- 20 No. 100 0- 5 ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Sand shall be free from organic matter and shall contain not more than $5\\%$ weight of deleterious substances, and shall have a fineness modulus of between 2.70 and 3.30. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "c. The materials above shall be mixed in the proportions of 1 part Portland cement to $4\\%$ parts of sand, by volume. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "I. Concrete Lined Channels - Concrete lined channels shall be constructed of the materials and in accordance with Section 72-4 of the State Specifications. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Weep holes shall be provided at intervals of 10 feet midway between contraction joints. The holes shall be backed by a minimum of 1 cubic foot of concrete aggregate tied in approved synthetic filter fabric to insure proper operation of the weep hole. The aggregate shall extend at least 1.5 feet above the weep hole. All weep holes shall be 2 inches in diameter and be placed at an elevation 1 foot above the flow line of the channel. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "J. Grouted Rock Rip-Rap Channels - Shall conform to the materials and methods called for in State Specifications 72-5.01. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Weep hole pipe consisting of $2\\%$ inch diameter galvanized iron pipe shall be placed through the grouted rock rip rap along both sides of the channel approximately 1 foot above the channel invert. The holes shall be backed by a minimum of 1 cubic foot of concrete aggregate tied in approved synthetic filter fabric to insure proper operation of the weep hole. The aggregate shall extend at least 1.5 feet above the weep hole. Spacing of the weep holes shall be such as to provide complete drainage of the foundation and filter material and shall not exceed 10 feet. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "5.10 MISCELLANEOUS ITEMS: ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "A. Fencing ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "1. Chain link fence as required by the Director for drainage channel enclosure shall be chain link fence as specified in Section 80-4 of the State Specifications, with or without extension arms and barbed wire as specified. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "2. Chain link fence shall be of the materials and construction as specified in Section 80-4 of the State Specifications. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "3. Drive gates and walk gates shall be provided, complete with master keyed locks and keys, at such locations as specified by the Director for the purpose of maintenance vehicles and personnel. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "4. Attention is called to Section 5.03 of these Standards and Specifications for easement requirements of open channels. The fence, if required, shall be located 6 inches within the required easement lines and shall provide sufficient room for maintenance vehicles as set out or as specified by the Director. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "6.01 DESIGN STANDARDS: ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Sanitary sewer lines and appurtenances within City jurisdiction shall be constructed in accordance with the details shown on plans and specifications approved by the Director, and where such sewer system is to be operated and/or maintained by any special district, the plans and specifications and construction must also be approved by that special district. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "6.02 DESIGN FLOW: ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "An average flow of 100 gallons per person per day shall be used for design purposes with the peak flow double the average flow. Pipes shall be sized to handle peak flows with pipe flowing half full. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "6.03 GRADIENT: ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Sanitary sewer grades should be designed to provide a minimum velocity of two feet per second when flowing full. The following table indicates the slopes which will provide that velocity, and these shall be used as the minimum standard for design. Recognizing that occasionally it is difficult to maintain these grades, we have also listed the minimum acceptable slope. These shall be used only when topographic features preclude standard slopes. ",
+        "page_idx": 41
+    },
+    {
+        "type": "table",
+        "img_path": "images/90d5cea6160a18ed61ee49b20d7335cd7160865d752d1ac5a99dca0897fdff9e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"3\">Slope in Feet/Foot</td></tr><tr><td>Diameter</td><td>Recommended</td><td>Minimum Acceptable</td></tr><tr><td>6\"</td><td>.0050</td><td>.0035</td></tr><tr><td>8\"</td><td>.0035</td><td>.0025</td></tr><tr><td>10\"</td><td>.0025</td><td>.0015</td></tr><tr><td>12\"</td><td>.0020</td><td>.0012</td></tr><tr><td>15\"</td><td>.0015</td><td>.0008</td></tr><tr><td>18\"</td><td>.0012</td><td>.0006</td></tr><tr><td>House Service Line</td><td>.02</td><td>.01</td></tr></table></body></html>\n\n",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Sewers larger than 18 inches in diameter shall be designed to the approval of the Director. Wherever a change in the size of the pipe, or an angle in alignment occurs, the flowline of the pipe flowing into the manhole shall be a minimum of 0.16 foot above the flowline of the pipe flowing from the manhole, or an amount necessary to match the inside crowns of the pipe, whichever is greater. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Unless special provisions for erosion protection have been provided and approved by the Director, design velocities for sanitary sewers shall not exceed 10 feet per second. The maximum design discharge shall not exceed the flow at critical slope and velocity. Sanitary sewers should not be designed for flow conditions at critical slope and velocity. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "6.04 LOCATION AND ALIGNMENT: ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "A. Location - All sanitary sewers designed for the collection and transportation of domestic sewage and/or industrial wastes shall be constructed and installed within rights of way dedicated for public streets or roads unless such construction or installation is determined to be impractical by the Director. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "All-weather access at least 12 feet wide must be provided to all manholes for maintenance with truck-mounted equipment. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "The location of the sanitary sewers installed in any street or road shall normally be 6 feet southerly or easterly of the centerline of the street. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "No sanitary sewer, including house service lines, shall be located within 50 feet of a water well. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Sewer lines shall be installed in accordance with Standard Drawings B.9 and B.10 where possible. See Standard Drawing S.7 and paragraph C for special construction requirements when sewer lines are to be placed in close proximity with water lines. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Where two or more lines enter a manhole, sufficient elevation difference shall be provided in the trough elevations, whenever possible, to prevent the smaller of the lines from being surcharged by the larger line(s) under normal operating conditions. The top of the smaller pipe shall be no lower than the top of the larger pipe(s). ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "The location and installation requirements for any sanitary sewer to be installed in an existing street or road shall be obtained from the Director prior to submission of the plans. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Location of sewer lines in easements shall be kept to a minimum. Whenever possible, sewers shall be placed in the public roadway. Where sewer lines are located within an easement, the easement shall conform to the following: ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "1. Be dedicated on the record map. 2. Be dedicated to and accepted by the City of Grover Beach by an Official Record and Resolution. 3. The minimum width of any easement for sanitary sewer purposes shall be 10 feet or twice the depth of the sewer. In cases of difficult terrain or sewer line deeper than 5 feet, the required easement width shall be increased. All easements shall include right of ingress and egress over adjoining property for maintenance, replacement and operation. B. Alignment - Sewerage systems shall be designed so as to have a minimum horizontal curvature. No vertical curvature will be allowed. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Whenever possible sewer lines shall be laid out in a straight line between structures. Curved sewer lines may be allowed under the following conditions: ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "1. All curve data shall be shown on the plans and the sewer is concentric with street centerline. 2. Minimum radius of curvature and joint deflections shall be as recommended by the pipe manufacturer and approved by the Engineer. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Whenever it is essential that curved alignment be used, a radius of not less than 200 feet shall be required, but shall be greater whenever possible. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "C. Special Construction in Areas of Conflict Between Water and Sewer Lines - In the interest of public health and to minimize the possibility of contamination of the public water supply, the following special construction requirements shall be met at any time that the separation between water and sewer lines is less than that described. These requirements apply to construction of a water main, sewer main, sewer lateral, or any other type construction causing the separation to be less than that indicated. All special construction required herein is to be discussed thoroughly with the Director prior to starting any work and is subject to the Director's approval. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "If a sewer main or sewer house lateral crosses below a water main and is within Zone A (as shown on Standard Drawing S.7), the sewer line is to be constructed of or replaced by a single piece of SDR 35 pipe. The single piece of pipe shall be centered over the water main. The length to be replaced shall be as necessary to provide plastic pipe for the sewer main or sewer lateral with no joints within the critical zone. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "If a sewer main or sewer house lateral crosses above a water main and is within a critical zone (as shown on Standard Drawing S.7), the sewer main is to be constructed of or replaced by a single piece of DR 14, C-900 pipe. The length to be replaced shall be as necessary to provide unjointed plastic pipe for the sewer main that is within the critical zone. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "6.05 DEPTH AND SIZE: ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "A. Depth - The normal design depth of a sanitary sewer system shall be such as to obtain a cover of 36 inches for the house service lateral at the property line or 54 inches of cover in the street whichever is deeper. Under certain topographic conditions lesser depths may be allowed by the Director. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "B. Size - The normal minimum sewer main size shall be 8 inches inside diameter. Six (6) inch diameter lines may be used on certain short lines where no possibility of line extensions exists, subject to the Director's approval. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "6.06 MANHOLES: ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Normal maximum spacing for manholes shall be 400 feet. Where the locations of two manholes are determined by intersecting lines, the distance between intervening manholes shall be approximately equal. A sewer on a curved alignment with a radius of less than 400 feet shall have manholes spaced at a maximum of 300 feet, or adjusted to fit the individual case. Upstream ends of sewer mains shall terminate at manholes. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "The maximum spacing of manholes on trunk sewer lines shall be as follows: ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "12\" to 24\" diameter 500 feet   \n27\" to 36\" diameter 600 feet ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "The spacing of manholes on trunk sewer lines larger than 36 inches in diameter shall be determined for each individual case. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Drop Manholes - Whenever the vertical distance between the inverts of sewer lines coming into a manhole exceeds 15 inches, a standard drop manhole shall be constructed. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "6.07 CLEANOUTS: ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "A cleanout may be used in lieu of a manhole for any stub line with a length of 200 feet or less. Any line more than 200 feet in length shall have a manhole at the end. Lateral sewers installed to a subdivision line for future extension shall have a cleanout at the end, if there are any house service lines attached to it, and if it is not over 200 feet in length. Lines longer than 200 feet shall terminate in a manhole with a stub for future extension. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "6.08 HOUSE SERVICE LINES:",
+        "text_level": 1,
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "In all new subdivision work, the house service lines from the sewer to the property line shall be installed at the time the sewer is constructed. Each house service line shall be referenced to the plan stationing. Minimum size of any sanitary lateral or side sewer to serve individual residences, commercial structures, etc., shall be nominal 4 inches inside diameter. Actual size of laterals larger than 4 inches shall be determined by fixture unit requirements as per the current edition of the Uniform Plumbing Code. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "6.09 SEWAGE LIFT STATIONS, FORCE MAINS AND TREATMENT PLANTS: ",
+        "text_level": 1,
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "All special structures such as treatment plants shall meet all requirements of the State Regional Water Quality Control Board, State and County Health Departments and the Director. Special structures and situations, such as pump stations, pressure lines and sags, etc., shall require special considerations and approval by the Director. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Whenever the design of a sanitary sewerage system includes the necessity of a sewage lift station and a force main the following data shall be submitted for tentative approval before plans are submitted: ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "A. Sewage Lift Station - Minimum distance from a lift station to any residence shall be 50 feet except with advance approval of the Director for the specific case. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "No lift station shall be constructed with bypasses which will bypass any effluent into any stream or water course. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "The design shall include computations for the pumps, the type of pump to be used, and a plot plan showing the dimensions of the site and its location with respect to homes or other structures. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "An air injection system shall be included in the design. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "An alarm system, which meets the approval of the Director, shall be provided on all sewage lift stations. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "B. Force Mains - The size and type of pipe to be used and a tentative alignment shall be submitted. Design shall include fatigue life analysis if PVC pipe is used. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "6.10 KIND OF PIPE: ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "All sanitary sewer lines shall be SDR 35 PVC, or as approved by the Director. 6.11 MATERIALS: ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "A. General - All material that is to become a permanent part of any sanitary sewer or appurtenant structure, shall conform to the requirements for the particular material as set forth in these specifications. The Contractor shall supply any and all certificates of compliance, certified test results or shall perform tests as required to assure the Director that the material being incorporated into the work has met the requirements as specified. Approval of the Director shall be required for use of material not listed in these standards. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "B. Pipe & Pipe Joining Material - All pipe or conduits shall be of the size, material and strength as shown on the plans. All pipefittings shall be marked or stamped with the trade brand name of the manufacturer and strength or class of pipe. All pipe shall be designed to withstand all internal or external loads applied. Supporting strength of conduits as installed to safely carry imposed gravity loads and superimposed loads (including a suitable factor of safety) shall be determined by use of the Marston formula. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "6.12 PLASTIC PIPE: ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Plastic pipe and fittings shall be new, first quality pipe and shall comply with the specifications for ASTM D3034-SDR 35. Plastic pipe joints shall comply with ASTM Designation B3212. The only allowable variation from the above recommended practices will be as definitely specified in other sections of these standards or by written approval of the Director. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "6.13 DUCTILE IRON PIPE: ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "All ductile iron pipe and fittings for sewers shall be at least thickness Class 50 water main pipe with a heat cured epoxy lining and conform to AWWA standards. Joints shall be approved type mechanical joints. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "6.14 ASBESTOS-CEMENT PIPE: ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Asbestos Cement Pipe will not be allowed. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "6.15 FORCE MAIN PIPE: ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Pipe used in the construction of force mains and in critical zones per S.7 shall be either ductile iron or AWWA C900 PVC. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "6.16 CASTINGS: ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "All castings for manhole rings and covers, cleanout frames and covers, or other purposes, shall be cast iron meeting the requirements of Specifications ASTM Designation A48, Class 25. The quality shall be such that a blow from a hammer will produce an indentation on a rectangular edge of the castings, without flaking the metal. Before leaving the foundry, all castings shall be thoroughly cleaned. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "6.17 INSTALLATION OF SEWERS: ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "A. Lines and Grades - All lines and grades will be given by the Consultant. The Director shall be informed 24 hours in advance of the times and places at which work is to be done in order that lines and grades may be inspected and necessary measurements made with a minimum of inconvenience and delay. All stakes and marks once given shall be fully protected and preserved. Flow line elevations shall be established at all changes in grade and at 50 foot intervals. B. Trench Widths - The maximum width of trench measured at the top of pipe shall be governed in all cases by the size of the pipe to be installed therein. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "The following table showing relationship between pipe size and width of trench shall be strictly adhered to and any deviation therefrom must first be approved in writing by the Director. ",
+        "page_idx": 48
+    },
+    {
+        "type": "table",
+        "img_path": "images/577f53c499b92e1b3bbac3dfbb608ed6e41a1aaaf3ee632163adee7d153fdd2c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Nominal Size of Pipe</td><td>Width of Trench</td></tr><tr><td>4 inch</td><td>20 inches</td></tr><tr><td>6 inch</td><td>24 inches</td></tr><tr><td>8 inch</td><td>24 inches</td></tr><tr><td>10 inch</td><td>27 inches</td></tr><tr><td>12 inch</td><td>29 inches</td></tr><tr><td>15 inch</td><td>33 inches</td></tr><tr><td>18 inch</td><td>38 inches</td></tr><tr><td>21 inch</td><td>42 inches</td></tr><tr><td>24 inch</td><td>46 inches</td></tr></table></body></html>\n\n",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "For pipe larger than 24 inches in diameter, the trench width shall not exceed the outside diameter of the pipe plus 16 inches. The sides of the trench shall be as nearly vertical as possible in the material through which it is passing. If the width of the trench at the ground surface becomes excessive, the Director may require solid sheeting and bracing. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "C. Excavation for Sewers - Unless otherwise specified, the excavation for sewer pipe shall be an open trench, excavated to 3 inches below the outside diameter of the bell. This undercutting shall be refilled with suitable bedding material as specified in the section on pipe bedding, thoroughly compacted into place. Where the trench is in granular or sandy material, the pipe may be bedded in the native material in lieu of importing bedding material providing it complies with the specification for bedding material. The Director shall determine the suitability of the native material. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "When the trench is in an existing paved area the pavement shall be sawed ahead of the trenching operations. The proper tools and equipment shall be used in marking and breaking so that the pavement will be cut accurately on neat and parallel lines at the width required for the trench, except that when in the opinion of the Director the remaining paving has been damaged, an additional 12 inches shall be cut from each side to the approval of the Director. Existing pavement shall be sawed to a neat line 6 inches wider on each side than the trench width. Whenever the bottom of the trench is soft, yielding, or unsuitable as a foundation for the pipe, or a wye is being cut into an existing sewer main, 8\" clean pea gravel shall be rammed into the soft material until, in the opinion of the Director, a suitable condition is achieved. If such treatment does not provide a proper foundation, the unsuitable material shall be removed to a depth determined by the Director such that replacement with bedding material will provide a stable foundation. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "When water is encountered, the trench shall be kept de-watered until laying and joining of the pipe and placing of the bedding material has been completed, inspected, and approved. The Contractor shall place not less than 6 inches of $2^{1/2^{\\mathfrak{n}}}$ maximum size rock below the required bedding material or otherwise de-water the trench in a manner which has not received prior approval of the Director. Ground water pumped from the trench shall be disposed of in such a manner as will not cause or be a menace to the public. The manner employed to dispose of water pumped from an excavation shall be subject to the approval of the Director. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "D. Bracing and Shoring - As required by the California Department of Occupational Safety and Health, CAL-OSHA, sufficient bracing and shoring shall be installed in trenches to insure the safety of workmen, and to protect and facilitate the work. Where practicable all such bracing and shoring shall be removed from the trench as the backfilling proceeds. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "E. Tunneling - Tunneling shall not be permitted unless approved by the Director. F. Laying Sewer Pipe - The pipe shall be laid in conformity to the prescribed line and grade and each pipe length checked to the grade lines. Three consecutive points shown on the same rate of slope shall be used in common in order to detect any variation from a straight grade. In case any such discrepancy exists, the work shall be stopped and the discrepancy immediately reported to the Director. In addition, a string line shall be used in the bottom of the trench to insure proper alignment and grade. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Pipe shall be laid continuously upgrade with the bell of the pipe forward. Each length of pipe shall be laid on a firm bed and shall have a true bearing for the entire length. No wedging or blocking up of the pipe will be permitted. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Both bell and spigot shall be clean before the joint is made, and care shall be taken that nothing but the joint-making material enters the joints. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "When, for any reason, pipe laying is discontinued for an hour or more, the open end of each line shall be closed with a water-tight stopper. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The Contractor's attention is called to the required use of short lengths of sewer pipe to provide curves, flexibility, and prevent cracking or shearing failures. The use of short lengths of pipe is particularly required but not necessarily limited to these locations: (1) inlets and outlets to all manholes and (2) horizontal curvilinear sewers. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "G. Pipe to be Placed by Boring or Jacking - The work contemplated under this heading consists of placing ductile iron pipe or other pipe of approved material, in a conductor pipe, under a paved roadway, street, or railroad to a true line and grade as shown on the plans, by means of boring or jacking operations. The equipment and method of operation shall be approved by the Director before proceeding with the work. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The excavation for the boring operation shall be kept to a minimum, but shall be of sufficient dimensions to satisfactorily complete the work. If so required, bracing and shoring shall be provided to adequately protect the workmen and the roadway or railroad. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The conductor pipe shall be placed closely behind and in conjunction with the boring operation. The bored hole shall not be more than two inches in diameter larger than the conductor pipe. Guide rails shall be accurately set to line and grade so as to achieve close adherence to the line and grade shown on the plans. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The pipe to be placed inside the conductor pipe shall have non-rigid joints and shall be installed by the use of suitable centering devices. Sand/slurry water shall then be pumped into the conductor pipe to completely fill the angular space around the pipe for its full length. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "H. Trench Backfill ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "1. Bedding material, approved by the Director and meeting the minimum standards listed below, shall be deposited and compacted to $90\\%$ relative compaction in the trench uniformly on both sides of the pipe for the full width of the trench and to a depth of 6 inches over the top of the pipe. ",
+        "page_idx": 51
+    },
+    {
+        "type": "table",
+        "img_path": "images/7cdc02b994cf17fb921bf5067ed0997ab9b11a2f8a29aeeec5f6f5bcd9427025.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Sand Equivalent</td><td>30</td></tr><tr><td>Sieve Size</td><td>Percentage Passing Sieve</td></tr><tr><td>1\"</td><td>100</td></tr><tr><td>No. 4</td><td>80-100</td></tr><tr><td>No.200</td><td>0-15</td></tr></table></body></html>\n\n",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "The sand equivalent of 30 for bedding shall also be required outside of the roadway prism. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "2. The balance of the backfill shall contain no rocks, stones or boulders in excess of 4 inches in its greatest dimension, and shall be free from all deleterious matter. It shall be compacted to a relative compaction of $95\\%$ to the finish grade. Ponding or puddling will be permitted only at the express permission of the Director. The backfill under and around any and all pipes shall be thoroughly consolidated before any additional material is placed. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "3. Compaction methods must be carried out so no damage or displacement of the pipe results. 4. Any trenches improperly backfilled, or where settlement occurs, shall be reopened to the depth required for proper compaction then refilled and compacted with the surface restored to the required grade and compacted and smoothed off. 5. All waste material shall be disposed of outside of the City right of way or as approved by the Director. I. Trench Jetting - If this method of placing trench backfill is permitted by the Director, backfill material shall be water soaked with suitable pipe jets approved by the Director. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "All \"bridges\" in the backfill material shall be completely broken down during the jetting process. No jetting operations will be allowed that will, in the opinion of the Director, jeopardize in any manner the stability of the sewer line in the trench. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Jetting operations done any time except during regular working hours shall have prior approval of the Director. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "J. Manholes - Manholes shall be watertight structures constructed by placing precast concrete sections on a poured concrete base. Poured-in-place manholes shall not be used unless specifically approved by the Director. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "1. Temporary covers of steel plate of sufficient size and thickness to adequately cover the opening shall be placed on the cone until the pavement is completed. Suitable locating ribs shall be welded to the underside of the cover to hold it in place during the grading and paving operations. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "2. When adjusting an existing manhole to grade, and the total depth of the throat from the top of the frame to the bottom of the throat exceeds 18 inches, the upper portion of the manhole shall be removed to the first full-size manhole section. The upper portion shall then be reconstructed as outlined above. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "3. Manholes shall be tested for water tight integrity, either jointly with testing of sewer line or as separate units, in accordance with Section 6.17M, Testing Sewer Lines of these Standards and Specifications. The allowable leakage for one manhole shall not exceed 1 gallon during a 2-hour test period. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "K. House Service Lateral - House service laterals shall be constructed as shown on the standard drawings. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "If it becomes necessary to locate a house service lateral less than 50 feet from a well, it shall be constructed of C900, PVC Class 150. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Whenever house service laterals are to be installed as part of the contract for the construction of the main sewer, the use of saddles will not be permitted. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "That portion of any house service lateral to be placed under an existing curb and gutter shall be done by tunneling. Cutting of the existing curb and gutter will not be permitted. Existing sidewalk shall be neatly cut and replaced. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "All house service laterals shall be considered as part of the lateral sewers for the purpose of the hydrostatic test as set forth in Section 6.17M of these Standards and Specifications. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "The location of house service laterals shall be permanently indicated by embedding the letter \"S\" in the curb directly above the line. In new subdivisions when the house service laterals are installed before the curb is constructed, it shall be the sewer Contractor's responsibility to place the \"S\" in the curb after it is poured. When house service laterals are constructed in existing easements or streets where curbing does not exist, a 2\" x 2\" x 36\" construction grade redwood stake shall be driven in the ground to within 2 inches of the surface directly above the service line at the property line and a \"S\" stamped in the top. Every house service lateral shall be so marked before final acceptance will be given on any job. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "L. Connection to Existing Manholes - Connections to existing manholes shall be made by carefully coring an opening in the wall of the manhole, inserting the end of the pipe through the opening flush with the inside wall, and packing the opening around the pipe with a stiff mix of cement mortar, thoroughly compacted to form a watertight connection. A rubber ring water stop shall be used. The mortar shall be trowelled smooth and flush with the interior surface of the manhole. Channelizing of the flow through the manhole shall conform to the details shown on the standard drawings for new manholes. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "The Contractor shall notify the Director 24 hours in advance before any connection is made to existing structures. The Contractor shall schedule the work so that interruption of flow is held to a minimum. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "M. Testing of Sewer Lines - Prior to final approval, all sewer lines shall be tested for leakage by standard hydrostatic or low pressure air test. In addition, sewers shall be T.V. inspected with equipment which produces a color VHS tape with on-screen distance readout of 0.1 foot increments. All sags greater than $1/_{2}$ inch or other visible defects shall be repaired. After T.V. inspection the sewer shall be gauged with a mandrel of $92.5\\%$ diameter. Sewers deflected more than $7.5\\%$ shall be repaired to less than $7.5\\%$ deflection. Air test shall be made after T.V. and mandrel tests. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "$7.5\\%$ DEFLECTION MANDREL DIMENSIONS FOR SDR 35 SEWER PIPE ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/5850c6f5586e8f8fc8901536bab787b92112739377991309bce338fb30de51c6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Nominal</td><td>Sewer Inside</td><td>7.5% Deflection</td></tr><tr><td>Size. In.</td><td>Diameter, In.</td><td>Mandrel Diameter</td></tr><tr><td>4</td><td>3.869</td><td>3.58</td></tr><tr><td>6</td><td>5.742</td><td>5.31</td></tr><tr><td>8</td><td>7.665</td><td>7.09</td></tr><tr><td>10</td><td>9.563</td><td>8.84</td></tr><tr><td>12</td><td>11.361</td><td>10.51</td></tr><tr><td>15</td><td>13.898</td><td>12.86</td></tr><tr><td>18</td><td>16.976</td><td>15.70</td></tr></table></body></html>\n\n",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "N. Air Test Procedure - Each section of sanitary sewer between two successive manholes shall be tested by plugging all pipe outlets with suitable test plugs. Air shall be slowly added until the internal pressure is raised to 4.0 pounds per square inch gauge (psig). The compressor used to add air to the pipe shall have a blow-off valve set at 5 psig to assure that at no time the internal pressure in the pipe exceeds 5 psig. The internal pressure of 4 psig shall be maintained for at least 2 minutes to allow the air temperature to stabilize after which the air supply shall be disconnected and the pressure allowed to decrease to 3.5 psig. The time in minutes that is required for the internal air pressure to drop from 3.5 psig to 3.0 psig shall be measured and the results compared with the values tabulated below. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "SPECIFICATION TIME REQUIRED FOR A 0.5 PSIG PRESSURE DROPFOR SIZE AND LENGTH OF PIPE INDICATE",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "table",
+        "img_path": "images/a17afe648f6ecd2a307dbaddac8665855c60cc68582721492dcc7c691bb580fa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>1</td><td>2 Min.</td><td>3 Length for Min.</td><td>4 Time for Longer</td><td colspan=\"7\">Specified Minimum For Length (L) Shown (min:sec)</td></tr><tr><td>Pipe Dia. (in.)</td><td>Time (Min: sec)</td><td>Time (ft)</td><td>Length (sec)</td><td>100 ft.</td><td>150 ft.</td><td>200 ft. 250 ft.</td><td>300 ft.</td><td>350 ft.</td><td>400ft.</td><td>450 ft.</td></tr><tr><td>4</td><td>1:53</td><td>597</td><td>.190 L</td><td>1:53</td><td>1:53</td><td>1:53 1:53</td><td>1:53</td><td>1:53</td><td>1:53</td><td>1:53</td></tr><tr><td>6</td><td>2:50</td><td>398</td><td>.427 L</td><td>2:50</td><td>2:50</td><td>2:50 2:50</td><td>2:50</td><td>2:50</td><td>2:51</td><td>3:12</td></tr><tr><td>8</td><td>3:47</td><td>298</td><td>.760 L</td><td>3:47</td><td>3:47</td><td>3:47</td><td>3:47 3:48</td><td>4:26</td><td>5:04</td><td>5:42</td></tr><tr><td>10</td><td>4:43</td><td>239</td><td>1.187 L</td><td>4:43</td><td>4:43</td><td>4:43</td><td>4:57</td><td>5:56 6:55</td><td>7:54</td><td>8:54</td></tr><tr><td>12</td><td>5:40</td><td>199</td><td>1.709 L</td><td>5:40</td><td>5:40</td><td>5:42</td><td>7:08</td><td>8:33 9:58</td><td>11:24</td><td>12:50</td></tr><tr><td>15</td><td>7:05</td><td>159</td><td>2.671 L</td><td>7:05</td><td>7:05</td><td>8:54</td><td>11:08 13:21</td><td>15:35</td><td>17:48</td><td>20:02</td></tr><tr><td>18</td><td>8:30</td><td>133</td><td>3.846 L</td><td>8:30</td><td>9:37</td><td>12:49</td><td>16:01 19:14</td><td>22:26</td><td>25:38</td><td>28:51</td></tr></table></body></html>\n\n",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "If the pressure drop from 3.5 psig to 3.0 psig occurs in less time than the above tabulated or calculated values, the pipe shall be repaired and, if necessary, replaced, re-laid and retested including T.V., mandrel and air tests, at the Contractor's expense until the joints and pipe shall hold satisfactorily under this test. The Contractor shall furnish all labor, air test equipment, and all other materials for making the required tests at Contractor's own expense. After the sewer lines have been properly backfilled to a depth where additional backfilling will not disturb the position of the pipe, all sections shall be tested. In no case shall the required minimum backfill be less than 4 feet above the top of the pipe before subjecting the line to the test. The Contractor shall supply all equipment, labor, material and perform all tests as required prior to final approval. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "2. Hydrostatic Test Procedure (Alternate to Air Testing) - A section of sewer line shall be prepared for testing by plugging the upper side of the downstream manhole and all openings in the upstream manhole except the downstream opening. Where grades are slight, two or more sections between manholes may be tested at once. Where grades are steep, and excessive test heads would result by testing from one manhole to another, test tees the full size of the main shall be installed at intermediate points so the maximum head on any section under test will not exceed 12 feet. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The section of sewer line prepared as above shall be tested by filling with water to an elevation 5 feet above the top of pipe at the upstream end of the test section, or 5 feet above the existing ground water elevation, whichever is greater. The water should be introduced into the test section four hours in advance of the official test period to allow the pipe and joint material to become saturated. The pipe shall then be refilled to the original water level. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "At the beginning of the test, the elevation of the water in the upper manhole shall be carefully measured from a point on the manhole rim. After a period of 4 hours (or less, with the approval of the Director) the water elevation shall be measured from the same point on the manhole rim and the loss of water during the test period calculated. If this calculation is difficult, enough water shall be measured into the upper manhole to restore the water to the level existing at the beginning of the test, and the amount added taken as the total leakage. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "Should an initial test show excess leakage in a section of line, it is permissible to draw the water off and test the manholes that contained water. This test shall be made by plugging all the openings in the manholes and filling with water to the same elevation as existed during the test. The leakage from the manhole may be deducted from the total leakage of the test section in arriving at the test leakage. After the testing is complete, the manhole shall be waterproofed by grouting. Other approved water-proofing methods may be used if satisfactory to the Director. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The allowable leakage in the test section shall not exceed 1.6 gallons per 100 feet, per 4 hour test, per inch diameter of pipe tested at the 5 foot test head. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "If it is necessary or desirable to increase the test head above 5 feet, the allowable leakage will be increased at the rate of 0.25 gallons for each foot of increase in head. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Test sections showing leakage in excess of that allowed shall be repaired or reconstructed as necessary to reduce the leakage to that specified above. The line shall then be retested after a minimum period of 24 hours during which no additional water shall be introduced into the line. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "3. Force Mains - Each section of pipe to be tested shall be slowly filled with water and all air expelled from the pipe. After the pipe has been filled, it shall be allowed to set for a period of not less than 24 hours. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "The pipe shall then be refilled to the original water level and subjected to a pressure of not less than 100 pounds per square inch or the service pressure plus 50 pounds, whichever is greater, for a period of 2 hours. All exposed joints, bends, angles, and fittings shall be closely examined during the test any part of the line which proves to be defective shall be replaced and the line retested. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "The allowable leakage shall not exceed 0.32 gallons per 4 hour test per 100 feet of pipe per inch of nominal diameter. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "O. Cleaning - Prior to the acceptance of any sewer line by the City, the Contractor shall clean all lines with a Wayne-type sewer cleaning ball under hydrostatic pressure. Any stoppage, dirt or foreign matter shall be removed from the lines. All materials and debris removed shall be collected and vacuumed out of the system at a manhole selected by the Director and no debris shall be washed or otherwise deposited into the City's system. All cleaning and testing of sewer lines shall take place after all construction work is completed, up to but not including the final paving. The system will be inspected after final paving is completed and any damage to the system during final paving and cleanup shall be corrected before approval. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "P. Placement of Road Surfaces and Replacement - Paving replacement shall not proceed until the full requirements of Paragraphs 6.17A through 6.17N have been met to the satisfaction of the Director, but in no less than ten (10) days after backfill has been completed. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "1. The replacement of roadway structural section over all cuts in existing bituminous pavement shall be made in accordance with the standard drawing for backfill requirements for water or sewer lines. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Alternate structural sections may be proposed for approval by the Director providing the design is performed by a licensed civil engineer and is done in accordance with good engineering practice. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Until the permanent pavement is placed, the material at the surface of the trench shall be maintained at all times at a grade level with the street, suitable for the safe passage of traffic. When ready for repairing, the upper portion of the trench shall be excavated to a depth sufficient for installation of the required structural section. Aggregate base shall be placed, compacted and graded. Edges of the existing asphalt concrete shall be trimmed to provide a neat and straight vertical joint. The joint face shall then be cleaned and tacked with asphaltic emulsion. Type B asphalt concrete shall be placed in accordance with Section 39 of the Standard Specifications. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "2. Where portland cement pavement is removed, the compacted backfill shall be made to within 12 inches of the original surface and 6 inches of aggregate base added having a relative compaction of $95\\%$ . The pavement shall be 6 inches of Class \"B\" concrete (containing five sacks of cement per cubic yard). The finished surface of the concrete shall be given a finish treatment with a wood float and then broomed to cause a slight groove in the surface at right angles to the direction of traffic. The pavement shall not be opened to traffic until seven days after the concrete was placed. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "3. Where the sewer trench follows the edge of pavement or is placed in an existing shoulder, the top 6 inches of the backfill shall consist of thoroughly compacted aggregate base. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Shoulders having a greater depth of base material than 6 inches shall be replaced with a thickness at least equal to that removed, and the approval of the Director as to the exact type of replacement in such cases is required. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "The finished replacement shall be rolled and finished to make the best possible connection to the existing pavement or shoulder, and then liquid asphalt SC-250 shall be applied at the rate of one-half gallon per square yard. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "4. Any exceptions to the above shall be indicated on the plans, except that replacements of heavier pavements shall be of a thickness at least equal to that removed, with the approval of the Director. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "5. The replacement of all pavement and shoulder surfaces as designated above shall be in conformance with \"Section 4 -- Roads and Streets\" of these Standards and Specifications as to materials and methods of construction. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Q. Temporary Pavement - In any case where a trench is cut across a main thoroughfare, or if noted on the drawings, or required by the Director a temporary asphalt plant-mix-cutback surface shall be placed immediately after backfill has been completed and removed just prior to placing the permanent surfacing material. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "R. Clean Up - During the progress of the work, the Contractor shall keep the entire job site in a clean and orderly condition. Excess or unsuitable backfill material, broken pipe, or other waste material shall be removed from the job site. Spillage resulting from hauling operations along or across existing streets or roads shall be removed immediately by the Contractor. All gutters and roadside ditches shall be kept clean and free from obstructions. Any deviation from this practice shall have prior approval from the Director. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Before final acceptance of the work, the Contractor shall carefully clean up the work and premises, remove all temporary structures used in construction, remove all surplus construction materials and rubbish of all kinds from the grounds which have been occupied and leave them in a neat condition. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "7.01 WATER SUPPLY: GENERAL ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Water mains connecting existing publicly regulated water distribution systems shall be installed to serve each lot. Installation of water mains and all appurtenances thereto will be installed to grades, location, design and sizes approved by the Director. 7.02 QUANTITY OF WATER: ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "The quantity of water delivered to the distribution system from all sources must be sufficient to supply adequately, dependably and safely the total requirements of all customers (including fire hydrants) under maximum consumption. Minimum fire flow for new residential development shall be 1000 gpm with 20 psi residual pressure, while at the same time delivering peak domestic flows. Minimum fire flow for commercial development shall be in accordance with the latest adopted Uniform Fire Code. The distribution system must be capable of adequately delivering this water supply to all the customers. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "7.03 DISTRIBUTION SYSTEM: ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "The distribution system, wherever possible, shall be in grid form so that pressures throughout the system tend to become equalized under varying rates and locations of drafts. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "A. Layout of Mains - In general, the minimum size pipe shall be not less than 6 inches inside diameter for a cul-de-sac and 8 inches inside diameter for grid lines. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "All dead end mains shall be provided with a standard blow-off or other acceptable means of flushing. Dual mains (one pipeline on each side of the street) shall be installed in streets which carry heavy concentrations of traffic or the rights of way of which are 84 feet or more in width (if required by the Director). In those streets classified for dual mains, the minimum size shall be 8 inches on each side. The distribution system shall be grid-ironed with 8 inch or larger cross-connecting mains, with intermediate lines as required. Larger mains shall be provided to serve multiple housing, commercial or industrial areas as determined by an engineering evaluation of the anticipated demand. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "B. The distribution system shall be equipped with a sufficient number of valves, so that no single shut down will result in shutting down a transmission main or necessitate the removal from service of a length of pipe greater than 500 feet. Fire hydrants shall be placed as directed by the Director and the Fire Chief. The pipeline connecting the hydrant and the mains shall be 6 inch, with a gate valve installed at the main as shown on the standard drawings. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "C. Service lines from the water main to the property line shall normally be installed at the time the main is constructed to avoid frequent cutting of the street. Single and double service lines shall be 1 inch in inside diameter. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "D. Air and vacuum release valves shall be installed in the water system at all points where it is indicated that air pockets may form. The design shall be such as to insure the release of air automatically from the water main. These valves may also insure the entrance of air into the water main when the pressure inside the line is below atmospheric pressure. All valves shall be designed for a minimum of 150 PSI operating pressure. The inlet to each valve shall be provided with a gate valve or corporation stop to provide a positive closure between the main pipeline and the air and vacuum release valve, and the air and vacuum release vent outlet shall be installed above ground in such a manner as to preclude back-flow. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "E. Tracer Wire, No. 12 THWN-THHW, shall be placed in the trench with all non-metallic pipe. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "For mains, the wire shall be continuous between valve boxes and shall extend to the top of each valve box on the outside of the riser pipe. End of wire shall be looped, 6 inch minimum, over edge of riser pipe. Where there are no valve boxes and the water main extends to the surface, the tracer wire shall extend to 12 inches above the finished surface with the piping and be secured with stainless steel band to the pipe. In the case of a blow off, the wire shall be brought into the blowoff riser box and end in a coil, 12 inches minimum. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "For air-vac lines, the wire shall be tied to the wire installed with the main. The end in the valve box shall be coiled, 12 inches minimum, and ties to the valve. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Wire shall be terminated as directed where the above is not applicable. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "F. Ductile-Iron Pipe and Fittings shall be cement-lined and thickness Class 50 and shall conform to the provisions of the latest revised Standards of ANSI/AWWA C104/A21.4, ANSI/AWWA C110/A21.10, ANSI/AWWA C111/A21.11, ANSI/AWWA C115/A21.15, ANSI/AWWA C151/A21.51 and ANSI/AWWA C153/A21.53, all as applicable. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Compact ductile-iron fittings per ANSI/AWWA C153/A21.53 may be used only when noted on the plans or approved by the Director. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Joints shall be flanged, mechanical or push-on and shall be as shown on the plans unless otherwise approved by the Director. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "When installed underground, ductile-iron pipe and fittings shall be encased in polyethylene per the latest revised Standard of ANSI/AWWA C105/A21.5. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "G. Polyvinyl Chloride Pressure Pipe shall be as follows: ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Polyvinyl Chloride Pressure Pipe and Fittings - 1\" through 3½\" ASTM designation: D1785, National Sanitation Foundation   \napproved, Schedule 80 pipe with solvent-welded joints per   \nmanufacturer's instructions.   \n(Unless otherwise shown on the plans, pipe shall be Schedule 80). Polyvinyl Chloride Pressure Pipe - 6\" through 12\"   \nANSI/AWWA C900, DR 18 (Class 150) or DR 14 (Class 200) ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Fittings for polyvinyl chloride pressure pipe per ANSI/AWWA C900 shall be ductile iron, cement-lined and shall conform to and meet requirements as noted elsewhere in Item F. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "H. Adapters for providing restraint for plain-end polyvinyl chloride pipe per ANSI/AWWA C900, 6\" to 12\", inclusive, and ANSI/AWWA C905, at flanged and mechanical joints shall be those manufactured by EBAA IRON, Inc., or approved equal, as follows: ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "DUCTILE-IRON (D.I.P.) EBAA IRON, Inc. Sizes Flanged Joints Series 1000 (3\"-24\", incl.) Mechanical Joints Series 100 (2\"-24\", incl.) Mechanical Joints Series 1100 SD (3\"-48\", incl.) Bell Joints (Push-on) Series 800 (3\"-42\", incl.) Plain-End to Plain-End ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "POLYVINYL CHLORIDE (P.V.C.) ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "EBAA IRON, Inc. Sizes ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Flanged Joints Series 3500 ( 4\"-12\", incl.) Mechanical Joints Series 2000 HV ( 4\"-12\", incl.) Bell Joints (Push-on) Series 1500 ( 4\"-12\", incl.) Bell Joints (Push-on) Series 1100 HV (14\"-24\", incl.) Couplings Series 1500 ( 4\"-12\", incl.) ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Restrained joint adapters for mechanical joints shall be those listed, or approved equal. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "I. Water services shall be constructed as shown on the standard drawings and in accordance with these Standards and Specifications. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Meter angle stop, meter fitting customer stop and corporation stop shall be bronze; by Mueller, Ford, Jones or approved equal. Angle meter stops shall have locking holes and rectangular key. Meter stops and corporation stops shall be oriseal or ball design. Ground key design will not be permitted. Service clamps shall be bronze, double strap, iron pipe thread. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "J. New fire hydrants shall be constructed as shown on the standard drawings and shall be Rich Valve Company Model 950 with 1-4 inch outlet and one $2\\%$ inch outlet for residential areas and Model 960 with 1-4 inch outlet and $2-2\\%$ inch outlets for commercial areas. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Fire hydrants shall stand plumb, with the steamer nozzle facing the street or as directed by the Director and in accordance with the standard drawings. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "K. Gate valves 4 inches and larger shall be by Mueller Company or Clow Company or approved equal and shall be factory epoxy lined and coated, with replaceable rubber encapsulated wedge. Valves smaller than 4 inches shall be teflon coated ball design with large rectangular key operating nut. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "All valves shall have anchors as shown on the standard drawings. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "7.04 LAYING, TESTING AND DISINFECTING WATER MAIN: ",
+        "text_level": 1,
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Each section of pipe and each fitting shall be thoroughly cleaned before it is installed. All pipe, fittings, valves, etc., shall be carefully lowered into the trench by suitable tools or equipment, in such manner as to prevent damage to the pipe, lining, coating, fitting, or other appurtenances. Under no circumstances shall pipe or accessories be dropped into the trench. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "The pipe shall be laid true to line, with no visible change in alignment at any joint, unless curved alignment is shown on the plans. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "When curved alignment is shown on the plans the maximum deflection at any joint shall not exceed the manufacturer's recommendation for the type of pipe and joint being used. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Thrust blocks of Class B concrete shall be cast in place at all bends of $5^{\\circ}$ or more, at the end of plugged mains, behind each tee or each cross and at the back of fire hydrants. The thrust block shall extend from the fitting to undisturbed soil, shall be kept clear of the joints, and shall be of such bearing areas as shown on the standard drawings. Line valves shall have Class B concrete anchors as shown on the standard drawings. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Whenever pipe laying is discontinued for short periods, or when work is stopped at the end of the day, the open ends of all mains shall be closed with water-tight plugs or caps. The plug or cap shall not be removed unless or until the trench is dry. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Valves shall be set plumb, supported on a concrete base and properly fitted to the adjacent sections of main. A valve box shall be installed over each valve. All valves adjacent to fittings shall be flanged to the fitting. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "The Contractor shall not depressurize existing water mains until authorized to do so by the Director. Prior to any depressurization of existing water mains, new water mains must be tested and flushed clean and all customer services shall be connected to the new water main. Temporary thrust blocks or connections to accomplish this shall be the responsibility of the Contractor. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Where necessary for inserting valves or fittings, the pipe shall be neatly and squarely cut to length. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Ductile Iron Pipe - Ductile iron pipe shall be handled, installed and tested in accordance with AWWA Standards C600-93, AWWA C105-93, and the standard drawings. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Cleaning - Prior to filling, testing, and disinfecting the installed line, the Contractor shall ensure that the line is clean in conformance with ANSI/AWWA C651. To facilitate effective disinfection and minimize the chlorine dosage needed, when practicable, predisinfection flushing should continue until the discharge turbidity drops below 5 ntu using measurement procedures described in AWWA Manual M12. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Filling and Flushing - Lines shall be filled slowly with potable water at a maximum velocity of 1 ft/s while venting all air. Precautions shall be taken to prevent entrapping air in the lines. After filling, lines shall be flushed at blowoffs and dead ends at a minimum velocity of 3 ft/s. A minimum of three changes of treated water shall be used in flushing operations. Valves shall be closed slowly to prevent excessive surges while maintaining positive pressure at all times throughout the new line. Flushing water shall be discharges without causing erosion damage, nuisance, or interruption of traffic. A special pipeline pig may be required when the required flushing velocity cannot be achieved or when needed to conserve water. The Contractor shall make provisions for launching and retrieving the pig. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Hydrostatic Testing ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "General - To prevent pipe movement sufficient backfill shall be placed prior to filling the pipe with water and field testing. When local conditions require that the trenches be backfilled immediately after the pipe has been laid, the testing may be carried out after backfilling has been completed but before placement of permanent surfacing. The constructor shall ensure that thrust blocking or other types of restraining systems will provide adequate restraint prior to pressurizing the pipeline. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Cross-Connection Control - When existing water mains are used to supply test water, they should be protected from backflow contamination by temporarily installing a double check-valve assembly between the test and supply main or by other means approved by the Director. Prior to pressure and leakage testing, the temporary backflow protection should be removed and the main under test isolated from the supply main. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Procedure - The following procedure is based on the assumption that the pressure and leakage tests will be performed at the same time. Separate tests may be made if desired. If separate tests are made, the pressure test shall be performed first. Tests shall be performed only after the pipeline has been properly filled, flushed, and purged of all air. The specified test pressure shall be applied by means of an approved pumping assembly connected to the pipe in a manner satisfactory to the Director. The test pressure shall not exceed pipe or thrust-restraint design pressures. If necessary, the test pressure shall be maintained by additional pumping for the specified time during which the system and all exposed pipe, fittings, valves, and hydrants shall be carefully examined for leakage. All visible leaks shall be stopped. All defective elements shall be repaired or removed and replaced and the test repeated until the allowable leakage requirements have been met. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Test Method - The Contractor may perform simultaneous pressure and leakage tests or perform separate pressure and leakage tests on the installed system at test durations and pressures specified in Table 1. Tests shall be witnessed by the Director or the Director's agent, and the equipment used for the test shall be subject to the approval of the Director or the Director's agent. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Allowable Leakage - The Contractor shall furnish the gauges and measuring device for the leakage test, pump, pipe, connections, and all other necessary apparatus, unless otherwise specified, and shall furnish the necessary assistance to conduct the test. The duration of each leakage test shall be 2 hours, unless otherwise specified. During the test, the pipeline shall be subjected to the pressure listed in Table 1. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Leakage shall be defined as the quantity of water that must be supplied into the pipe section being tested to maintain a pressure within 5 psi of the specified leakage-test pressure after the pipe has been filled with water and the air in the pipeline has been expelled. No installation will be accepted if the leakage is greater than that determined by the formula: ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Where: ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "${\\mathsf{L}}=$ allowable leakage, in gallons per hour   \n${\\sf N}=$ number of joints in the length of pipeline tested   \n$\\mathsf{D}=$ nominal diameter of the pipe, in inches   \n${\\sf P}=$ average test pressure during the leakage test, in pounds per square inch (gauge) ",
+        "page_idx": 67
+    },
+    {
+        "type": "table",
+        "img_path": "images/cc944778b6cb527540e2404005c469064ec84bc5b6ea8240238cd66ccdc04d51.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Procedure</td><td>Pressure</td><td>Duration of Tes</td></tr><tr><td>Simultaneous Pressure and Leakage Tests</td><td>150% of working pressure* at point of test, but not less than 125% of normal working</td><td>2 hours</td></tr><tr><td>Separate Pressure Test</td><td>pressure at highest elevation.t 150% or working pressure* at point of test, but not less than 125% of normal working</td><td>1 hour</td></tr><tr><td>Separate Leakage Test</td><td>pressure at highest elevation.t 150% of working pressure* of segment 2 hours tested.t</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "\\* Working pressure is defined as maximum anticipated sustained operating pressure. $\\dagger$ In no case shall the test pressure be allowed to exceed the design pressure for pipe, appurtenances, or thrust restraints. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Nominal Pipe Diameter, in. ",
+        "page_idx": 69
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b01b5082a295b5c2eeca0a05865e63b421a7e1d6178866a789f265cf74d6256.jpg",
+        "table_caption": [
+            "\\* If the pipeline under test contains sections of various diameters, the allowable leakage will be the sum of the computed leakage for each size. "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Avg. Test</td><td colspan=\"13\"></td></tr><tr><td>Pressure,</td><td>4</td><td rowspan=\"2\"></td><td rowspan=\"2\">6</td><td rowspan=\"2\">8</td><td rowspan=\"2\">10</td><td rowspan=\"2\">12</td><td rowspan=\"2\">14</td><td rowspan=\"2\">16</td><td rowspan=\"2\">18</td><td rowspan=\"2\">20</td><td rowspan=\"2\">24</td><td rowspan=\"2\">30</td><td rowspan=\"2\">36</td></tr><tr><td>psi</td><td></td></tr><tr><td>200</td><td>0.038</td><td>0.057</td><td>0.76</td><td>0.96</td><td>1.15</td><td>1.34</td><td>1.53</td><td></td><td>1.72</td><td>1.91</td><td>2.29</td><td>2.87</td><td>3.44</td></tr><tr><td>175</td><td>0.36</td><td>0.54</td><td>0.72</td><td>0.89</td><td>1.07</td><td></td><td>1.25</td><td>1.43</td><td>1.61</td><td>1.79</td><td>2.15</td><td>2.68</td><td>3.22</td></tr><tr><td>150</td><td>0.33</td><td>0.5</td><td>0.66</td><td>0.83</td><td>0.99</td><td>1.16</td><td></td><td>1.32</td><td>1.49</td><td>1.66</td><td>1.99</td><td>2.48</td><td>2.98</td></tr><tr><td>125</td><td>0.3</td><td>0.45</td><td>0.6</td><td>0.76</td><td>0.91</td><td>1.06</td><td></td><td>1.21</td><td>1.36</td><td>1.51</td><td>1.81</td><td>2.27</td><td>2.72</td></tr><tr><td>100</td><td>0.27</td><td>0.41</td><td>0.54</td><td>0.68</td><td>0.81</td><td>0.95</td><td></td><td>1.08</td><td>1.22</td><td>1.35</td><td>1.62</td><td>2.03</td><td>2.43</td></tr><tr><td>75</td><td>0.23</td><td>0.35</td><td>0.47</td><td>0.59</td><td>0.7</td><td>0.82</td><td></td><td>0.94</td><td>1.05</td><td>1.17</td><td>1.4</td><td>1.76</td><td>2.11</td></tr><tr><td>50</td><td>0.19</td><td>0.29</td><td>0.38</td><td>0.48</td><td>0.57</td><td>0.67</td><td></td><td>0.76</td><td>0.86</td><td>0.96</td><td>1.15</td><td>1.43</td><td>1.72</td></tr></table></body></html>\n\n",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "These formulas are based on an allowable leakage of 10.5 gpd/mi/in. of nominal diameter at a pressure of 150 psi. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Leakage values determined by the above formulas are presented in Table 2. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "All visible leaks shall be repaired, regardless of the amount of leakage. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Alternative allowable-leakage criteria may be used if specified by the Director. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Disinfecting - Prior to placing the installed water line in service, the new pipe and all exposed sections and appurtenances of existing pipelines shall be cleaned and disinfected in accordance with ANSI/AWWA C651, unless otherwise specified. Pipelines shall be flushed following completion of disinfection procedures. Disposal or neutralization of disinfection water shall comply with applicable regulations. (Refer to Appendix B of ANSI/AWWA C651.) ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Basic Disinfection Procedure ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "The basic disinfection procedure consists of: ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "1. Preventing contaminating materials from entering the water main during storage, construction, or repair. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "2. Removing, by flushing or other means, those materials that may have entered the water main. 3. Chlorinating any residual contamination that may remain, and flushing the chlorinated water from the main. 4. Protecting the existing distribution system from backflow due to hydrostatic pressure test and disinfection procedures. 5. Determining the bacteriological quality by laboratory test after disinfection. 6. Final connection of the approved new water main to the active distribution system. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Preventive and Corrective Measures During Construction ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Heavy particulates generally contain bacteria and prevent even very high chlorine concentrations from contacting and killing such organisms. It is, therefore, essential that the procedures of this section be observed to assure that a water main and its appurtenances are thoroughly clean for the final disinfection by chlorination. Also, any connection of new water main to the active distribution system prior to receipt of satisfactory bacteriological samples may constitute a cross-connection. Therefore, the new main must be isolated until bacteriological tests described in this standard are satisfactorily completed. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Keeping Pipe Clean and Dry - Precautions shall be taken to protect the interiors of pipes, fittings, and valves against contamination. Pipe delivered for construction shall be strung so as to minimize the entrance of foreign material. All openings in the pipeline shall be closed with watertight plugs when pipe laying is stopped at the close of the day's work or for other reasons, such as rest breaks or meal periods. Rodent-proof plugs may be used when it is determined that watertight plugs are not practicable and when thorough cleaning will be performed by flushing or other means. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Delay in placement of delivered pipe invites contamination. The more closely the rate of delivery is correlated to the rate of pipe laying, the lower the risk of contamination. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Joints - Joints of all pipe in the trench shall be completed before work is stopped. If water accumulates in the trench, the plugs shall remain in the place until the trench is dry. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Cleaning and Swabbing - If dirt enters the pipe, it shall be removed and the interior pipe surface swabbed with a $1\\%$ hypochlorite disinfecting solution. If, in the opinion of the Director, the dirt remaining in the pipe will not be removed by the flushing operation, then the interior of the pipe shall be cleaned by mechanical means such as a hydraulically propelled foam pig (or other suitable device acceptable to the Director) in conjunction with the application of a $1\\%$ hypochlorite disinfecting solution to the interior pipe surface. The cleaning method used shall not force mud or debris into the interior pipe-joint spaces and shall be acceptable to the Director. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Wet-Trench Construction - If it is not possible to keep the pipe and fittings dry during installation, every effort shall be made to ensure that any of the water that may enter the pipe-joint spaces contains an available chlorine concentration of approximately $25~\\mathsf{m g}/\\mathsf{L}$ . This may be accomplished by adding calcium hypochlorite granules or tablets to each length of pipe before it is lowered into a wet trench, or by treating the trench water with hypochlorite tablets. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Flooding by Storm or Accident During Construction - If the main is flooded during construction, it shall be cleared of the floodwater by draining and flushing with potable water until the main is clean. The section exposed to the floodwater shall then be filled with a chlorinated potable water that, at the end of a 24 hour holding period, will have a free chlorine residual of not less than $25~\\mathrm{mg/L}$ . The chlorinated water may then be drained or flushed from the main. After construction is completed, the main shall be disinfected using the continuous-feed or slug method. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Backflow Protection - The new water main shall be kept isolated from the active distribution system until satisfactory bacteriological testing has been completed and the disinfectant water flushed out. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Methods of Chlorination ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Three methods of chlorination are explained in this section: tablet, continuous feed, and slug. The tablet method gives an average chlorine dose of approximately 25 mg/L; the continuous-feed method gives a 24 hour chlorine residual of not less than 10 mg/L; and the slug method gives a 3 hour exposure of not less than $50~\\mathrm{mg/L}$ free chlorine. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "TABLE 3 Ounces of calcium hypochlorite granules to be placed at beginning of main and at each 500-ft interval ",
+        "page_idx": 72
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e1336116885d5bc3dcd92b3378079b9bd3e498d196aafaa73122ae5417369a7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">Calcium Hypochlorite</td></tr><tr><td>Pipe Diameter</td><td>Granules</td></tr><tr><td>in.</td><td>oZ.</td></tr><tr><td>4</td><td>0.5</td></tr><tr><td>6</td><td>1.0</td></tr><tr><td>8</td><td>2.0</td></tr><tr><td>12</td><td>4.0</td></tr><tr><td>16 or larger</td><td>8.0</td></tr></table></body></html>\n\n",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Tablet Method - The tablet method consists of placing calcium hypochlorite granules or tablet in the water main as it is being installed and then filling the main with potable water when installation is completed. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "This method may be used only if the pipes and appurtenances are kept clean and dry during construction. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Placing of calcium hypochlorite granules. During construction, calcium hypochlorite granules shall be placed at the upstream end of the first section of pipe, at the upstream end of each branch main, and at 500 foot intervals. The quantity of granules shall be as shown in Table 3. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "WARNING: This procedure must not be used on solvent-welded plastic or on screwed-joint steel pipe because of the danger of fire or explosion from the reaction of the joint compounds with the calcium hypochlorite. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Placing of calcium hypochlorite tablets. During construction 5-g calcium hypochlorite tablets shall be placed in each section of pipe. Also, one such tablet shall be placed in each hydrant, hydrant branch, and other appurtenance. Table 4 shows the number of tablets required for commonly used sizes of pipe. The tablets shall be attached by a food-grade adhesive. Examples of food-grade adhesives are Permatex Form-A-Gasket No. 2 and Permatex Clear RTV Silicone Adhesive Sealant, which are manufactured by Loctite Corporation, Kansas City, KS 66115. These products have both been approved by the US Drug Administration (USDA) for uses that may involve contact with edible products. Permatex Form-A-Gasket No. 1, has not received FDA approval. There shall be no adhesive on the tablet except on the broadside attached to the surface of the pipe. Attach all the tablets inside and at the top of the main, with approximately equal numbers of tablets at each end of a given pipe length. If the tablets are attached before the pipe section is placed in the trench, their position shall be marked on the section so it can be readily determined that the pipe is installed with the tablets at the top. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Filling and contact. When installation has been completed, the main shall be filled with water at a rate such that water within the main will flow at a velocity no greater than 1 ft/s. Precautions shall be taken to ensure that air pockets are eliminated. This water shall remain in the pipe for at least 24 hours. If the water temperature is less than $41^{\\circ}F$ , the water shall remain in the pipe for at least 48 hours. As an optional procedure (if specified by the Director), water used to fill the new main shall be supplied through a temporary connection that shall include an appropriate cross-connection control device, consistent with the degree of hazard, for backflow protection of the active distribution system. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Continuous-Feed Method - The continuous-feed method consists of placing calcium hypochlorite granules in the main during construction (optional), completely filling the main to remove all air pockets, flushing the completed main to remove particulates, and filling the main with potable water. The potable water shall be chlorinated so that after a 24 hour holding period in the main there will be a free chlorine residual of not less than $10\\mathrm{mg/L}$ . ",
+        "page_idx": 74
+    },
+    {
+        "type": "table",
+        "img_path": "images/1058ccd5ede2915a3f3a77059dbf9e255d0756fecf908c57ee8574a4eacabfb0.jpg",
+        "table_caption": [
+            "TABLE 4 Number of $5-9$ calcium hypochlorite tablets required for dose of 25 mg/L\\* "
+        ],
+        "table_footnote": [
+            "\\* Based on $3.25\\cdot g$ available chlorine per tablet; any portion of tablet rounded to next higher integer. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\"></td><td colspan=\"3\">Length of Pipe Section, ft</td><td rowspan=\"2\">40</td></tr><tr><td>13(or less) 18</td><td>20</td><td>30</td></tr><tr><td>Pipe Diameter in.</td><td></td><td>Number of 5-g Calcium Hypochlorite Tablets</td><td></td><td></td></tr><tr><td>4</td><td>1</td><td>1</td><td>1 1</td><td>1</td></tr><tr><td>6</td><td>1</td><td>1</td><td>1 2</td><td>2</td></tr><tr><td>8</td><td>1</td><td>2</td><td>2 3</td><td>4</td></tr><tr><td>10</td><td>2</td><td>3</td><td>3 4</td><td>5</td></tr><tr><td>12</td><td>3</td><td>4</td><td>4 6</td><td>7</td></tr><tr><td>16</td><td>4</td><td>6</td><td>7 10</td><td>13</td></tr></table></body></html>\n\n",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "Placing of calcium hypochlorite granules. At the option of the Director, calcium hypochlorite granules shall be placed in pipe sections as specified in the tablet method. ",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this procedure is to provide a strong chlorine concentration in the first flow of flushing water that flows down the main. In particular, this procedure is recommended when the type of pipe is such that this first flow of water will flow into annular spaces at pipe joints. ",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "Preliminary flushing. Before being chlorinated, the main shall be filled to eliminate air pockets and shall be flushed to remove particulates. The flushing velocity in the main shall not be less than 2.5 ft/s. Table 5 shows the rates of flow required to produce a velocity of 2.5 ft/s in commonly used sizes of pipe. Note that flushing is no substitute for preventive measures during construction. Certain contaminants, such as caked deposits, resist flushing at any feasible velocity. ",
+        "page_idx": 75
+    },
+    {
+        "type": "table",
+        "img_path": "images/24e4d5c339cc15082dc7f40bdcb9b7cba17b88adcdc83d3903bf7c466ba1971d.jpg",
+        "table_caption": [
+            "TABLE 5 Required flow and openings to flush pipelines (40 psi residual pressure in water main)\\* "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"4\">Flow Required</td></tr><tr><td>To Produce</td><td colspan=\"3\">Size of Tap, in. 1</td></tr><tr><td>Pipe Diameter</td><td>2.5 ft/s(approx) Velocity in Main</td><td>112</td><td>2</td><td>Number of 21/2-in.</td></tr><tr><td>in.</td><td>gpm</td><td>Number of Taps on Pipet</td><td></td><td>Hydrant Outlets</td></tr><tr><td>4</td><td>100</td><td>1 -</td><td>--</td><td>1</td></tr><tr><td>6</td><td>200</td><td>-- 1</td><td>-</td><td>1</td></tr><tr><td>8</td><td>400</td><td>-- 2</td><td>1</td><td>1</td></tr><tr><td>10</td><td>600</td><td>-- 3</td><td>2</td><td>1</td></tr><tr><td>12</td><td>900</td><td>-- -—</td><td>2</td><td>2</td></tr><tr><td>16</td><td>1600</td><td>--</td><td>-- 4</td><td>2</td></tr></table></body></html>\n\n",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "\\* With a 40-psi pressure in the main and the hydrant flowing to atmosphere, a 2½-in. hydrant outlet will discharge approximately 1000 gpm; and a 4½-in. hydrant outlet will discharge approximately 2500 gpm. † Number of taps on pipe based on discharge through 5 feet of galvanized iron (GI) pipe with one $90^{o}$ elbow. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "Procedure for chlorinating the main ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "1. Water supplied from a temporary, backflow-protected connection to the existing distribution system or other approved source of supply shall be made to flow at a constant, measured rate into the newly installed water main. In the absence of a meter, the rate may be approximated by methods such as placing a Pitot gauge in the discharge, or measuring the time to fill a container of known volume. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "2. At a point not more than 10 feet downstream from the beginning of the new main, water entering the new main shall receive a dose of chlorine fed at a constant rate such that the water will have not less than $25~\\mathrm{mg/L}$ free chlorine. To ensure that this concentration is provided, measure the chlorine concentration at regular intervals in accordance with the procedures described in the current edition of Standard Methods for the Examination of Water and Wastewater or AWWA Manual M12, or using appropriate chlorine test kits. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "Table 6 gives the amount of chlorine required for each 100 feet of pipe of various diameters. Solutions of $1\\%$ chlorine may be prepared with sodium hypochlorite or calcium hypochlorite. The latter solution requires 1 lb of calcium hypochlorite in 8 gal of water. ",
+        "page_idx": 77
+    },
+    {
+        "type": "table",
+        "img_path": "images/67cc558631d3326c4411b0001e1135187869684eb9baf43315c9cb3d2f241b71.jpg",
+        "table_caption": [
+            "TABLE 6 Chlorine required to produce 25-mg/L concentration to 100 feet of pipe - by diameter. "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Pipe Diameter in.</td><td>100% Chlorine Ib.</td><td>1% Chlorine Solution gal.</td></tr><tr><td></td><td></td><td>0.16</td></tr><tr><td>4 6</td><td>0.013 0.03</td><td>0.36</td></tr><tr><td>8</td><td>0.054</td><td>0.65</td></tr><tr><td>10</td><td>0.085</td><td>1.02</td></tr><tr><td>12 16</td><td>0.12</td><td>1.44</td></tr><tr><td></td><td>0.217</td><td>2.6</td></tr></table></body></html>\n\n",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "3. As an optional procedure (if specified by the Director), water used to fill the new main during the application of chlorine shall be supplied through a temporary connection. This temporary connection shall be installed with an appropriate crossconnection control device, consistent with the degree of hazard, for backflow protection of the active distribution system. Chlorine application shall not cease until the entire main is filled with heavily chlorinated water. The chlorinated water shall be retained in the main for at least 24 hours, during which time all valves and hydrants in the treated section shall be operated to ensure disinfection of the appurtenances. At the end of this 24 hour period, the treated water in all portions of the main shall have a residual of not less than $10\\mathrm{mg/L}$ free chlorine. ",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "4. Direct-feed chlorinators, which operate solely from gas pressure in the chlorine cylinder, shall not be used for the application of liquid chlorine. (The danger of using direct-feed chlorinators is that water pressure in the main can exceed gas pressure in the chlorine cylinder. This allows a backflow of water into the cylinder, resulting in severe cylinder corrosion and escape of chlorine gas.) The preferred equipment for applying liquid chlorine is a solution-feed, vacuum-operated chlorinator and a booster pump. The vacuum-operated chlorinator mixes the chlorine gas in solution water; the booster pump injects the chlorine-gas solution into the main to be disinfected. Hypochlorite solutions may be applied to the water main with a gasoline or electrically powered chemical-feed pump designed for feeding chlorine solutions. Feed lines shall be of such material and strength as to safely withstand the corrosion caused by the concentrated chlorine solutions and the maximum pressures that may be created by the pumps. All connections shall be checked for tightness before the solution is applied to the main. ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "Slug Method - The slug method consists of placing calcium hypochlorite granules in the main during construction, completely filling the main to eliminate all air pockets, flushing the main to remove particulates, and slowly flowing through the main a slug of water dosed with chlorine to a concentration of $100~\\mathrm{{mg/L}}$ . The slow rate of flow ensures that all parts of the main and its appurtenances will be exposed to the highly chlorinated water for a period of not less than 3 hours. ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "At a point not more than 10 feet downstream from the beginning of the new main, water entering the new main shall receive a dose of chlorine fed at a constant rate such that the water will have not less than $100\\ m g/L$ free chlorine. To ensure that this concentration is achieved, the chlorine concentration must be measured at regular intervals. The chlorine shall be applied continuously and for a sufficient period to develop a solid column, or \"slug\", of chlorinated water that will, as it moves through the main, expose all interior surfaces to a concentration of approximately $100~\\mathsf{m g/L}$ for at least 3 hours. ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "The free chlorine residual shall be measured in the slug as it moves through the main. If at any time it drops below $50~\\mathrm{mg/L}$ , the flow shall be stopped, chlorination equipment shall be relocated at the head of the slug, and, as flow is resumed, chlorine shall be applied to restore the free chlorine in the slug to not less than $100~\\mathrm{{mg/L}}$ . ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "As chlorinated water flows past fittings and valves, related valves and hydrants shall be operated so as to disinfect appurtenances and pipe branches. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Final Flushing ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Clearing the Main of Heavily Chlorinated Water - After the applicable retention period, heavily chlorinated water should not remain in prolonged contact with pipe. In order to prevent damage to the pipe lining or corrosion damage to the pipe itself, the heavily chlorinated water shall be flushed from the main until chlorine measurements show that the concentration in the water leaving the main in no higher than that generally prevailing in the distribution system or is acceptable for domestic use. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Disposing of Heavily Chlorinated Water - The environment into which the chlorinated water is to be discharged shall be inspected. If there is any possibility that the chlorinated discharge will cause damage to the environment, then a neutralizing chemical shall be applied to the water to be wasted to neutralize thoroughly the chlorine residual remaining in the water. Where necessary, federal, state, provincial, and local regulatory agencies should be contacted to determine special provisions for the disposal of heavily chlorinated water. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Bacteriological Tests ",
+        "text_level": 1,
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Standard Conditions - After final flushing and before the new water main is connected to the distribution system, at least one acceptable sample shall be collected by the Contractor from the new main. At least one sample shall be collected from every 1200 feet of the new water main, plus one from the end of the line and at least one from each branch. All samples shall be tested for bacteriological quality in accordance with Standard Methods for the Examination of Water and Wastewater, utilizing the multiple tube fermentation test and shall show the absence of coliform organisms. A standard heterotrophic plate count or membrane filter test for pseudomonas may be required at the option of the Director. The cost of all bacteriological testing shall be borne by the Contractor. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Special Conditions - If trench water has entered the new main during construction or, if in the opinion of the Director, excessive quantities of dirt or debris have entered the new main, bacteriological samples shall be taken at intervals of approximately 200 feet and shall be identified by location. Samples shall be taken of water that has stood in the new main for at least 16 hours after final flushing has been completed. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Sampling Procedure - Samples for bacteriological analysis shall be collected in sterile bottles treated with sodium thiosulfate as required by Standard Methods for the Examination of Water and Wastewater. No hose or fire hydrant shall be used in the collection of samples. A corporation cock may be installed in the main with a coppertube gooseneck assembly. After samples have been collected, the gooseneck assembly may be removed and retained for future use. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Redisinfection ",
+        "text_level": 1,
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "If the initial disinfection fails to produce satisfactory bacteriological results, the new main may be reflushed and shall be resampled. If check samples also fail to produce acceptable results, the main shall be rechlorinated by the continuous-feed or slug method of chlorination until satisfactory results are obtained. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "NOTE: High velocities in the existing system, resulting from flushing the new main, may disturb sediment that has accumulated in the existing mains. When check samples are taken, it is advisable to sample water entering the new main. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Final Connections to Existing Mains ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Water mains and appurtenances must be completely installed, flushed, disinfected, and satisfactory bacteriological sample results received prior to connection to the active distribution system. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Disinfection Procedures When Cutting Into or Repairing Existing Mains ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "The following procedures apply primarily when existing mains are wholly or partially dewatered. After the appropriate procedures have been completed, the existing main may be returned to service prior to completion of bacteriological testing in order to minimize the time customers are out of water. Leaks or breaks that are repaired with clamping devices while the mains remain full of pressurized water present little danger of contamination and require no disinfection. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Trench Treatment - When an existing main is opened, either by accident or by design, the excavation will likely be wet and may be badly contaminated from nearby sewers. Liberal quantities of hypochlorite applied to open trench areas will lessen the danger from such pollution. Tablets have the advantage in such a situation because they dissolve slowly and continue to release hypochlorite as water is pumped from the excavation. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Swabbing With Hypochlorite Solution - The interior of all pipe and fittings (particularly couplings and sleeves) used in making the repair or connection shall be swabbed or sprayed with a $1\\%$ hypochlorite solution before they are installed. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Flushing - Thorough flushing is the most practical means of removing contamination introduced during repairs or connections. If valve and hydrant locations permit, flushing toward the work location from both directions is recommended. Flushing shall be started as soon as the repairs are completed and shall be continued until discolored water is eliminated. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Slug Chlorination - When practical, in addition to the procedures above, the section of main in which the break or connection is located shall be isolated, all service connections shut off, and the section flushed and chlorinated as specified herein except that the dose may be increased to as much as ${300}~\\mathrm{mg/L}$ and the contact time reduced to as little as 15 min. After chlorination, flushing shall be resumed and continued until discolored water is eliminated, and the water is free of noticeable chlorine odor. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Sampling - Bacteriological samples shall be taken after repairs are completed to provide a record for determining the procedure's effectiveness. If the direction of flow is unknown, then samples shall be taken on each side of the main break. If positive bacteriological samples are recorded, then the situation shall be evaluated by the Director who can determine corrective action, and daily sampling shall be continued until two consecutive negative samples are recorded. ",
+        "page_idx": 82
+    }
+]

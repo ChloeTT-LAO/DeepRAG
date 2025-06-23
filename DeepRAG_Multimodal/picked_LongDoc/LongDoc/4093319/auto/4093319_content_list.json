@@ -1,0 +1,2270 @@
+[
+    {
+        "type": "text",
+        "text": "WAGE STRUCTURE AND THE WAGE DETERMINING PROCESS FOR SIX BRITISH COLUMBIA INDUSTRIES ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "by ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TERRY ROSS COLLI ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B.A., Brandon University, 1969 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A THESIS SUBMITTED IN PARTIAL FULFILMENT OF THE REQUIREMENTS FOR THE DEGREE OF MASTER OF ARTS ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in the Department   \nof   \nEconomics ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We accept this thesis as conforming to the required standard ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "THE UNIVERSITY OF BRITISHCOLUMBIA ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "September, 1970 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In presenting this thesis in partial fulfilment of the requirements for an advanced degree at the University of British Columbia, l agree that the Library shall make it freely available for reference and study. I further agree that permission for extensive copying of this thesis for scholarly purposes may be granted by the Head of my Department or by his representatives. It is understood that copying or publication of this thesis for financial gain shall not be allowed without my written pe mission. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Department of Czrr The University of British Columbia Vancouver 8, Canada ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b0ecf6fa250085e3b13d91884f1212f96bc1fa26fa6120ae8ae08d4c5b78f81e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This thesis·is an attempt to combine two opposing arguments which have appeared in the literature of labour economics for nearly 25 years. The analysis deals with the formulation of a collective bargaining model which yields some insight into the wage-determining process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The economic criteria for a wage settlement proposed by J. T. Dunlop in his book, Wage Determination Under Trade Unions, are combined with the 'political' or 'power' variables which A. M. Ross had advocated as the most important determinants of wages in his book, Trade Union Wage Policy. The result is an analysis very similar to that of recent bargaining theory studies. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Six industries from the British Columbia economy are examined within the concept of the model developed. These industries produce a major part of the output of this region. The examination of these industries, therefore, provides a key to the comprehension of the general trends and forces at work in the British Columbia labour market. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The model attempts to discover the variables most significant in explaining the movement of wages in each industry from 1948 to 1968. The yariables examined represent a combination of the economic and political forces which are hypothesized to act upon the wage determination. process. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In addition, the thesis examines those industries in the\\*context of ·a general wage structure. It is hypothesized that the existence of such a structure plays a large role in the wage determining process and has a significant influence upon trends in the economic activity of the province. The end result will be an explanation of the single and collective wage movements of these six industries. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The findings generally support the theoretical hypothesis that the wage determining process is subject to both political and economic forces.· Economic variables are able to confine wage settlements within a range. The size of this range also depends upon economic forces. Within the range, however, bargaining may involve a multiplicity of criteria. Both the union and the firm will often choose some easily observable criteria upon which to base wage settlements. This study attempts to determine the main criteria chosen within each industry. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The conclusions reached show that wage comparisons made among industries by both workers and employers are able to explain the largest part of wage movements. A bargaining theory model is supported and ample evidence of a wage structure which plays an important role in the wage determining process is found. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TABLE OF CONTENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Page LIST OF TABLES 安 LIST OF CHARTS vi ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I. INTRODUCTION 1  \nII. THEORETICAL BACKGROUND 3  \nIII. THE MODEL 31  \nIV. EMPIRICAL RESULTS 47  \nv. THE INTER-INDUSTRYWAGE STRUCTURE 76  \nVI. A CONCLUDING SYNTHESIS 82  \nBIBLIOGRAPHY 85  \nAPPENDIX A 91  \nCHARTS 92  \nTABLES 94",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "I INDEX OF REAL VALUE-ADDED OUTPUT PER INDUSTRY 94 II AVERAGE HOURLY WAGE RATES IN SIX BRITISH COLUMBIA INDUSTRIES, 1948-1968 . 95   \nIII COMPARISON OF THE WAGE BILL TOTAL OUTPUT RATIO AND AVERAGE HOURLY PERCENTAGE WAGE INCREASES FOR SIX BRITISH COLUMBIA INDUSTRIES, 1949-1967 96 IV WAGE DIFFERENTIAL BETWEEN TOP AND LOWEST WAGE INDUSTRIES 1949-1968 97 V ANNUAL PERCENTAGE RATE OF WAGE CHANGE FOR SIX BRITISH COLUMBIA INDUSTRIES, 1949-1968 98 VI CORRELATION MATRIX DEMONSTRATING RELATIONSHIP BETWEEN INDUSTRY WAGE CHANGES 99   \nVII CORRELATION MATRIX DEMONSTRATING RELATIONSHIP BETWEEN VALUE-ADDED OUTPUT PER MAN-HOUR CHANGES PER INDUSTRY 100   \nVIII CORRELATION MATRIX DEMONSTRATING RELATIONSHIP BETWEEN EMPLOYMENT CHANGE PER INDUSTRY 101 IX PERCENTAGE CHANGE IN EMPLOYMENT FOR SIX BRITISH COLUMBIA INDUSTRIES, 1949-1968 102 X ANNUAL PERCENTAGE CHANGE IN VALUE-ADDED OUTPUT PER\\*MAN-HOUR FOR SIX BRITISH COLUMBIA INDUSTRIES, 1949-1968 103 ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "LIST OF CHARTS ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chart I REAL VALUE-ADDED 0UTPUT PER INDUSTRY, 1948 - 1968. 92 II AVERAGE HOURLY WAGE RATE PER INDUSTRY 93. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENT ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "I would like to take this opportunity to express my gratitude to Dr. Stuart Jamieson, without whose patient help this thesis would never have been possible. In addition, Drs. Roslyn Kunin and Curtis Eaton have given many useful comments. Mr. C. Perry of the International Woodworkers of America, and Mr. C. Mitchell of the British Columbia Mining Association were kind enough to explain various aspects of their industries to me. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This thesis was financed by grants from the Industrial Relations Institute of the University of British Columbia and the Economics and Research branch of the Canadian Department of Labour. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER I ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The determination of the payment to the factor labour has always been more or less a theoretical nicety. An exact wage rate is reached by use of theoretical models, but more recent attempts to modernize wage theory by introduction of labour unions and employer associations into the analysis has caused the precise methods of earlier theories to break down. Sociological and human relation factors which attend this analysis elude such precision. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The attempt to introduce collective bargaining procedures into neoclassic marginal productivity theory has created a debate as to whether the politic-sociologic forces attending such procedures are able to cause wage settlements different than those which would have resulted from economic forces alone...A labour market in which collective bargaining is practiced is often referred to as being institutional in operation. Forces are grouped around the leadership of the union on the one hand and the management team on ·the other. Government action is not unheard of in such a market. The nature of the market no longer approaches the individualist nature assumed in classical theory. For this reason alone it should be expected that wage determination in an institutional setting will differ from the original theoretical results.. This thesis is an attempt to examine both of these sets of forces -- economic and sociologic-politic within the context of the British Columbia labour market. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Debate has more recently centred particularly on whether the institutionalization of the labour market leads to wages which differ significantly from what they would have been were market forces alone to prevail. On this subject the findings are somewhat less certain due to the examination only of industries which are unionized to a high degree. Non-unionized industries and industries of low degrees of unionization lack the statistics required for comparison with the industries analyzed here. Very often wage data are non-comparable since non-unionized workers often receive discount prices and other fringe benefits which are not easily compared across industries. In addition the fact that many non-unionized firms hire fewer than 15 employees means that D.B.s. statistics (which exclude firms of less than l5 employees) are doubtful as to accuracy. Nevertheless the results found are believed to be significant. In addition the findings lead to the proposal of a synthesis of the economic-politic arguments which, if properly developed, will allow a much more fruitful analysis of the subject of wage determination in the future. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First, the main body of literature on the question will be examined and then a model which may be tested on the British Columbia economy will be developed. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER II ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "THEORETICAL BACKGROUND ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Institutional wage theories began to appear.in the early ${\\bf1900^{\\dag}s}$ ? They were a response stimulated by the rapid growth of unions during the early twentieth century. It was not until the mid-1940's, however, that the heated debate arose as to whether economic or 'political-power' variables were more important in the formulation of a wage rate. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "J. T. Dunlop's book, Wage Determination Under Trade Unions, published in 1944, served as chief proponent of the argument that wage determination was largely the result of economic forces. The union was viewed as an economic enterprise faced with a set of demand and supply functions. It was regarded as a maximizer of some goal for those employed in the industry in which' the union is organized -- goals such as the volume of employment provided its membership; the total wage bill of those employed; the total earnings of the workers (including public payments to the unemployed); the average earnings per unit of labour; or more narrowly, the average earnings of those who control the union, i.e.: those with seniority. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that Dunlop saw the union leadership being faced with. a choice between several different demand and supply functions. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition there were perceived functions (that is, what the union believed to be the relationship between certain variables) and actual functions which might not be accurately observed by the leadership. He concluded. that: ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "\"the most suitable generalized model of the trade union for analytical purposes is probably that which depicts the maximization of the wage bill for the total membership.\" 2· ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The Dunlop analysis is perhaps best illustrated by Allan Cartter's account of trade union activity.3 Cartter demonstrates that the trade union -- if assumed to be a maximizer of some policy -- may be introduced into marginal productivity analysis. In addition, he shows that technological factors will affect the shape of the labour demand curve. The result might be a demand curve far different from the near perfectly elastic one assumed in neoclassic theory. Cartter also adopts the analysis of 4 5 6 Edward Chamberlin,4 Joan Robinson? and Paul Sweezy° to demonstrate that market structure may also affect the demand curve for labour and allow wages to rise without the corresponding fall in employment which was indicated by marginal productivity analysis. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In neoclassical terms the demand curve of the firm for the factor results from a relationship between the quantity of the factor employed and its product.. Cartter emphasizes that the demand for labour is a reflection of the demand curve for the product in the:product market. It is therefore to be expected that the type of market in which the industry is situated, becomes significant in determining the wage rate. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "\"The marginal product curve is the demand curve for labour. .. it indicates to the employer the increment of product which will be added by.the employment of another unit of labour; it measures the [real] value of the marginal employee to the firm.\"\" 7 ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "To translate this demand curve from real into money terms, the extra product of a unit of labour is multiplied by the marginal revenue that is, the dollar value generated by the sale of the extra output. The demand curve for the firm's product will depend upon the type of market in which it operates: ·it may be elastic (perfect competition) or inelastic to varying degrees (imperfect competition) oligopoly, or monopoly). The type of product market in which the firm operates will therefore affect the marginal revenue generated for the firm by the sale of the extra product -- and it is the marginal revenue product which ultimately forms the demand curve for labour and helps to determine the money wage rate. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Cartter is then able to use Dunlop's analysis to show how the union may attempt to manipulate the supply curve according to the market in which the labour it is concerned with is sold in order to achieve its goal. The use of a monopoly model of the firm (or the special case of oligopoly) shows scope for union operations. In Figure l the demand, supply and marginal demand and supply curves for labour axesgiven. The curve D represents the firm's demand curve for labour (i.e., the marginal revenue product curve), as has already been explained. The supply curve for labour must be regarded as less than perfectly elastic if the firm is relatively large in a local or regional market. In this case the marginal cost of labour to the firm is greater than the wage paid to the marginal man since raising the wage level to attract an extra worker involves increasing the wages of all other workers as well. Thus the profit-maximizing firm will attempt to set employment where the added costs associs ated with employment expansion (i.e., marginal labour cost) equal the added revenue generated by the output of the marginal employers (i.e., marginal revenue product). Employment set by the employer will therefore be at E in Figure 1. The wage level paid, however, will be Wf? since that is the wage necessary to call forth $\\mathtt{E_{f}}$ workers according to the labour supply function. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "If, on the other hand, the union is regarded as a monopolist with the objective of maximizing some goal, such as the rent accruing to labour, then employment' will be set where the supply of unionized labour (S in Figure l), which. is regarded as a marginal cost curve by the union, equals the marginal demand curve for labour (MM). This marginal demand curve is marginal to the marginal revenue product curve. It represents the extra revenue which the union as a monopolistic sellel ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6a ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "WAGES ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c4bc45216fd5470f39693926cf1e575c1604b49fa8ac983babac515ded97187.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/47acaf4bbceebc86c326ea6141cc6916ef504bbca143ea53bf43ef38167a4fee.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Figure z. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "of labour would expect to earn from the \"sale\" of an extra unit of labour. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The employment level which the union would set if all-powerful would be at $\\mathtt{E}_{\\mathbf{u}}$ with a wage rate $\\mathsf{w}_{\\mathrm{u}}$ . This is the wage which the demand for labour curve,.D, indicates the firm would be willing to pay for E u 8 labour. At this wage unionized labour rent would be maximized. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In actual bargaining neither the union nor the firm has complete bargaining power. The result is a bilateral monopoly theory in which a bargaining range of $\\mathtt{w_{u}}-\\mathtt{w_{f}}$ or $\\mathtt{W_{W B}}\\ -\\ \\mathtt{W_{f}}$ occurs. It is within this range that :the. precise wage rate will normally lie. It should also be noted that the union is capable of achieving a higher wage without a necessarily large sacrifice of employment. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A solid analysis of how the union attempts or could attempt to manipulate the supply curve of labour in the long-run is never given. Of course allusions are made to closed shops, racial discrimination or some other method of politically limiting supply. But this does not satisfy Dunlop's contention that the wage rate is generally economically determined. A later article by Dunlop written in criticism of the neglect ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "of the supply of labour function by neoclassicists is unsatisfactory on ”   \nthis point as well. His analysis, which concludes that \"the work force tends in important respects to adapt itself to a long-established rate structure of key jobs\"9 does not differ substantially from traditional classical analysis. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The capacity of the union to manipulate labour supply in the short-run and influence it in the long-run cannot be ignored. Methods restricting the supply for a few days or weeks can be highly effective, especially if the leadership is very sensitive to correct timing. In the long-run general knowledge in the labour market of the difficulty experienced in joining the union (if a closed shop exists) or of being hired (if union-controlled hiring occurs) will deter prospective workers from applying for jobs. In addition unions have played ga significant role in developing criteria for new hiring (e.g., raising the required experience level, educational standards. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "As shown earlier, Dunlop's analysis essentially reduced to a bilateral monopoly model or some variant thereof, in which the firm, pursues a total wage bill maximization goal, will bargain for a wage rate Zower than the rate which the firm would be willing to offer as a result of market forces alone!· ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Such occurrences are, of course, never found in collective bargaining history. It would be political suicide for a union leadervto propose a wage decrease, for while the decrease may result in a net increase of welfare for the union membership as a whole, it certainly will be contrary to individual employee welfare: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "9J. T. Dunlop (ed.), The Theory of Wage Determination (London: Macmillan and Co., 1964), p. 24. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "attempting to maximize profits, provided the demand curve for labour, and the union, attempting to maximize the total wage bill of its members or 10 pursuing some other goal(s), manipulated the labour supply curve. Union negotiators must, however, keep in mind both wage and unemployment levels. A high wage policy cannot be pursued with utter disregard for employment and consequent union membership decline. Neither is the opposite policy feasible. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The question which now arises is: has this capability of the union to manipulate and influence the supply of labour curve led to the determination of the wage rate by variables other than the economic ones? ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The Dunlop model sees the wage rate as being essentially the result of supply and demand variables, and shows the resulting wage rate to be economically determined within some range. The model is ill-suited to yielding an exact wage rate. As was demonstrated in Figure l, the exact location of the wage rate will depend upon the extent to which either side is capable of manipulating the demand and supply curves as seen in the minds of its opponents. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "In later writings Dunlop outlined the variables he considered to 11   \nbe most important in wage determination. Again, these are chiefly de  \nmand variables. The major variable.chosen is productivity. As can be   \nseen from Figure 1, the marginal revenue product curve is the demand curve   \nfor labour. In the case of near-perfect competition the marginal revenue ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "product curve differs little from the average value product curve. Thus the use of average value output per man-hour as an approximate measure of demand for labour will be correct if the industries examined are nearperfectly competitive. Moreover, Dunlop has not insisted that the relationship between wage and \"productivity\" changes be hard and fast. He adds: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "\"industries with more than average gains in productivity increase wage and salary rates somewhat more than average. In industries with less than average productivity wage rates would increase somewhat less than average.\" ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In addition the relationship that is likely to exist between productivity, wages, prices, profits and market power must be explored. Depending upon the firm's market power, productivity changes not matched by wage changes are likely to be reflected in either the price of the commodity in the market, the employment of labour in its production, or both. If the market is imperfect, and wage increases are greater than that warranted by productivity increases, there will be either a rise in price of the commodity to cover the increased production costs, a fall in employment as other factors are substituted in labour's place (depending upon the elasticity of supply of other factors) or, as is more likely, some combination of price rise and employment decline, since the elasticity of demand would need to be perfectly inelastic for no fall in demanded output to result from a price rise. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "This type of analysis has further implications'for those who are attempting to determine whether inflation is demand-pull or cost-push in character. If the reasoning in Dunlop's analysis is correct, one could conclude that if price increases follow the wage increase, cost-push inflation may be claimed. On the other hand, if wage increases were found to follow price increases a'charge of demand-pull inflation is likely to'be laid. Whether wage changes follow the change in demand for the output of an industry or demand follows wage changes is im-- possible to determine casually. A look at the literature on this subject leads one to reach conclusions not much more definite empirically. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "As a development of the bilateral monopoly theory mentioned earlier, Dunlop has suggested that the smaller the ratio of labour costs to total costs, the higher we should expect the rate of wage increase to be. It is obvious that if the union were to demand higher wages and threaten to back such a demand by short-term withdrawal of.supply, then the increase in costs to the industry from the higher total wage bill would be very small in proportion to the potential loss if a shutdown were to occur. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "At approximately the same time that Dunlop was arguing in   \nfavour of an economic analysis of wage determination in an institution  \nal setting, another group of writers was attempting a much more specific 12   \nanalysis of wage determination based on political elements and a bar",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "gaining theory analysis 13,14,15,16 based on indifference curves and general welfare theory. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The use of the word \"political\" often serves to confuse those who are unfamiliar with the collective bargaining process. The conventional use of the word \"political\"' is associated with government intervention. In collective bargaining terms, however, the word \"political\" is used to refer to the internal institutional forces which operate within the union or firm. The attempt by union leaders, for considerations of status or prestige, to make a wage settlement better than those made by unions in related industries, is essentially \"political.\" The pressures from other employers put upon a management bargaining team in a key industry to resist making a wage settlement that is \"out of line\"! with recent trends, is likewise \"political.\" ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "It is within this context that Arthur Ross introduces the \"political\" forces of wage determination in his now classic book, Trade Union Wage Policy. Ross, foremost among the \"political\" theorists, disagrees sharply with the Dunlop analysis, arguing: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "\"It is a commonplace that wage rates are now determined by'conscious human decision rather than by impersonal market forces. 1 17 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "and concluding: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "\"a trade union is a political agency operating in an economic environment. 18 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Ross recognizes that while the union operates in an economic environment, \"it is probably least suited to purely economic analysis.\"l9 Dunlopian analysis is required to regard the union as the maximizer of. some economic goal -- and finally settles on the total wage bill. Ross argues that if the union is to be assumed to maximize anything, it should be assumed to maximize the general welfare of the organization. This includes many variables other than purely economic ones. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "\"The economic environment is important to the unions at the second remove: because it generates the political forces which have to be reckoned with by union leaders.\" 20 ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "It then becomes Ross' central contention that when formulating a model of wage determination, political rather than economic relationships should be given primary importance. The very foundation upon which the . union is formed is political: it'is an attempt to offset the power of employers that was recognized by Adam Smith when he wrote: ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "17A. M. Ross, op. cit., p. 4.   \n18rbid., p. 12.   \n19Ibid., p. 7.   \n20Ibid., p. 14. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "\"Masters are always and everywhere in a sort· of tacit, but constant and uniform combination not to raise the wages of labour above their actual rate.\" 21 ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "It should also be noted that the relative success and strength of the union will depend to some large extent upon the political and social homogeneity of the union. The degree to which union members are able to unite to form a solid front behind their leaders will influence the success of their demands. Their ability to agree in turn depends upon such circumstances as variability in their social backgrounds. For a union to be initially formed requires some degree of political and social cohesion; further demonstrations of unity may often be necessary as well for some degree of success in making management respect the union's demands. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the heterogeneity of forces operating within the organization leads to varying, pressures to be placed upon the union leaders. These leaders must in some way manage'to translate the various member demands (some of which will require definite trade-offs between one another) into a total wage policy. Ross claims that the ultimate goal of the leadership becomes the survival and growth of the union. It is to'this that he refers when he states .that the leaders' function is ·to maximize the general welfare of the union. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "This conclusion is at odds with Dunlop's maximization theory. Instead of attempting to maximize some economic goal or goals, Ross main",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "tains that unions may make demands of less than the maximum obtainable because the membership is unwilling to go to the lengths necessary to win such goals. At other times the leaders may be required to issue demands which they know to be impossible to fulfill, simply because the membership demands it. In such an instance strike action will be 22   \ninevitable. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Melvin Reder has attempted to combine various aspects of the Ross and Dunlop arguments. Reder claims: ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "\"The formal theories of union behaviour expounded by Dunlop (income maximization) and Ross (political theory) are not of great heuristic value in explaining union wage behaviour, as both of them are so general as to be compatible with almost any kind of actual union wage policy.\" 23 ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Reder demonstrates why the use of \"wage patterns\" is useful as a general method of wage determination. It is useful both to the union leader -- who must constantly compare his settlement to that of others in an attempt to justify his actions -- and useful to the management team who must justify their procedures to the rest of the business community, and whose pricing policy is often one of emulation. Reder points out that the theory of competition maintains wage equality in the longrun; in this sense the use of comparison methods in wage setting are a practical application of such a trend. In addition the objective of \"equity\" and \"fair treatment\" is more easily \"determined by comparison with the treatment of other parties in approximately similar circumstances. =2< In this manner, criteria for wage demands and offers are established which, while never equal, are similar and easily recognized by both sides. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Reder then adds a constraint from Dunlop's analysis: ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "\"Those'wage patterns which persist will tend to be those which are compatible with the economic survival conditions of the firms involved, while those which are incompatible with these conditions will be terminated -- one way.or another.\" 25 ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Thus Reder maintains that short-run analysis may demonstrate that most collective bargaining arguments are pattern-determined, while in the long-run, it is the economic factors :which are really important, for they ultimately determine the survival or death of the firms, and in many cases, of unions. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Economic forces establish a wage range within which bargaining may take place and a wage rate may.be determined on any criteria whatsoever. Firms usually earn some amount of economic rent (i.e., income over and above that necessary for operation at a normal rate of return). It is the distribution of this rent about which the union and firm bargain. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The amount of rent accruing to a firm will depend upon its ability to compete with other firms. The ability of the firms to pass on increased labour costs will often be a key factor in determining how large the bargaining range will be. Unions may therefore attempt by political and economic means to increase the ability of firms to pass on wage increases. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Reder stresses that it is industries in which labour costs are a minor part of total costs that the wage bargaining range is apt to be wide, since a large percentage increase in unit labour costs can be covered by small increases in the price of the product. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Finally, Reder examines the degree of response of union wage demands to employment conditions -- an economic $\\cdot$ determinant. The response, he concludes, will be influenced by political factors such as the power of those within the unions 'who are unemployed, or the views of the leaders as to the difficulty of re-establishing the wage scale to a pre-recession level after the recession is ended. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Thus Reder has begun a synthesis which will be further developed in this paper. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Ross' analysis makes use of a utility concept. Each unit, union and employer, is regarded as having a utility function. This function is composed of several variables vital to the maximization of the welfare of each. The function will include not only economic variables such as the change in output per man hour and change in employment, but \"political\" variables as well. The prevailing wage rate is the result of interaction of these two functions within a bargaining zone. ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The difficulty 'in developing a utility function for the parties hinges upon the impossibility of measurement of several of the variables: what degree of pain will an employer experience because of a strike? What degree of pain will the employees experience? To what extent will the disutility of loss of salary during the strike be offset by the pleasure of having open conflict with the employer? To what extent will the acquisition of increased power for the union leadership add to utility? To what extent is an employee in one industry comparable to an employee of another, and, therefore, to what extent are their wages to be compared, and utility or disutility to be experienced when they follow different patterns? ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In addition to problems of measurement we encounter a flexibility of the function. Utility is very much a psychological matter and therefore as attitudes change, so will the utility function. As Ross points out: ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "\"At times he [the employee] is not sure what makes a legitimate comparison, and needs guidance on the point; this is the one source of moral authority enjoyed by the union leader.\" 26 ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Attempts to formulate a theory of bargaining in utility terms are justified however, on the basis that it is essential to know precisely how the price of one key factor of production is formed in a large section of the economy -- that influenced by trade unions. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The measurement problem may be overcome, if, instead of measuring utility, an attempt is made to discover measurable variables which will enable a prediction of the utility function. Examples of such variables are: comparisons among employees in similar or identical jobs, the basing of wage demands on the level of profits, and expectations formed from the history of strike action in the industry. Each of the above is measurable and may be used to give an approximation of the utility functions of firm. and union negotiators. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The first variable mentioned -- the comparison of jobs and wage rates $\\overrightharpoon{\\mathbf{\\Omega}}$ fits in with the analysis of a political variable being flexible and difficult to measure. It is Ross' contention that there exist certain key industries in the economy which, because of a certain combination of various conditions, are able to act as wage leaders. This results in a whole hierarchy of wage rates. Wages become structured,and interdependent, and as'a result move together. The relationship between the 'key industries' and the rest of the structure becomes based upon comparability of jobs across industries. In addition, the relationship of the wage rate in any one industry under examination to the whole economy is of prime importance. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Thus the demands by unions for wage settlements are found to be similar to those settlements previously received in comparable industries. In addition, studies find that employers and arbitrators recognize the wage structure as well. Offers by employers and recommendations by arbitrators, to a large extent, reflect wage settlements which have been made in the most comparable industry (ies).27 ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The operation of such a variable must be regarded as being political. The influence exerted upon the wage rate is not a purely economic one. In fact it will often, as is demonstrated in Chapter IV, encourage industry wage movements different than those based on economic conditions alone. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "A level of profits variable is probably the most difficult to envisage as being a political determinant of wages. There is some difficulty since profits are included in several studies as an indicator of demand.28 Edwin Kuh has argued that in an economic equation of wage 29 determination, profits are $\\because a$ proxy for average output per man-hour. In agreement with Kuh an argument for their inclusion in a bargaining theory equation can be made on the basis that the level of profits may serve as more than merely an indicator of demand. A union is to some extent concerned with equity and during its operation attempts to re-. distribute income. Therefore, to the union the level of profits serves as some indicator of the capitalist's share. Upon this concept of equity union negotiators will argue for an increase in wages in order to maintair or increase labour's share of output. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Both Ross and Dunlop developed their analyses with the almost total exclusion of that of the other. Occasionally throughout the past 25 years each made concessions, allowing that variables other than those of the nature specifically developed by themselves may have a significant influence upon the wage-determining process. The truth of the matter is that both models are not mutually exclusive.. ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Throughout time Dunlop has introduced wage structure into his model by developing a system of \"wage contours.\"30 Dunlop's argument resembles Ross' \"wage leader\" analysis presented earlier, However, Dunlop continues to emphasize the primary importance of economic determinants. His argument is that while political variables might seem to determine the specific wage rate, the significant variables must be economic in nature, since they will influence the general 'health' of the industry and so determine the success of the political variables. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Ross conceded that \"market forces determine the level of wages more or less loosely, leaving a limited, but sizeable range of discretion.m3l From the general welfare viewpoint,. the. two $\\cdot\\cdot$ analyses agree in several respects as well. The marginal productivity theory, as developed by J. B. Clark and later Wicksell and Wicksteed, was an attempt to fit factor price determination into a general equilibrium theory.32 This theory ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "30J. T. Dunlop, The Theory of. Wage Determination, op. cit. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "31A. M. Ross, \"The External Wage Structure,\" in New Concepts in Wage Determination (ed.) G. W. Taylor and F. .C. Pierson (New York:  McGraw Hiil Co. Inc., 1957), Pp. 173-205. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "32 See'John Bates Clark, The Distribution of Wealth (New York: Macmillan Co.,.1899);,Wicksell, Knut, Lectures on Political Economy (New York: Routledge and Kegan Paul Ltd., .1949), Pp. l12 ff.; and P. H. Wicksteed, The Cormon Sense of Political Economy (London: Macmillan and Co., 1910), p.·315 ff. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "developed from $\\cdot\\cdot$ the utility analysis of the Austrian school. The demand curve for a product was derived from the collection of individual utility curves. Marginal productivity theory showed how the product market demand curve was transmitted to the labour market by the firm. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The supply curve of labour is the result of the collected utility curves of individual labourers. (a. trade-off between leisure and work). The intersection of the collective demand and supply curves determines the wage rate. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Modern bargaining theory attempts much. the same thing. The institutional utility function is merely another means of. collectivizing the utility functions of individuals. The two theories differ merely because those who developed.them .tend to regard. certain .variables as being of greater importance. Students of the neoclassical school regard economic terms as paramount. Modern bargaining theorists have tended to stress 'power' or 'political' variables, perhaps because of their neglect in earlier theory and more probably because of the: recognition that $\\cdot$ specific settlements are often the result.of certain non-economic relationships. However, both the union's and firm's utility functions with respect to the size of settlements $\\cdot\\cdot$ will shift with long-run economic conditions. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "In actuality earlier theory could handle.both types of variables, but it seems somewhat easier to continue the. division already.developed Using the marginal productivity approach, the general range of wage settlement can be determined. Within this range bargaining theory can be applied to fix the wage settlement more precisely. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "With this outline of the theoretical .basis upon which the analysis of inter-industry wage structure rests, an attempt will now be made to determine how practicable the theory is. A survey of studies done in the United States and Canada brings out a variety of conclusions. The result is that neither theory is disproved, and evidence is found to support both points of view. Included in the examination of studies dealing with the wage determining process is'a brief look at the influence of this process on the inter-industry wage structure. Ultimately the two subjects will be intimately related. A discussion of the relationship is given in Chapter V. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Intertwined with the statistical studies of industry wage determination is this question: if Ross' thesis. could be conclusively proved would this not be adequate support for the contention that unions have been able to raise wages beyond the economically-determined level? ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Attempts have been made to measure the degree of union bargaining power. These measurements have usually consisted of comparisons between unionized and non-unionized firms in the same industry. It ·is normally assumed that the working conditions (including wages, fringe benefits) of the non-unionized firms are those which result from market forces alone.\\` There is ignorance of the spillover effect from the unionized to the non-unionized market. These studies have estimated that union bar33· gaining power is capable of raising labour wages anywhere from zero? to ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "34 25 per cent? above the level determined by market forces alone. Again, no clear answer has emerged which might settle the debate. The.results obtained seem to depend upon the time period in which the study is concentrated and the type of umion involved.35 ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Paul Douglas carried.out a study in the mid-l920's in an attempt to determine whether unions had been able to raise the wages of members significantly above that of non-union labourers. His results indicated that in the early years.of union $\\cdot$ activity; wages were often and Millman,- 1956) (ed). David McCord Wright, Pp. 204-34. Friedman concluded in. fact .that in boom periods union contracts have tended to cause unions to 'miss out' on large wage gains. When contracts are negotiated in recession periods, settlements are lower. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "34Albert Rees, The Economics of Trade Unions (Chicago: Phoenix Books, 1967), Pp. 70-71: ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "3rhediscussionof thewage spillovereffectofunionactio into the non-unionized labour markets raises problems. It is often claimed that the rising money wages of the unionized sector will be followed by rising wages in the non-unionized sector. This is true if the non-unionized sector : has an imperfectly competitive product market structure similar to that of the unionized sector. In this case the bargaining range (in Reder's terms of analysis) will be relatively large.. This means that the firms may offer a part of their 'rent' to the employees as a 'bribe' to prevent union organization. If wage settlements in the non-unionized sector match those of the unionized sector, then both the firms and employees may be better off without organization, since the costs of bargaining are avoided. In such :a case.the claims of large. spillover effects are'valid. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "If, on the other hand, the non-unionized sector is composed of firms facing a very elastic demand urve, then the above claims are no longer valid. The amount of rent that the firm can extract from the product market is smaller and correspondingly, the bargaining range for wages is much narrower. The more competitive employer is unable to match the wage settlements of the unionized sector. .In addition, the restriction ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "substantially raised, however, as the age of the union increased, wage 36 settlements increasingly lagged behind wages in the non-union sector. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "In an early study Ross concluded that \"real hourly earnings have advanced more sharply in highly organized industries than in less unionized industries, in periods of stable or declining union membership as well as periods of rapid organization. .37 ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "A later study by Ross and Goldner brought modification of this statement. Conclusions reached are much similar to those found by Douglas.' ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "\"Among the industries.which were substantially unorganized in 1933, subsequent increases in earnings were associated with changes in.the degree of organization.\\` However, those which were already substant\\* ially organized in 1933 have lagged.behind all other groups.!! 38 ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "In addition they tested for an association between the rate of wage increase and employment change and degree of concentration of firms in the industry. It is normally assumed that' the greater the degree of concentration, .i.e., the fewer number of firms sharing the majority of the industry market, the more imperfect the .market will be. Their results concluded that there was a relationship between wage change and market structure and employment change. The strength of their results is weakened, however, because similar characteristics are found in the same industries, making it impossible to determine to what degree unionization, market structure, or employment change alone is responsible for wage change: ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "39 J. Garbarino attempted to explain inter-industry wage movements by comparing the rank order of percentage wage changes of various manufacturing industries with the respective percentage movements of productivity and employment, and with 'the respective degrees of concentration and unionization. Garbarino concludes that a positive relationship does exist between productivity and wage change (although perhaps it is not as strong as Dunlop claims) and, in addition, finds that employment change,.degree of firm concentration and degree of unionization are able, singly or in combination, to make the explanation of wage movement more comprehensive. Again, however, it must be emphasized that a high degree of correlation may exist between the degree of firm concentration in the market and degree $\\cdot\\ \\cdot$ of unionization. In this event it is impossible to separate the two and determine their single importance in explaining wage movements. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Meyers and Bowlby specifically attempt to relate the percentage change in output:per man-hour to the percentage change in wages. Their results lead to the conclusion that: ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "\"in the present institutional setting, one needs to look to factors other than changes in output per man-hour to explain relative wage changes·between industries.\" 40 ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "L. Weiss hypothesized that a positive relationship will exist between the degree of concentration of firms.in the industry and the bargaining $\\cdot$ power of the unions: Weiss postulates that monopoly rents are more likely to be greater in a highly concentrated industry. In Reder's terms $\\cdot\\cdot$ of analysis this meant that the bargaining range would widen and the opportunities of the union to secure higher wages would increase. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "\"Industries with high profits, whether due to monopoly or other causes, might attract trade unionism since they offer large prizes to the successful organizer.\" 4l ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Empirical results indicated that generally a positive relationship does exist between labour earnings and the degree of concentration.\\` Weiss concludes, therefore, that unionism or the threat of unionism produces high wages in concentrated industries. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "In Ross' original analyses, Trade Union Wage Policy, he $\\cdot$ concluded that wage comparisons will be independent of spatial relation42 ships. A study. done by Harold ..Levinson would seem to yield results counter to Ross' contention. Levinson.concluded that in industries having a comparable degree of concentration, a union's bargaining power is liable to be larger, the greater the degree of spatial concentration. This conclusion results from the observation that the greater the concentration of all members of an industry within a small geographic area, the easier it is for a union to organize: .and the greater its' strength will be per degree of organization. Levinson writes: ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "\"The key to the relationship between product market and wage movements lies primarily in the effects of the former on the easerof entry of new firms into production outside the jurisdictional control of the union.\"  43 ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "If there exists a spatial limitation on the area in which new entrants can effectively produce, ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "\"Then the union need only achieve a high degree of organizational strength within the limited strategic areas involved in order to be protected against. the undermining influence of new non-union entrants or of run-away shops, irrespective of how easy entry into the industry itself might be.\" 44 ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Conversely, Levinson points out that given a similarly high degree of union organizational strength, employers in.a more concentrated industry will be better able to resist union pressure than those in a more competitive industry. Concentrated industries will, however, have a two-edged effect; they will provide the. union with greater protection against the entry of non-union competitors, which helps to maintain the union's jurisdictional strength, and at the same.time, they provide fewer firms of larger size and greater financial resources which are more effectively able to resist union pressure. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "The $\\cdot\\cdot$ nub. of Levinson's study is that greater wage increases are to be expected over time in the less-concentrated industries with a high degree $\\cdot$ of spatial $\\cdot$ centralization. Outstanding examples are building construction, longshoring and coal mining in the United States. Levinson's' findings $\\cdot\\cdot$ become.very important in an interpretation of the British Columbia economy. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "The most notable study attempting to handle these problems with Canadian data was done by H. D. Woods and Sylvia Ostry.45 Their analysis included 88 manufacturing industries. They found a very stable wage structure over time (a rank correlation coefficient of .65 was found in comparing industry ranks in 1917 and 1956). A test of the hypothesis that .the inter-industry. structure. should.widen and narrow in response to cyclical fluctuations.in the economy yielded results contrary to those ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "expected. Further investigation caused them to conclude that there ex  \nists a closer relationship between the wage structure and skill differ46   \nentials and economic conditions. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Woods and Ostry test other variables as well.in an attempt to explain the pattern of wage change.. Variables tested include\" changes in employment (as a crude measure of labour demand), percentage change in output per man-hour, market structure, relative labour cost and impact of unionism. They conclude that the best explanation of wage change is given by the change in employment. No conclusive results were achieved by tests of market structure, impact of unionism and relative labour cost variables. No relationship could be established between the change in output per man-hour and the change in wages. They. conclude .that demand for labour is a significant. determinant:of. wage change among the manufacturing industries examined. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Parts of these tests relevant to the British Columbia economy will be reproduced in this study using slightly different statistical methods. Because only six industries 'are studied, it is possible to examine each separately and attempt to determine in a.more precise manner the forces'acting upon the wage'determination process. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "45. Woods and 0stry, op. cit., pp. 450-56. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER III ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "THE MODEL ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "The analysis now turns to an examination of the British Columbia economy in an attempt to discover the forces which play a role in the wage determining process and which consequently cause a distinct wage structure for this economy. The data for the analysis covers six major industries in the British Columbia economy: construction, coast logging, pulp and paper, sawmilling (coast and interior), mining (excluding petroleum and natural gas) and coast and inland water transportation (excluding longshoring and warehouse workers). The time period covered was from 1948-1968 for all industries except pulp and paper and sawmilling in which data were available only to 1967. These industries comprise the bulk of production in the B.C. economy. Indeed, 52 cents of every dollar of out1 put comes from':the forest industries alone. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "The model developed borrows heavily from the various studies of Kuh, Lipsey, Vanderkamp, Perry and Eckstein and Wilson which were previously mentioned. These studies attempt to determine the causality and strength of a relationship between wages and prices at a national aggregate level. The examination here is to determine the variables that contribute most to an explanation of wage movements among individual industries. To a large ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "extent this analysis follows the procedure of Richard Rippe who has attempted to adapt these macroeconomic models to a microeconomic analy. sis applicable, in his case, to the American steel industry.2 ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Eight independent variables were finally chosen in this study to be entered into a stepwise regression equation as an explanation of the movement of wages in each examined industry. The variables are broadly classified as being either economic or political in nature. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "The dependent variable, annual rate of wage change in the examined industry $(\\mathfrak{w}_{\\mathtt{i}})$ , was derived from annual negotiated wage rates per job classification in the industry as given in the Canadian Department of Labour publication, Wage Rates, Salaries and Average Hours of Enployment. 3 These hourly rates are base rates weighted by the average number of workers in each category. The result is a wage rate adjusted for relative employment size which excludes overtime payments, piece rates, bonus pay and commissions. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Variables classified'as being purely economic in nature include percentage change in money value-added output per man-hour and percentage change in employment. Variables which may act as political determinants of the wage settlement include present profit-sales ratio, profit-sales ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "ratio lagged one year, the wage settlement in the most closely-related industry, and some measure of militancy used to determine whether the threat of strikes influenced the wage settlement. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Two other variables are included in the model as well: the percentage change in the regional cost of living index and a dummy variable used to determine whether contract negotiations happened to coincide with changes in demand for output. Both of these variables are difficult to classify as either purely economic or purely political. Indeed, the dummy variable is probably neither. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Each of these variables will require substantial explanation as to their classification since it is easily forseeable that confusion may attend the interpretation of a variable measured in dollar terms as being political. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Since the initial use of output per man-hour as a measure of productivity by Dunlop in 1948, there has been much further research done upon how productivity should be measured. A National Bureau of 4 Economic Research study done by J. W. Kendrick has especially furthered the knowledge of this concept. Kendrick argues that the normal measurement of productivity -- dividing output by the number of man-hours worked - is not a relevant concept when one is attempting to gain some measure of the change in labour efficiency over time. In addition this measurement makes no allowance for changes in skill nor is it able to account' ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "for factor substitution. The latter is particularly relevant in light of this study since there is some question whether wage change will result from productivity changes, or whether wage change will cause factor substitution (an increased capital intensity) and result in output per man-hour changes. Kendrick therefore suggests that in order to determine changes in output due to efficiency improvement alone, a time series should be set up which compares the change of the ratio of real output divided by a measure of labour and capital inputs, weighted by their relative contributions: ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately, data giving the intensity of. capital usage are not readily available for Canadian industries to allow such a measure of productivity. It is necessary to revert to the older method of measurement, keeping its shortcomings in mind. Solomon Fabricant writes that: ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "\"physical output per man-hour is a useful index if its limitations are recognized. Because in the economy at large and in most individual industries, labour input is by far the most important type of input, the index based on man-hours alone is not often in serious'error. It is a fair approximation to a more comprehensive index of efficiency.\"\" 5 ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "The resulting bias is upward caused by the omission of the capital input as well as the failure to take into account the change in the composition or quality of labour. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "In the model formulated in this study a measure of value-added 6 per man-hour is used rather than the traditional real output per man-hour. Justification of this stems from the earlier discussion of marginal productivity theory. Using Cartter's approach, as discussed earlier, the money value demand curve for labour is represented by the marginal revenue product curve, and in the case of pure competition this ? curve will not differ substanitially from the average value product curve. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Exclusive of the construction industry all the industries in this analysis of wage movements in B.c. are, or very nearly are, competitive in nature. Competitiveness arises from the fact that firms in the industry can exercise little or no control over the market in which their goods are sold. The markets are, in fact, international; it is this dependence upon outside factors by the greater part of the British Columbia economy which causes economic trends in this province to differ from those of the rest of Canada. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Only the construction industry faces a situation in which large firms may be claimed to face a demand curve which is substantially less than perfectly elastic. This shall be explained further in Chapter IV. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Another economic variable used is the percentage rate of change of employment. This, in addition to the percentage rate of change of output per man-hour, should yield an approximate estimate of changes in the demand for labour. The use of both a measure of output change and employment change may seem redundant. However, studies have shown a marked tendency for firms to over employ during recessions and to be.slow in acquiring additional labour during boom periods. Thus these two measurements are expected to temper one another and the mixture is expected to' provide a measure of demand. Use of the rate of change of employment should capture expectations of the future trends for the industry that were existent during the bargaining period. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "In several of the above-mentioned wage-price studies the rate of change in unemployment has $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ been used as a measure of change in excess demand. The switch from an unemployment to employment measure was necessitated by the regional nature of the study. Former studies were for a national economy and the unemployment measure (a stock output) serves well in a setting where the labour force is generally immobile and may be regarded as a stock. However, the results of a study by Montague and Vander8 kamp reveal that for British Columbia the unemployment measure is a flow concept. They discover that the participation rate is directly related to the demand for labour, and state that: ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "\"it does not make very good economic sense to talk about the British Columbia labour force as a stock concept, as a fixed number of people for whom jobs will have to be created, because the rate at which jobs are created itself partly determines.the size of the labour force.\"\" 9 ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "This finding is attributed to the high degree of mobility into he Brftish Columbia economy and the age-makeup of the population. As the employment rate rises so does the participation rate of the semiretired British Columbians and the unskilled from neighbouring provinces.) This leads to the seemingly paradoxical statement, ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "\"Surveys of anticipated demand of employers over the next few years stress shortages. Union groups have countered with reports.of significant oversupply at hiring halls.\" 10 ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "The use of unemployment change as a measure of demand change would give us an incorrect picture for industries requiring high degrees of skill (as do those examined). The unemployment rate will reflect those with few skills who are.just on the periphery of participation. Meanwhile the skilled vacancy rate might be extremely high. As was earlier stated the economic determination of wages should stem from a supply-demand relationship. If, in spite of Montague and Vanderkamp's findings of a large inflow of labour as job opportunities increase; the labour required by the industries examined need be highly skilled, then it may well be that each industry finds itself faced with a very inelastic labour supply function. It should not be surprising, therefore, to find that union negotiators, faced with a trade-off between employment and wage goals, more often favour the latter. This will especially be observed if it is the skilled labour force which forms a majority of union membership. Wage increases may not be accompanied by layoffs, but rather a curtailment of the increase in employment. Union negotiators will be willing to largely ignore the employment effect of wage goals ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "especially if bargaining occurs during a period of expansion in the.industry. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "All of the industries dealt with in this study are ones which require large amounts of skilled labour: In contradiction to earlier studies done on the question of labour mobility, Lansing and Muellerll conclude that workers with a high level of skill are very immobile. The reason for this is the length of time needed to acquire the skill. Once it is gained, the worker is usually beyond the years of his greatest mobility. The skill is usually acquired on-the-job and wages are paid during the training period. This allows the worker to acquire a home, family and other social amenities which detract from his mobility. The result is a relatively fixed skilled labour supply. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "It is not possible or necessary to assume unskilled labour fixed, for the question of. actual supply no longer matters. It has been the custom of unions with unskilled members to consider only present and not potential members when making wage demands -- for as long as present members are satisfied, the leadership is secure. These unions do not need control of the unskilled labour supply, instead they rely upon the support of skilled labour. Even should the supply of unskilled labour be infinite (as it may well be in the British Columbia context), and 'scabbing' result during a strike of unskilled labourers, the strike would be effective to the extent that skilled workmen refused to cross picket lines.12 Thus unions representing unskilled labour are able to control the skilled labour supply and need not be concerned with the supply of unskilled labour when making wage demands. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Unskilled labour is represented in two ways in the industries examined. In the construction industry the unskilled belong to unions separate from the skilled -- notably the Common Labourers Union. Negotiators have made effective use of the willingness of the skilled unions to co-operate during a strike. In the other industries skilled and $\\cdot$ unskilled labour are all members of the same unions. Similar results are obtained to those in the construction industry, however.^ Strikes involve both the skilled and unskilled. The result is that firms in these industries regard the supply of unskilled labour to be much less elastic for the industry than for the economy generally. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "In addition, a dummy variable is included which is neither economic nor political in nature. Its purpose is to determine whether the wage settlement may be partly attributed to the timing of the contract. D is set equal to l if a contract is signed in a year of output expansion. If there was no contract signed or the year of signing was a recession period, D is equal to 0. The significance of this variable would show that settlements are, to an extent, influenced by the random chance of when the contract was signed.13 ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Political variables -- the rate of wage change in the most closely.associated industry and the profit-sales ratios have been explained earlier and no further justification should be necessary. It should be mentioned, however, that the present and lagged ratio of profit-sales were used because it is hypothesized that the union will base claims on the company's or industry's.last published annual report(s) while the company will make offers based upon present or anticipated conditions. The combination of past and present profits may yield some explanation of wage movements. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "A residual method of calculating gross profits was used. The total value of sales less payments for materials purchased and labour input has been used to estimate profit. No attempt was made to account for depreciation. Returns to other $\\cdot\\cdot$ factors were assumed negligible or to be counted as profit. This method is very unsatisfactory since $\\alpha$ priori it might be expected that the movements of residual profits will be such a gross measure that no relationship will obtain. What is required, if profits are to be considered a political variable, is a measure of the net profit to capital expenditure ratio. This would ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "allow a comparison of the change in wage rates to the change in the rate of return on capital. Again, lack of data prevented such an analysis. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "The third political variable considered is the rate of militancy of 'the union. It is hypothesized that the threat of a strike when business activity is high will cause firms to settle more quickly than normal since the cost of a shutdown will.outweigh the cost of meeting labour's demands. During a business recession the opposite action would be ex-. pected. A negative correlation would be expected if this hypothesis is correct. Wage increases would be larger during boom periods and strike activity should be lower. Strike action is the attempt to use an economic tool as a political weapon. It has been termed a political variable here because its use is not automatic; it is used only as the result of conscious decision. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "The test of the hypotheses ran ratios of annual man-hours lost due to strikes to total man-hours of employment expressed in percentage terms against the rate of wage change. In every industry the strike variable was found to be insignificant at the five per cent level. For this reason the variable was excluded from the empirical analysis which 14 follows. (See Appendix A). A study done by John Vanderkamp^ concluded that for the Canadian economy as a whole, a positive relationship does exist between business cycle and strike activity. This is counter to the hypothesis tested above. The different nature of the majority of British Columbia industries causes this divergence. The British Columbia economy, to a large extent, is of a primary nature excluding construction; sales are largely destined to be exported. It would therefore seem correct to conclude that conditions in the British Columbia economy will largely 'reflect those of the world market -- in particular those'of our neighbour to the south -- rather than those of 'the rest of the Canadian economy. In addition, the very nature of primary production makes these industries:particularly sensitive to the rise and fall of the business cycle. The high concentration of industries of this nature.within a single region will cause the cyclical instability. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The inclusion of a rate of inflation variable stems from the emphasis of this variable by both unions and management. It should be noted, however, that the two sides have emphasized the variable's significance at different times in the business cycle: unions refer to it at the peak of the cycle when the change in the rate of inflation is highest, and management refers to it during recession years. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "It is impossible to assign to this variable the nature of being economic or politic: its operation in the wage determining process involves both of these concepts. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Unions will very 6ften demand a wage settlement in line with changes. in output per man-hour, employment change or profit change as well as some adjustment for the percentage change in the cost of living. During periods of recession when the general rate of change of the cost of living is smaller, employers will refer more often to a settlement in line with this variable. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Dunlop has argued that wage increases out of line with. the increase of productivity or employment change for an industry will be reflected in a price increase for that industry's product. This argument is a valid one. Movements of this kind, however, may not be captured in the change of the cost of living index if this occurrence is an isolated one. The price of the industry's output will form such a small part of the cost of living index that no relationship between the rate of wage change and the rate of change in the cost of living index could be expected. On the other hand, if there are many unions able to force wage increases greater than those justified in economic terms, these price rises may be captured by the rate of change in the regional cost of living index. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Further grounds for expecting a relationship between wage changes and the rate of inflation exist if periods of general excess demand across industries are observed. Money demand for output and money wages would be expected to move together. Similarly, when excess demand for output diminished, the rate of inflation would be expected to fall, and the rate of change in money wages would be expected to decrease. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "In an economy such as British Columbia's where the demand curve for many of the industries' products is formed internationally, there is no reason to expect the demand for the output of all industries to move together. In addition, as explained in Chapter IV (Sections A and B) considerable lags are experienced in the demands for output of the two largest industries -- forest products and construction. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Despite the economic basis for expecting a relationship to be found between the rate of inflation and wage changes, interviews with both union and management officials have repeatedly emphasized that this variable is considered by either side only when it suits their purpose. In.other words, only when the use of the cost of living variable approximates the wage settlement demanded or offered, is the variable invoked by either side during bargaining. Thus, both politica. and economic arguments lead to an expectation that this variable may be able to explain a part of the movement of wages. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "These variables then form the model of the wage determination process for each industry: ",
+        "page_idx": 52
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r}{\\dot{\\mathrm{~\\boldmath~w~}}_{\\dot{\\bf z}}={\\mathrm{~\\boldmath~a~}}+\\mathrm{~\\boldmath~b~}\\dot{\\mathrm{~\\boldmath~P~}}+\\dot{\\mathrm{~\\boldmath~c~E~}}+\\mathrm{~\\boldmath~d~K~}_{\\mathrm{now}}+\\mathrm{~\\boldmath~e~K~}_{\\mathrm{then}}+\\mathrm{~\\boldmath~f~}\\dot{\\mathrm{~\\boldmath~c~}}+\\mathrm{~\\boldmath~g~}\\dot{\\mathrm{~W~x~}}+\\mathrm{~\\boldmath~h~D~}}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "where ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "W. i percentage change in hourly wage in industry \"!! ",
+        "page_idx": 52
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(\\frac{\\l_{\\mathsf{U_{t}}}^{\\mathsf{W_{t}}}-\\mathsf{W_{t-1}}}{\\mathsf{W_{t-1}}})\n$$",
+        "text_format": "latex",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "P := percentage change in output per man-hour ",
+        "page_idx": 52
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(\\frac{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\phi}}}}}}}}}}}}}}}}^{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf{\\phi}_{\\mathbf\\phi}}}}}}}}}}}}}}})\n$$",
+        "text_format": "latex",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "E $\\mathbf{\\sigma}=\\mathbf{\\sigma}$ percentage change in employment ",
+        "page_idx": 52
+    },
+    {
+        "type": "equation",
+        "text": "$$\n(\\frac{\\boldsymbol{\\mathrm{\\Pi}}_{\\boldsymbol{\\mathrm{E}}_{\\mathrm{t}}}^{\\mathrm{~\\tiny~-~\\mathrm{~E}~}}}{\\boldsymbol{\\mathrm{\\Pi}}_{\\boldsymbol{\\mathrm{{t-1}}}}^{\\mathrm{~\\tiny~\\mathrm{~E}~}}})\n$$",
+        "text_format": "latex",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "K = profit-sales (residual) ratio of present ye: now K profit-sales ratio lagged one year then · C $\\mathbf{\\sigma}=\\mathbf{\\sigma}$ percentage change of'cost of living index $(\\frac{\\mathsf{c}_{\\mathrm{t}}-\\mathsf{c}_{\\mathrm{t-1}}}{\\mathsf{c}_{\\mathrm{t-1}}})$ Wx· $\\L=$ percentage change in wage rate of most comparable industry $(\\frac{\\mathbb{W}_{\\sf t}-\\mathbb{W}_{\\sf t-1}}{\\mathbb{W}_{\\sf t-1}})^{15}$ All relationships found are expected to be positive. Each independent variable is assumed to move in the same direction as the dependent variable. This equation will now be examined on an industry-by-industry ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "basis. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "It is not to be interpreted from the above model that a percentage rate of change is the only method that can be used in measuring the related movements of the variables. Percentage rates are used here because it is hypothesized that union and management negotiators tend to bargain in percentage terms. The use of the percentage measurement is, after all, very easy. One hearswthat the cost of living rose so many percentage points last month, or that production has increased by a certain percentage, or that the employees in another industry have just won a wage increase of so much per cent. The basing of wage demands or offers in ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "percentage terms therefore comes naturally. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "This may indicate the deception that units of measurement can cause for those who cling to them rigidly. The bargainer has become a slave to his system of measurement. As various writers have pointed 16 out, the use of the percentage measurement, exclusively, means that the differential between high-.and low-wage industries is growing at an increasing absolute rate. The weaker unions are at an even greater disadvantage because of their system of measurement! · ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER IV ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "EMPIRICAL RESULTS ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "An examination of Chart II gives a general impression of the wage structure in British Columbia during the years 1949-1968. The wage hierarchy has been remarkably stable. Wages in the construction industry have consistently been higher than those in the other five. Pulp and paper wages have generally led those for the rest of the forest products industry, except in the years 1951-52, and 1965 when coast logging wages were equal. Sawmilling has generally ranked fourth in the structure while water transport and mining wages have alternated in the lowest positions. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The remaining analysis of this chapter will deal with the characteristics found in each industry that largely account for its rank in the regional structure. Finally, Chapter V attempts to determine some general characteristics of the British Columbia economy. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "A. The Construction Industry ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The construction industry is assumed to be the \"key industry\" or \"pace setter\" in terms of Ross' analysis: The industry 'is well-suited to play the role of wage leader, for it has several characteristics different from the other industries. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Unlike the other industries.examined, the. construction industry is comparatively sheltered from foreign competition. Firms do not compete in the world market; instead they face'a large and growing domestic market. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "To a large extent, the demand curve for construction output is price-inelastic in the short-run, representing other industries' immediate needs for expansion work during boom periods. M. K. Evans reports that empirical tests have found little or no relationship between residential construction investment and the relative price of output as well.l On the other $\\cdot\\cdot$ hand, demand is income-elastic in the long-run. Therefore, as incomes in British Columbia have risen, so has the demand for housing and other construction. The result has been a more-than-proportional growth in demand for output as incomes rose. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The construction industry in British Columbia is particularly dependent upon the investment spending of the other industries. To this extent then, we would expect that if the other industries are particularly sensitive to the business cycle, then construction activity should be so as well. One could reasonably expect the construction industry to be cyclically unstable since the demands of each industry will rise and fall together. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "This introducers an accelerator concept. The interdependence of the various industries increases the size of fluctuation of economic activity. Decreased activity in the forest products industry is followed by a fall in forest products demanded by the construction industry. Similarly when economic activity is increasing, the demand for construction output by the primary resource industries will create additional demand for their owm output. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Movements of construction activity, therefore, might be reasonably expected to exaggerate the movements of the other five industries. Chart I supports this expectation with large downturns in project completions occurring in 1954 and'again in 1958-1962. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "The \"lumpiness\" of investment in construction projects by public utilities in this province must be noted as well. Periodically, projects involving hundreds 'of millions of dollars each and requiring a relatively small labour force have added to the instability of this industry. Projects such as the Kitimat and Kemano plants undertaken in 1950-52, the oil and gas pipeline development of 1955-57, and the recent Columbia and Peace River projects of the $\\boldsymbol{1960^{\\prime}{\\mathsf{s}}}$ have played significant roles, especially when most have been undertaken during expansion periods. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Government projects have also contributed to this instability. Rather than time such projects according to the methods recommended by modern fiscal policy, the present British Columbia government has almost consistently followed a policy of expansion that coincides with growth.in the private sector. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Thus the combination of public investment (e.g., power, highway projects) and private investment (e.g., pulp and paper plants, sawmills) has: led to extreme cyclical fluctuation in the construiction industry. This instability has had important effects upon wage demands made by unions. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "It should be noted that the recessions and expansions in construction usually lag the movements in other industries by one - two years. This is to be expected since contracts are awarded one to two years in advance of completion. Thus, while the other industries are in the depths of a recession, construction may be booming; later as the other industries revive, construction output may still be falling. This cyclical timing difference between construction and other large industries has led to widespread unrest in labour relations in British Columbia. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Stuart Jamieson writes: ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "\"In a highly specialized resource-based economy with a limited population of only a little over one million [1957], and lacking a diversified base of secondary industries? such projects by themselves are·of sufficient magnitude to create substantial cycles of growth and decline within the construction industry and indeed, throughout the economy as a whole. .. It becomes difficult to separate seasonal from capital factors contributing to the extreme fluctuations in employment in the constructionindustry of B.C.\"2 ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "This fluctuation has led building trade unions to demand immediate gains in wages or equivalent fringe benefits since they believe the employment goal of long-run job security to be highly impractical. A recession. will mean lay-offs in any 'event. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "The result has been a union leadership whose wage demands are generally sensitive to demand conditions in the product market. One or two unions have consistently managed to secure large wage increases during boom periods. The result has been the mimicry of these settlements in the demands of other construction unions whose contracts expire after the peak of activity. This has created a great deal of turbulence in labour relations in this industry. The $\\cdot$ incidence of strike activity has been high as well, as unions have fought to match the preceding settlements. Short-run inelasticity in.the labour .and product markets allows both unions and firms to raise wages and prices above any sustainable longer term level. The result is larger swings in construction activity than the acceleration principle alone would cause. ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "As was earlier hinted, the construction industry is peculiarly suited to the forwarding of labour costs into the product market. During expansion periods the demand for construction output is very inelastic. If wages rise simultaneously across the industry, then all construction bids are merely increased by that amount plus some allowance for expectations of future settlements which might occur while the project is in progress. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "As mentioned earlier, certain trades such as the labourers and truck drivers have had greater success in demands won than might have been expected due to the support of the skilled unions. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "\"The Building Trades Council in effect underwrites agreements in each trade and strengthens the hand of individual locals in negotiation by the threat of sympa-. thetic, industry-wide strikes.\"\"′ 3 ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "There exists, as well, an extreme job-consciousness among construction workers. Although wage negotiations are carried out on a trade-by-trade basis, there is extreme pressure upon the leadership to make bargains which will maintain the wage hierarchy. Thus it has often occurred that wages demanded a short time after the cycle has begun to turn down, will be based on a settlement in another trade just at the peak of the cycle. Strike action is especially marked in.this industry in the immediate postpeak period. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Technological change, the \"bug-bear\" of many unions, has had a very limited impact upon the construction trades at least as regards total employment. Unlike the more competitive, primary resource-based 4 industries, over-all labour displacement has remained slight. This means that a rapid rise in construction demand is likely to be directly passed into the labour market. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Levinson's spatial concentration concept has also had a role to play. To a large extent negotiations are carried out on the basis of Vancouver conditions. These conditions differ from those of the interior of the province, especially with regard to the degree of unionization. The result has been an increase in bargaining power for interior unions above that based upon their degree of organization alone. In addition the use of Vancouver hiring halls to fill interior project requirements has occasionally caused a shortage of labour necessary for Vancouver projects during levelling-off periods. This creation of an 'artificial'. shortage has aided union wage demands. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Thus the building trade unions to a large extent have been required to control only the membership in a small area -- the Lower Mainland of British Columbia. In addition the employers are normally greatly segmented and relatively competitive.' As Levinson pointed out, the degree of union bargaining power will be greater for segmented -- rather than industrially - concentrated industries due to the greater inability of employers to work together. The formation in 1970 of the Construction Labour Relations Association of British Columbia as a bargaining agent for the more than 600 construction firms in British Columbia, is an attempt to overcome the employer's handicap. The fact that it has difficulty in maintaining its membership and does not represent all British Columbia construction firms would seem to support Levinson's analysis. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "The hypothesis proposed is that the rate of wage change in the construction industry $(\\mathsf{w}_{\\frac{\\mathrm{i}}{\\cdot}})$ should vary directly with changes in the demand for construction output (Q). It is expected that as construction activity changes, union negotiators will adopt this change as their future expectation of demand change for employee's services. The rate of construction output change\"also indicates the\\*relative pressure that will be exerted on individual firms to settle. If demand is rising the firm will be anxious to complete projects in order to compete for more jobs. If demand is falling, the firm may not be very adverse to the complete shutdown of a strike as layoffs may be occurring anyway. Falling demand will certainly make firms adverse to any increase in labour costs. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "The change in output demanded is more predictable for construction than resource-based'industries since construction contracts are awarded in advance of production. In other industries large volumes of inventories may be maintained and future sales are rarely known in advance. To the basic wage determination equation developed in Chapter III a percentage change in dollar output term has been added. The Wx term has been removed due to the assumption that the construction industry is a \"wage leader.\" The equation tested then is: ",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\dot{\\mathrm{~\\boldmath~w~}}_{\\mathrm{c}}=\\mathrm{~\\boldmath~a~}+\\mathrm{~\\boldmath~b~}\\mathrm{~\\boldmath~+~}\\mathrm{~\\boldmath~c~E~}+\\mathrm{~\\boldmath~d~K~}_{\\mathrm{now}}+\\mathrm{~e~K~}_{\\mathrm{then}}+\\mathrm{~\\boldmath~f~}\\dot{\\mathrm{~c~}}+\\mathrm{~\\boldmath~g~D~}+\\mathrm{~\\boldmath~h~Q~}\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "The results after testing by a stepwise regression method are: ",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r}{\\dot{W}_{\\mathrm{c}}=1.2705+0.8624\\dot{0}}\\\\ {(1.1499)(0.1784)}\\\\ {[0.0002]}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=.5439\n$$",
+        "text_format": "latex",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Numbers in $\\cdots$ round brackets below the equation represent the standard errors. Those in square brackets'are the F-probabilities. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "This equation shows the change in dollar output variable to be significant at the five per cent level. Other variables tested were not found to be significant at the five per cent level using the stepwise method; the constant as well is close to being insrgnificant. This hypothesis explains more than 50 per cent of the variation of the rate of wage change during the time period.6, 7 ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "B. Logging (Coast) Industry ",
+        "text_level": 1,
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Unfortunately, it was found impossible to produce a more complete analysis of the logging industry in British Columbia: lack of data, or in many cases, data which were greatly suspect as to accuracy, required the entire exclusion of the logging industry of the British Columbia interior and allows an examination of coastal logging operations only. The two regions (coast and interior) operate as almost entirely different industries, except for the fact, of course, that many of.the larger companies operate·in both of them. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "The coastal operation was the first to be developed, and during the late 1940's and early 1950's its production exceeded that of the interior. As the tracts of mature timber on the coast diminished, the interior became more and 'more developed. Because of the different climate demand variables. The correlation coefficients expressing the relation of $\\between$ to $\\pmb{\\hat{\\mathrm{~E~}}}$ and $p$ are 0.0519 and 0.7487, respectively. In addition, a very high correlation coefficient of 0.8312 was found to exist between the rate of inflation, C, and Q. Strong multi-collinearity therefore exists. Running the equation without the $\\between$ variable yielded the equation: ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 63
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c}{\\dot{\\overline{{\\mathsf{W}}}}_{\\mathtt{C}}=\\mathsf{\\Pi}_{3.0717}}&{+\\mathsf{\\Pi}_{1.1909}\\mathsf{\\Pi}_{\\mathsf{C}}^{\\circ}}\\\\ {(0.9998)}&{(0.3213)}\\\\ &{\\mathsf{\\Pi}[0.0018]}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 63
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{~R}^{2}=0.4470\n$$",
+        "text_format": "latex",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Normal statistical procedure would require that the relationship between $\\mathring{\\ Q},\\mathring{\\ P}$ , and $t$ be established in order that the separate influences of each be discovered. In this case the relationship is simply unknown. The above equation therefore, cannot be considered a good explanation of the wage determining process in the construction industry. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Strong collinearity exists as well between the dummy variable and the rate of employment change. The correlation coefficient is 0.6515. This. is probably due to the fact that contracts are signed by some segment of this industry every year. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "and terrain of the interior industry, operations are different to those on the coast. Equipment used must be more intense to permit the extractio1 of timber. Different trends and forces are therefore expected to gperate upon the bargaining process. Unfortunately, while the forest industry is British Columbia's largest and most important industry, it is also the most devoid of reputable statistics. Government statistics at both the federal and provincial levels have not yet been able to summon the courage to break down the wall of protection surrounding the 'estates' of British Columbia 'lumber barons:' No doubt this 'data gap'has:served to. increase the turbulence of industrial relations in this industry. The data obtained' on coast logging operations can therefore be viewed as approximate only. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Like other natural resource industries in British Columbia, logging must be considered relatively competitive. Three-quarters of its production is sold in the world market where prices are set by market forces due to the high elasticity of lumber demand. And like the mineral industry (discussed later) the logging industry is well-suited for the replacement of labour by labour-saving equipment as labour costs rise. The fact that output over the 1949-1968 period has risen by 89 per cent, while labour employed has fallen by 2l per cent, with money wages rising by 168 per cent, demonstrates this fact very well. Developments of the power saw and more efficient methods of timber transportation have especially contributed to labour replacement. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "However, more than in the mineral industry and certainly more than in construction, logging operations are suited to a high degree of industrial concentration. While there are several logging companies operating in this industry, the manner in which timber lands are licensed has permitted six or seven very large firms to exercise an indirect control over the industry. Recently the power of these firms has become more direct as they have diversified within the context of other forest product operations (e.g, pulp and paper, hardboard, rayon and synthetics).8 This trend has led to a need for greater union co-operation across industries. Often, however, there has been more misunderstanding and mistrust than $\\cdot^{\\cdot}$ co-operation due to the fear by unions of the loss of control in certain jurisdictions. To a large extent the employers have encouraged this lack of co-operation. The recent experience of Forest Industrial Relations (F.I.R.) (negotiators for ll6 logging companies) walking out of a bargaining session in March 1970 due to the presence of multi-union negotiators seems ample proof of this attitude. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "This emphasizes Levinson's contention that the greater the degree of industrial concentration and the smaller the degree of spatial centralization, the smaller the degree of union bargaining power will be: Chart II demonstrates that logging wages have lagged considerably behind those of the construction industry. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "The fact that provincial government regulations concerning union certification do not allow centralization of union bargaining, but insist on local-by-local certification has helped to create unfon weakness. The link between union negotiators and the union membership is weakened. The negotiators are members of the International Woodworkers of America (I.W.A. regional office. Conditions vary from local to local and the defeat of a strike vote by any local considerably weakens the bargaining position of the. negotiators. The result has been the use of a memorandum of agreement policy, whereby mutually acceptable wage rates, hours of work, working conditions are set up between F.I.R. and the I:W.A. which must be ratified local by local and company by $\\because$ company. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "In addition, the constitution and internal politics of the I.W.A. has not helped to offset this decentralization. Stuart Jamieson sums it up this way: ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "\"The union is too democratic in structure and procedures to function effectively in a multi-employer bargaining system, in an industry that is becoming increasingly centralized in its operation.\" 10 ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "When this is coupled with the ideological differences between the leaders of various locals; the result is a relatively weak bargaining unit. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "The history of the union movement in British Columbia's logging industry has been characterized by unrest and instability; tremendous pressure has been exerted upon the leadership to compete with various wage settlements in other industries. The industry with which loggers are most likely to compare themselves is that of construction. Both industries are particularly subject to seasonal unemployment (construction less so in more.recent years).· In addition, cyclical adjustment.of in-- vestment, output, and employment are similar between the industries. Skiil requirements, particularly in mechanical work and maintenance, are similar or identical in many cases, yielding yet another source of jurisdictional dispute. · Control over the same workers-has long been a 'bone of contention' between the unions of these two industries. Intense 11 bitter rivalry for leadership and prestige has naturally been the result. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Testing of the wage determination model for coast logging therefore included the hypothesis that the rate'of wage change in the construction industry $\\mathbf{\\Sigma}^{(\\mathrm{{W}}}\\mathbf{\\Sigma}_{\\mathrm{{c}}})$ is expected to have considerable influence on the I.W.A. $\\boldsymbol{\\cdot}_{\\mathsf{s}}$ wage demands. Results found were: ",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r l}{\\dot{\\mathsf{W}}_{\\mathrm{1og}}=2.1620}&{{}+\\ 0.5242\\ \\dot{\\mathsf{W}}_{\\mathrm{c}}}\\\\ {(1.0832)}&{{}\\ \\stackrel{()}{\\ }_{\\mathrm{i}}^{\\mathrm{0}}.1554)\\ \\mathrm{c}}\\\\ {\\dot{\\mathsf{I}}0.0034].}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{\\boldmath~R}^{2}=\\frac{\\phantom{1}}{\\phantom{1}}\\cdot3874\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "when a simple regression of $\\mathbf{\\ddot{\\rho}}_{\\mathbf{c}}$ was run against $\\mathsf{w}_{\\mathtt{i o g}}$ the rate of wage change in logging. The complete model gives us: ",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathsf{R}^{2}\\cdot\\mathsf{\\Omega}=\\mathsf{\\Omega}\\cdot7099\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{~\\tt~R}^{2}=\\tt\\Omega\\cdot8320\n$$",
+        "text_format": "latex",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "The results show that while $w_{c}$ is able, by itself, to explain almost 40 per cent of the movement of $\\mathtt{w_{1o g}},$ when combined with the other variables it no longer remains significant. Employment change, cost of living change, and contract timing are together able to account for over 80 per cent of the variance of the rate of wage change in the coast. logging industry. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "The significance of the employment variable is rather surprising, since as was .earlier pointed out, wages have generally risen while employment has fallen. The relationship between the two stems, however, from short-run adjustments. An expansion in labour demand has been accompanied by a rise in wages. On the other hand, it is safe to conclude that the $\\cdot$ overall contraction of the labour demand has contributed to the lower $\\cdot\\cdot$ wage rate prevalent in logging, as compared to the construction industry. This is $\\cdot$ in general agreement with earlier conclusions that the rate of technological displacement has been greater for logging than for $\\mathbf{\\epsilon}\\cdot\\mathbf{\\epsilon}$ construction. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "The significance of C lends support to the conclusion that political forces are very important. On the other hand, the suspicion exists that there may be a strong positive relationship between C and Wx. This arises particularly because wage changes are measured in money terms. An examination of the correlation matrix for this industry shows a correlation coefficient of only .6756 between Wx and C.^ Using the general \"rule of thumb\" of accepting an equation if the correlation coefficients $\\boldsymbol{\\mathrm{\\tt~R}}^{2}$ 12 are lower than the , the above results are valid. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "In addition, the .relatively large increase in money wages observed (168 per cent), despite the degree of employment contraction (21 per cent) leads to the conclusion that independent union bargaining power is effective over and above the constraint of the forestry labour.market. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, the significance of the dummy variable indicates that general economic conditions may exert some influence on the wage settlement.· Because the timing of I.W.A. contracts has tended to occur more often during rececession periods, the rate of wage increase has been 13 less than it otherwise might have. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Of particular importance here is.the fact that while the I.W.A. has often based wage demands upon current or past construction demands and settlements, economic conditions surrounding the two are often very different. The construction business cycle tends'to lag one or more years behind other industries. While construction activity may be at a peak and wage settlements high, other industries may already. be in a severe slump. Thus wage demands, while based on a series ·of political considerations, will be tempered by the general economic conditions of the industry. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "It is concluded that the logging settlement is a mixture of the two forces. - economic and political. While wages seem to be higher than a level that economic forces would cause in the absence of unions, at ·the same time, they seem to fall short of a level based on political considerations' alone. ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "C.\\` Sawmilling ",
+        "text_level": 1,
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "In many respects the analysis of sawmilling and logging should be combined and carried out together. The relationship becomes rather complicated, however, 'since some union locals: represent both loggers and sawmill workers, while others represent only .one group or the other. Wage negotiations $\\cdot$ for the two industries are often carried out at the same.time, and yet a few locals provide an exception by being more .14 specialized. Firms with whom the negotiations are made are, to .a large degree,\" identical. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Because data are more complete (D.B.s. The Lumber Industry) for sawmilling operations, it is possible to include both the coast and interior operations. However,. it is impossible to treat them as separate industries which would have been preferable, since separate wage data' were not available. The results given are an average of the twos-- hence, a second reason for the separation of .the logging and sawmilling industries into two parts. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "To some extent the sawmilling industry, both on the interior and coast,.has differed from coast logging in trends. Output in sawmilling rose by more than 140 per cent from 1949 - 1968. Employment has risen generally by approximately 17 per cent and wages have risen by 150 per cent. These figures are biased to a degree by the aggregation of coast and interior industries.. Coast sawmilling has suffered a substantial decline in employment, nearly 30 per cent greater than that in coast ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "logging accompanied by.a 50 per cent output increase. The interior, on the other hand.-- the more recently developed region -- has had output and employment during this period rise by 400 and 67 per cent, respectively. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "It is rather obvious from both cases that substantial capitalsubstitution for 'labour has occurred. The product market for sawmill products is similar to that for logging. It is very competitive in the world markets, with an almost infinitely elastic demand curve. Because of the similarity between companies ·and unions involved in bargaining, the problems regarding. spatial and industrial concentration earlier mentioned for logging are the.same. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "The hypothesis then is that the rate of.change of.wages in the sawmilling industry $\\mathbf{\\nabla}\\cdot(\\tilde{\\mathbf{w}}_{\\mathbf{s}}^{\\cdot})$ will be determined to a large extent by the rate of wage change in the logging industry. The equation becomes: ",
+        "page_idx": 71
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c c c c}{{\\dot{\\overline{{{W}}}}_{\\mathrm{\\bf{S}}}}}&{{={\\bf{-\\bf{\\Theta}}}0{\\bf{.1998}}}}&{{+}}&{{0{\\bf{.8864}}\\mathrm{\\bf{\\dot{W}}}_{{\\mathrm{\\bf{.1og}}}}}}&{{\\qquad{\\mathrm{\\bf{R}}}^{2}~=~{\\bf{.5715}}}}\\\\ {{\\mathrm{.}}}&{{({\\bf{1.1258}})}}&{{}}&{{({\\bf{0.1861}})}}&{{}}&{{}}\\\\ {{\\mathrm{.}}}&{{}}&{{[0{\\bf{.0002}}]}}&{{}}&{{}}&{{}}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "No other variables were found to .be significant'at the five per cent level. . Using a stepwise 'regression method the hypothesis is supported by the.empirical results. The constant is also insignificant. The equation predicts that an increase of five per cent in the logging wage rate will be matched by a 4.4 per. cent increase.in sawmill workers' wages. Theresults seem .to support Ross'.\"orbit of coercive comparison\" hypothesis. ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Since sawmilling is a secondary process in the forest products industry, there is some question as to whether the relationship found between wage movements of sawmilling and.logging might not be the result of : ",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "similar demand forces in both industries. It has already been pointed out that the markets faced by each are similar. To determine if this is the'case correlation matrices were set up which show the relationship between output per man-hour in each.industry and the rate'of change in. employment in each industry. (These are shown in Tables VII and VIII). Correlation coefficients were found between ${\\tt P}_{\\tt S}$ and $\\mathtt{P_{10\\dot{\\mathbf{g}}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}}\\mathtt{\\Omega}_{20\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{20\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{20\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{10\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{20\\dot{\\mathbf{g}}},\\mathtt{\\Omega}_{20\\dot{\\mathbf{g}}},$ and Eg and E. S 1og of 0.1679\"and $0:4774$ respectively. These values indicate that the relationship, if it exists, is relatively weak. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "D. Pulp and Paper ",
+        "text_level": 1,
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Pulp and $\\cdot$ paper is the last member of the industries.which are generally ciassified as the \"forest products\" industry. In many respects pulp and paper.resembles those characteristics already described for the other two: its markets are international, there is a high degree 6f competition, .demand is price and income elastic, and the major part of its production is exported. Several of the largest companies operate in ail three industries, and thus settlements made by a company in'one sector are emphasized in negotiations dealing .with other sectors.. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "These similarities as noted earlier have created pressures for co-operation and possibly amalgamation of the I.W.A. (servicing .logging and' sawmilling) and.the International Brotherhood of Pulp, Sulphite and Papermill Workers and the Pulp and Paper Workers of Canada. The Pulp and Paper Workers of Canada (PPwc) has been only recently formed.\" It represents a group of workers who were dissatisfied with the policies of - the older International Brotherhood' of Pulp, Sulphite and Papermill Workers ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "The emergence' of this new .union has seen increased militancy in.the pulp and paper industry.. Strikes have occurred' .twice in' the past three years whereas previous history had seen only.one'strike in over 40 years. The result has been increased competition between unions for jurisdiction, with a lessening of the degree of co-operation between unions of the same industry and.other industries as $\\cdot\\cdot$ well. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "At the same time there exists a wide divergence between pulp and paper and the other two forest industries. Pulp and paper is the most capital-intensive industry with no small independent operators. Demand for ouput has grown at a phenomenal rate --- by 1967 real output had expanded nearly $\\cdot$ five times above the 1949 level. Employment increased nearly three-fold during the same period, while wages rose by more than 150 per cent. The increase in employment' of this industry, of course, stemmed mainly from the rapid rise in output.. The industry also has been highly mechanized and, while certain jobs have been replaced'by machines over a period of several years, it is perhaps safe to say that the replacement rate has $\\cdot\\ \\cdot$ not been as high in this industry as in a number of others. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": ".The militancy of B.C. pulp and paper wo'rkers generaily has been low. 0nly .in 1957-58 and 1966-67-have strikes\\*occurred. The bargaining policy has usually been to wait until coast ·lumber $\\ddots$ negotiations have been completed and then settle for approximately equal percentage increases. Thus pulp and paper workers have largely avoided the costs of strike action These costs are.largely borne by members of the logging industry, whose? settlement is then imitated. Professor Jamieson points to the differences of job security and employment conditions.as being a major obstacle to their amalgamation.15 This high degree job security in pulp and paper has·resulted chiefly from the rapid expansion of the industry. Logging and sawmilling have .experienced no comparable expansion. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "The hypothesis for pulp and paper 'is similar to that of the sawmilling industry. Pulp and paper, like sawn lumber, is most comparable to logging.. Both are secondary stages of production. ",
+        "page_idx": 74
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=\\frac{1}{2}7097\n$$",
+        "text_format": "latex",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "In both the equations the ·constant is insignificant, as are all other unmentioned'variables, at the five per.cent level. The rate of wage change in logging can explain 50 per cent of the variance in. the rate of pulp and paper wage change. When the change in employment is added the equation explains over 70 per cent of the wage variance.\" The results. indicate that given a five per cent increase' in wages in logging wages, one $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ can expect almost a'four'per cent increase .in pulp and paper wages if'employment is constant:. The finding that there is less than a one-to-one relationship between wage movements in the two industries appe correct, for while wages in pulp and paper tend to be higher than those in logging, the movement of wage levels (as. given in Chart II) approximately coincides in absolute terms.\" In other words, each industry must receive approximately equal money increases with the absolute differential being maintained. (See Chart II). The results for this industry would seem to show that the wage change is the result of .a mixture of economic and political forces. ",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "Again, similar. to the sawmilling industry, there exists the ques-- tion of whether the demand for the products of the pulp and paper and logging industries might be so .closely'tied that it is the movement of demand which causes the similarity of wage movements in'the two industries rather than political forces as outlined above: Again, however, Tables VII and VIII indicate that this demand relationship is not strong. ",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "E.·Mining ",
+        "text_level": 1,
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "The British Columbia mineral industry, like other. primary-based. industries and unlike constriction, cannot be considered a price-maker in any way. Much like .the proverbial 'farmer! in introductory economics courses,. mining firms are forced to take prices as they are determined in the international market. ",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "For .this reason, emphasis upon wage increases $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ in union demands unaccompanied by. large increases in demand for output would result in substantial employment adjustment. Real output, in fact, remained remarkably stable from 1949-1960, and during this period labour'demand fell by approximately 35 per cent. Mineral wages, although they rose by approximately 80 per cent, remained near the bottom of the wage hierarchy examined. ",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "A $\\cdot$ high degree of capital-substitution for labour must have occurred during this period. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "During the expansion which followed in the $1960^{\\prime}{\\bf s}$ , one would expect a further wage increase, but at the same time, a lesser degree of employment contraction. Management is expected to maintain the capitalsubstitution $\\cdot$ trend since a large increase in labour demand would merely stimulate wage increases. Labour can be expected'to be in short supply since it has been known that employment opportunities have been few in the industry for several years. Mining wages have also been considerably lower than other industries. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "Of primary importance also is' the fact'that ore grades are falling. As mines of lower and lower mineral concentration are put into production, emphasis is placed on larger and larger production volume. This naturally requires producers to use more and more heavy equipment. The capitalintensive nature of the mineral industry is probably the result of both increasing labour costs and the need for mass volume due to mineral exhaustion. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "During the period 1961 - 1968, real output increased by more than 70 per cent; labour employed rose by approximately 25 per cent, while wages rose by 50 per cent. Throughout the entire period .examined (1949-1968) real output rose by more than 75 per $\\cdot$ cent accompanied by a wage increase of 169 per cent. 0verall employment change was $\\cdot\\cdot$ a'decline of 16 per cent. Wage goals seem to have been emphasized'over employment objectives. Des-- pite.this the union has remained at the bottom of the wage structure under examination. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "An official of the Mining Association of British Columbia emphasized in an interview that the nature of the bargaining procedure in the mineral industry in this province has always been on an individual basis. Industry-wide bargaining has never been encouraged except by a few international union leaders. The nature of the industry varies so greatly from location to location that issues of prime importance in.one area may. be very much 'dead' 'in another. Emphasis has always been placed on firm and local bargaining -- or at most bargaining on a narrow areawide basis. At the same time it was mentioned that a pattern of similarity in wage settlements was evolving. To some'extent then the degree of aggregation necessary to perform a regional analysis may distort the results in this industry. ",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "It is hypothesized that the mineral industry, because of certain similarities with the forest industry, tends to seek comparable $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ wage. settlements. A management official stated that coast logging, in particular, played a large role in wage offers. Both industries are resourcebased, the markets in which the products are sold are similar in that both are interniational and the demand curves faced by each are relatively elastic. ",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "The: loggers have normally been much more militant than mining unions. at least in British Columbia and, similar to the situation described for the pulp and paper industry, logging has been used to 'break the ice' for wage $\\mathbf{\\nabla}\\cdot\\mathbf{\\mu}$ settlements. ",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "Results of testing were: ",
+        "page_idx": 77
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c}{{\\mathsf{W}_{\\mathbb{M}}=0.2277}}&{{+\\ 0.9849\\ \\dot{\\mathsf{W}}_{1\\circ{\\bf g}}}}\\\\ {{(1.5913)}}&{{(0.2583)}}\\\\ {{}}&{{[0.0013]}}\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 77
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=\\frac{1}{2}4468\n$$",
+        "text_format": "latex",
+        "page_idx": 77
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=\\frac{1}{2}793\n$$",
+        "text_format": "latex",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "Logging alone is. able to explain $\\cdot\\cdot$ nearly 45 per cent of the variance in the rate of change .of mining wages. The addition of lagged profits an the dummy variable increase this explanation to nearly 70 per cent. The sign of the lagged profit-sales ratio is, however, opposite to that expected. The obtained result indicates that the higher the level of profits in the past year, the lower.will be the rate of present wage increase. This decreases the reliability of this equation. ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "The significance of the dummy variable, D, indicates that the timing of the.contract expiry $\\cdot^{*}$ date (i.e., whether it occurs .during ex-. pansion or recession) may play a role in determining the size of the wage 16 increase. ",
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "An interview with a mining management official left the impression that while coast logging may play a'role in their offer, the settlement made in the forest products industry as a whole would influence bargains reached. Settlements made in pulp and \\*paper were often mentioned during the discuission. This led to a test of the wage equation with ·the average rate of wage change in all $\\ddots$ forest products $\\cdot$ substituted for that of coast logging alone. The results proved the \"impression correct. ",
+        "page_idx": 78
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=\\cdot7476\n$$",
+        "text_format": "latex",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Seventy-five per cent of the $\\cdot^{\\cdot}$ variance.of the rate of change in mineral wages can be explained by the movement'of wages in forest product industries. All other variables are insignificant at the five per cent level, the constant is close to being insignificant as well. Equation (lo) shows that a five per cent increase in wages in forest products results in a six per cent increase in mineral wages. This may. indicate that mining wages have tended to follow forest product movement by:equal increases in absolute terms.^ Chart II supports this conclusion ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "F. Water Transportation ",
+        "text_level": 1,
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "A regional analysis attempting to deal with the water transportation industry encounters several problems. There are essentially three divisions of workers in $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ the industry: ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "(l) vessel crews of international vessels; (2) shore workers -- mainly warehousemen and longshoremen; and (3) vessel crews of local vessels which work along the British Columbia coast and on the rivers of the Mainland. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "This $\\mathbf{\\partial}\\cdot\\mathbf{\\partial}$ last group includes mostly .tugboat and barge crews.. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "The first group cannot be examined in this study since the factors influencing the wage determining process obviously lie outside the range of this analysis. For this group international forces will play a large role in the determination of the wage rate. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "The second group, shoreworkers, are very closely affiliated with their American counterparts through their union:  The result is a large influence of external forces. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "The third division, coast and inland vessel crews, are more influenced by regional factors than the others because their tie with the international union is not as strong as that of shore workers; and in addition the products they handle are, to a large extent, local products, chiefly those of the forest products industry. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Beyond the international ties that exist among the union leaders, lies the fact that water transportation is within the jurisdiction of the federal government. Arbitrators and mediation commissions appointed to deal with collective bargaining agreements in this area will often be from areas outside the British Columbia economy and will tend to introduce influences external to the British Columbia setting. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "It is not to be concluded from the above discussions that the British Columbia economy is assumed isolated from the world around it, but rather that the British Columbia economy contains many characteristics that differ from those in the rest of Canada. This analysis is an attempt to isolate these regional characteristics in order to determine their influence on the wage pattern. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "For all of the above reasons this analysis is limited to an examination of the wage determination process for coast and inland vessel crews. In addition to the above arguments some of the large logging companies maintain their own water vessels to handle log booms.. It is natural to suspect that members of the Merchant Seamen's Guild will ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "align themselves most closely with workers in the forest products indsutry. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "In Levinson's terms of analysis the two industries do, however, differ. While lumber is dominated by 'a few very large firms, water transporation is composed of many small firms which must be considered highly competitive for contracts. In addition, it may be safely stated that the majority of these firms are concentrated in a few key areas -- mainly Vancouver, Victoria and Prince Rupert. The result is that bargaining power is expected to be relatively greater for unions in water transportation than for those in logging. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "The results of the wage determination equation are: ",
+        "page_idx": 81
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{c c c c}{\\dot{\\mathbf{W}}}&{=}&{0.0156}&{+}&{1.1165}&{\\mathbf{\\dot{W}}_{\\mathbf{f}_{\\texttt{p}}}}\\\\ &&{(1.6268)}&{(0.2523)}&\\\\ &&&{[0.0004]}&\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "The constant is obviously insignificant, as are all variables other than the rate of wage change in the forest product industries as a whole (sawmilling, logging, and pulp and paper). According to the results this variable is able to explain over 50 per cent of the. variance in water transport wage change. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "The coefficient of $\\mathtt{W_{f p}}$ ,1.ll65, can be interpreted to show that a five per cent increase in forest product wages will be followed by a 5.6 per cent increase in water transport wages. The fact that the coefficient is greater than one lends support to Levinson's hypothesis that union bargaining power for less-industrially concentrated, more spatiallycentralized industries is greater. The difference between wages in these industries is narrowing, at least in percentage terms. (See Chart II for absolute movements). While forest product industries pay hourly wages that are, in absolute terms, higher than those in the water transport industry, the percentage rate of wage change in water transport has exceeded the percentage rate of change in forest product industries to cause a narrowing of the wage differential in absolute terms. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "The question of whether the movement of wages in the three forest product industries and water transport is due to the relationship in demands is again encountered. The correlation matrices given in Tables VII and VIII do not support this. ",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "G.·Summary ",
+        "text_level": 1,
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "Table VI raises suspicions that the empirical results of the preceding sections cannot be relied upon to support the causal relationships that are hypothesized to exist between wage settlements in the various industries. Table VI shows that a high correlation coefficient exists between the rate of wage change in each'industry. This means that the settlements in almost any industry could be found to be as significant as that of the hypothesized industry in explaining the wage movements of another. ",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "This result, however, should not be surprising if, as was pointed out at the beginning of this chapter, the wage hiearchy has remained constant over the period of analysis. If emulation is the chief factor in determining wage settlements, then similar wage movements are to be expected in all industries. ",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "The result is that the student of industrial relations cannot rely on empirical models alone to demonstrate causality. First-hand knowledge of individual labour market relationships will probably be the more reliable tool of analysis.: ",
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "It must be emphasized that there is no attempt here to generalize the findings for the British Columbia economy to other regions. The study is to be interpreted as an examination of the characteristics of six British Columbia industries only. ",
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "THE INTER-INDUSTRY WAGE STRUCTURE ",
+        "text_level": 1,
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "The results show that both Dunlop's wage 'contours' and Ross' wage 'orbits' seem fairly realistic in their description of the wagedetermining proces. Both of these concepts represent a relaxing of the earlier hypotheses of each. Indeed the comparison method of wage determination would seem to be very much present in the British Columbia economy. This chapter takes a close look at the wage structure which exists between these six industries. ",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "Chart II shows that a definite wage structure does exist in British Columbia and that, similar to Sylvia Ostry's findings for the whole of Canada, the wage hierarchy has been generally maintained over the 21-year period. ",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "This study does not conclude, as Sylvia Ostry does, however, that employment change has been the most important variable determining the movement of wages. Employment change was found significant in only two industries, and even then, the causality was very weak in one of these .(a change of one per cent in logging employment will cause a wage change in that industry of only .084 per cent, assuming all other factors fixed). In pulp and paper, where tremendous expansion has occurred, employment has risen to a large degree and played a role in explaining wage movements. On the other hand, while there has been a much larger expansion in construction real output over the same period (constructionreal output has risen by 426 per cent and pulp and paper increased by 386 per cent in the 1949-1967 period), employment change does not seem to have played the role that it has in pulp and paper. Employment change was not found to be significant in tests of the construction industry. ",
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "Again in agreement with Sylvia Ostry's findings, it is concluded that the measure of output per man-hour does little or nothing to ex2 plain the movement of wages in the various industries. ",
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "The hypothesis that the level of profits should represent the ability of the firms in the industry to pay.was not proven. Conclusions\" concerning the significance of the change in the cost of living index must be considered only tentative as there is a strong suspicion that the relationship discovered might be spurious due to the presence of multi-collinearity. The discovery of this variable's significance in the logging industry may, however, lend support .to Reder's analysis in which he argues that within the bargaining range the two sides will use any variable to support a wage settlement in their favour. That the dummy $\\cdot\\cdot$ variable was found to be significant in two industries indicates that signing a contract.during a boom period may influence the wage settlement that results. However, the latter variable is highly suspected of collinearity with the demand variables. ",
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "Various studies have examined other variables that have not, as yet, been examined here. Dunlop suggests that the ratio of labour costs to total costs may serve to determine the union's bargaining power. This test has been adapted somewhat by using instead the ratio of labour costs to total value output. This is analogous to Dunlop's argument in that industries in which the share of the total output going to labour is lowest, it is also expected will have the greatest bargaining power. As was explained in $\\cdot\\cdot$ Chapter II, those industries in which labour costs form a very small part of the total value of production will be more able to pass on wage increases. The formation of a union in these industries will often bring wage settlements above those which would have been expected in the absence of unions. Table III gives a summary of these average ratios for the six industries during the period 1949-1967 along with the percentage increase in wages for the same period. No correlatio? can be found between the two variables. ",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "There would seem to exist substantial evidence that within a range, at least, unions do exert considerable bargaining power. Wages have consistently increased throughout the 2l years despite falling employment in several industries and large fluctuations in output per manhour. Wage rates have often moved counter to the direction in which economic conditions are expected to cause them to move. It is safe to state that in the industries examined, wages are generally above that which one would expect them to be if unions were absent. ",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "As an individual test to determine whether the hypothesis that the construction industry settlements represent 'key bargains,' a simple regression equation was run using the rate of wage change in construction as an independent variable to explain the average rate of wage change in the five other industries. Results were: ",
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 87
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\begin{array}{r}{\\dot{\\bar{\\mathsf{W}}}_{\\mathtt{I}}=2.181\\ +\\ 0.5385\\ \\dot{\\bar{\\mathsf{W}}}_{\\mathtt{c}}}\\\\ {(1.209)\\ \\quad(0.1734)\\ }\\\\ {[0.0060]\\ }\\end{array}\n$$",
+        "text_format": "latex",
+        "page_idx": 87
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{~\\boldmath~R~}^{2}=\\frac{\\sqrt{489}}{\\sqrt{5}}\n$$",
+        "text_format": "latex",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "This indicates that construction wage settlements are able to explain more than one-third of the variance in the movement of wages in other industries. Given the fairly complex wage structure which. has already been described to exist in British Columbia, it may be concluded that settlements in the key industry do have a significant impact on the rest of the economy. In addition the results show that an increase of five per cent in the construction settlement would be followed by a 2.7 per cent average increase in the otherffive industries. This reflects the relatively weaker bargaining position of unions in the other industries. ",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "Table IV shows that during the 2l-year period studied the wage differential between the highest-and lowest-paid industries increased in absolute terms from 36 to ll5 cents (a more than threefold increase). This increase is attributed to the emphasis that unions place on equality of increases in percentage terms. The $\\mathbf{\\nabla}\\cdot\\mathbf{\\varepsilon}$ result is that approximately equal percentage increases for all industries will mean an absolute increase greater for:the more highly-paid industries than the resulting absolute increase in the lower-paid industries. Widening of the industrial differential occurs in increasing absolute amounts. ",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "During the period examined there have been occasional tightenings of the differential in certain periods. This tightening has occurred especially among the various members of the forest products industry. Tradition states that differentials should narrow during boom periods because low-wage industries are $\\cdot$ forced to raise wages in order to maintain or recruit workers in a tight labour market. Chart II indicates that for the forest product industries, at least, the differential narrowed substantially in the boom years 1951,1957 and widened during the slacker years in between. The $\\boldsymbol{1960^{\\prime}s}$ , however, seem to show little of these trends. The other industries show a negligible trend in movement of differentials. ",
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "While Sylvia Ostry was unable to fit her data for the whole of Canada with the above hypothesis, it would seem that in the British Columbia economy, the forest products industry has $\\cdot\\ \\cdot$ exhibited these trends. The widening of the differential during the $\\boldsymbol{1960^{\\prime}{\\mathsf{s}}}$ may be the result of wages being increased in those industries most able to pass labour costs forward into the product market (construction). The resource-based industries are always constrained in bargaining by an elastic international demand curve. ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "It is concluded that wage differentials, instead of being narrowed as classical theory hypothesizes, have,.due to the comparison of wage settlements across industries which place emphasis on percentage rather than ab-. solute wage changes, increased with. time. As Melvin Reder has pointed out: ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "\"In economic theory, the forces of competition are supposed in the long run to eliminate, or in the event of imperfection, to curb wage differences that?firms or industries in the labour market can pay. But·these forces require time to operate and can be costly to those who fail to judge market forces correctly; conse-. quently, to insure that he does not depart too far from his wage target, an employer can do far worse than to simply emulate others.\" 3 ",
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Finally, it must be conceded that the applicability of the abov. findings is limited because the study has been confined entirely to the British Columbia economy. Certainly outside factors will play a significant role in certain bargains. The fact that the wage equation for the construction and water transportation industries is able to explain just slightly more than 50 per cent of their respective wage movements indicates that some explanatory: variables are missing. This should not be surprising ,for as mentioned in the sections on each industry, there are external wage comparisons to be made as well as internal factors to be considered that enter from industries omitted. ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER VI ",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "ACONCLUDING SYNTHESIS ",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "Empirical results support on the whole, the earlier claim that the Ross-Dunlop debate is not an either-or problem. Both arguments may be incorporated into a total analysis which gives a much better explanation of wage-determining forces. ",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "It was found that in certain industries employment and output per man-hour changes, which represent economic determinants are significant in explaining wage movements. Meanwhile, in the same industries, political variables such as the rate of wage change in the most comparable industry or the cost of living change were found to be significant as well. ",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "This all adds support to the contention that the collective bargaining process is a political procedure carried out in an economic environment. The firm is basically an economic institution. Unlike traditional theory however, it can no longer maintain that the assumption of the firm being strictly profit-maximizing is correct; instead some compromise must be made. It is more reasonable to think that management, in making a wage offer, must make a trade-off between certain economically-constrained variables. That these variables are purely economic and that the wage settlement offered will be uniquely determined does not necessarily follow. ",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "The union, a basically political institution, is also forced to make trade-offs between economically-constrained variables when making a wage demand. In addition neither institution will be above attempting to politically distort the view that its opponent has of prevalent.economic conditions. Ultimately both organizations attempt to maximize their respective general welfares Whether profits, employment, political power, the total wage bill, or some other variable is emphasized in bargaining will be the result of trade-offs made by the leaders of either side along their respective indifference curves as to the respective priorities of each variable. ",
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "The wage-decision process eventually approximates the analysis given by Pen or Mabry in which both unions and management realize the economic constraints and attempt to politically manoeuvre the wage rate within the existing range. The end settlement is a series of bluffs and counter-bluffs, appeals before arbitrators and mediators which vaguely refer to economic 'justification' for their demands or offers, but which 1 place no solid faith upon such justification. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Reder has attempted to explain the range in which non-economic factors can affect the equilibrium value of the wage rate as varying directly with the ratio of labour to total cost for the firm, and inversely with the ability of the firm to pass on increased wage costs 2 to its customers. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Except in construction, the power of firms to pass on wage costs is limited for the six industries examined. This may mean that the bargaining range is more severely limited in those five industries. Attempts to imitate the settlements made in the construction industry will not be economically possible. Increased frustration in bargaining and turbulent strike activity are likely to occur. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, a definite wage structure is found to exist between British Columbia's most important industries. The structual concept can be worked into with the synthesis of the economic-political arguments outlined above. It is hoped that this synthesis will prove beneficial in further analysis of the wage determination process. ",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "BIBLIOGRAPHY' ",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "Backman, Jules. Wage Determination. (New York: D. Van Nostrand, 1959).   \nBhatia, R. J. \"Profits and Rate of Change of Money Earnings in the U.S., 1935-59,\" Economica, Vol. xxIx (August, 1962), Pp. 255-62.   \nChamberlin, Edward. Theory of Monopolistic Competition. (Cambridge, Mass.: Harvard University Press, 1931).   \nClark, J. B. The Distribution of Wealth. (New York: Macmillan Co., 1899).   \nDouglas, Paul. Real Wages in the United States, l890-l926.. (Boston: 1930).   \nDunlop, J. T. \"Productivity and the Wage Structure,\" in Income, EmpZoyment and Public Policy: Essays in Honour of Alvin H. Hansen. (London: W. W. Morton and Co., 1948), Pp. 341-62. \"The Task of Contemporary Wage Theory,\" in The Theory of Wage Determination,(ed.) J. T. Dunlop (London: Macmillan and Co., 1964). Wage Determination Under Trade Unions. (New York: Augustus M. Kelly, reprinted 1966).   \nEckstein, O. and T. A. Wilson. \"The Determination of Money Wages in Ainerican Industry,\" Quarterly Journal of Economics, Vol. LxxIV (August, 1962), Pp. 379-414.   \nFabricant, Solomon. \"Introduction,\" in J. W. Kendrick, Productivity Trends in the United States. (National Bureau of Economic Research, Princeton University Press, Princeton, N.J., 196l).   \nFriedman, Milton. \"Some Comments on the Significance of Labour Unions for Economic Policy,\" in The Impact of the Union (ed.) D. M. Wright, (New York: Kelley and Macmillan, 1956), Pp. 204-34. ",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "Garbarino, J. \"Inter-industry Wage Structure,\" Quarterly Journal of Economics, Vol. LXIV (May, 1950), Pp. 282-305. ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "Globe and Mail. \"Report on Business,\" (Toronto: July 7, 1970),·p. 1.   \nJamieson, Stuart M. General Characteristics of the B.C. Construction Industry, unpublished manuscript, The University of British Columbia. \"Multi-employer Bargaining: The Case of the B.C. Coast Lumber Industry,\" paper presented to the Annual Conference of the Canadian Industrial Relations Research Association, Ottawa, June 16, 1970. \"Regional Factors in Industrial Conflict: The Case of British Columbia,\" Canadian Journal of Economics and Political Science, Vol. 28 (August, 1962), Pp. 405-16.   \nKendrick, J. W. Productivity Trends in the United States. (National Bureau of Economic Research, Princeton University Press, Princeton, N.J.;1961).   \nKerr, Clark. \"The Impact of Unions on.the Level of Wages,\" in Wages, Prices, Profits and Productivity (The American Assembly, Columbia University, June 1959). \"Wage Relationships: The Comparative Impact of Market and Power Forces,\" in The Theory of Wage Determination (ed.) J. T. Dunlop (London: Macmillan, 1964),Pp. 173-93.   \nKuh, Edwin. \"A Productivity Theory of Wage Levels: An Alternative to the Phillip's Curve,\" Review of Economic Studies, Vol. xxIv (October, 1967), PP. 333-60.   \nLansing, J. B., _and Eva Mueller. The Geographic Mobility of Labour. (Chicago: Institute Research Centre, 1967).   \nLevinson, H.: \"Concentration and Wage Changes: Toward A Unified Theory,\" Industrial and Labour Relations Review, Vo1. 20 (January, 1967), PP. 198-206.   \nLevinson, H.· Determining Forces in Collective Wage Bargaining. (New York: John Wiley and Sons, 1966).   \nLewis, H. Gregg. Unionism and Relative Wages in the United States. (Chicago: University of Chicago Press, 1963).   \nLipsey, R. G. \"The Relation Between Unemployment and the Rate of Change in Money Wage Rates in the United Kingdom, 1861-1957: A Further Analysis,\" Economica, Vol. xvII (January, 1960).   \nMabry, B. D. \"The Price Theory of Bargaining,\" Industrial and Labour Relations Review, Vol. 18 (July, 1965), Pp. 479-502.   \nMarshall, F. R. and A. Cartter. Labour Economics: Wages, Employment and Trade Unionism. (Homewood, Ill.: Richard D. Irwin, 1967).   \nMcKersie, R. B. and R. E. Walton. , \"Communications: The Theory of Bargaining,\" in Industrial and Labour Relations Review, Vol. 19, (April,1966),PP.414-24.   \nMeyers, F. and R. L. Bowlby., \"The Inter-Industry Wage Structure and Productivity,\" Industrial and Labour Relations Review, Vol. 7, (October, 1953), Pp. 93-102.   \nPen, J. \"A General Theory of Bargaining,\" American Economic Review, Vol. XLII (March, 1952), Pp. 24-42.   \nPerlman, Richard: \"Forces Widening the Occupational Wage Differentials,\" Review of Economics and Statistics, Vol. Lx (1958), pp. 107-115.   \nPerry, G. L. Unemployment, Money Wages and Inflation. (Cambridge, Mass M.I.T. Press, 1966).   \nReder, M. W. \"The Theory of Occupational Wage Differentials,\" American Economic Review, Vol. LV (December, 1965), Pp. 833-52. \"The Theory of Union Wage Policy,\" Review of Economics and Statistics, Vol. xxxIv (February, 1952), Pp. 34-45.   \nRees, Albert. The Economics of Trade Unions. (Chicago: University of Chicago Press, 1967).   \nReynolds, L. G., and C. H. Taft. The Euolution of Wage Structure. (New Haven, Conn.: Yale University Press, 1956).   \nRippe, R. \"Wages, Prices and Imports in the American Steel Industry.\" Review of Economics and Statistics, Vo1. LI1 (February, 1970), pp. 34-46.   \nRobinson, Joan. The Economics of Imperfect Competition. (London: Macmillan,1933.   \nRoss, A. M. \"The External Wage Structure,\" in New Concepts in Wage Determination (eds.) G. W. Taylor and F. C. Pierson (New York: McGraw-Hill Co. Inc., 1957). \"The Influences of Unionism Upon Earnings,\" Quarterly Journal of Economics, Vol. LxI1 (February, 1948). \"The Inter-Industry Wage Structure,\" with W. Goldner, Quarterly Journal of Economics, Vol. LxIv (May, 1950), Pp. 254-81. Trade Union Wage Policy. (Berkeley: University of CaliforPress, 1948).   \nSweezy, Paul. \"Demand Under Conditions of Oligopoly,\" in A. E. A. Readings in Price Theory (Chicago: R. D. Irwin, 1952), Pp. 404-09.   \nVanderkamp, John. \"The Time Pattern of Industrial Conflict in Canada, 1901-i966,\" unpublished manuscript (University of British Columbia, 1968). \"Wage and Price-Level Determination: An Empirical Mode1 for Canada,\" Economica, Vol. XXxIII (May, 1966), Pp. 194-212. , and'J. T. Montague.A Study in Labour Market Adjustment. (Vancouver: University of British Columbia, 1966).   \nWeiss, L. W. \"Concentration and Labour Earnings,\" American Economic Review, Vol. LVI (March, 1966), Pp. 96-117.   \nWicksell, K. Lectures on Political Economy. (New York: Routledge and Kegan Paul Ltd., l949).   \nWicksteed, P. H. The Common Sense of Political Economy. (London: Macmillan, 1910).   \nWolf, J. de. Wage Movements and Wage Determination in British Columbia. (Vancouver: Broadway Printers, 1966).   \nWoods, H. D., and Sylvia Ostry. Labour Policy and Labour Economics in Canada. (Toronto: Macmi1lan, 1962).   \nZeuthen, F. Economic Theory and Method. (New York: Augustus D. Kelley, reprinted 1968). ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "STATISTICAL SOURCES ",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "British Columbia Department of Labour. Annual Report. (Victoria, B.C.: 1948-1968).   \nBritish Columbia Department of Labour. The Logging Labour Force (Coastal Region. (Victoria, B.C.: 1968).   \nBritish Columbia Department of Mines and Petroleum Resources. Anrual Report. (Victoria, B.C.: 1948-1968).   \nCanadian Department of Labour. Labour Gazette. (Ottawa, Ont.: 1948-1968); Statistical Sections.   \nCanadian Department of Labour. Wage Rates, Salaries and Average Hours of EmpZoyment. (Ottawa, Ont.: Queen's Printer, 1948-1968).   \nDominion Bureau of Statistics.. Annual Review of Man-Hours and Hourly Earnings. (Ottawa, 0nt.: Queen's Printer, 1948-1968). ",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "Dominion Bureau of Statistics. The Lumber Industry (also known as SawmiZZs). (0ttawa, 0nt.: The Queen's Printer, 1948-1967). Dominion Bureau of Statistics. Operations in the Woods. (Ottawa, Ont.: The Queen's Printer, 1948-1967). Dominion Bureau of Statistics. The Pulp and Paper Industry. (Ottawa, Ont.:The $\\cdot$ Queen's Printer 1948-1967). . Dominion Bureau of Statistics. The Water Transportation Industry. (Ottawa, Ont.: The Queen's Printer, 1948-1968). ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX A ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "In addition to the simple.regression of strike activity that was run on wage changes alone, a further test was made using the model which is developed at the end of Chapter IIl. The strike variable was again found to be insignificant in each industry. ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "The equations found were: ",
+        "page_idx": 99
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}\\ =\\ 0.8361\n$$",
+        "text_format": "latex",
+        "page_idx": 99
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\mathrm{\\boldmath~\\cal~R}^{2}\\ =\\ .5720\n$$",
+        "text_format": "latex",
+        "page_idx": 99
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\ R^{2}=\\ R168\n$$",
+        "text_format": "latex",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "REAL VALUE-ADDED OUTPUT·PER INDUSTRY ",
+        "text_level": 1,
+        "page_idx": 100
+    },
+    {
+        "type": "image",
+        "img_path": "images/a22125142f7ecd63189034e7cf09ced55ba0cbe624f4d852830eb768710416df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "$\\cdot\\cdot$ AVERAGE HOURLY WAGE RATE PER INDUSTRY ",
+        "text_level": 1,
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "Construction Pulp and Paper Coast Logging XXX Water Transportation ",
+        "page_idx": 101
+    },
+    {
+        "type": "image",
+        "img_path": "images/539f466096d44cd7932c34e524bcb7b153cda0bfba7fc20f278ea4a265349a99.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 101
+    },
+    {
+        "type": "table",
+        "img_path": "images/f1a39defccbd2a13d29630111d22d51493c878c3219aa479532391fa304de0a8.jpg",
+        "table_caption": [
+            "INDEX OF REAL VALUE-ADDED OUTPUT PER INDUSTRY $(1949~=~100)$ ",
+            "Source: Industry publications of D.B.S. "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>YEAR</td><td>CONSTRUCTION</td><td>MINERALS</td><td>COAST LOGGING</td><td>SAWMILLING</td><td>PULP AND PAPER</td><td>WATER TRANSPORTATION</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1948</td><td>87</td><td>122</td><td>116</td><td>118</td><td>101</td><td>115</td></tr><tr><td>1949</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>1950</td><td>98</td><td>103</td><td>111</td><td>119</td><td>112</td><td>80</td></tr><tr><td>1951</td><td>161</td><td>117</td><td>106</td><td>126</td><td>126</td><td>84</td></tr><tr><td>1952</td><td>200</td><td>107</td><td>106</td><td>134</td><td>128</td><td>85</td></tr><tr><td>1953</td><td>234</td><td>98</td><td>118</td><td>137</td><td>150</td><td>98</td></tr><tr><td>1954</td><td>191</td><td>99</td><td>128</td><td>148</td><td>172</td><td>83</td></tr><tr><td>1955</td><td>237</td><td>113</td><td>126</td><td>133</td><td>183</td><td>94</td></tr><tr><td>1956</td><td>342</td><td>121</td><td>124</td><td>160</td><td>191</td><td>105</td></tr><tr><td>1957</td><td>413</td><td>103</td><td>113</td><td>150</td><td>186</td><td>123</td></tr><tr><td>1958</td><td>311</td><td>87</td><td>96</td><td>152</td><td>184</td><td>110</td></tr><tr><td>1959</td><td>315 291</td><td>84</td><td>110 134</td><td>169 180</td><td>270</td><td>113</td></tr><tr><td>1960</td><td>286</td><td>99 99</td><td>126</td><td>178</td><td>333 298</td><td>123</td></tr><tr><td>1961</td><td>276</td><td>125</td><td>150</td><td>197</td><td>317</td><td>125</td></tr><tr><td>1962</td><td>292</td><td>135</td><td>156</td><td>215</td><td>329</td><td>109</td></tr><tr><td>1963</td><td>340</td><td>132</td><td>159</td><td>237</td><td>367</td><td>106 84</td></tr><tr><td>1964 1965</td><td>439</td><td>130</td><td>164</td><td>247</td><td>423</td><td>116</td></tr><tr><td></td><td>514</td><td>159</td><td>174</td><td>241</td><td>471</td><td>123</td></tr><tr><td>1966</td><td>562</td><td>174</td><td>172</td><td>248</td><td>486</td><td>139</td></tr><tr><td>1967 1968</td><td>531</td><td>176</td><td>189</td><td>1</td><td></td><td>143</td></tr></table></body></html>\n\n",
+        "page_idx": 102
+    },
+    {
+        "type": "table",
+        "img_path": "images/cfa2373a6c5239779aa3c9939d9e45f3d9f5031376e80d88e6fe6b5ac3f2f523.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"8\">PULP AND</td></tr><tr><td>YEAR</td><td>CONSTRUCTION</td><td></td><td>COAST LOGGING</td><td>SAWMILLING</td><td> PAPER</td><td>WATER TRANSPORTATION</td><td>MINING</td></tr><tr><td>1948</td><td></td><td>$1.42</td><td>$1.29</td><td>$1.30</td><td>$1.34</td><td>$1.06</td><td>$1.14</td></tr><tr><td>1949</td><td></td><td>1.58</td><td>1.35</td><td>1.34</td><td>1.33</td><td>1.12</td><td>1.10</td></tr><tr><td>1950</td><td></td><td>1.68</td><td>1.46</td><td>1.48</td><td>1.41</td><td>1.21</td><td>1.21</td></tr><tr><td>1951</td><td></td><td>1.93</td><td>1.69</td><td>1.69</td><td>1.71</td><td>1.40</td><td>1.45</td></tr><tr><td>1952</td><td></td><td>1.95</td><td>1.77</td><td>1.70 .</td><td>1.80</td><td>1.49</td><td>1.48</td></tr><tr><td>1953</td><td></td><td>2.08</td><td>1.82</td><td>1.71</td><td>1.86</td><td>1.59</td><td>1.52</td></tr><tr><td>1954</td><td></td><td>2.14</td><td>1.81</td><td>1.77</td><td>1.89</td><td>1.60</td><td>1.63</td></tr><tr><td>1955</td><td></td><td>2.16</td><td>1.86</td><td>1.77</td><td>1.97</td><td>1.69</td><td>1.67</td></tr><tr><td>1956</td><td></td><td>2.23</td><td>1.93</td><td>1.81</td><td>2.07</td><td>1.79</td><td>1.75</td></tr><tr><td>1957</td><td></td><td>2.38</td><td>2.07</td><td>2.03</td><td>2.09</td><td>1.83</td><td>1.82</td></tr><tr><td>1958</td><td></td><td>2.59</td><td>2.13</td><td>2.03</td><td>2.18</td><td>1.83</td><td>1.94</td></tr><tr><td>1959</td><td></td><td>2.82</td><td>2.23</td><td>2.08</td><td>2.21</td><td>1.98</td><td>1.97</td></tr><tr><td>1960</td><td></td><td>2.82</td><td>2.35</td><td>2.15</td><td>2.47</td><td>2.03</td><td>2.08</td></tr><tr><td>1961</td><td></td><td>2.86</td><td>2.34</td><td>2.19</td><td>2.47</td><td>2.04</td><td>2.08</td></tr><tr><td>1962</td><td></td><td>2.93</td><td>2.44</td><td>2.27</td><td>2.52</td><td>2.12</td><td>2.11</td></tr><tr><td>19632.3</td><td></td><td>3.03</td><td>2.53</td><td>2.35</td><td>2.66 2.78</td><td>2.13</td><td>2.18</td></tr><tr><td>1964</td><td></td><td>3.08</td><td>2.63 ·</td><td>2.47</td><td>2.83</td><td>2.20 2.43</td><td>2.29</td></tr><tr><td>1965</td><td></td><td>3.34 3.68</td><td>2.80 3.00</td><td>2.57 2.82</td><td>3.25</td><td>2.55</td><td>2.40</td></tr><tr><td>1966</td><td></td><td>3.96</td><td>3.21</td><td>3.01</td><td>3.43</td><td>3.14</td><td>2.72 2.96</td></tr><tr><td>1967</td><td></td><td>4.29</td><td></td><td>3.25</td><td>3.52</td><td>3.26</td><td></td></tr><tr><td>1968</td><td></td><td></td><td>3.46</td><td></td><td></td><td></td><td>3.14</td></tr></table></body></html>\n\n",
+        "page_idx": 103
+    },
+    {
+        "type": "text",
+        "text": "Source: Wages, Salaries and Average Hours of Earnings, Canada, Department of Labour, 1948-1968 Industry wage rates are unemployment -- weighted averages of base rate for each job classifica? tion.  These rates are for straight-time hourly earnings only. ",
+        "page_idx": 103
+    },
+    {
+        "type": "text",
+        "text": "COMPARISON OF WAGE BILL (PRODUCTION WORKERS) TOTAL OUTPUT RATIO AND AVERAGE PERCENTAGE HOURLY WAGE INCREASES FOR SIX BRITISH COLUMBIA INDUSTRIES ",
+        "text_level": 1,
+        "page_idx": 104
+    },
+    {
+        "type": "text",
+        "text": "1949 - 1967 ",
+        "page_idx": 104
+    },
+    {
+        "type": "table",
+        "img_path": "images/1fda983812ea6f7099e67c4ecd53f13f00a6c408cbd72c898929536bfb79cfff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>INDUSTRY</td><td>RATIO</td><td>PERCENTAGE INCREASE</td></tr><tr><td>Coast Logging</td><td>.38</td><td>138 %</td></tr><tr><td>Mining</td><td>.38</td><td>169 %</td></tr><tr><td>Construction Sawmilling</td><td>.35 .27</td><td>151 % 125 %</td></tr><tr><td>Water Transportation</td><td>.20</td><td>180 %</td></tr><tr><td>Pulp and Paper</td><td>.15</td><td>158 %</td></tr><tr><td>*</td><td>Computed from one observation only (1967)</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 104
+    },
+    {
+        "type": "table",
+        "img_path": "images/24697f971fb0df0ec71a9f635d890a49fb13aaa455601eb6b6f7375538b7ba63.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td></tr><tr><td>YEAR DIFFERENTIAL</td></tr><tr><td>C</td></tr><tr><td>1948 36</td></tr><tr><td>1949 48</td></tr><tr><td>1950 47</td></tr><tr><td>1951 53</td></tr><tr><td>1952 47</td></tr><tr><td>1953 56</td></tr><tr><td>1954 54</td></tr><tr><td>1955 49</td></tr><tr><td>1956 48</td></tr><tr><td>1957 56</td></tr><tr><td>1958 76</td></tr><tr><td>1959 85</td></tr><tr><td>1960 79</td></tr><tr><td>1961</td></tr><tr><td>82 1962</td></tr><tr><td>82 1963</td></tr><tr><td>90</td></tr><tr><td>1964 88</td></tr><tr><td>1965 94</td></tr><tr><td>1966 113</td></tr><tr><td>1967 100</td></tr><tr><td>1968 115</td></tr></table></body></html>\n\n",
+        "page_idx": 105
+    },
+    {
+        "type": "table",
+        "img_path": "images/3fb35ad04e99c9b577ee8bfe5ec8e2a764f7729d88dc82893d7a43a7413768aa.jpg",
+        "table_caption": [
+            "ANNUAL PERCENTAGE RATE OF WAGE CHANGE PER INDUSTRY 1949 - 1968 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>YEAR</td><td>CONSTRUCTION</td><td>COAST LOGGING</td><td>SAWMILLING</td><td>PULP AND PAPER</td><td>WATER TRANSPORTATION</td><td>MINING</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1949</td><td>11</td><td>3</td><td>5</td><td>-1</td><td>--4</td><td>6</td></tr><tr><td>1950</td><td>6</td><td>10</td><td>8</td><td>6</td><td>10</td><td>8</td></tr><tr><td>1951</td><td>15</td><td>14</td><td>16</td><td>21</td><td>20</td><td>16</td></tr><tr><td>1952</td><td>1</td><td>1</td><td>5.</td><td>5</td><td>2</td><td>6</td></tr><tr><td>1953</td><td>7</td><td>1</td><td>3</td><td>3 2:</td><td>3</td><td>7</td></tr><tr><td>1954</td><td>3</td><td>4</td><td>1</td><td>4</td><td>7</td><td>1</td></tr><tr><td>1955</td><td>1</td><td>0</td><td>3 4</td><td>5</td><td>2</td><td>6</td></tr><tr><td>1956</td><td>3</td><td>2</td><td>7</td><td>1</td><td>5</td><td>6</td></tr><tr><td>1957</td><td>7</td><td>12</td><td>3</td><td>4</td><td>4 7</td><td>2</td></tr><tr><td>1958</td><td>9 9</td><td>0 2</td><td>5</td><td>1</td><td>2</td><td>0</td></tr><tr><td>1959</td><td>0</td><td>3</td><td>5</td><td>12</td><td>6</td><td>8</td></tr><tr><td>1960</td><td>1</td><td>2</td><td>0</td><td>0</td><td>1</td><td>3</td></tr><tr><td>1961</td><td>2</td><td>4</td><td>4</td><td>2</td><td>0</td><td>1</td></tr><tr><td>1962</td><td>3</td><td>4</td><td>4</td><td>6</td><td>3</td><td>4</td></tr><tr><td>1963</td><td>2</td><td>5:</td><td>4</td><td>5</td><td>5</td><td></td></tr><tr><td>1964</td><td>8</td><td>4</td><td>6</td><td>2</td><td>5</td><td>3</td></tr><tr><td>1965</td><td>10</td><td>10</td><td>7</td><td>15</td><td>13</td><td>10</td></tr><tr><td>1966 1967</td><td>8</td><td>7</td><td></td><td>6</td><td>9</td><td>5 24</td></tr><tr><td>1968</td><td>8</td><td>8</td><td>8</td><td>3</td><td>6</td><td>4</td></tr></table></body></html>\n\n",
+        "page_idx": 106
+    },
+    {
+        "type": "table",
+        "img_path": "images/505e81e65923153368709dd38ae7ee78c63aead416b397971b5be8cf3553746e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>· Wc</td><td>W, 1og</td><td>Ws</td><td>· WP</td><td>。 Wm</td><td>Wwt</td><td>Wfp</td></tr><tr><td>W C</td><td>1.000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>· W108</td><td>0.6666</td><td>1.0000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>： W S</td><td>0.5282</td><td>0.7647</td><td>1.0000</td><td></td><td></td><td></td><td></td></tr><tr><td>· W P</td><td>0.3161</td><td>0.6751</td><td>0.5321</td><td>1.0000</td><td></td><td></td><td></td></tr><tr><td>W m</td><td>0.4797</td><td>0.6684</td><td>0.6905</td><td>0.8428</td><td>1.000</td><td></td><td></td></tr><tr><td>· W wt</td><td>0.4654</td><td>0.5766</td><td>0.3352</td><td>0.3359</td><td>0.4258</td><td>1.0000</td><td></td></tr><tr><td></td><td>0.7343</td><td>0.8777</td><td>0.7632</td><td>0.7542</td><td>0.8538</td><td>0.7281·</td><td>1.0000</td></tr></table></body></html>\n\n",
+        "page_idx": 107
+    },
+    {
+        "type": "table",
+        "img_path": "images/951801de224effd7ed194812f7f1738b79bbbb7396df478cc8302d3198433573.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>· P c</td><td>P. 10g</td><td>· P S</td><td>P P</td><td>:P m</td><td>·P wt</td><td>P fp</td></tr><tr><td>· P</td><td>1.0000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>c</td><td>-0.0667</td><td>1.0000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P108</td><td>-0.1527</td><td>0.1679</td><td>1.0000</td><td></td><td></td><td></td><td></td></tr><tr><td>P S</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P P</td><td>0.1697</td><td>0.0347</td><td>0.2277</td><td>1.0000</td><td></td><td></td><td></td></tr><tr><td>P m</td><td>0.1467</td><td>0.4356</td><td>0.1945</td><td>0.2309</td><td>1.0000</td><td></td><td></td></tr><tr><td>·</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>P wt</td><td>0.2675</td><td>-0.4045</td><td>-0.3602</td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>-0.5200</td><td>-0.3321</td><td>1.0000</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pfp</td><td>0.0082</td><td>0.5446</td><td>0.6431</td><td>0.6842</td><td>0.3758</td><td>-0.6949</td><td>1.0000</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "CORRELATION MATRIX DEMONSTRATING RELATIONSHIP BETWEEN EMPLOYMENT CHANGE PER INDUSTRY\\* ",
+        "text_level": 1,
+        "page_idx": 109
+    },
+    {
+        "type": "table",
+        "img_path": "images/e06a4c7cb8fdd084a7674e1eb563b6ed8106a08af9042d7a9341760691d194b9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>E C</td><td>E108</td><td>E S</td><td>E</td><td>· m</td><td>E wt</td><td>E fp</td></tr><tr><td>· E</td><td>1.0000</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>c · E108</td><td>0.3962</td><td>1.0000</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>E</td><td>0.0362</td><td>0.4774</td><td>1.0000</td><td></td><td></td><td></td><td></td></tr><tr><td>s · E</td><td>..10000</td><td>0.3371</td><td>0.1281</td><td>1.0000</td><td></td><td></td><td></td></tr><tr><td>p E</td><td>0.0456</td><td>0.1457</td><td>0.0529</td><td>0.2751</td><td>1.0000</td><td></td><td></td></tr><tr><td>m ·</td><td>-0.0049</td><td>-0.0211</td><td>0.2716</td><td>0.1011</td><td>-0.3869</td><td>1.0000</td><td></td></tr><tr><td>E wt</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Efp</td><td>0.0875</td><td>0.6155</td><td>0.5966</td><td>0.6602</td><td>0.1171</td><td>0.2755</td><td>1.0000</td></tr></table></body></html>\n\n",
+        "page_idx": 109
+    },
+    {
+        "type": "table",
+        "img_path": "images/5e967c1bface90ee61f38c683d37ea52e0158a9b60c110df54361671e599eab3.jpg",
+        "table_caption": [
+            "ANNUAL PERCENTAGE CHANGE IN EMPLOYMENT FOR SIX BRITISH COLUMBIA INDUSTRIES 1949'- 1968 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>CONSTRUCTION</td><td>COAST LOGGING</td><td>SAWMILLING</td><td>PULP AND PAPER</td><td>WATER TRANSPORTATION</td><td>MINING</td></tr><tr><td>YEAR</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1949</td><td>24</td><td>0</td><td>-.8</td><td>-9</td><td>-23</td><td>1</td></tr><tr><td>1950</td><td>10</td><td>0</td><td>16</td><td>0</td><td>8</td><td>0</td></tr><tr><td>1951</td><td>7</td><td>21</td><td>13</td><td>26</td><td>7</td><td>6</td></tr><tr><td>1952</td><td>10</td><td>-12</td><td>0</td><td>5</td><td>-20</td><td>7</td></tr><tr><td>1953</td><td>9</td><td>-12</td><td>-1</td><td>６</td><td>39</td><td>19</td></tr><tr><td>1954</td><td>-17</td><td>-1</td><td>3</td><td>7</td><td>5</td><td>10.</td></tr><tr><td>1955</td><td>20</td><td>14</td><td>9</td><td>-3</td><td>22</td><td>0</td></tr><tr><td>1956</td><td>33</td><td>14</td><td>-3</td><td>11 0:</td><td>-9</td><td>4</td></tr><tr><td>1957</td><td>4</td><td>20</td><td>-5</td><td>0</td><td>13</td><td>-.8</td></tr><tr><td>1958</td><td>-19</td><td>8</td><td>2 2</td><td>4</td><td>-7</td><td>-15</td></tr><tr><td>1959</td><td>0</td><td>2</td><td></td><td>14</td><td>14</td><td>-4</td></tr><tr><td>1960</td><td>-10</td><td>-4</td><td>- 4</td><td>9</td><td>-12</td><td>47</td></tr><tr><td>1961</td><td>-4</td><td>0</td><td>-8 2</td><td>-11</td><td>-1</td><td>-31</td></tr><tr><td>1962</td><td>0</td><td>-1</td><td></td><td>4</td><td>-5</td><td>2</td></tr><tr><td>1963</td><td>0</td><td>1</td><td>7 7</td><td>14.</td><td>5</td><td>- 5</td></tr><tr><td>1964</td><td>6</td><td>1</td><td>2</td><td>9</td><td>5</td><td>7</td></tr><tr><td>1965</td><td>17</td><td>4</td><td>-5</td><td>12</td><td>5 0</td><td>1</td></tr><tr><td>1966</td><td>-4</td><td>- 4</td><td>-8</td><td>7</td><td>12</td><td>17</td></tr><tr><td>1967 1968</td><td>4 5</td><td>-1:8 10</td><td>一</td><td></td><td>-1</td><td>-6 7</td></tr></table></body></html>\n\n",
+        "page_idx": 110
+    },
+    {
+        "type": "table",
+        "img_path": "images/5361e0b715260fb3de4f4f613590e4e5ab8bc483ed74e365bb1cce1f06753d96.jpg",
+        "table_caption": [
+            "ANNUAL PER CENT CHANGE IN VALUE-ADDED OUTPUT PER MAN-HOUR 1948 - 1968 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>PULP AND</td><td></td><td></td></tr><tr><td>YEAR</td><td>CONSTRUCTION</td><td>COAST LOGGING</td><td>SAWMILLING</td><td>PAPER</td><td>WATER TRANSPORTATION</td><td>MINING</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1949</td><td>- 5</td><td>-11</td><td>-2</td><td>13</td><td>17</td><td>-16</td></tr><tr><td>1950</td><td>一 8</td><td>32</td><td>29</td><td>29</td><td>-24</td><td>7</td></tr><tr><td>1951</td><td>70</td><td>-2</td><td>7</td><td>43</td><td>9</td><td>16</td></tr><tr><td>1952</td><td>16</td><td>-1 20</td><td>0</td><td>-27</td><td>43</td><td>8</td></tr><tr><td>1953</td><td>6</td><td>-6.</td><td>0</td><td>10 3</td><td>-18</td><td>5</td></tr><tr><td>1954</td><td>一 1</td><td>.7</td><td>5 13</td><td>6</td><td>-18</td><td>20</td></tr><tr><td>1955</td><td>4</td><td>-7.</td><td>5</td><td>-5</td><td>-7</td><td>14</td></tr><tr><td>1956</td><td>10</td><td>10</td><td>5</td><td>-9</td><td>24</td><td>8</td></tr><tr><td>1957</td><td>19</td><td>-30</td><td>7</td><td>17</td><td>~7 -1</td><td>8</td></tr><tr><td>1958</td><td>5</td><td>16</td><td>4</td><td>32</td><td>-10</td><td>-8</td></tr><tr><td>1959</td><td>3</td><td>30</td><td>一 2</td><td>一 7</td><td></td><td>6</td></tr><tr><td>1960</td><td>3</td><td>1</td><td>32</td><td>3</td><td>25</td><td>11</td></tr><tr><td>1961</td><td>3 4</td><td>26.</td><td>5</td><td>20.</td><td>4 9</td><td>5</td></tr><tr><td>1962</td><td></td><td>8</td><td>7</td><td>4</td><td>一</td><td>22</td></tr><tr><td>1963</td><td>8</td><td>32</td><td>6</td><td>0</td><td>- 5 -24</td><td>14</td></tr><tr><td>1964</td><td>11 12</td><td>-16.</td><td>2</td><td>-4</td><td>34</td><td>6</td></tr><tr><td>1965</td><td>25</td><td>20</td><td>9</td><td>-12</td><td>8</td><td>一 6</td></tr><tr><td>1966</td><td>9</td><td>35</td><td>12</td><td>- 6</td><td>5</td><td>3</td></tr><tr><td>1967 1968</td><td>3</td><td>一</td><td></td><td>一</td><td>7</td><td>23</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td>0</td></tr></table></body></html>\n\n",
+        "page_idx": 111
+    }
+]

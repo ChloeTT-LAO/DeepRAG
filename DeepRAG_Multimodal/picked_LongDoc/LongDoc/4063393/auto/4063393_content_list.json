@@ -1,0 +1,2602 @@
+[
+    {
+        "type": "text",
+        "text": "AMD A-to-OCT-to-RI-to-Z What You Need to Know ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Greg Caldwell, OD, FAAO Northern Rockies Optometric Conference July 16, 2021 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Disclosures- Greg Caldwell, OD, FAAO ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\$ The content of this activity was prepared independently by me - Dr. Caldwell   \n\\$ Lectured for: Alcon, Allergan, Aerie, BioTissue, Kala, Maculogix, Optovue,   \n\\$ Advisory Board:  Allergan, Sun, Alcon, Maculogix, Dompe   \n\\$ Envolve:  PA Medical Director, Credential Committee   \nG Healthcare Registries – Chairman of Advisory Council ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\$ I have no direct financial or proprietary interest in any companies, products or services mentioned in this presentation – scanner owner, Macologix, Optovue OCT ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\$ The content and format of this course is presented without commercial bias and does not claim superiority of any commercial product or service ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\$ Optometric Education Consultants - Scottsdale, Minneapolis, Florida (Ponte Verda Beach), Mackinac Island, MI, Nashville, and Quebec City - Owner ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Course Description and Objectives ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This course will evaluate Age Related-Macular Degeneration (AMD) from subclinical to advanced AMD.  It will emphasize structure (OCT) and function (dark adaptation) testing to provide early detection and proper staging of AMD.  Once accurately diagnosed the course will discuss applying current clinical guidelines in the treatment of subclinical to advanced AMD.  The course will also call attention to OCT structural changes indicating progression. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Course Objectives:   \n\\$ Show how to diagnose the often missed subclinical or early AMD   \n\\$ Increase ones understanding on function testing for AMD   \n\\$ Increase ones understanding on the structure changes to properly stage AMD   \n\\$ Show how to treat subclinical or early AMD   \n\\$ Discuss OCT Angiography utilization in AMD   \n\\$ Review treatments for Intermediate AMD   \n\\$ Review treatments for exudative/choroidal neovascular AMD ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AMD Dominance ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "\\$ In 2010, the World Health Organization estimated that 5% of the world’s blindness was due to AMD { Leading cause of blindness over 55-year-old in USA \\$ 11 million people in USA have AMD, 22 million by 2050 ¬ Approximately 1 in 14 people over the age of 40 has some degree of macular degenerat ¬ Over 60, 1 in 8 (12.5%) ¬ Over 80, 1 in 3 (33 %)   \n\\$ More cases of AMD than Alzheimer’s, breast cancer, and Parkinson's combined \\$ The leading cause of blindness and vision loss in Caucasians   \n\\$ Affect 1 in 5 families Hereditary strongest genetic linkage of any major diseases ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Eye Care Professional Landscape ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\$ 58,000 eye care professionals ¬40,000 optometrists ¬18,000 ophthalmologists 2 About 10% are retinal specialists ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Age-Related Macular Degeneration is the Leading Cause of Preventable Blindness in the Western World ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "\\$Clinical AMD is more prevalent than Glaucoma and Diabetic Retinopathy combined ",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0586835997db65da18ca75a70845a0edb109ff13d56e7fb29050aed67c4b995a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Primary Eye Care is Missing Visible Disease in 25% of Patients Using Standard Workup ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "JAMAOphthalmology|OriginalInvestigation ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PrevalenceofUndiagnosedAge-Related MacularDegenerationinPrimaryEyeCare ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DavidC.NlyMD:KvinJ.Bray,MD;CariE.HuisinghMPH:MarkE.lak,S GeraldMcGwinJr,PhD;CynthiaOwsley,PhD ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1288 eyes from 644 people Mean age of 69.4 36% male ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "• 64% female Doctors were aware 5% of normal patients had findings consistent with AMD 30% of missed AMD eyes had large drusen (Intermediate AMD) Well-known risk factor for progression to advance disease ODs and MDs miss AMD diagnosis equally ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Reference: Neely DC, Bray KJ, Huisingh CE, Clark ME, McGwin G, Owsley C. Prevalence of Undiagnosed Age-Related Macular Degeneration in Primary Eye Care. JAMA Ophthalmol. 2017;135(6):570–575. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "AMD Considerations and Pearls ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There is currently no cure for AMD ¬ Proper detection and care many prevent significant visual acuity loss in many patients   \n\\$ Are anti-VEGF injections our patients’ best hope?   \n\\$ Late-stage treatments, albeit are necessary, they have little impact on central acuit ¬ Impacting our ability to intervene in in early to intermediate AMD? ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Optometrists and All Eye Care Professionals Responsibility ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "G Rethink our responsibility related AMD diagnosis and management \\$ Commit to that we will do better in ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "¬ Early detection ¬ Treatment ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\\$Know, execute, and employ current clinically appropriate Practice Guidelines ¬ Those that preserve vision ¬ Don’t wait until vision has been lost Closely monitor and treat the early detected disease ¬ If progresses to advanced AMD, better opportunity to save vision ",
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb6b2249a2d7a10d60d891b7fc1005a590e7d9c9b9f7f1d8eb97d59ad47a0060.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a4738786c5def4ba4f79701b39241c7670549c261d58be47faae258c5163279.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Early Onset Pathogenesis ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "G Drusen small or large are not makers for early stage AMD ¬ Visible structural evidence of a pathological process 2 Underway for quite some time   \n\\$ Cholesterol deposits exist beneath the surface long before drusen form ¬ Cannot be seen with structure-based methods ¬ Cholesterol produced by RPE and deposits into Bruch’s membrane ¬ Continue to layer in Bruch’s membrane   \n\\$ As this cholesterol accumulates the process unfolds with compromise to the outer retina ¬ Inflammation ¬ Oxidative stress ¬ Disruption of oxygen and nutrients ¬ Drusen formation   \n6\\~1 Impaired Vitamin A across Bruch’s membrane ¬ Functional impairment can occur to dark adaptation ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Healthy choriocapillaris, Bruch’s, RPE, and Photoreceptors ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/f1b42a0c7de10fb20d06351031e9ac6e529435ea304625f94303be5250a9eeef.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cholesterol barrier deposited along Bruch’s and RPE ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/ab9fba372343439f72b9db62b81a889a98501a2683558ac42ce32a9bd052e822.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "RPE Secretes even more cholesterol and degenerates ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef1888c1d42741c0b1a2fc97bee043c8c57bcab289928b8c2d4f09bedea1c307.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Finally, visibly evident drusen on fundus evaluation ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/f96a12c52f1ac1dea218452591f85be35293e1009a50f77259d49c09749359ce.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "AMD is a Disease Process that Starts Below the Surface ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/94d9c1ea37b8797883dfede5bbb10253895eb95fb2b8f34e66156b595f7247c2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Staging of Drusen What method to detect? ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "\\$Subclinical or sub-structural – cholesterol layer Functional \\$Small drusen < 63 microns Exam, photos, SD-OCT \\$Medium drusen > 63 – <125 microns Exam, photos, SD-OCT \\$Large drusen > 125 microns Exam, photos, SD-OCT ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Beckmann Committee Classification of AMD ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Based on presence of lesions within ¬ No AMD None or few small drusen, < 63 microns No AMD pigmentary abnormalities   \n¬ Early AMD Medium drusen, > 63 – <125 microns No AMD pigmentary changes ¬ Intermediate AMD 2 1 large drusen, > 125 microns Any AMD pigmentary changes ¬ Advanced AMD Any geographic atrophy Choroidal neovascularization (CNV) ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Measure the Drusen with Your OCT ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ee386bf1c4befe7d8da93c7e6a048fed57ca727623e17035f1e573580df0e13.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Measure the Drusen with Your OCT ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/f277dad1f31ee871c0f83718138f0996f877bfedfd03b15440549b8c75335534.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Measure the Drusen with Your OCT ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/affc4a2c89822757da50dbc76ebbc47be63856602dae6b090f795ae01458cc10.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/e863727a12d06b0dd544ddc3f383982c8290cd6ca573f7bd420aaa5b78b962b2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Choroidal Neovascularization (CNV) ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Gq Type 1 – Occult \\$Type 2- Classic \\$ Type 3- RAP \\$ Type 4- Mixed ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Predictors of Progressing to Advance Disease ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "\\$Hyper-reflective foci \\$Reticular pseudodrusen \\$Nascent geographic atrophy \\$ Sub-RPE hyper-reflective columns \\$ Drusen substructures \\$ Drusen load and regression ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "G Vision loss from geographic or exudative/CNV ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Tools for Diagnosis, Management, and Treatment of AMD ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Comprehensive eye exam – structural, some functional Fundus photography and FAF - structural 5 OCT and OCT Angiography – structural Dark adaptation – functional ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "How about macula pigment density testing ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Applying a Familiar Standard of Care: TwoMultifactoriaDiseases ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/f815dfaae8e20cfdf5160cc7f1e5f492c7c3d995ac59c8531c8b90e292d2739f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Dark Adaptation in AMD Function Test ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "\\$Measures how long to recover from bright light to darkness ¬ Rod intercept line (RI) time   \n\\$Functional test that can help overcome the challenges in diagnosing AMD   \n\\$Alabama Study on Early Are-Related Degeneration (ALSTAR) ¬ Able to detect subclinical 3 years before clinically visible ¬ 325 adults without clinically detectable AMD   \n\\$Rod deterioration happens in earliest stages of AMD ¬ Earlier defection before visual acuity   \n\\$AdaptDx 92284 ¬ Sensitivity 90.6% ¬ Specificity 90.5% ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/d9190c705151faef9a0457021748e116e3499974ac98f43849b73e930c915d81.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a5de685a7e46e78d8b657644babd4050b4993e4efc637ea043f116debb810a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "MarkKetcham.1st ",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb0609e2d17837182acda920b37dedef2219c19043d64341b61cdbdd977e4c43.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "MacuLogix-TheAMD Experts ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "+Follow ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/005cc27da4dffdc7507452bfedfa367937bd90fafcecad8b660df999fc7fdcf0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Meet the newest memberofour team.Andjustintime for the NewYear! ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Ourfriendlyon-board technician,Theia,guidespatients through thenew,revolutionaryAdaptDxProdark adaptationtest.Poweredby artificialintelligence,she deliversauniformexperience,everytime.Her personalized coaching ensuresconsistent,reliable results.OO #AMDExperts ",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/31440bc2c0fe440ee29c04c08232a27470383123b1b5a9171f18c270b7a040a7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Staytunedformoredetailsaboutthe#AdaptDxPro! ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#NewYear2020 ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "#NewYear#eyecare#eyehealth#darkadaptation #preventblindness ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Dark Adaptation in AMD Function Test January 1st, 2020 ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/17af6bf6bdc0a2dc8d0cff7f590d70a2b32d3f8860ea26c233ce62b42ae61420.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2b14e5604e94d085800a0fd5716abf2201792f167f888b9e373cdd46cc3b1b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "AdaptDx Pro Now Available for Clinical Use ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/cce3bb796bf4e1dd024fd4a0f4c2f3cefe164a93c03e523c96b5691e223cac31.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "This Means We Now Have an EarlySymptom We Can Use to Help Diagnose AMD ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2c3be3bf242c79761af06d2455edb10e975af3c082ba7dee397ad2eadc58035.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6d7e1f5f21036b2fed6d5b2a191d875e53a9c7c58e34a1651a75b5c178b68c9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Night vision impacted in early AMD: 30+ studies AMD patients often give up driving at night Night vision is impaired before day vision Typically ECP’s chalk this complaint up to cataracts ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "AskEveryPatient Over50 About TheirNight Vision ",
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "OCT in AMD ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Need spectral domain to follow intermediate or worse AMD Able to identify OCT predictors of progression \\$Especially in identifying OCT predictors of progression ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "¬ Hyper-reflective foci ¬ Reticular pseudodrusen ¬ Nascent geographic atrophy ¬ Sub-RPE hyper-reflective columns ¬ Drusen substructures ¬ Drusen load and regression ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Hypo versus Hyper Reflectance ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/22e5b5680a8590dd3b6064b26bc5a3809e4433d36e9be9c761cb79c9a09a8a68.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Can We Learn From These Pictures? ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bc924d1e613ed121a54d99e12bf2cc7a9fd89b1b6f1ba2c0bad4d4c24a020ec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Can We Learn From These Pictures? ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/519830ddd8630370264929160997e1ff782a4c05b3785506e3f79f2cfbe94676.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Hypo versus Hyper Reflectance ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0fada54f4d2b53bc913e1e086c4c5f93c3830d82c4b05983389d99be29d68c1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Case 1 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/a33359327ad48677defcf633578ca710a74cc79753a0b2467bfd61c122b8a6d0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Case 1 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/59d95bee0daae1ba802afbeb0814ebda10831c00a13a20c8ed410b3792a3941d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Case 1 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/912b02496b7a4bd770d5414904561d808677343b9d2f4542951b8b447b7b0faa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Case 2 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/792c008871a4b8ad99aeee42b7ddc0b74c17f559685413dc0c37c66929d7e451.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Case 2 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/8be7a477c0274b86ef71f69d2c8a7374469ca3d165a687c24ac5e458fe7229d3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Case 2 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/518fdf79000e537cfbe156fe3c95bc7bacd8aa17f196e608fb058621cf02fa44.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Case 3 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3f31b31687a8be9a8f8a06fef62b8861225dd4a35402189ba01c2e81b3b0f38.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Case 4 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/e586dece17ec5764f8196a9babcb517b1ad3c49393b5d6317a15f8905c869ac8.jpg",
+        "img_caption": [
+            "HD Angio Retina "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Case 5 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f207fa28c2c07df3cde9865cdbe93eab988fb704639c9a06b3926c71279968e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Case 5 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/7303d0c4ddba13e92be333b41c60b8c943b28139f628e7c2737847f31428e102.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Case 5 - OCT Predictors of Progression ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/228b1e6c55d32b31d7af1db5c8767feeaab0bccd99fa74f0f54a20613d0a2a3a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "OCT Angiography in AMD Structure Test ",
+        "text_level": 1,
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "\\$Able to identify occult or classic CNV before they leak   \n\\$Non-invasive technique   \n\\$Subclinical CNV or “Occult non-exudative CNV” ¬ Risk of exudation at 12 months is 15.2 times greater compared to eyes without subclinical CNV ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "OCT Angiography A New Approach to Protecting Vision ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "} Non-invasive visualization of individual layers of retinal vasculature   \n} Pathology not obscured by fluorescein staining or pooling   \n} Image acquisition requires less time than a dye-based procedure   \n} Reduced patient burden allows more frequent imaging to better follow disease progression and treatment response ",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/54c99eba84ad0194d7e6388e12099e99512a4f5ebe1728fc3e92c62b000dec72.jpg",
+        "img_caption": [
+            "FA of CNV "
+        ],
+        "img_footnote": [],
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/24751857159ec6fec150dd451753a0979cbc6ebfd0262de1b7510f3e978fe838.jpg",
+        "img_caption": [
+            "OCTA of CNV "
+        ],
+        "img_footnote": [],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Enface OCT-A Slabs Based on Retinal Anatomy ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "image",
+        "img_path": "images/5f528b1b82788875636c24c2c9ce6003b5b55851d276c0415d4e521e5c614793.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Normal Retinal Vasculature ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/a01b4aa904ce71eab099ff4f1a58c4e43d4ec50b75687ff0cadb3a79b06e0f81.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/27af3f35f44b94d5d65b99b90bd833b69aa421724aa0afeced619cf5b9bbbfa8.jpg",
+        "img_caption": [
+            "Superficial Capillary Plexus "
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/d0ee3572282c0bd9b26b99d843abae7ffe0112931512bb0c3f20e0915b019494.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Deep Capillary Plexus ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3ec67b4c579a70493eeb9b85b09bac5eecda270e76e8fd3573770c67458b0fb.jpg",
+        "img_caption": [
+            "Choriocapillaris "
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Outer Retina ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "3µm Below ILM →  15 µm Below IPL ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "15µm Below ILM →  70 µm Below IPL ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "70µm Below IPL →  30 µm Below RPE Reference ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "30 µm Below RPE Reference → 60 µm Below RPE Reference ",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/3f6fd2ae624994c7badb4b10072882d0976acf416566e1e5fe847744f646f921.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "} New vessels develop in the choroid } New vessels located below RPE and above Bruch’s membrane ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Type 1 “Occult” CNV ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "New vessels develop in the choroid S New vessels located BELOW RPE and ABOVE Bruch’s membrane ",
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a1ffb9565851fa897c777990154f27a31a01b22b54de54fced11311a9591e21.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/c29a37a6eb4976ab0a12b232249b2d6b9be1bd85085a07398fce9d9480627952.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/f19104f722214d0cf4d7c45556ff4fe46f61ab9294a86a45f859c3e046e0c344.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "CNV? ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1e5c1c4bf3fe7f33715ce19fbf17e186e698b79f48ef25ec80fbde82a8a3782.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "72y/oHispanicmale 20/30 Historyof\"DryAMD” ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0e875559bd488e5f7b77039edf0912dabcb17572bc55c44d8e2d27b9c70a55f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3d0b8371fba83391ace248c5e7d70f44214edceb024e5b2277de03f06c01905.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Type 1 CNV: Below RPE, Widerthan Type 2, AvascularZoneUsually Notlnvolved ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/464eecdb808f427e2ce6915aff04d5ed7264f0e6b8f1d63b60252a79fdd764bf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "And the not so obvious ones… ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8a7e60a9dab535b4f6e64117eaece43eadd55f3ea14d662194e4551fa27c333.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c9e5f75047aae619a70cbc85f6395094181cbaa793fddf2570d498782990669.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Case example: 70 y/o WM, AMD ",
+        "text_level": 1,
+        "page_idx": 56
+    },
+    {
+        "type": "image",
+        "img_path": "images/8674010b5978c793cbffa3cac7df8bca7d99d013f9c980af9e1ef1fab1f9ec0e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "Type 2 “Classic” CNV ",
+        "text_level": 1,
+        "page_idx": 57
+    },
+    {
+        "type": "image",
+        "img_path": "images/488b2a0b6efe719914ea2653c63a4aa3544517e738673d1f784652c76cb015a6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Type 2 “Classic” CNV ",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "\\$ New vessels develop in choroid q New vessels located ABOVE the RPE and ABOVE Bruch’s membrane ",
+        "page_idx": 58
+    },
+    {
+        "type": "image",
+        "img_path": "images/91cbd72daffe999c67655f91cabcb3583885e662044d06c3f3cb58166bc98b6e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 58
+    },
+    {
+        "type": "image",
+        "img_path": "images/b087a76c5412cbccaea05493b4b5471edf52aab47003b2379f29ed30ec0154dc.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Type 2 CNV: Above RPE, Smallerthan Type 1, AvascularZone Always Involved. VeryHeterogeneousShapes ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "image",
+        "img_path": "images/0adbcc67eef87d964b9b0e3e93c4c2c20acd732957a6cfbb80cb8483d22ec517.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "48 y/o WM 2 week history of “dark spot” OD ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e1222c73c4f573619ec4a7e0ffebde7f7798f07c563bcbd8f79490088ceab24.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Why I Love to Teach ",
+        "text_level": 1,
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/36846758f869eb10ee64c0dd10d1510cbdcb4e14a45394b8e21093acf6d7e564.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Retinal Angiomatous Proliferation ",
+        "text_level": 1,
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/400cda5e40748bc6ce5743149ae5145b6e56de0b9832c3f21648f6ec55d57326.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b9baf6f6122c3c17f802d212afa2d4b9d2ff7aabd11c857253ad153ef5c159.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Stage 1 ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Stage 2 ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Stage 3 ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Intra-retinal proliferation ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Neovascularization penetrates the subretinal space ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Neovascularization penetrates the RPE space ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "\\*Hemes\\*Edema\\*Exudate",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "\\*Vascularized PED; CNVM ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "\\*Neurosensory detachment \\*Serous PED ",
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/12fb1f67d0ca8e6c78a26536b9c79356d4bc58b3eae6873713e8aaa543e333bd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Inspect the SD-OCT carefully!! ",
+        "text_level": 1,
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/264d3759cac87f78fb70c0c015b74a3e73a5f8201152d7e49802062cabad29c0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/b81c3da1a85da84d74eda89a2056e974a8a03ceb189c7b54fc40f5a7ddbc166f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "What about the OCTA? ",
+        "text_level": 1,
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Type 3 CNV: Intraretinal Anastomosis: THROUGH RPE ",
+        "page_idx": 66
+    },
+    {
+        "type": "image",
+        "img_path": "images/76373d49635f774278ae6a7cb64ce963ddcd3b03ea7ab1a38e0f40df39655242.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Inner retina (SCP+DCP) to Outer retina (Avascular/choriocapillaris) ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "What about the OCTA? ",
+        "text_level": 1,
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Type 3 CNV: Retinal/Choroidal Anastomosis: INTO CHOROID ",
+        "page_idx": 67
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ce91630da96d020c975707152951be88db5aab1cfee8cfe24bee2b73b15bce9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Inner retina (SCP+DCP)to Outer retina (Avascular/choriocapillaris) ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Type 4 “Mixed”- Subretinal and Sub-RPE ",
+        "text_level": 1,
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "\\$Two or more CNV layers ¬ One above the RPE, one below the RPE \\$High flow lesions ",
+        "page_idx": 68
+    },
+    {
+        "type": "image",
+        "img_path": "images/85b97728154deba02dea27c56942ba42f72459966e621580af2701bd617685eb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Type4CNV:InitiallyLocatedBelowtheRPE,NVSpreads into the Outer Retina ",
+        "text_level": 1,
+        "page_idx": 69
+    },
+    {
+        "type": "image",
+        "img_path": "images/803649df514f25fb575c898b527948d04602be4710c6f2efb5380b63e65d67f5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 69
+    },
+    {
+        "type": "image",
+        "img_path": "images/093ff682f12e2d4f1865917c8d9a95efe8fde2447b2c6c0fc6bc640734175218.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Green: Type 1 (Sub RPE) Yellow: Type 2 (Subretinal) ",
+        "text_level": 1,
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Case Example: Multimodal imaging of 66 y/o Caucasian male ",
+        "text_level": 1,
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a4df9d90da6d38355070a6be90629a91812062457d1ec07e1db407e97dec65d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 71
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bf7d70c8831cac2484c53f8cd6c6e898bf08123cb31f96c8dc3a0f1ee3367f0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Choriocapillaris ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Red: Occult; Yellow: Classic ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "OCT Angiography ",
+        "text_level": 1,
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Subclinical CNV or “Occult non-exudative CNV” ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Risk of exudation at 12 months is 15.2 times greater compared to eyes without subclinical CNV ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Occult   \nNon-Exudative   \nCNV   \nPatient A   \nOccult   \nNon-Exudative   \nCNV   \nPatient A ",
+        "page_idx": 74
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3dbb377014a8eed989d4a99cbc0b0f41a4129df82d8a7b604fea1e34502007a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 75
+    },
+    {
+        "type": "image",
+        "img_path": "images/135036f9b5d41227ca818ae2fc0d3560e8d8d3ef7372c2154ca36d2e6478a0b8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 75
+    },
+    {
+        "type": "image",
+        "img_path": "images/13cc8c8f39d5bb172313179c5b285049d74b73b7be52ca5abc1d414b4973fc2e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "Which is More Suspicious? ",
+        "text_level": 1,
+        "page_idx": 77
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6ef4d8b67cae69c3d32e846c03185c6b9180d929cef67ddb45c86401bd768c7.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "OCT Angiography Evaluation AMD ",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "image",
+        "img_path": "images/65226b2ba385a955374b7bc6b6951c2a1c7d4b5632cfaf10d6957b7060ea6dec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "OCT Angiography Evaluation AMD After and Before Bevacizumab (Avastin) ",
+        "text_level": 1,
+        "page_idx": 79
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d7e84da401e5e0e2c434087fb303d35dc3db7a88abd5f8b838131022e78650c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 79
+    },
+    {
+        "type": "image",
+        "img_path": "images/2baae6bc519bb4f147aeb90f4400ccd97919a4cd6874417ccb0bd23785bfc5de.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Evaluation AMD Patients for Neovascularization OCT Grid ",
+        "text_level": 1,
+        "page_idx": 80
+    },
+    {
+        "type": "image",
+        "img_path": "images/79cf2166e9ad7a7bd32c2b966b81b8fd553e180b467753f1c25f6a6fad620265.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Evaluation AMD Patients for Neovascularization Using OCT Angiography ",
+        "text_level": 1,
+        "page_idx": 81
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed5b4048d5891c01efd41776df4158acfdcd400164b1bdb234901bb9ff89e248.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "At-risk Patients May Convert to Wet AMD at Any Point Between Follow-up Visits ",
+        "text_level": 1,
+        "page_idx": 82
+    },
+    {
+        "type": "image",
+        "img_path": "images/1dcfcd23fbb5b78b5a04105e0fc2b5aeb0efd9763655dfdae48ccc20059a403d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "Notal Vision - ForeseeHome® product overview ",
+        "text_level": 1,
+        "page_idx": 83
+    },
+    {
+        "type": "image",
+        "img_path": "images/d06d860b8fc31fea27315dd862aaf20311048371758c37c965f0002dd47010d9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 83
+    },
+    {
+        "type": "text",
+        "text": "Readjustingourpointofviewtopreventablevisionloss ",
+        "text_level": 1,
+        "page_idx": 84
+    },
+    {
+        "type": "image",
+        "img_path": "images/d79cc168be50f4ed0138a75b530c3693d19df93ace01a8efe1b167c6e72fb53d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "Notal Vision- PERIMETRY: The ForeseeHome Test ",
+        "text_level": 1,
+        "page_idx": 85
+    },
+    {
+        "type": "image",
+        "img_path": "images/93e0b7f518fa0b524979e6d411b5dc125ab2b1864f4dcf46942a95e4754c54ec.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 85
+    },
+    {
+        "type": "text",
+        "text": "Once pathology is suspected, the area is bracketed to localize and quantify pathology ",
+        "text_level": 1,
+        "page_idx": 86
+    },
+    {
+        "type": "text",
+        "text": "When a patient clicks on the the size and shape ",
+        "page_idx": 86
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8b3f79c474ff4c17ecee821e5e8ab8f60cafafaa0ec7201294a6889adea475e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 86
+    },
+    {
+        "type": "image",
+        "img_path": "images/b034ec8f6ecf48db04f61f793dc7eb8f6cb026d9c0136113e50d0d421d77bcf8.jpg",
+        "img_caption": [
+            "STARTED TESTING "
+        ],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fb11c8401eb478d1e00f1a4453abf87f3e78e99215fe68834d06a8040001a44.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "ALERTED ",
+        "text_level": 1,
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "20/60 OD and asymptomatic ",
+        "page_idx": 87
+    },
+    {
+        "type": "image",
+        "img_path": "images/53b3c10a3248b0c92ecb3d9296825797a0a45e043cb163802ccad5a4f5663456.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "text",
+        "text": "Ocular Genetic Testing ",
+        "text_level": 1,
+        "page_idx": 88
+    },
+    {
+        "type": "text",
+        "text": "Generalized Ocular Testing Inherited Retinal Disease and Spark Therapeutics ",
+        "text_level": 1,
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Panel tests for mutations in approximately 300 genes associated with inherited retinal disease (IRD) ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "More commonly tested for: ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Retinitis pigmentosa Leber congenital amaurosis Stargardt disease ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Commonly associated symptoms ",
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Nyctalopia   \nCentral and/or peripheral field loss   \nColor vision deterioration and/or loss   \nSevere photophobia ",
+        "page_idx": 89
+    },
+    {
+        "type": "image",
+        "img_path": "images/e44b20b57c4d4cb4afff2dcd81506fe8b2012698c9ef5820fb721959a508ca8c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 89
+    },
+    {
+        "type": "text",
+        "text": "Generalized Ocular Testing Inherited Retinal Disease and Spark Therapeutics ",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "IDYOUR IRDTestingPanel ",
+        "text_level": 1,
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "tostTIugtsgipsp Thl ",
+        "page_idx": 90
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb14bf4b49aba79cc0c0fa6320dfcbfc00a5f5bfd7e74ae8b1eb8d81ecb40e8c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 90
+    },
+    {
+        "type": "image",
+        "img_path": "images/7650af4983150ae07add69d53c718036943e286dacebd33f7751bb746574adc1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 90
+    },
+    {
+        "type": "image",
+        "img_path": "images/20f1b32e303dac0e9311954884fa09ab414b6003f3100aa17385838accbdbb7e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 90
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3f7214252451a1bcde172a45e2ed167569c5c4ce154c061ca817f72f1925295.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 90
+    },
+    {
+        "type": "text",
+        "text": "Age-Related Degeneration Genetic Testing Peer-Reviewed Published Studies ",
+        "text_level": 1,
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Prospective assessment of genetic effects on progression to different stages of age-related macular degeneration using multistate Markov models. IOVS 53.3 (2012): 1548-1556. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "CFH and ARMS2 genetic polymorphisms predict response to antioxidants and zinc in patients with age-related macular degeneration. Ophthalmology 120.11 (2013): 2317-2323 ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Validation of a prediction algorithm for progression to advanced macular degeneration subtypes.   \nJAMA ophthalmology 131.4 (2013): 448-455. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Treatment response to antioxidants and zinc based on CFH and ARMS2 genetic risk allele number in the Age-Related Eye Disease Study. Ophthalmology 122.1 (2015): 162-169. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Response to AREDS supplements according to genetic factors: survival analysis approach using the eye as the unit of analysis. British Journal of Ophthalmology 100.12 (2016): 1731-1737. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "CFH and ARMS2 genetic risk determines progression to nvAMD after antioxidant and zinc supplementation. Proc National Academy of Sciences 115.4 (2018): E696-E704. ",
+        "page_idx": 91
+    },
+    {
+        "type": "text",
+        "text": "Age-Related Degeneration Testing Arctic Medical Laboratories (https://arcticdx.com) ",
+        "text_level": 1,
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "Vita Risk ",
+        "text_level": 1,
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 92
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9336007c101843093dfbe8534c32c4d3034a2edba1f242f52f1c42354c36306.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled{8}$ ",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "Does my patient carry the genetic variations associated with vision loss when using chronic supplements such as AREDS? ",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "\\*Patients positive for VitaRisk are advised to avoid long-term AREDS/AREDS2 supplements ",
+        "page_idx": 92
+    },
+    {
+        "type": "text",
+        "text": "Age-Related Degeneration Testing Arctic Medical Laboratories (https://arcticdx.com) ",
+        "text_level": 1,
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "Macula Risk ",
+        "text_level": 1,
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 93
+    },
+    {
+        "type": "image",
+        "img_path": "images/51d6951230afdbec0b07b6dd6cc23594aea0df847e63de0712d3ec719576927e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "What is the likelihood of my patient progressing to advanced AMD? Should my patient avoid chronic zinc supplementation? ",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*Predictive algorithm touts 89% accuracy @ 2, 5 and 10-year time points ",
+        "page_idx": 93
+    },
+    {
+        "type": "text",
+        "text": "Treatments for AMD ",
+        "text_level": 1,
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "\\$Early detection and meaningful treatments with significant value, do not cure, but have been shown to slow or halt progression.  Not limited to early stages but all stages of AMD ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "¬ Prescribe smoking cessation programs Smoking and AMD ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "Depletes serum antioxidants Decreases pigmentary density Increases risk to advanced AMD ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "¬ Lifestyle changes 2 Diet Exercise   \n¬ Systemic disease management Cardiovascular disease, DM, obesity, high cholesterol ",
+        "page_idx": 94
+    },
+    {
+        "type": "text",
+        "text": "Risk Alleles ",
+        "text_level": 1,
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "\\$ Ancestory \\$ 23 and me ",
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "Lot’s of marketing once we they have the allele ",
+        "page_idx": 95
+    },
+    {
+        "type": "text",
+        "text": "\\$Nutritional supplements ",
+        "text_level": 1,
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "¬ Sub-clinical/sub-structural or early disease 2 Controversy flourishes – No definitive guideline exists Despite consensus evidence suggests using supplements   \n¬ Intermediate – advance disease 2 No controversy on advocating for supplements   \n¬ AREDS 1 2 Contains Beta-carotene and no lutein or zeaxanthin, no longer recommended 2 Investigated early AMD, no statistically significant benefit   \n¬ AREDS 2 2 Recommended for intermediate and advanced AMD, study protocol   \n¬ The Practical Guide for the Treatment of AMD - 3 primary options 2 Macular pigment supplement Carotenoids: lutein, zeaxanthin, meso-zeaxanthin 2 Carotenoids, antioxidants, zinc, and vitamins C & E – AREDS 2 2 Carotenoid macular supplement in subclinical and early AMD. Carotenoid and antioxidant is intermediate and AMD that is progressing ",
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "Treatment for AMD ",
+        "text_level": 1,
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "\\$Retinal light protection ¬ Sun exposure Closer follow up ¬ 12 months is currently accepted as being too long to defect progression ¬ 6 months or sooner based on risk of CNV   \nG Low vision and rehabilitation consultation ",
+        "page_idx": 97
+    },
+    {
+        "type": "text",
+        "text": "HealthBenefitsofPolyphenolsandCarotenoidsinAge-RelatedEye Diseases ",
+        "text_level": 1,
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "SimonaBungauMoamedMbdeDaim2eliaMirelTitEsraaGhanem4shieiSat MaikoMaruyama-lnoue,shinYamane,andKazuaki Kadonosono3 ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "AuthorinformationArticle notesCopyright andLicenseinformationDisclaimer ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "Treating Half the Retina? ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "ThisarticlehasbeencitedbyotherarticlesinPMC ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "Goto: ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "Oxidativestressandinflammationplayacriticalrolintheinitiationandprogresionofage-relatedocular abnormalitiascataract,lauoma,diabetetinpaty,andmacularnratinhr phytochemicalswithproven antioxidant andanti-inflammatory activities,suchascarotenoidsand polyphnolscouldbeofbenefitnthesediseasesWesearchedPubMedandWebofScincedatabasesfor originalstudiesinvestigating thebenefitsofdifferentcarotenoidsandpolyphenolsinage-related ophthalmicdiseases.Ourresults showedthatseveralpolyphenolssuchasanthocyaninsGinkgobiloba quercetinndeveratrolandcarotnoidssuchasutinzeaxanthinandmezoxanthinhavew significantpreventiveandtherapeuticbenefitsagainsttheaforementionedconditionsTheinvolved mechanismsnthesfindingncludemitgatingtheproductionofreactiveoxygenseciesnhibitingt tumornecrosisfactor- $\\scriptstyle\\cdot\\alpha$ andvascularendothelialgrowthfactorpathways,suppressingp53-dependent apoptosisndsuppresngtprodutionofinlamatorymarkeruchasnleukiI） 1a,andendothelial leucocyteadhesionmolecule-1.Consumptionof productscontaining these phytochemicalsmaybeprotectiveaganstthesediseasehoweveradequatehumandataareackingThi reviewdiscussestheroleandmechanismsofpolyphenolsandcarotenoidsandtheirpossiblesynergisti effectsonthepreventionandtreatmentofage-relatedeyediseasesthatareinducedoraugmentedby oxidative stress and inflammation. ",
+        "page_idx": 98
+    },
+    {
+        "type": "text",
+        "text": "Carotenoids and Polyphenols ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "www.oncotarget.com ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "0ncotarget,2018,Vol.9,(No.24),pp:17181-17198 ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Reviev ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Oxidative stress:role ofphysical exercise and antioxidant nutraceuticalsin adulthood and aging ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Carolina Simioni, Giorgio Zauli,Alberto M.Martelli,Marco VitaleA, Gianni Sacchettis,Arianna Gonelliand Luca M.Neri ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Accepted:March08,2018 Publshed:March 30.2018 CoprhidbddetftCvCC ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Resveratrol can be implied in anti-aging actions by influencing the mitochondrial environment and metabolicdiseases,by regulating the levels of some inflammatory mediators and cytokines and by modulating lipolysis [125,152,153].Mitochondrial dysfunction has been proved to be associated with aging and disease development[154],and it was seen ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Furthermore,resveratrol maintains the vascular fitness through itsantioxidant and anticoagulant activities andon the other handisrelevant inblocking the formation ofnew blood vessels.in inhibiting the VEGFrelease andattenuating Hypoxia-InducibleFactor（HIF-la)in different tumor cells163] ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "ASSESSMENTOFCAROTENOIDS ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Impact of CarotenoidAssessment ",
+        "text_level": 1,
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Because carotenoidsappeartoplayakeyrolenretinaldiseasesintensiveresenrchhasresultedin avariety ofinnovative carotenoid assessmenttechniquesThebreadthof possibilitiesforassesingretinalcarotnoidsisoftenconfusingbecausemethodologiesunitsofmeasurmentndt presentationofresultsvarywidely.Accuratereadingsofcarotenoid statusareimportantinorder tocorrectlyadviseindividualswithregardstosupplementation.Furthermorendiseasesuchas maculartelangiectasiatype2MacTel),eassessmentofcarotenoidsmaybecrucialtothediagnosisasreducedMPlevelsaswellasabnormaldistributionsare amongthefrstsignsof thedisease. Thereforehemeasurementfcarotenoidscanmpactlnicalpraticeand theevaluationf mayeventullybecomeanntegralpartofcomprehensive ophthalmologicalareThefollowin sectionsdeseribe and aimtogiveanorganized overviewof differentMPassessment techniques. ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "A large variety ofmethods areused to assesscarotenoid statusin humansmost ofwhich are focused on theeyebutcarotenoidscanalso be measuredinissue outside ofthe eyesuchas the skinbloodandthebrainMeasurementsofocularcarotenoidscanbedistingushedbtwen subjective （psychophysical）and objective (optical)methods used to assess the amount ofMP.In subjectivemethodsadrectanswerfromthepatientsrequredwhereasobjectvemeasuremen methods typically require just enough cooperation to generate an image (73）) ",
+        "page_idx": 99
+    },
+    {
+        "type": "text",
+        "text": "Measuring Macular Pigment ",
+        "text_level": 1,
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "\\$Retina macula biopsy   \nS Clinical Imaging ¬Subjective ZeaVision MPSII Guardion Mapcat SF ¬Clinical ZeaVision MPR Zeiss Visucam 200 Spectralis HRA+OCT Spectralis MPOV ",
+        "page_idx": 100
+    },
+    {
+        "type": "image",
+        "img_path": "images/41225a7bc3db3eb871666a6e2732af614efd18cc76623dce4a1feca228fbbaac.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 100
+    },
+    {
+        "type": "text",
+        "text": "Measuring Macular Pigment ",
+        "text_level": 1,
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "\\$ Biophotonic Scanner ¬Measures carotenoids ¬Based on an optical method known as Resonant Raman Spectroscopy (RSS) Used for many years in research laboratories ¬Skin RRS measurements Noninvasive Objective Reliable methods to assess carotenoid levels Ocular – Systemic ",
+        "page_idx": 101
+    },
+    {
+        "type": "image",
+        "img_path": "images/d02036e90991bf5b7475dd35c313ab995541bae53f1cb0324bd5ad7eb107dc19.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "Carotenoid Levels ",
+        "text_level": 1,
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Clinical and Epidemiologic Research ",
+        "text_level": 1,
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Correspondence:Paul S.Bernstein, Moran Eye Center,University of Utah School of Medicine,65 Mario Ca pecchi Drive, Salt Lake City,T 84132.USA; ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "SubmittedMarch7,2017   \nAcccpted:June 18,2017 ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Correlations Between Macular,Skin,and Serum Carotenoids ",
+        "text_level": 1,
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "PuRpos,Ocularandsystemicmeasurementandimagingof themacularcarotenoids luteinand zeaxanthin have been employed extensively as potential biomarkers ofAMD risk.In this studywe systcmatically compare dual wavelength retinal autofluorescence Imaging(AFDof macular pigmentwith skinresonance Raman spectroscopy(RRS）and serumcarotenoid levels ina clinic-based population ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "paul.bernstein@hsc.utah.edu ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "paflogandVsMrnCky ImageTchnologiesCorporationSaltLake CityUtahUnited ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Citation:Conrady CD,Bell JPBesch BM.ct al. Corrclations berwcen ma ular,skin,and serum carotenoids Invest Opbtbalnol Vis Scl 2017;58:3616-36Z7.DO1:10.1167/ ovs.17-21818 ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Resirs.Skin RRS measurements and serum zeaxanthin concentrations correlated most strongly withAFI macular pigmentvolume under thecurve(MPvUC）measurements up to9 eccentricity relative to MPvUCorrotationally averagedmacular pigment optical density (MPOD）measurementsat smallereccentricities.Thesemeasurementswerereproducible and not significantly affected by cataracis.We also found that these techniques could readily identify subjects taking oral carotenoid-containing supplements. ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "G Biomarker of health for diet and lifestyle ¬Yale University G Phospholipid bi-layer \\$Carotenoids, flavonoids, and polyphenols ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Memops.Eighty-eightpatientswererecruitedfromretina andgeneralophthalmology practices from a tertiaryreferral centerandexchuded only if they didnot have all three modalities tsted,hada diagnosisofmacular tlangiectasia(MacTeDorStargardt dseaseor had poorAFIimage quality.Skin,macularandserum carotenoid levels were measured by RRS,AFLand HPLC,respectively ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "ChristopherD.Conrady,JamesPBell,BrianM.Besch,Aruna Gorusupudi,Kelliann Farnsworth,IgorErmakovMohsenSharifzadeh²MaiaErmakovaWernerGellermann,and Paul S.Bernstein ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Keywords:macular pigment,carotenoids,macula ",
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "CoNcuusios.Larger macular pigment volume AFI and skin RRS measurements are noninvasive,objective,andreliablemethods to assess ocularandsystemic carotenoid levels. They are anattractive alternative topsychophysical and opticalmethodsthatmeasureMPOD ata lmited number ofeccentricities.Consequently，skin RRSand MPVUCat $9^{\\circ}$ areboth reasonablebiomarkers ofmacular carotenoid status that could bereadily adapted toresearch and clinical settings. ",
+        "page_idx": 102
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5c9e5850c59ffe4f330fe7bf40ce49b17b4da10daff3240e48befa78795c4e6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 102
+    },
+    {
+        "type": "text",
+        "text": "Carotenoid Levels ",
+        "text_level": 1,
+        "page_idx": 103
+    },
+    {
+        "type": "image",
+        "img_path": "images/56dce3c5ca704e38b7ad2a6e9b6363665b6252c8826b4f34cf08267655d89233.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 103
+    },
+    {
+        "type": "text",
+        "text": "Quick Test   \n(approx. 30 sec)   \nPortable   \nCost Effective   \nRemeasure in 60 days   \nReassurance to you and patient ",
+        "page_idx": 103
+    },
+    {
+        "type": "image",
+        "img_path": "images/c88143bec83d3ee7b82b84a0397ab0dc7d569c29a43c20f19565a00529e0a536.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 104
+    },
+    {
+        "type": "text",
+        "text": "ResonanceRamanspectroscopicevaluationofskincarotenoids asabiomarkerofcarotenoidstatusforhumanstudies ",
+        "text_level": 1,
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "SusanT.Maya\\*nCarmltphaniecarmbLisaJansgor.ma WernerGellermannd ",
+        "page_idx": 105
+    },
+    {
+        "type": "image",
+        "img_path": "images/e081cbd5fcb40cea92585c5786bf88b3f28e4e448bd6a57b5f141591e55f9fef.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "ARVO STUDY ",
+        "text_level": 1,
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "Interrelationships between Macula, Skin and Serum Carotenoids- Paul Bernstein,Werner Gellerman et al ARVO May 2016 ",
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "Conclusions: ",
+        "text_level": 1,
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "\"Our results emphasize  the importance of measuring the  total amount of carotenoids in the macula region using an objective image based modality such as AFI w Spectralis rather than  subjective MPOD.\" Skin  resonance Raman Spectroscopy  of skin carotenoids is a reasonable biomarker of macula  carotenoid status.  and correlates better than  than subjective  MPOD tests. ",
+        "page_idx": 106
+    },
+    {
+        "type": "image",
+        "img_path": "images/acafe92eb8643e553a0aaa0fc905cef94d1f44a13450131191b472e06a129f8a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "The objective  hand scanner is better than the subjective Macuscope, QuantifEYE, and Densitometer  for  estimating macula pigment. ",
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 107
+    },
+    {
+        "type": "image",
+        "img_path": "images/414c44ef28249e765e84218fa969a18c4c75989a6ebeaced0265d0f2ed408330.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 107
+    },
+    {
+        "type": "text",
+        "text": "53-year-old man ",
+        "text_level": 1,
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Family history of AMD ¬ Dad with 43 injections for AMD Pre-diabetic with borderline HbA1c \\$ Vision 20/20 OU DFE- retina clear OCT normal \\$ Passes dark adaptation ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "CONGRATULATIONSONTAKINGTHEFIRSTSTEPS TOWARDSOPTIMIZINGYOURSCS ",
+        "text_level": 1,
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Recentlyon12/15/2020,youmetwithmeandscannedthepalmofyourhandwiththe BioPhotonicScanner.Your scan returneda SkinCarotenoid Score(SCS)of 26000. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Thisscorerepresentsthecurrentcarotenoidlevelofyourskin.Thehigherthescore,themore carotenoids your body isreceiving. ",
+        "page_idx": 108
+    },
+    {
+        "type": "image",
+        "img_path": "images/7093d0c656513ce1c69ee4c1f480b19d8647911abeef759cce482b02cf6cdb9c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 108
+    },
+    {
+        "type": "table",
+        "img_path": "images/a2d2f7fbda0cf8ba7b79e204578f3e493d920658ebdaaf898042138b7d27cdc4.jpg",
+        "table_caption": [
+            "Ingredients "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Ingredients</td><td>Amount</td><td>% Daily Value</td></tr><tr><td>ServingSize:1Packet</td><td></td><td></td></tr><tr><td>VitaminA(83%asBetaCarotene(1875mcgRAE)from Blakesleatrispora,andVitaminApalmitate)(375mcg RAE)</td><td>2250 mcgRAE</td><td>250%</td></tr><tr><td>VitaminC(asCalciumAscorbate)</td><td>200mg</td><td>222%</td></tr><tr><td>VitaminD(asCholecalciferol)</td><td>(2mcg)</td><td>25%</td></tr><tr><td>VitaminE(asD-Alpha-TocopherylAcetate,D-Alpha Tocopherol,Tocotrienols)</td><td>50.3mg</td><td>335%</td></tr><tr><td>VitaminK(asPhytonadione)</td><td>20mcg</td><td>17%</td></tr><tr><td>Thiamin(asThiamineMononitrate)</td><td>3.75mg</td><td>313%</td></tr><tr><td>Riboflavin(asRiboflavin)</td><td>4.25mg</td><td>327%</td></tr><tr><td>Niacin(asNiacinamide)</td><td>17.5mg NE</td><td>109%</td></tr><tr><td>VitaminB6(asPyridoxineHydrochloride)</td><td>5mg</td><td>294%</td></tr><tr><td>Folate</td><td>500mcg DFE (300mcg folicacid)</td><td>125%</td></tr><tr><td>VitaminB12(asCyanocobalamin)</td><td>15mcg</td><td>625%</td></tr><tr><td>Biotin(as Biotin)</td><td>75mcg</td><td>250%</td></tr><tr><td>PantothenicAcid(asD-CalciumPantothenate)</td><td>15mg</td><td>300%</td></tr><tr><td>Calcium(asCalcium Carbonate,Di-CalciumMalate, CalciumAscorbate)</td><td>250mg</td><td>19%</td></tr></table></body></html>\n\n",
+        "page_idx": 109
+    },
+    {
+        "type": "table",
+        "img_path": "images/489faff620eb3b12e8b3942333b22f5b7db65604bf9ba641a2c8183b3595e189.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "OTHERINGREDIENTS:Gelatin,MicrocrystallineCellulose,Crosmarmellose Sodium,StearicAcid,Magnesium Stearate,SiliconDioxide,TitaniumDioxide. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Calcium(asCalcium Carbonate,Di-CalciumMalate, CalciumAscorbate)</td><td>250mg</td><td>19%</td></tr><tr><td>lodine(asPotassium lodide)</td><td>50mcg</td><td>33%</td></tr><tr><td>Magnesium(asMagnesiumGlycinate,MagnesiumOxide)</td><td>125mg</td><td>30%</td></tr><tr><td>Zinc(asZincBisglycinate)</td><td>7.5mg</td><td>68%</td></tr><tr><td>Selenium(asL-Selenomethionine,SodiumSelenite)</td><td>70mcg</td><td>127%</td></tr><tr><td>Copper(asCopperBisglycinate)</td><td>0.5mg</td><td>56%</td></tr><tr><td>Manganese(asManganeseBisglycinate)</td><td>mg</td><td>43%</td></tr><tr><td>Chromium(asChromiumNicotinateGlycinate)</td><td>100mcg</td><td>286%</td></tr><tr><td>Molybdenum(asMolybdenumBisglycinate)</td><td>37.5mcg</td><td>83%</td></tr><tr><td>PolyphenolandFlavonoidBlend</td><td>97.5mg</td><td></td></tr><tr><td>Catechins(fromCamellia sinensisLeafExtract)</td><td>(45mg)</td><td></td></tr><tr><td>Quercetin</td><td>(25mg)</td><td></td></tr><tr><td>GrapeSeedExtract(min.95%Polyphenols)</td><td>(12.5mg)</td><td></td></tr><tr><td>CitrusBioflavonoids(fromCitrusFruits)</td><td>12.5mg)</td><td></td></tr><tr><td>Resveratrol(fromPolygonumcuspidatumrootextract)</td><td>(2.5mg)</td><td></td></tr><tr><td>MixedTovopherols(Gamma,Delta&BetaTocopherols)</td><td>53mg</td><td></td></tr><tr><td>Alpha-LipoicAcid</td><td>15mg</td><td></td></tr><tr><td>Inositol(aslnositol)</td><td>5mg</td><td></td></tr><tr><td>CarotenoidBlend</td><td>3.5mg</td><td></td></tr><tr><td>Lycopene(asLycopene)</td><td>(2.5mg)</td><td></td></tr><tr><td>Lutein(fromMarigoldFlowerExtract)</td><td>(1mg)</td><td></td></tr><tr><td>Boron(asBoron Citrate)</td><td>1.5mg</td><td></td></tr><tr><td>Vanadium(asVanadylSulfate)</td><td>10mcg</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 109
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5a766452ded5b63eda3b641dcc5e2aafddd149728f1332bb534802ec70ef26f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 110
+    },
+    {
+        "type": "table",
+        "img_path": "images/56969bf00bb6897edd9ad879c799370eca726767c1fc03c6621d929e8338404f.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "OTHER INGREDIENTS:Gelatin,Glycerin,Beeswax,SunflowerLecithin CONTAINS:Fish（anchovies,sardines,mackerel). "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Supplement Facts Serving Size 2 Softgels</td><td>Servings Per Container 80</td><td></td></tr><tr><td>Amount Per Serving</td><td></td><td>%DV</td></tr><tr><td>Total Calaries</td><td>15</td><td></td></tr><tr><td>Total Fat</td><td>19</td><td>1%</td></tr><tr><td>Saturated Fat</td><td>09</td><td>0%*</td></tr><tr><td>TransFat</td><td>09</td><td></td></tr><tr><td>VitaminDg (as cholecalciferol)</td><td>12.5 mcg (500 IU)</td><td>63%</td></tr><tr><td>Vitamin Kg (as menaquinone-7)</td><td>20mog</td><td>17%</td></tr><tr><td>Ultra-purefish oil concentrate:</td><td>1055mg</td><td></td></tr><tr><td>EPA IEicosapentaenoic acid)</td><td>300mg</td><td></td></tr><tr><td>DHA (Docosahexaenoic acid)</td><td>200mg</td><td></td></tr><tr><td>Citrus Bioflavonoids</td><td>100mg</td><td>*#</td></tr><tr><td>(including hesperidin and naringin) Purple corn [Zeamays L) cob exiract</td><td>66.67 mg</td><td></td></tr><tr><td>including anthocyanins</td><td></td><td></td></tr><tr><td>Alpha Lipoic Acid Quercetin(trom Dlmorphandramoisfruit extract)</td><td>50mg</td><td>“</td></tr><tr><td></td><td>37.5mg</td><td></td></tr><tr><td>D-Limonene (from Cirusswensispeel) Rosemary (Rosmarinus offcinalis L] leaf extract</td><td>25mg 18.75mg.</td><td>\"</td></tr><tr><td>including carmosic acid</td><td></td><td></td></tr><tr><td>Resveratrol (from Polyganumcuspidatum root)</td><td>15mg</td><td></td></tr><tr><td>Coenzyme Q10 Lycopene</td><td>15mg</td><td></td></tr><tr><td></td><td>2.5mg</td><td>\"</td></tr><tr><td>Lutein (fram marigold fiower (Targetes erectal)</td><td>2mg</td><td></td></tr><tr><td>Astaxanthin (from Haematococcuspluvialis algae)</td><td>0.5mg</td><td></td></tr><tr><td colspan=\"2\">Percent Daily Vahues are based ona 2,000 Calorie Diet.</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 110
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f200a350d0888ed399a393132d608b4b0c4d91150e063677d4695f022ba9411.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "53-year-old man ",
+        "text_level": 1,
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "CONGRATULATIONSONTAKINGTHEFIRSTSTEPS TOWARDSOPTIMIZINGYOURSCS ",
+        "text_level": 1,
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Dear ",
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Recently.on12/27/2020,youmetwithme and1scanned thepalmofyourhandwith the BioPhotonicScanner.Yourscanreturned a Skin Carotenoid Score(SCS)of33000. ",
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Thisscorerepresentsthecurrentcarotenoidlevelofyourskin.Thehigherthescore,themore carotenoids your body isreceiving. ",
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "CONGRATULATIONSONTAKINGTHEFIRSTSTEPS TOWARDSOPTIMIZING YOURSCS ",
+        "text_level": 1,
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Recently,on01/23/2021,youmetwithmeand1scannedthepalmofyourhandwiththe BioPhotonicScanner.Your scan returneda SkinCarotenoid Score(SCS)of47000. ",
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Thisscorerepresentsthecurrentcarotenoid levelofyourskin.Thehigherthescore,themore carotenoids yourbody is receiving. ",
+        "page_idx": 111
+    },
+    {
+        "type": "image",
+        "img_path": "images/e14dc17f5a68e68bb8355c6fa463df5940fb0a0eb57898796c52ec8de242df3b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 111
+    },
+    {
+        "type": "image",
+        "img_path": "images/0a52efb3056b03bc2d8cfe1c79ab83eea2dabda93308ac17be4b880099303e16.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Measuring Macular Pigment ",
+        "text_level": 1,
+        "page_idx": 112
+    },
+    {
+        "type": "image",
+        "img_path": "images/5419a462588ed7d1d2d14693082e0bbe118730a151ccff6f864f5639ab9d50ef.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 112
+    },
+    {
+        "type": "text",
+        "text": "Treatments for Choroidal Neovascularization (CNV) ",
+        "text_level": 1,
+        "page_idx": 113
+    },
+    {
+        "type": "text",
+        "text": "Current Anti-VEGF treatments   \n¬ Bevacizumab (Avastin) Humanized full length monoclonal antibody AMD   \n¬ Ranibizumab (Lucentis) Humanized monoclonal antibody fragment AMD, DME, DR, RVO   \n¬ Aflibercept (Eylea) Fusion protein AMD, DME, DR   \n¬ brolucizumab-dbll (Beovu) Humanized single-chain antibody fragment Up to 3 months dosing intervals, most are 4-6 weeks 50% remained 3 months after 1 year   \n¬ Pegaptanib (Macugen) RNA aptamer AMD ",
+        "page_idx": 113
+    },
+    {
+        "type": "text",
+        "text": "oDsonFacebook ",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/8e986cced200153cea52b00f73d926148d7ea5099ec20da4a34d6831b5626241.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "than going in.Tough call. ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Like·Reply-1d ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Greg CaldwellChad,greatcase topresent.Regarding the ERMIagree withmy colleagues about monitor.lagree this does not need to see retina based on the ERM and drusen.Iam going torespectfullydisagreeabout justmonitoring thesedrusenand thispatient.Iwill startoffbysaying thereareonly4OCTsto review,looking atmorewouldhelpsupportmythoughts,butthe twohereareenough forme toweighin.TheOCTson theleft sidetopand bottom areshowing signsofprogression andthat theRPEissicker than justmonitor.Atthe top of these drusen are hyper-reflective foci a sign ofprogression.In the topleft OCT| seetwocolumnsofsub-RPEhyper-reflectivecolumnsandthe bottom left5-6columns.TheRPEabsorbs the OCT（coherent) lighttypicallykeeping thechoroidblack.Thesehyper-reflective columnsarelikeraysof sunlightpoking through ona cloudy day. TheRPEisatrophiedhere and theOCTcoherent light ismaking itsway into the choroid.This RPEis sicker than you think,it's oxidized,inflamed,it's sick.Rather thanmonitorbased upon hyper-reflective fociand sub-RPEhyper-reflectivecolumns| wouldtreat thispatient.Treatmentwouldbetostop smokingif the patientisa smoker,discuss his/herdietand exercise,discuss thebestpossible managementforhis/her(systemichealth)DM, cholesterol,obesity,cardiovascular,as theseareallriskfactors inAMD.Sunglassesinanyultraviolet light.Prescribenutritional supplements,this RPEissickenough torecommendAREDS2,if youwanttoavoid thehighzinclevelsthendosomethingwith25 mg ofzinc,or at least triple carotenoid therapy (lutein, zeaxanthin,and meso-zeaxanthin).These OCTs with the drusen size,foci,and columns are signsthepatientis moving toward advancedAMDwhichisgeographicatrophyand/orCNV.Julie Friedman Rodmanany othercomments?Alan Glazier thiswould beagreatcasetopresentwhenwe sharethepodium againon cases from ODson FB.Respectfully,Greg ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Like·Reply·2m on't forget macularfield. ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "nless VAis at least 20/40. ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "emuntil20/40orworse.lf owwould you like to do msee the same orworse )present.Regarding the Jt monitor.Iagree this does ERM and drusen.lamgoing onitoring these drusen and there areonly4OCTs to upportmythoughts,butthe in.The OCTs on the left nsof progression and that tthe top of these drusenare ssion.In the top left OCT| eflectivecolumnsand the sorbs the OCT(coherent) ack.These hyper-reflective ing through on a cloudy day. CTcoherent ight ismaking sicker thanyou think,it nan monitor based upon per-reflective columns ould be to stop smoking if erdietandexrcisedicus s/her(systemichealth)DM, as these areallriskfactors light.Prescribenutritional 1torecommend AREDS2,if 5thendo somethingwith25 id therapy（lutein, hese OCTswith the drusen patient ismoving toward atrophy and/or CNV.Julie nts?Alan Glazier thiswould share thepodium again on ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5884de4134f4be8fe0753e834466a343513378210a284ef26b3869ef4459b3a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Dr.Alan Glazier ",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/9012feabcfafaf88738478814cdad321a30ad5bc20782adf1ddee3f98e08792c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Go to Units 0of2requiredunits completed ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0ec0d6313364cabb5f2fff4e91399b3206777c320e04487ebf3b062ab591500.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Units areawayfor group adminstoshare knowledge andresources with you. ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/a848e4e5526bbec03d83962541a5e45fd517fa4b02426a595c1b85f13cd22ea1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "This community isPRIVATE.ODs,students, Opticians,Industry/Op..See More Social Learning ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Groups makeiteasier than ever to share with friends, family and teammates. ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/14e0656a12ce020dc16c0962832252710578c1d25880504b68c04af74e7cdd13.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "SeeAll ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/21196ee25aa599ebaa35e1402c1b873242c9545bc6090f1faaefcbb0b4f8df13.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "31stAnnual Ocular   \nTherapeutics in Cancun CE   \nProgram   \n2020   \nCancun Mexico   \nCEin Italy/Europe Bavaria   \nin the Spring 2020   \nHeideiberg!   \nApril26,2020-April28,   \n2020   \nHeidelberg Germany ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/e57eb67dccd678d176e173937de7a4c1a19046f9ec786e68a6324f5e52052060.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "ROn ",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "or group edmins to share esources with you. ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7cbd5233125d671f10dac54920bf8c6ca1bb2380fa26f3ce293ce1c888d7790.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/621e6db60c4b435e394baa70d1184ded64bee3dd5bcb71994c438a6facea110a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "1st Annual Ocular herapeutics In Cancun Cs rogram ",
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Einltaiy/Europe Bavaria the Spring 2020 ",
+        "text_level": 1,
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "eldelborg! ",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/483d92624886e15a539f41be4f4e2371b0ad2e46ace548fc2345f1d0ef2e3d08.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 114
+    },
+    {
+        "type": "image",
+        "img_path": "images/0d2d73f9d49ce91a3d321786e81ed84c2c2453fc17b6d2d1f63e6476c18f21fb.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 114
+    },
+    {
+        "type": "text",
+        "text": "Resource: OCT Community for OCT and OCT-A ",
+        "text_level": 1,
+        "page_idx": 115
+    },
+    {
+        "type": "text",
+        "text": "OCT CONNEGT Post your questions & cases so we can #OcTConnect! ",
+        "text_level": 1,
+        "page_idx": 115
+    },
+    {
+        "type": "text",
+        "text": "f Join this group to become part of our OCT Connect Family! ",
+        "page_idx": 115
+    },
+    {
+        "type": "text",
+        "text": "Book Resources ",
+        "text_level": 1,
+        "page_idx": 116
+    },
+    {
+        "type": "image",
+        "img_path": "images/932c5bd357e6a7b0555afe9e07fbbbe315179e54c25c3fce7468dd776ef33b75.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 116
+    },
+    {
+        "type": "text",
+        "text": "Optical Coherence   \nTomography Angiography   \nAtlas:A CaseStudyApproach   \nJulieARodman,ODMScFAAO ",
+        "page_idx": 116
+    },
+    {
+        "type": "image",
+        "img_path": "images/87e4f882c2cbad1ee0ce70459f233941b653c7470ad0496e5d616663763e3ce6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 116
+    },
+    {
+        "type": "text",
+        "text": "\\$149.95  \nISBN101-63091-641-2  \nISBN13978-1-63091-641-1",
+        "page_idx": 116
+    },
+    {
+        "type": "text",
+        "text": "AMD A-to-OCT-to-RI-to-Z What You Need to Know ",
+        "text_level": 1,
+        "page_idx": 117
+    },
+    {
+        "type": "text",
+        "text": "Thank You!!! ",
+        "page_idx": 117
+    },
+    {
+        "type": "text",
+        "text": "Hope You Enjoyed! ",
+        "page_idx": 117
+    }
+]

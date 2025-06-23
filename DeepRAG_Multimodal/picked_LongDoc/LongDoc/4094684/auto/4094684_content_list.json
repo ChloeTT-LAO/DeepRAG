@@ -1,0 +1,2424 @@
+[
+    {
+        "type": "text",
+        "text": "COSTUME DESIGN FOR AGRAVIO ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Julie Douglass UniversityofNebraska-Lincoln, pgoddess39@gmail.com ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Follow this and additional works at: https://digitalcommons.unl.edu/theaterstudent ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part of the Other Theatre and Performance Studies Commons ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "COSTUME DESIGN FOR AGRAVIO ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "by ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Julie I. Douglass ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A THESIS ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Presented to the Faculty of The Graduate College at the University of Nebraska In Partial Fulfillment of Requirements For the Degree Master of Fine Arts ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Major: Theatre Arts ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Under the Supervision of Professor Janice Stauffer ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lincoln, Nebraska ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "May, 2013 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "COSTUME DESIGN FOR Agravio: Courage, Betrayal, and a Woman Scorned ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Julie I. Douglass, MFA ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "University of Nebraska, 2013 ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Advisor: Janice Stauffer ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This thesis presents the costume design, research, and execution process for Valor, Agravio y mujer by Ana Caro, adaptation to Agravio by Ian Borden, based on an original translation by Amy Williamsen. The play was performed in the Howell Theatre of the Johnny Carson School of Theatre and Film at the University of Nebraska-Lincoln in October 2012. Agravio was directed by Ian Borden, with Costume Design by Julie Douglass, Scenic Design by Joshua Rajaee, Lighting Design by Aja Michelle Jackson, Properties by David Tousley, and Technical Direction by Erica King. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dedicated to my aunt, Violet L. Douglass ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TABLE OF CONTENTS ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 1: Synopsis of Agravio ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 2: Research of the Spanish Golden Age ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 3: Color Choices ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 4: Reflecting the Passage of Time ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 5: Leonora ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 6: Flora ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 7: Don Juan ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 8: Tomillo ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 9: Estela and Lisarda ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 10: Don Fernando ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 11: Ludovico ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 12: Costuming and Functionality in Combat ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 13: Double cast in the Wilderness: Costuming the Banditos ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 14: Flora Tricks Tomillo ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 15: The Hair Conundrum ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 16: Preparation of the Actors and the Rehearsal Process ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Chapter 17: Conclusion ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX: ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A: Scene Breakdown   \nB: Construction drawings   \nC: Final Renderings   \nD: Production Photos   \nE: Costume Plot   \nF: Costume Shop Communication & Organization   \nG: Budget ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Chapter One:  Synopsis of Agravio ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Agravio is a translation and adaptation of Valor, Agravio y mujer by Ana Caro Mallén de Soto, a Spanish female poet and playwright who wrote during the $17^{\\mathrm{th}}$ century. Amy Williamsen began the initial translation of Agravio and this adaptation was realized onstage by Ian Borden in 2012. Agravio is Spanish Siglo de Oro Comedia and contains traditional elements of “honour, revenge, love triangles, and intrigue” as well as plot twists and clever, “conniving” servants. (Jeffs). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ana Caro was born about 1600 and is believed to have died in 1652. Valor, Agravio y mujer was published between 1680 and 1700 (Jeffs, “Ana Caro”). She was from a noble family and privately educated, since learning institutions were not open to women at that time and she wrote in Portuguese, French, and Spanish. While Agravio employs familiar themes including the restoration of a woman’s honor, Ana Caro manipulated gender roles to afford the female protagonist the ability and means to do what she needs and wants (in Leonora’s case, to seek revenge). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I asked the director, Ian Borden, to tell me how he discovered this play and worked on the new adaptation: ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "“I came upon this play at ASTR [American Society for Theatre Research] in 2009. Amy Williamsen had done a translation that was pretty hard to get through—too literal. So she and I worked on a more feasible translation. That’s when I changed [a male character] Ribete to Flora disguised as Ribete—this allowed for casting 4 men, 4 women. [...] What attracted me to the play has always been the same—Leonora having the guts to go after what she needs and literally fight for what she wants, and the general sense of fun and play in the script. [...] A couple of other things changed, though. 1) Leonor became Leonora and I generally made her less hard edged. 2) The balcony scene went from four characters to six, which allowed the romantic relationships to be seen so that what was originally a mercenary set of match ups at the end felt more like four love matches, something that modern audiences are more comfortable with.” ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Professor Borden’s adaptation remains faithful to Ana Caro’s depiction of the empowered woman and goes further by building in another strong female character in the form of Flora. With eight dominant characters onstage played by eight strong actors, my challenge was to match the energy level, the fun, and the sense of play generated by this combination with equally fun, playful, and energetic costumes. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Synopsis ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Agravio takes place in Spain and a region referred to as Flanders.  The story begins with Leonora de Ribera stalking onto the stage, proclaiming her need for revenge against her lover, Don Juan, who has gone off to Flanders leaving Leonora in a convent hiding her shame from her family. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Leonora is determined to follow Don Juan to Flanders and avenge herself on Don Juan. Her servant, Flora, suggests she go disguised as a man and to that end Flora fetches men’s garments which were left at the convent. Donning a man’s doublet and commandeering a sword, Leonora takes on the persona of Don Leonardo and insists that ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Flora accompany her to Flanders dressed as Don Leonardo’s manservant, Ribete. The plan, and the plot of the play, is thus set in motion. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In the wilderness outside of Flanders, the Condesa Estela and her cousin Lisarda get lost while out hunting. They are accosted by three bandits—Rufino, Astolfo, and Tibaldo—and subsequently rescued by Don Juan, who was sleeping nearby. Don Fernando, a member of the royal court, comes to the rescue a little too late and mistaking Don Juan for a bandit, duels with him. Estela clears up the misunderstanding and Fernando’s gratitude compels him to accept Don Juan into the inner workings of the court. Prince Ludovico arrives accompanied by Don Juan’s servant, Tomillo, and whisks Estela and Lisarda back to the palace in his carriage. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Leonora and Flora, as Don Leonardo and Ribete, subsequently arrive in Flanders. They hide while Ludovico and Don Fernando discuss Don Juan. It seems Estela has made Don Juan her steward as a reward for his bravery. This tears at Ludovico’s heart as he is madly in love with her. Don Fernando offers to help Ludovico with his cause, in spite of the fact that he is also secretly in love with Estela. Leonora/Leonardo introduces herself to Don Fernando and discovers that he is actually her brother who left home when she was young. She does not share this discovery with Don Fernando, however, and he cordially invites Leonardo to bunk with Don Juan; the plot thickens. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lisarda and Estela spend some time in the garden engaged in girl talk, mostly about who Estela does and doesn’t “like.”  Don Fernando arrives to woo Estela on Prince Ludovico and Don Juan’s behalf and discovers that Estela is smitten with Don Leonardo. Leonora/Leonardo plays on Estela’s affection and Ludovico’s obsession and plots a ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "rendezvous that night with Ludovico who will pretend to be Leonardo. Flora/Ribete gives Don Juan a paper from “the Condesa Estela” which asks him to meet her in the garden that night. Little does he know, he will be meeting Leonora instead. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Night has fallen and Leonora/Leonardo encounters Don Juan in the square. Out of the blue, Leonora calls Don Juan a deceiver and a liar and by drawing her blade challenges him to a duel. They fight, and Leonora wounds him. Ludovico, who stumbles onto the scene, is delighted with this and decides to remove Don Juan as a possible suitor to Estela by killing him. Leonora then vigorously defends Don Juan and fights with Ludovico, much to the confusion of Ludovico and Don Juan. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Act 2 opens with the balcony scene, that same night, in which Estela and Lisarda appear on one side of the stage and Leonora on the other. Ludovico proceeds to woo Estela with Fernando’s reluctant assistance, except Estela thinks Ludovico is Leonardo. Lisarda speaks for Estela and in her earnestness, accidently calls “Leonardo” Ludovico, who is the secret object of Lisarda’s affection. Meanwhile Leonora, whom Don Juan thinks is Estela, is bringing Don Juan to task for jilting Leonora. The scene ends with Leonora—still pretending to be Estela—spurning Don Juan while at the other balcony, Don Fernando climbs up and shares a kiss with Estela, who still thinks the Ludovico/Fernando duo is Leonardo. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The next morning brings everyone together in turn, further complicating matters and leading to a sword fight between Don Leonardo and Don Juan over the honor of the absent Leonora. Then Tomillo shows up, passes out, and Flora, dressed in her gown, strips him of his purse and his clothes and dons them herself. Through this encounter, using her wit, she convinces Tomillo to swear that if he ever meets a woman more clever than he, he will marry her. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Following this lighthearted scene, Leonora/Leonardo and Don Juan engage in more swordplay, interrupted by Don Fernando. To justify the duel, Don Leonardo claims that he is defending the honor of Don Fernando’s sister Leonora. By this admission, Don Juan discovers that Don Fernando is the brother of the woman he has offended back in Seville. Prince Ludovico, Don Leonardo, Don Fernando, and Don Juan engage in a communal stand-off, swords drawn, until Leonardo goes off to fetch Leonora, who is “nearer than you think.” ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "While Leonora is gone, Tomillo, who suspects Ribete is Flora in disguise, rips open Ribete/Flora’s jacket to reveal a flowery corset. Don Fernando can wait no longer and proceeds to defend his sister’s honor in a duel with Don Juan. The duel grows heated until Leonora returns, dressed in her gown, and reveals her true identity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Don Juan and Leonora are happily reunited, Estela discovers that the kiss she shared on the balcony the night before was not with Don Leonardo, but Don Fernando, and is delighted to have found her true love, and Prince Ludovico is rewarded with the discovery that charming Lisarda is in love with him. Tomillo and Flora are bound together with a dowry provided by Estela, and they all live happily ever after. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "With the combination of swordplay and mistaken identities, Agravio initially seemed to be a blend of Twelfth Night and The Three Musketeers. However, the more times I read the script, and the more research I did on Spain in the 17th century as well as research on Ana Caro herself, the more Agravio’s distinct traits came to the forefront. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "And when the actors took hold of the material, it became uniquely Agravio—Spanish Comedia, a comic/tragic tale of love and revenge. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chapter 2:  Research of the Spanish Golden Age ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The script indicates that the initial version of Agravio was written ca. 1637-1650. This encompasses approximately the same time period as The Three Musketeers, which the Johnny Carson School of Theatre and Film presented in Spring 2011. I was wary of duplicating the look of The Three Musketeers, both for the sake of our audience and to give costume technicians the design and construction knowledge for a different period. I asked the director if he would be willing to move the play backwards in time. He agreed, and asked me to keep him informed as to how that would affect the costumes in terms of footwear, collars, and so forth. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "My initial research covered from 1400-1650 and focused on Spain, with forays into France and England. I examined historical texts, costume history, and books on the arts. For about 100 years, from the late sixteenth through the seventeenth century, Spain experienced el siglo de oro, the Spanish Golden Age. During this time, literature and art flourished. It was also the time of Spain’s greatest influence on the fashions of Europe, especially England and France. “Under Charles V and his successor, Philip II, Spain was the most powerful state in Europe ... Spanish etiquette was rigid and unbending, and Spanish costume was no less so” (Keniper 81). Philip II, who ruled Spain circa 1556- 1665, collected paintings and sculpture and was dedicated to beauty in the form of gardens and architecture. He supervised the construction and decoration of El Escorial outside of Madrid, which was built to serve as a palace, monastery, and mausoleum. Philip II filled the palace with art, including many commissioned pieces. By 1580, Spain had won an important battle with the Ottoman Turks, and had united with Portugal. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "“Sevilla became a raffish boomtown at the hub of Spanish-American trade. [...] To Sevilla came adventurers and thieves, impoverished gentlemen and husbands fleeing shrewish wives.” (Williams 119-124). The Golden Age was beginning. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0f6dbcfe2230bcee1abed7c0ec64ab047e5ac47523557c685985c0184f3869e.jpg",
+        "img_caption": [
+            "Figure 2.1 El Escorial, Photograph. architessica.wordpress.com/2011/03/21/el-escorial-san-lorenzo-de-elescorial-spain/. "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Based on this research, I decided to focus on the late 16th century because the images would be recognizable to the beginning theatre students in the audience, thus making the material immediately more accessible to them. Also, there would be greater potential for using some of the garments from the costume shop inventory. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the late 16th century, men wore linen shirts that were cut full and gathered into a band at the neck and cuffs. The shirt was covered by a jerkin or a vest, and a doublet which was ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "“tight-fitting to a very narrow waist, buttoned down the front from a high collar and developing skirts [peplums] which varied from very short to hip-length; the sleeves were fuller at the head, their attachment being hidden by stiffened bands, often crescent-shaped, projecting over the shoulder and known as wings.” (Nunn 29) ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "There also developed a trend for wearing a great deal of padding in the stomach area which was known as the peascod belly. A short cape was worn “on both shoulders, on one alone, or draped about the bust” (Kelly 18). Men wore hose which were some sort of breeches and stockings stitched together. The styles varied from trunk hose, which were short and wide and often paned3, to Venetians which tapered to the knee and were worn snug to the skin or very wide. Boots were mid-thigh but could be folded down and did not typically have a heel. Hair was cut short and flat caps or hats with high, stiff crowns were worn. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/73b0ca3efec06e12523c3237e7c5d2172ed802ce00cae4e947b90cd9b18be24e.jpg",
+        "img_caption": [
+            "Figure 2.2:  Anonymous. Victors of Lepanto, 1575. Museum of Fine Arts, Venice. Commons.wikimedia.org/wiki/File:Victors_of_Lepanto.jpg. "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "For women, the farthingale, which originated in Spain in the 1550s,  created the distinctive cone silhouette of the time. The farthingale was essentially a petticoat with graduated hoops. The neckline of  a gown was high and there was a stiff panel incorporated into the front of the garment that extended far past the waistline, ending in a point. A gown often incorporated two sleeves: hanging full sleeves combined with under-sleeves. Hair was “waved or curled and puffed out over the temples on ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/b329a547236d2ae3437ea690d1b6a0def34a2954fd714c8c4b4c3a41c2daae73.jpg",
+        "img_caption": [
+            "Figure 2.3: Antonio Mor, Elisabeth de Valois, ca. 1568. Grand Ladies. Gogmsite.net/iberian_style_in_the_farthi/minialbum _isabel_de_valois_ca_1568_elisabeth_de_valois_2. "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "either side of a central parting. [...] The back hair was coiled into a flat bun which was generally confined in a close cap or net” (Kelly 26). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Both men and women had the dubious honor of wearing ruffs, a band of fabric pleated into tube-shaped folds and starched into inflexible collars. Ruffs were the height of fashion during this period and are prominent in many portraits of the day. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "I gathered many images to present to the director, including those of 17th century cavaliers that I did not want to see onstage. In addition to providing the director with historical images, I viewed video clips or the entirety of three recent films. From these I gathered still photos that would convey the impression (from La Conjura de El Escorial or The Conspiracy) and the color (from Elizabeth: The Golden Age) that I felt would mesh with the script. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The director’s concern was how to make the men look manly to a modern audience. He felt that the men’s hose would appear feminine to the audience. To address this concern, I designed Venetians, below knee length breeches for Don Juan, Don Fernando, and Tomillo, while reserving the trunk hose for Prince Ludovico. Since Ludovico had both feet firmly planted in the 16th century aesthetic, I decided it would be appropriate for him to wear a small ruff at the neck and cuffs of his ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/98aa9587567652836adb8b5f19c752682b303722179a23097e72d21d4199a6e7.jpg",
+        "img_caption": [
+            "Figure 2.10: Braun and Schneider. The History of Costume.Plate 46c, French Court Dress. Second Third of the Sixteenth Century. Siue.edu/COSTUMES/COSTUME8?INDEX.HTML. "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "doublets. For everyone else except the servants, I designed a “modified ruff” in the form of high collars with box pleated ruffles or lace, a nod to the style and modesty of the time, but less confining for stage movement and acknowledging modern sensibility. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For the women, the director challenged me to find a balance between the romantic, open look of Princess Anne in the painting by Michael Dahl, c. 1690 (at left) and the severely constricted look of 16th century Spanish women (below left). I designed more open necklines for Leonora and Lisarda, a softer, less confining neck for Estela and combined color, soft ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0b786cd88063ff2a8b11030256c0efef3511938bb4d6a923168a1e550163af6.jpg",
+        "img_caption": [
+            "Figure 2.11: Michael Dahl, Princess Anne, c. 1690. Commons.wikimedia.org/wiki/File: Princess_Anne_c.1690.jpg. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "fabrics, and romantic trim such as lace and embroidery to achieve the goal. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "While the standard in fashion for late 16th century Spain was a short hair length for men, the director wanted to keep Ludovico’s hair long. This was not my first choice, but it helped establish the distinct character of Ludovico, who resides in Flanders. The hairstyle for the servant Tomillo came directly from the actor’s own shock of unruly hair, which suited the character perfectly. ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/8234e865f3a06d58cad51ea5228274888e17ca74ad151aebb12bfb82a0673761.jpg",
+        "img_caption": [
+            "Figure 2.12: Sofonisba Anguissola. Isabel von Valois, 1599. Commons.wikimedia.org/wiki/File:Is abel_von_Valois_by_Sofonisba_Ang uissola.jpg. "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "As for the women’s hair, I wanted it to be polished, yet practical. Hairstyles in the late 16th century were close to the head and often incorporated a headpiece or small cap and jewels which covered most of the head. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Since all of the female characters don and remove hats at some point in the play, it was necessary for their hairstyles to withstand the motion and remain intact. The September 2012 issue of InStyle  magazine featured braids as the new trend, so I focused my research on Renaissance hairstyles and decided this would be the ideal solution. I provided resource photos for each character, and the members of the makeup crew were marvels at braiding and did a meticulous job for every performance. I was delighted with the results. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a96811bc2f483c03e25f9b8549835ce8e22f5c11429419e94687b4be7d5b1d2.jpg",
+        "img_caption": [
+            "Figure 2.13: François Clouet, Jeanne d’Albret. 1570. Museé Condé, Chantilly, France. Gogmsite.net/the_middle_1500s_- _1550_to_/subalbum-jeannedalbret/1570-jeanne-dalbret-by-fran2.html "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/8239764ea3256b5bf389e9e07400680eeca118f0089f4b4dbbd94b9b292acb42.jpg",
+        "img_caption": [
+            "Figure 2.14: InStyle magazine, September, 2012. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/53b3d12f643c695e43cfcb4a4f15904d751d7d6c0a6ae5282e141eb499a3b3a3.jpg",
+        "img_caption": [
+            "Figure 2.15: Paolo Veronese, Portrait of a Woman, Called La Bella Nani, 16th century. Commons.wikimedia.org/wiki/File:Paolo_Veronese _040.jpg. "
+        ],
+        "img_footnote": [],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/b98875ec02ea0ac7e1f4d5a95eb2ea3eb3b0af219fa2f1a080a8cefd863f71bf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "(Above left) Figure 2.16: Leonora/Kayla Klammer (Above right) Figure 2.17: Estela/Lucy Myrtue (Lower left) Figure 2.18: Flora/Jenny Holm (Lower right) Figure 2.19: Lisarda/Lauren Huston (Photos courtesy of Julie Douglass) ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Chapter 3: Color Choices ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "As part of my costume design process, I always ask the director to describe the play or film in one word. Professor Borden provided three: exuberant, boisterous, and playful. This coordinated perfectly with my vision of the costumes as mostly traditional dress but with a twist—the twist being color. I wanted to use jewel tones and mediumintensity pastels for the costumes of Agravio rather than the severe black and gold of Spanish fashions of the time. ",
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/de8d30ed72bc6777493ad3e07a9069c8de6459eb4f89c8b069680e30ee8eca93.jpg",
+        "img_caption": [
+            "Figure 3.1: Alonso Sánchez Coello. Philip II, 1570s. Spanish fashion. Commons.wikimedia.org/wiki/File:Alonso_ $S\\%C3\\%$ A1nchez_Coello_-_Philip_II_- _WGA20722.jpg. "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/69fcc73721564eba94458c12dced4f9dcfaf6f57ba11f7541f1d6f369d686efd.jpg",
+        "img_caption": [
+            "Figure 3.2: Francois Clouet, Catherine de Medici, c. 1555. Portrait miniature. Commons.wikimedia.org/wiki/File:Cath erine-de-medici.jpg "
+        ],
+        "img_footnote": [],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c1f1b01d6e366ff8ce45682b60361e13f7f734746350369d8e8d01060add9c4.jpg",
+        "img_caption": [
+            "Figure 3.3: Francisco de Goya. The Parasol, 1777. Color inspiration. Wikipaintings.org/en/francisco-goya/the-parasol-1777. "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "At my first meeting with the director on August 20, 2012, I presented an Image Board. The purpose of the Image Board was to combine and communicate my vision for Agravio regarding color and the overall feelings of exuberance, boisterousness, and playfulness. On the board, Don Juan is depicted upper left with Leonora opposite him on the right. A rose is the central motif on th ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/73b8635daf18cad14c7c515f977d26e63379db9a016561f8c528224c2fdf4700.jpg",
+        "img_caption": [
+            "Figure 3.4: Image Board for Agravio. (Photo courtesy of Julie Douglass) "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "board, a nod to the romance that underlies everything that happens in the play. It is the image that ties    Don Juan and Leonora to the rest of the characters who are represented in images and color on the lower half of the board. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "In an early email to the director, I asked if he preferred to see color matching for couples. He said the costume matching for couples need not be obvious, that the coordination could be subtle using trim, patterns, or line rather than simply color. His primary concern was that when the couples stand together at the end of the show, they should visibly appear as though they are with the correct person. Because Agravio incorporates so many plot twists, I wanted to cast some doubt on who will end up with whom; therefore I attempted to keep the color coordination of couples rather subtle. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A blueprint of my initial color preferences by couple set the tone for subsequent design choices and fabric selection: Leonora would be in soft red leaning to orange, with accents of blue, while Don Juan was in blue with red accents; Estela would be dressed in aqua leaning to blue, with brown or gold added, with Don Fernando in green with gold accents; Lisarda would be in gold blending with pink plus shades of rose and coral, while Ludovico was in purple; Flora would embody rich earth tones such as rust and dull goldenrod yellow while Tomillo was primarily brown. I planned to further tie the couples together visually with similar neutrals, specifically tan, cream, black, copper, gold, and silver. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Chapter 4: Reflecting the Passage of Time ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "One of the aspects of costuming any play is not only the time period in which it is set, but the amount of time that passes onstage from beginning to end. For Agravio, the director said that time was malleable. Leonora and Flora leave Seville after 1.1 (At the Convent) and arrive in Flanders in 1.3 (Arriving at Court). He also indicated the time spent in Flanders could be a week, but noted that the same night which ends Act 1 also begins Act 2. From there, time accelerates and Act 2 encompasses only one day. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Due to budget considerations, I planned that one major costume piece per character would be worn throughout the show. This would also provide visual continuity between acts. Don Juan, Don Fernando, and Ludovico retained their breeches while Estela and Lisarda each continued to wear the same skirts. At first glance it appeared that intermission would be the ideal time to change costumes. However, this would typically imply a new day or some other transition which, in the world of the play, did not happen until after 2.1 (The Balcony Scene). The director and I discussed having everyone change prior to 1.5 (First Night/Fighting in the Dark) but there was no time to do so. Intermission could not be moved up because that would make the first half of the play too long and the second half entirely too short. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "We concluded that because 2.1 (The Balcony Scene) is so dimly lit it would be acceptable for Estela and Lisarda to change their bodices at intermission without creating a visual discontinuity. The three male characters that were changing doublets would remove their capes and hats for 2.1, and change their doublets backstage prior to 2.2 (The Next Morning). Discarding the capes facilitated the quick changes for Don Juan and Don ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Fernando and afforded greater movement for all three actors. Without the hats, their faces were more visible in the dim lighting. Coordination of preset garments and hats with the location and timing of each character’s exits and entrances was necessary and successfully achieved with the cooperation of the actors and the costume crew. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "At intermission, Leonora removed her doublet to reveal her chemise and corset and added her underskirt over her pants and boots. This facilitated her change back into Leonardo which necessitated presetting her doublet, hat, and sword back stage left. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Chapter 5: Leonora ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "According to the director, Doña Leonora is in her twenties. She is hell bent on revenge against Don Juan, who has left her to join the Spanish army. She is also madly in love with Don Juan. Leonora is a determined, feisty, sentimental woman. The actor, Kayla Klammer, was a petite young woman, so the challenges were not to overwhelm her in her 16th century dress and to make her believably masculine as Don Leonardo. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/8573f82ffb20851fd3988bb09784f38404d74ca4b9683031919af7a0143be580.jpg",
+        "img_caption": [
+            "Figure 5.1: Leonora Preliminary Sketch for 1.1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "I initially designed Leonora’s gown in red with blue accents while Don Juan, her lover, was predominantly blue with red accents. This was a way to tie them together without being blatant, and to leave some question, however small, as to how this situation would be resolved. I saw Leonora as a fiery, lively young woman and I wanted to reflect that in her dress. However, Janice Stauffer, my advisor, felt this was the wrong approach. She saw Leonora as an ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/00c9a7ff01ed82670b478c0d8b40a391e688601db182068ae049f949a40e7fc8.jpg",
+        "img_caption": [
+            "Figure 5.2:  Leonora Preliminary Sketch for Final Scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "“ingénue” and said that making her dress blue would show her youth.  Leonora became blue. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/8dd025626ea624bccde4111b022d54c3dfe86a33ac6e8180d8f84f074176c0d6.jpg",
+        "img_caption": [
+            "Figure 5.3: Leonora Initial Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "In the first rendering and construction drawings of Leonora’s dress, I designed the sleeves in the same blue fabric as the skirt with silver piping or bands of fabric between the puffs. The costume shop supervisor was unable to manipulate this fabric to successfully achieve the proportions as designed, so Professor Stauffer suggested that the sleeves be constructed from the silver brocade used for the center and back of the bodice and the front of the overskirt, and that we build only two puffs into the sleeve instead of the three I had designed. I went ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "along with this decision. The bodice also incorporated blue velvet for the peplum and the trim on the collar and sleeves. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "It was difficult to find blue fabric at the time. I finally discovered blue embossed velveteen in Lincoln. I used this fabric for the overskirt and the bodice in conjunction with the silver brocade. I stitched metallic gold and blue trim to the front and back of the bodice and to the vertical edges of the skirt to contrast with the silver brocade. In order to provide some visual consistency in the garment I added silver trim to the peplum. In order to facilitate costume changes, the bodice and overskirt were constructed as one piece with a sturdy zipper for the closure. This garment was only worn in 1.1 (At the Convent) and 2.4 (The Big Finish). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "For 2.1 (The Balcony Scene), Leonora wore the underskirt, chemise, and corset. This was a more romantic image and showed the audience Leonora’s vulnerability at the same time she is aggressively attacking Don Juan verbally. Leonora’s petticoat was built into the underskirt for ease in her quick changes after 1.1 (At the Convent) and during 2.4 (The Big Finish). The hoops were also built into the underskirt. There was a problem with the size of the top hoop which caused a visible ridge in the skirt. This was never resolved. ",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c80700eec72bc28f040c7d536c97aa1448d6c48c7531de2dcb0958781260189.jpg",
+        "img_caption": [
+            "Figure 5.4: Leonora Initial Rendering Balcony Scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "The underskirt was constructed of a blue satin purchased from JoAnn Fabrics in   \nKansas City and Lincoln. The chemise was made of cream-colored fabric with   \nembroidered tan vines. I showed a student worker how to color the vines with a black fabric marker to mimic Spanish blackwork. Blackwork is embroidery done in black thread on white linen. ",
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/10c4daeb212577d718c3fc223f8716f4c5155eb22b9b7ef8c5132972e29c0887.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf1ac8c0c9baa97309fe23775f42cd92e78732f8114b3a9b81c1bdba90029fd0.jpg",
+        "img_caption": [
+            "(Left) Figure 5.5: Blackwork example (www.blackworklessons.wordpress.com) (Right) Figure 5.6: Leonora’s blouse with imitation blackwork (Photo courtesy of Julie Douglass) "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/90f82c922db782e58a57b4ffa4aa355015d9ec7a122006cdb4240db27f121e38.jpg",
+        "img_caption": [
+            "(Left) Figure 5.7: Leonora Dress Front (Photo courtesy of Alma Cerretta) (Right) Figure 5.8: Leonora Dress Back (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "The corset was built of the blue satin from the underskirt combined with the blue reverse side of the silver brocade. I elected to have Leonora wear no jewelry to facilitate the changes from Leonora to Leonardo. The actress supplied her own silver shoes for the first and last scenes. ",
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/293c6cf9b55dbd64044a7067ef5aefbe421dbefc98fc39d6435cf6e92f28398c.jpg",
+        "img_caption": [
+            "(Left) Figure 5.9: Leonora Balcony Scene Front (Photo courtesy of Alma Cerretta) (Right) Figure 5.10: Leonora Balcony Scene Back (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaf598bd622615f5c782764511bec07e3c64eb8593c010a51b5c233047529618.jpg",
+        "img_caption": [
+            "Figure 5.11: Leonora/Leonardo, Front (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "When Leonora becomes Don Leonardo, she must overdress her corset and chemise due to the amount of time it takes to lace a corset. The pants were constructed from a grey upholstery fabric, the perfect color and texture, but stiff and difficult to sew. The doublet was a paisley matelassé with blue, silver, and copper/gold combined with a dusty blue velvet peplum, collar, and accents. The metallic content combined with a shade of blue gave her subtle visual connection to Don Juan as well as to Estela. Fortunately, tall boots were in style and I ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "was able to purchase appropriate boots in Lincoln. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "I tried several different hats on the actress during rehearsals, but the director thought they worked against the masculine disguise. Finally, I had a hat similar to Don Juan’s constructed out of the dusty blue velvet from her doublet. Leonora/Leonardo’s cape was made from blue velvet lined with the same blue silk and gold-embroidered fabric that I used for the lining of Don Juan’s cape but reversed. In an effort to reinforce the illusion of masculinity, I instructed Kayla to apply minimal eye makeup. ",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c38353d60e46a1e2da284b4efd4e917719fda4a52f454bfaa2f0146b6c4329f.jpg",
+        "img_caption": [
+            "Figure 5.12: Leonora/Leonardo, Back with Cape (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "In the final scene, Leonora/Leonardo left the stage and needed to completely change into Leonora in approximately one minute. There was a chair back stage left and two members of the costume crew to assist the actress. We rehearsed every detail of the quick change several times and the first time we did it as part of a run, the change was successfully executed in 28 seconds. ",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Chapter 6: Flora ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Flora, Doña Leonora’s servant, was played by Jenny Holm. The director wanted her to appear a bit older than Leonora, so I decided Flora was in her early 40s. This necessitated a small amount of age makeup. Flora’s hair was not braided as intricately as the other women since she was the servant and it was acceptable for her to become increasingly disheveled as ",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d932c43da611d2d87489bd02906f72b05877e2899a1f5f11113e988c45137eb.jpg",
+        "img_caption": [
+            "Figure 6.1: Flora Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "the play went on. This was an ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "inevitable result of her quick changes and the scene with Tomillo, and added an extra raw edge to the character. I based her head covering in 1.1 (At the Convent) on paintings of the lower class. ",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/f9b41460298accf9adcf00c03a2c186b03979dd6f0d3948e5222aebba3c639ad.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "The fabric I selected for Flora’s dress was originally brown and green striped woven cotton. Figure 6.2: Flora Initial Rendering However, there was not enough of the fabric available, so I purchased the black stripe satin weave which worked well visually due to the presence of multiple colors and the gold stripe which balanced with the black. The quality of her gown served to raise her status above that of Tomillo. With Flora’s dress, I designed a more severe silhouette with less bulk in the skirt (no hoops) and a simple high-necked bodice. Flora’s outfit was constructed as a bodice and a skirt to ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "accommodate quick changes and the activity onstage in 2.3 (Flora Tricks Tomillo). For these reasons, the petticoat was built into the skirt as well. ",
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/d245e4e372d2e9df32a0cc5334a030a29fa4b4b27c9c73bfbf0ce5a2e44669c9.jpg",
+        "img_caption": [
+            "(Left) Figure 6.3: Flora Dress, Front (Photo Courtesy of Alma Cerretta) ",
+            "(Right) Figure 6.4: Flora Dress, Back with head covering from 1.1 (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "image",
+        "img_path": "images/827d9fdf8c6781565a47a5e282b2503d65b7868d82bb31ddaf1441f38770a34d.jpg",
+        "img_caption": [
+            "Figure 6.5: Flora/Ribete, Front (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Flora’s doublet for Ribete was constructed for the production in textured wool with striped patterns of rust, tan, and black. The use of stripes tied Flora to Tomillo and set her apart from Leonora. Since the doublet was opened onstage twice, it was fully lined. Flora’s inspiration for the name “Ribete” comes from a tag in one of the garments she brings onstage in 1.1 (At the Convent)—this was the same doublet. The tag had to be visible to some percentage of the audience for the gag to work, so I made it quite large with black writing on a white tag. In 2.4 (The Big Finish), Tomillo confronts Ribete whom he now strongly suspects is Flora. He rips open her doublet exposing her corset. The doublet fastened with Velcro, which helped the quick changes and made the ripping sound appropriate for this scene. I covered a stock corset in a small floral print to make it appear more feminine and emphasize the contrast. However, the floral print was not really visible to the audience. ",
+        "page_idx": 34
+    },
+    {
+        "type": "image",
+        "img_path": "images/b97096b9c24a24340eafbbb6f34b605d8c41620d6e431203b49c1b619e36d493.jpg",
+        "img_caption": [
+            "Figure 6.6: Flora/Ribete, Final Scene (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "As Ribete, Flora wore rust-colored pants over   \nher brown tights and the same brown shoes she wore   \nbeneath her dress, both pulled from stock. The pants were tightened at the waist and ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "fabric was added at the band below the knee for comfort and ease. Flora needed a belt with a bag on it which was large enough to hold an apple and a letter. I pulled the belt from stock and the purse was constructed from a commercial pattern using tapestry-print upholstery fabric. ",
+        "page_idx": 35
+    },
+    {
+        "type": "image",
+        "img_path": "images/93dbea977ec564cf9446aa9d1ce72f3eb01b3701c9da8bced2db00597833c367.jpg",
+        "img_caption": [
+            "Figure 6.7: Flora, Pouch Detail (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Chapter 7: Don Juan ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Don Juan de Cordoba, played by David Michael Fox, is the quintessential ladies’ man. He is handsome, brave, dashing, and daring. His heart is also inconstant, as shown by his surprise departure from Leonora and his immediate obsession with Estela. ",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/42e203eb9e8546a7ac79255b96eeeb8d53f9f290e2fb38e6f206fa802e7350e7.jpg",
+        "img_caption": [
+            "Figure 7.1: Don Juan Act1 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "The initial color concept for Don Juan was predominantly blues with red accents, particularly in the lining of his cape—a nod to the culture of ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Spanish bullfighters. However, with the decision to make Leonora blue, I dropped the red from Don Juan’s attire and substituted gold and black accents. During the light test, the blue velvet on Don Juan’s first doublet read purple. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "While this was not expected or planned, in the scheme of things it created a slight visual connection between Don Juan, Ludovico and Lisarda that added to the intrigue. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Don Juan’s breeches were constructed of blue damask resembling lizard skin. Despite Professor Stauffer’s concerns that the fabric was inappropriate and would read as modern, the texture added a subtle dimension to an ordinary garment. The addition of gold trim at the bottom of the breeches lent some interest when it inevitably peeked out from the boots during stage combat. ",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/9a42ca2ef1357db7c25942c56c83e2c947e00576f4a9f702fc591177ca308780.jpg",
+        "img_caption": [
+            "Figure 7.2: Don Juan Act 2 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/af46cd19023fea6947f866bbdd54429e33c28d07d75c42f38990338b37b053e5.jpg",
+        "img_caption": [
+            "Figure 7.3: Don Juan Act 1 Initial Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "The Act 1 doublet was constructed primarily of blue velvet purchased in Kansas City. I combined this with textured black velvet for the sleeves and black and gold trim to pull the fabrics together. The matching hat was constructed out of the same textured black velvet. Don Juan’s doublet for Act 2 was designed to bring him visually closer to ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Leonora/Leonardo and to look appropriate with Leonora’s dress in the final scene. I used metallic gold and blue brocade that would both complement the metallic brocade on Leonardo’s doublet and the silver brocade on Leonora’s dress. This was combined with blue velvet and accented with a heavy black and gold piping as well as constructed trim combining black and gold. The hat for Act 2 was constructed out of blue velvet to match the doublet. Beneath both ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/6df2681bc766f42a5d6d144326706eb06b91d24b8052ee8a9a59ec1d103da236.jpg",
+        "img_caption": [
+            "Figure 7.4: Don Juan Act 1 (Photo courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "doublets, Don Juan wore a shirt constructed from a lightweight poly/cotton with the collar and front panel made of a black/silver/white cotton print meant to imitate Spanish blackwork. ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/16a8464dbee0a49c4fc4502d188f42ab5f80620842675a1ba4f42a07f106ade5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Don Juan only wore a cape in Act 1 while Don Fernando wore his cape in Act 2. I felt this would establish them as individuals and not simply costumed characters both wearing the prescribed costume piece at the prescribed time. Don Juan’s cape was blue damask lined with a blue silk fabric shot with gold embroidered vines. The same fabric was used in reverse for the lining of Don Leonardo’s cape. ",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "The addition of Don Juan’s earring was serendipity at its finest: the actor was viewing my Figure 7.5: Don Juan Act 1 with Cape (Photo Courtesy of Alma Cerretta) research photos and pointed out that his ear was pierced. The earring hunt ensued. I ended up making one out of available parts, as there were no simple teardrop pearl earrings to be found. The addition of tights, boots, gloves, and a sword belt completed the costume. ",
+        "page_idx": 38
+    },
+    {
+        "type": "image",
+        "img_path": "images/c66a2be9c945485ca105b3117bd607a1a3ef2a481e13d3deba7c6dc8d9dab52a.jpg",
+        "img_caption": [
+            "(Above Left) Figure 7.6: Don Juan Act 2 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "(Above Right) Figure 7.7: Don Juan Act 2 Initial Rendering ",
+        "page_idx": 39
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fa55c2a2e42235ffcea98526057dc411c15b59ecf38dd3398e9c227cb6b0a24.jpg",
+        "img_caption": [
+            "(Left) Figure 7.8: Don Juan Act 2, Front (Photo Courtesy of Alma Cerretta) (Right) Figure 7.9: Don Juan Act 2, Back (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Chapter 8: Tomillo ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Tomillo, Don Juan’s servant, was portrayed by Shade Ingraham. Shade also doubled as Tibaldo, the leader of the bandits in 1.2 (Attacked in the Wilderness). Tomillo is a slovenly, loveable, dimwitted man. The actor’s characterization was greatly aided by his shock of unruly hair which I decided not to cut drastically, but only trimmed the front slightly and added gel to keep it from falling into his face. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "The basic costume for Tomillo consisted of a loose fitting tunic, a jerkin, breeches, a belt, “period” ",
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a96fd213f8116814d3ab7be1c8c4ec00128a269fb8f5c4de24fd174fdf70550.jpg",
+        "img_caption": [
+            "Figure 8.1: Tomillo Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "linen underwear, ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "tights, boots, and a hat. All of his garments were constructed for the show. I wanted the basic color palette to be brown in order to contrast with Don Juan and immediately convey his servant status to the audience. ",
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf595fc7eb7df8e8d0d9c11f7e942fd39b7959b88177b3baf922e55f7254fe3c.jpg",
+        "img_caption": [
+            "Figure 8.2: Tomillo Initial Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Tomillo’s costume revolved around texture. I found the striped fabric for his breeches in Kansas City which set the tone for the rest of his costume. The fabric featured wide chenille ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "brown stripes, while its reverse inspired the rest of the palette: a rough-textured linenlook fabric in a neutral color for the jerkin which was lined with rich goldenrod-yellow cotton. The jerkin needed to have several pockets to accommodate items as varied as a deck of cards, a money bag, and a real sausage. I requested that several pockets be sewn into the lining of the jerkin, large enough and shallow enough for Flora to retrieve the objects easily. In some cases, it was necessary to attach a simple snap to the pocket to keep the item from falling out. None of the buttons on the vest were ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/8d1a622f3d3f306f87347a9cedb268c1766c2945aadd1f8d666c5bb5d1e5e887.jpg",
+        "img_caption": [
+            "Figure 8.3: Tomillo (Photograph Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "fu nctional, and I opted to add a rigged snap behind the bottom button to keep the jerkin closed. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "I chose a cream-colored linen-look fabric for the underwear which would mimic period fabric and be washable. They were lined with the same fabric and I instructed the waistband to be made an inch and a half smaller than usual to assure that the underwear would not be removed with the breeches. ",
+        "page_idx": 41
+    },
+    {
+        "type": "image",
+        "img_path": "images/05a0e72650ffbb65c109356177cf7771c48b4aa5d5a0aa80af4f182dace6c9f5.jpg",
+        "img_caption": [
+            "Figure 8.4 Tomillo in his jerkin of many pockets (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "The shirt was a neutral tan color in a washable polyester fabric, and the grey tights were very thick and baggy which afforded yet another dimension. The tights also provided additional coverage beneath the underwear, and warmth for the actor during his “nude” scene. The boots and belt were selected for their rough appearance and because they were proportionate to the actor’s physical stature. The shirt employed elastic in the sleeves for ease of removal, and tacking the facing to the seam allowances kept the structure intact during the change. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "The actor totally inhabited his costume and became Tomillo. I initially planned for Tomillo to tuck his shirt in for the first act and become more disheveled for 2.3 (Flora tricks Tomillo). During rehearsals the actor never tucked in his shirt. It was marvelous and I kept it. ",
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/af30933b9ae7d24f87022fe0c2e3aeae86740be2235a54a888bfd51cc5997c97.jpg",
+        "img_caption": [
+            "Figure 8.5: Tomillo in underwear, Front (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/b76f8ae705989e34f33c38b114da3835c904a5ca6a0126884b6d5522458ec3ae.jpg",
+        "img_caption": [
+            "Figure 8.6: Tomillo in underwear (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Finally, Tomillo needed a second costume for 2.4 (The Big Finish), one that looked as though he filched the pieces off a clothesline. This costume was pulled from stock and the actor wore the boots worn by Ludovico/Astolfo during 1.2 (Attacked in the Wilderness). ",
+        "page_idx": 43
+    },
+    {
+        "type": "image",
+        "img_path": "images/45b2c8c4b303b0c96a3537fe2260e3ee2877a7de28c0bb9172e212eac2968bbc.jpg",
+        "img_caption": [
+            "Figure 8.7: Tomillo Final Scene (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Chapter 9: Estela and Lisarda ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Estela, played by Lucy Myrtue, is a Contessa in Flanders. Doña Lisarda, played by Lauren Huston, is Estela’s cousin and constant companion. Estela is regal and conservative in her bearing, and in high demand amongst the men. In contrast, Lisarda is a romantic, and secretly in love with Prince Ludovico who is actively wooing Estela throughout the play. ",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/0068d930907136e15a1fca8b1779d574b872cd34cdec83c2df5a5b757bf2d4d1.jpg",
+        "img_caption": [
+            "Figure 9.1: Estela Preliminary Sketch Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "The most immediate way to distinguish the two women was with color. The director suggested w play off of Lucy’s fair complexion and blonde hair and make her an “ice queen.” This concept worked well with the icy aqua fabric I selected for her costume. Equally important, the aqua color was visually compatible with the green of Don Fernando’s costume at the end of Act 2. For Lisarda, I used burgundy, rose, and pink to enhance her romantic nature. These colors coordinated with Ludovico’s purple and red throughout the play. ",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bdbd6d2f3c383d453f5103e0d8385eb4b5e8688022b17d1559ebe18fe2de31a.jpg",
+        "img_caption": [
+            "Figure 9.2: Estela Preliminary "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Sketch Act 2 I decided that each character would wear the   \nsame skirt for both Acts. The skirts were designed to mimic Spanish farthingales in   \nsilhouette and consisted of an underskirt with a built-in center panel of contrasting fabric ",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/95a2f97f2438642a53a57401fb3b40b39a557a605f46bd99a017dbe8caa730de.jpg",
+        "img_caption": [
+            "Figure 9.3: Lisarda Preliminary Sketch Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "worn beneath an overskirt made from the same fabric as the Act 2 bodice. The cut of Lisarda’s skirt successfully achieved this look, combining rose damask and pink brocade with pink trim added to the front vertical edges of the skirt. Estela’s skirt turned out quite different from the original design. It combined four different fabrics, including a front lace panel in a deeper hue than the aqua brocade. The front edges of the skirt were distorted in construction, resulting in an unexpected and unusual shape which was a distraction from the beauty of the garment. The reviewers at KCACTF (Kennedy Center All College Theatre Festival) were quick to draw attention to this. ",
+        "page_idx": 45
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9cedf2afdf4566033e2387722ad7f93144badcba2b8c81d058f3faa05855478.jpg",
+        "img_caption": [
+            "Figure 9.4: Lisarda Preliminary Sketch Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "In 1.2 (Attacked in the Wilderness), Estela and Lisarda are hunting in the forest. In order to clearly convey that they are outdoors, the first costume for each character featured a short velvet jacket, cape, and hat worn with the skirt. They also wore belts with quivers of arrows. The belts were from stock and Props provided the quivers. Both women removed the hats and capes for 1.4 (Estela’s Lament), but remained in the jackets which served as bodices until intermission, when they changed into different bodices for Act 2. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f010d3b51c50c6d4a64ed6f2281ab14b96bd6c9392d52b48d7e2ed361f462b0.jpg",
+        "img_caption": [
+            "Figure 9.6: Estela Initial Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Estela’s jacket/bodice for Act 1 was cool aqua velvet with large upper sleeves contrasting narrow lower sleeves yet balanced by oversize cuffs accented with gold. The gold collar was cut quite large and incorporated lace at the inside edges which was designed to stand up from the collar. The trim on the bodice was heavy and richly embroidered, lending more weight visually and reinforcing her regal status. ",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/a301a6871e4804fc112b3cd9adb65159a8c829a34f56a8e0b1aa742f9bd33f3a.jpg",
+        "img_caption": [
+            "Figure 9.7: Lisarda Initial Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Lisarda’s jacket/bodice used light and airy paned sleeves with intense pink lining combined with dainty lace trim to convey her delicate romantic nature. The construction of this garment also began to tie her to Ludovico in a subtle way, since they were the only two characters onstage wearing paned garments. The fabric of the hats which were constructed for the show played up the contrast between the two characters with Estela’s hat made of velvet with a heavier gold trim and Lisarda’s hat made from softer, lighter damask. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 46
+    },
+    {
+        "type": "image",
+        "img_path": "images/77e7d3c95161226443a3a7ee5d857263dd3ac4fcd4a9bc4cfe81df262e6470d1.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "For Act 2, I designed the cut of the bodices to reinforce the established image for each character. To that end, Estela’s bodice was high-necked with a small row of pleated lace added to the top edge. The sleeve design was faithful to the 16th century with a long hanging sleeve over a narrow under sleeve in a contrasting color. I added stuffed rolls of fabric and wings, narrow strips of fabric which extend over the shoulders, to the upper sleeve to visually accentuate Estela’s weight in the court. Because there was a limited amount of fabric, I designed the hanging ",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/81d02ac9094ae69d3156553059edcc112a527390877db372349a2cd560fde5fa.jpg",
+        "img_caption": [
+            "Figure 9.12: Estela Initial Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "sleeves to be nearly two feet shorter than typical of the period. I added a rich, gold ed trim and a row of pearl trim to the front of the bodice. Estela also wore a chain belt in the second act, which was necessary to accommodate a small purse which carried her money bag. She was able to easily remove the purse from the belt after she no longer needed it. The purse was constructed for the show out of “tapestry”-patterned upholstery fabric using a commercial pattern. ",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/c43f5519fa23f202edeb67a1f17e84351d432e829b221a81312211de11ce5501.jpg",
+        "img_caption": [
+            "Figure 9.13: Lisarda Initial Rendering Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "In an attempt to reach a middle ground between the severity of traditional Spanish dress and the romantic look of the 17th century, I designed the neckline of Lisarda’s bodice to be lower while retaining the high collar, and had the garment constructed with a combination of burgundy velvet, rose damask, soft pink brocade, ruffles, and pearl buttons. These elements plus puffed sleeves with lace at the cuffs softened Lisarda’s image. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/521ae6d2406c02eec7d64b155cedcf3e76c0de995551d7061bee88a808315bd5.jpg",
+        "img_caption": [
+            "Figure 9.14: Lisarda Act 2, Front (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/67f3e0c40a677546e2cf92741dcce62f613f4ebd4951e1c4e449666d695fabed.jpg",
+        "img_caption": [
+            "Figure 9.15: Lisarda Act 2, Back (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 49
+    },
+    {
+        "type": "image",
+        "img_path": "images/4724a3e4cfdc9fbb939aecb146e3730031218099c9c28e9b63e2df5a941be363.jpg",
+        "img_caption": [
+            "Figures 9.16 and 9.17: Estela Act 2 (Photos Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/67e01892f588a3e8ca93a3662fabc737df5cf3fe4755ba79de5bfc4b0188e0bc.jpg",
+        "img_caption": [
+            "Figure 9.18: Estela Act 2, Belt and Pouch  (Photo Courtesy  of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 50
+    },
+    {
+        "type": "image",
+        "img_path": "images/8338d9eff1913865a34b2cdb0d173ccc04ac66a437cfa689bf15b2120a94e4b2.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Chapter 10: Don Fernando ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Billy Jones played Don Fernando, who is Leonora’s brother whom she hasn’t seen since she was a little girl. The actor also doubles as a bandit, Rufino, in 1.2 (Attacked in the Wilderness). Don Fernando is a gentleman and a true friend. He woos Estela on Prince Ludovico’s behalf, even though his heart belongs to Estela as well. He is very concerned with the precepts of honor. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "In order to make Don Fernando look more like Leonora’s brother, I employed a hair stylist to dye the actor’s hair darker. The use of waterproof mascara on his light facial hair added to his persona. The dark hair and beard helped the actor to look less like Estela’s brother and added to his credibility as a potential suitor. ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/fce074e14acf600b94b1cf595d6c72fa8940714f37e827c92c36d43bd70a0160.jpg",
+        "img_caption": [
+            "Figure 10.1: Don Fernando Act 1 Preliminary Sketch ",
+            "Figure 10.2: Don Fernando Act 2 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "I selected green for the primary color of Don Fernando’s costume to complement Don Juan’s blue. Green also corresponded to Estela’s aqua without being too obvious. I found most of the fabric in Kansas City, ncluding the trouser fabric which was a double-sided ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "fabric that was very dark green on one side and spring green on the other. My advisor was concerned that the dark green would appear black onstage. However, the fabric appeared a deep forest green under the lights, passed the lighting test, and became Don Fernando’s breeches for Acts 1 and 2. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "For Don Fernando’s doublet in Act 1, I used heavy green and tan brocade combined with the reverse side of the trouser fabric as an accent on the sides and peplum. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "A white ruffled collar and cuffs and a coordinating white, black, and gold thickly braided piping combined with other small trims served to visually lighten the doublet and add more dimension. ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/5a919b30fa2fe51f24393582b00fa41c5b70b3a2d8ad73eb4935f55dc2dbf3de.jpg",
+        "img_caption": [
+            "Figure 10.3: Don Fernando Act 1 Initial Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Don Fernando’s Act 2 doublet incorporated medium green velvet with medium green brocade for contrast on the upper ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "sleeves and chest. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Again, I chose to add a white ruffled collar and cuffs, but this ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/4df4666cdcee5ca343b069cebf12a13aa6cf05d76c8b40c44de264b7abcfa7d4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "time combined two narrow trims of green and gold to achieve the understated opulence I sought. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "For Act 2, Don Fernando added a cape made of   \ndiamond-patterned black velvet lined with tan Figure 10.4: Don Fernando Act 2 Initial Rendering   \npolyester lining fabric. The original design for Don   \nFernando featured a gold lining, but I was uncertain how much gold I would put on   \nEstela, and I thought the tan would be an acceptable alternative. During the light test, the ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "black velvet read a little brown, and provided an unexpected and welcome coordinate for the tan lining and the green doublets. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Don Fernando’s dagger needed to be in his boot. I worked with the Prop Master to make this happen. We could not sew anything to the boot because it was on loan from the opera department, so we used Gaffers tape, an acceptable alternative as it holds fast and does not leave any sticky residue upon removal. Don Fernando also needed a small pocket for a key on his Act 1 doublet, so I sewed a very small pocket onto it with the same fabric. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "The director didn’t like the hat that Don Fernando wore for rehearsals because it kept too much light off of his face, so I had one constructed that had a smaller brim, yet not too small, as it would not be proportional with the actor’s body type, particularly his shoulders. ",
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/145e8c260e7991180878559043d77f028f86fa0a35c556a527fc898eb7246176.jpg",
+        "img_caption": [
+            "Figure 10.5: Don Fernando Act 1, Front (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7bcd17f8a9824e7a3c3198bfe2bc8ec5bf0fd6485e947cb60520b2182cac766.jpg",
+        "img_caption": [
+            "Figure 10.6: Don Fernando Act 1, Back (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2920073208b5ff43f3a99895a0296f0e7ff948da7b1ad1af311805b8194e70b.jpg",
+        "img_caption": [
+            "Figures 10.7 and 10.8: Don Fernando, Act 2 (Photos Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Chapter 11: Ludovico ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Ludovico, played by Patrick Stayer, is the Prince of Pinoy. The actor also doubles as Astolfo, a bandit. Ludovico is full of dignity and pomp. The director agreed to allow ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Ludovico to wear a more typical costume of the time, trunk hose and tights. When I agreed to drop the red from Leonora and Don Juan’s costumes, I elected to add it to Ludovico’s purple. Ludovico’s original design incorporated a small ruff at the neck and cuffs, another nod to the period and another way to distinguish him from the rest of the cast. However, during construction the graduate student assigned to this project fell ill and deadlines loomed. Therefore, I substituted a high collar with white lace at the collar and cuffs to both doublets. ",
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/c12e4bbb1a5970b2a81b7934af36cc964fee6bb77bd77b627cef249646432bee.jpg",
+        "img_caption": [
+            "Figure 11.1: Ludovico Act 1 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Ludovico’s doublet for Act 1 incorporated red and purple velvet with gold trim. I used purple cotton damask for the doublet worn in Act 2, accented with deep purple crushed velvet down the front and around the collar. The paned sleeves had red accents and the trim on the doublet was red and gold. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The trunk hose combined purple cotton damask with red lining. It took several fittings to adjust the length of the panes, but once they were established, the actor had no difficulty moving around the stage or performing combat routines in them. ",
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/112a9fc863547ac326aad2305e5ee221551e260c1e705208b0fe905c9d280cdd.jpg",
+        "img_caption": [
+            "Figure 11.2: Ludovico Act 2 Preliminary Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "For Ludovico’s cape, I selected a rich, multicolored upholstery weight fabric and lined it with satin. Ludovico wore the cape for Act 1 and Act 2, but removed it during 2.1 (The Balcony Scene) along with his hat. ",
+        "page_idx": 56
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c4f89b8cd7ab187dc5f4f3bb409441e83ee8ef6ddda93866787c0b627b92a95.jpg",
+        "img_caption": [
+            "Figure 11.3: Ludovico Act 2 Initial Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The tights for Ludovico were purple, but the stage lighting made the tights appear magenta. It gave Ludovico a foppish edge which worked for the character. His vintage shoes tied with a purple ribbon. Ludovico’s top hat was constructed specifically for the show out of black patterned velvet over buckram. It fit quite snugly which was good for fighting, but left a mark on his forehead. Fortunately, during the only scene where he does not wear the hat (2.1, The Balcony Scene) the lighting was quite dim. ",
+        "page_idx": 56
+    },
+    {
+        "type": "image",
+        "img_path": "images/1eb301dc22b92c5947285b7a6d4613a73b7ffe04e778c40c39c2488b7161c8b1.jpg",
+        "img_caption": [
+            "Figure 11.4: Ludovico Act 2 Initial Sketch "
+        ],
+        "img_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "The director requested a gorget for Ludovico. A gorget is a piece of armour which protects the throat. The costume shop supervisor indicated we had one in stock at the off-site storage location. However, it was nowhere to be found when she went to fetch it. At that point, due to time restraints, the options were to make one out of ",
+        "page_idx": 56
+    },
+    {
+        "type": "image",
+        "img_path": "images/47b314ab5f9c03b5d802f11569c98af6297620a72f7ca5b7dbea93237493f5a8.jpg",
+        "img_caption": [
+            "Figure 11.5: Ludovico Act 1, Front (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 57
+    },
+    {
+        "type": "image",
+        "img_path": "images/3484027dddaea5df99e8c7f15d714b6a2cb50b97812f8de9f411990d37cacdc6.jpg",
+        "img_caption": [
+            "Figure 11.6: Ludovico Act 1, Back (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "leather or to let it go. The director chose to drop it. In lieu of the gorget, I added a medal to his 2nd act costume. Ludovico also needed a pocket for a snuff box. This was accomplished by sewing a pocket inside the peplum of his doublet. ",
+        "page_idx": 57
+    },
+    {
+        "type": "image",
+        "img_path": "images/d17dfe3a5b02298d1c666fb26a9b9d2dfa1de1f1ad46296c031ab8dd17a95b6c.jpg",
+        "img_caption": [
+            "Figures 11.7 and 11.8: Ludovico Act 2, Front and Back (Photos Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Chapter 12: Costuming and Functionality in Combat ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Swords and daggers require belts, frogs, and sheaths. My responsibility as the costume designer was to provide the belts for the characters, and make them accessible to the Prop Master who needed to design the sheaths and frogs and affix them to the belts. It was important to determine where the belts were sitting on the person’s body, which would affect the functional behavior of the costume. For instance, Kayla/Leonora’s belt was at her waist so that she could reach the hilt of her sword while the men’s sword belts were at their hips. Thus the men’s peplums on their doublets were frequently a bit rumpled beneath the sword belt while Leonora/Leonardo’s costume did not have that issue. This did not create a distraction though, as the audience was far too captivated with the actors’ performances to focus on their peplums and the placement of the belts. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "It was important to provide the actual belts to the actors from the beginning of rehearsals so that the Prop Master could work with the belts on the actors and so the actors could get accustomed to the feel long before they moved their swordplay up to speed. For the same reason, it was important to also provide rehearsal boots and shoes, gloves, hats, and capes as soon as possible. The actors’ footwear needed to fit their feet, not slip, and be flexible enough to allow for vigorous movement. For the performance, I borrowed boots from the School of Music opera department for Don Juan and Don Fernando, found boots in stock for Tomillo, purchased boots for Leonora/Leonardo, and found vintage shoes in stock for Ludovico. These boots and shoes were given to the actors far in advance of tech week. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Gloves needed to fit the actor’s hands and allow for safe combat with swords and/or daggers. The gloves also needed to slip into their belts when not being worn. I found suitable gloves in stock. Hats needed to be secure for combat and not block their vision or be a distraction. Ludovico’s hat was a challenge because of its height, but it was quite secure on the actor’s head. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "All of the actors involved in combat wore capes at some point during the play. I wanted the capes to have visible, functional ties. However, it was more important for the capes not to be a hindrance to the fight choreography. Therefore, in addition to the functional ties, I added snaps to the capes and doublets and sewed small, discreet stitches to particular folds to maintain the structure of the capes while allowing movement. All of the actors had access to a mock-up of the capes for rehearsal purposes. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "I was concerned about the safety of panes on Ludovico’s trunk hose in combat. Would they interfere with the actors’ movement? Would the sword get caught in the panes? The director assured me that it would not be a problem and indeed, it was not. I made certain the panes were long enough to look good and be functional, and short enough not to get caught on anything. The actor fully cooperated with multiple fittings of the muslin and the finished garment during which I encouraged him to reenact his choreography to check for any potential problems. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Chapter 13: Double cast in the Wilderness: Costuming the Banditos ",
+        "text_level": 1,
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Since three of the four male actors in the show were double cast as bandits, their appearance as such had to be distinctly different from their primary characters in every way. The disguise needed to cover their main costume and hair completely while keeping combat safety in mind. All costume pieces were pulled from stock; some were rigged to facilitate quick changes. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "The actor portraying Tomillo needed to become Tibaldo, a bandit, between 1.2A (The Wilderness) and 1.2B (Attacked in the Wilderness). Following 1.2B, Tomillo must be restored for his entrance in 1.2C (The Rescue). The actor had to overdress with a tunic, breeches, a hat, a cape, and gloves. He wore the same boots, but added and removed a sword belt during the changes. ",
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/18ec00abd240681811689fed615771e63fdb2a8987055f128f8441a34288d237.jpg",
+        "img_caption": [
+            "Figure 13.1: Tomillo in the guise of Tibaldo, a bandit (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 61
+    },
+    {
+        "type": "image",
+        "img_path": "images/b8a9aad42e029ad5f595da099771a948845a49763a06fd4f23024956dd6c4dbc.jpg",
+        "img_caption": [
+            "Figure 13.2: Don Fernando in the guise of Rufino (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Don Fernando and Ludovico were able to begin the show overdressed as Rufino and Astolfo, the other two bandits. The actor playing Don Fernando overdressed with breeches, a tunic and vest, a hat, and gloves. He also needed to add and remove a gun holster and two guns. The addition of Velcro to Don Fernando/Rufino’s shirt facilitated his 38-second quick change. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Ludovico/Astolfo was overdressed in a tunic and vest, breeches, a hat, gloves, a rope belt, and boots. The actor had slightly more time, from ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "1.2B (Attacked in the Wilderness) to 1.3B ",
+        "text_level": 1,
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "(Meeting Fernando), to remove the overdressed garments. He also had to change his footwear and add his sword belt and a cape prior to returning to the stage. ",
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "It was necessary to coordinate these changes in location and timing and to provide backstage assistance for the actors. These quick changes were choreographed during a rehearsal and required four crew members to assist. The quick changes worked very well. ",
+        "page_idx": 62
+    },
+    {
+        "type": "image",
+        "img_path": "images/47239d48fff84bf867e349ef4e6fbec6f28e045518b6d7c65d0be0be41fb8c35.jpg",
+        "img_caption": [
+            "Figure 13.3: Ludovico in the guise of Astolfo (Photo Courtesy of Alma Cerretta) "
+        ],
+        "img_footnote": [],
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Chapter 14: Flora Tricks Tomillo ",
+        "text_level": 1,
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "In Act 2, Scene 3, Flora strips Tomillo of his clothes and his belongings to teach him a lesson. While Tomillo is “passed out,” Flora, now dressed as a woman, undresses him down to his underwear and dons his clothes. This scene presented the greatest costuming challenge of the play as all of this activity takes place onstage. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Tomillo’s jerkin required multiple pockets purposed to hold items such as a purse, a deck of cards, and a real sausage. The pockets were built into the lining of the jerkin. Items in the pockets were removed by Flora prior to undressing Tomillo, thus the pockets could not be too deep or too far back from the opening of the jerkin, and fasteners on the pockets were simple snaps. The tunic/jerkin combination also must be washable, thus influencing both the design and fabric choices. The tunic was constructed of polyester, the jerkin was a rough looking but soft poly/cotton blend, and the lining was goldenrodyellow cotton. In order to facilitate the process, the actor discarded his undershirt prior to the scene, we stitched his jerkin to his tunic at the sides and the back, attached his belt to the jerkin with belt loops, and the bottom button of the jerkin was rigged to be a snap. Flora had to unbuckle the belt, remove the tunic and jerkin over Tomillo’s head, and put them on over her bodice. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Flora also removed Tomillo’s boots and pants. The boots were loose enough for easy removal, but not so loose as to hinder the actor’s activities onstage. Tomillo’s pants must fit him and stay up without the addition of suspenders, be removed easily onstage, and be worn by Flora through the end of the scene. This was accomplished by building elastic as well as a drawstring into the waistband of the pants. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Flora’s dress was constructed in two pieces as a bodice and skirt to facilitate quick changes. It was not clear at first whether or not she would be putting Tomillo’s pants on beneath her skirt prior to removing it, but the bulk of the trousers necessitated the removal of the skirt first. I provided pink bloomers for Flora to wear beneath her skirt, a feminine contrast to the very masculine garments she is putting on. The actor put her skirt in Tomillo’s gunny sack (which was lined to protect the skirt) and carried it offstage with her. The costume crew hung the skirt and brushed off any stage dirt nightly. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "I spent time with the actors independently and with the actors and director at rehearsals to assist with choreographing the scene, and supplied them with rehearsal garments from the beginning, as well as the actual garments as soon as they were constructed. ",
+        "page_idx": 64
+    },
+    {
+        "type": "image",
+        "img_path": "images/cc6345736c2306df46ba97431c436c2d9b9e63c2450a2ee7e5b2eeb99a887570.jpg",
+        "img_caption": [
+            "Figure 15.1: Flora Tricks Tomillo (Photo Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Chapter 15: The Hair Conundrum ",
+        "text_level": 1,
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Billy Jones, who played Don Fernando and Lucy Myrtue as Estela have similarly fair coloring and looked more like brother and sister than potential lovers. Also, Billy/Don Fernando needed to look as though he and Kayla/Leonora were brother and sister. Therefore, Billy’s hair would need to be dyed darker. The director also wanted Kayla/Leonora’s hair to be darker. For both Billy and Kayla, I provided Ian with images and he selected the shade. The same hair stylist worked on both actors. I provided the stylist with the approved images of the color and cut, as well as a photograph of Lucy/Estela to clarify the desired contrast between Estela and Don Fernando. ",
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Because Billy’s facial hair was equally blonde, it needed to be colored as well, since I did not want to use any false hair in the production. I chose to use waterproof mascara on his eyelashes, eyebrows, and all facial hair. I taught the actor how to apply it, and from dress rehearsals through the run of the show he did a terrific job. It did not smear or run and came off cleanly with baby wipes. ",
+        "page_idx": 65
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5647b47bd8af4beadb468dac2b0b79aa303c3e89156edbc8b78a0dbae36673d.jpg",
+        "img_caption": [
+            "Figure 14.1: Billy/Don Fernando, Before (Photo Courtesy of Julie Douglass) "
+        ],
+        "img_footnote": [],
+        "page_idx": 65
+    },
+    {
+        "type": "image",
+        "img_path": "images/c98ac8a67f15d2a9a1a460611e71b3f9ca997bb2fb60404cdfa5b587f9a8b810.jpg",
+        "img_caption": [
+            "Figure 14.2: Billy/Don Fernando, After (Photo Courtesy of Julie Douglass) "
+        ],
+        "img_footnote": [],
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Chapter 16: Preparation of the Actors and the Rehearsal Process ",
+        "text_level": 1,
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "I presented the costume renderings to the cast for the first time at their first rehearsal. At that time, I read the following quote: ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "“The way reconstructions are worn is crucial to their success as communication tools. Standing up straight, keeping still, walking as though God is ever watching, and respectfully reverencing ones betters with a bow or curtsy were all necessary to avoid drawing critical attention to oneself in the $16^{\\mathrm{th}}$ century”  (Mikhaila 10). ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "In order to help the actors inhabit their garments in the spirit of the 16th century, I provided rehearsal garments and accessories from the beginning of the process. This included corsets, hoop skirts, a regular skirt for Flora, hats, bags, belts, gloves, shoes or boots, underwear, a tunic and a sports coat for Tomillo, and a jerkin and other items for use in 1.1 (At the Convent). As soon as actual costume pieces were available, I allowed the actors to wear them in order to make the transition from rehearsal to performance as seamless as possible. The women wearing hoop skirts learned how to sit on low steps and a planter in the skirts, as well as how to navigate the stairs backstage and share space on the balconies. Lucy Myrtue/Estela commented that the actors would automatically stand further apart after being in hoop skirts during rehearsal. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Flora needed to appear to be in her early 40s. However, the first night we applied age makeup, the director thought she actually looked younger than Leonora. After that, the actress applied the age makeup more sparingly and that gave the right effect. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Chapter 17: Conclusion ",
+        "text_level": 1,
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Costuming a play which had not been done before was a unique experience in many ways. Since I rarely look at previous productions of anything that I costume, this was not an issue. However, I wanted to stay consistent with any established notions of Spanish Comedia. Finding information about Spanish theatre proved to be most challenging. The only sources I found were on the internet and the accompanying photographs displayed nothing out of the ordinary. For Spanish history, art, and costume history, I found adequate resources in the Daniel Boone Library in Columbia, Missouri. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "The timeline for costuming Agravio was a hindrance. I received my script assignment the final week of the Spring semester 2012 and did not meet with any members of the production staff until the first week of the Fall semester due to Summer break. I had previously worked as a team with both the Scenic and Lighting Designers as well as the Stage Manager, so the pressure was somewhat alleviated as we were all familiar with each other’s style and work ethic. However, some of the problems could have been avoided with regular meetings. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "For instance, due to the presence of the balconies, there had to be stairs both on and offstage. The rises for the stairs were designed much too high for actors in hoop skirts and had to be reconfigured. The width of the stairs was initially designed to be 2’6” and the skirt circumferences were at least 3 feet. I worked with the Technical Director to identify areas that needed careful sanding to avoid snagging the satin garments. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "The Lighting Designer did not return to campus until the second week of the semester. However, she was reliable and consistent in her communication of ideas, and once in town she held a meeting immediately which was extraordinarily helpful. I gave her fabric swatches attached to brown paper and together we conducted a lighting test of the fabrics far in advance of light hang. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "The Stage Manager, Fred Drenkow, was crucial to the communication process. I spoke to or texted with him daily. Together we coordinated entrances and exits with costume presets and quick changes. Fred was responsible for scheduling all fittings except for the impromptu fittings which inevitably occurred. Fred and I kept the lines of communication open at all times. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Communication with the director over the summer was problematic but successful. I needed to compile all of my research images, which were primarily in books in Missouri, and get them to Professor Borden in South Dakota. I did not have access to a scanner during this time, so I found all of the images from the books online and emailed them to Borden for his perusal. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "I prepared an image board consisting of colors, patterns, and other images designed to impart my overall mental image of the play. I also created sketches with a few fabric swatches prior to our first meeting in August 2012. Borden’s verbal comments on the board and the sketches combined with his feedback over the summer provided a great foundation for proceeding with my renderings. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Communication with the costume shop was essential. To that end, Professor Stauffer asked me to create construction drawings as well, rather than relying on the customary method of displaying only the renderings and the source images. At the beginning of the construction process, I created a Make/Pull/Purchase List for the costume shop supervisor and periodically consulted with her over the list. As we drew near to dress rehearsal, I created daily to-do lists and posted them in the shop. In addition, I attached hand-written notes to each garment in an attempt to accurately convey what needed to be done. All of these methods combined proved to be generally helpful, but I still needed to be in the shop at all times for consultation on the construction of the garments. I also posted a short synopsis of the play in an attempt to bring the characters to life for the workers in the costume shop. ",
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Two respondents from KCACTF (Kennedy Center All College Theatre Festival) reviewed Agravio. The first respondent was Patrick Carriere from Minnesota State University. Mr. Carriere said he missed seeing fans and mantillas onstage, though he understood that my goal was not to be strictly realistic in the representation of Spanish costumes. He liked the colors and the trims, and could see the nod to reality in the detail of the costumes. Regarding the “buffoon” characters (Flora and Tomillo) he said, “good costuming.” He felt the proportion of Tomillo’s garments helped the scene—that when Flora puts on his clothes “it’s funny.” The second respondent was Julie Mollenkamp from the University of Central Missouri. She said the “massive period costumes” made a big difference about which Lucy Myrtue (Estela) commented, “We were in hoop skirts the whole time and you could tell [because] when we weren’t, we wouldn’t stand that close together.” Dr. Mollenkamp also commented on the hats casting shadows but agreed that she didn’t know how to resolve that issue. She said the costumes exhibited stunning detail, that they were “spot on; you didn’t miss a trick.” She enjoyed the color palette and said it was “tremendously impressive work.” ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "The costumes for Agravio were nominated for participation in the costume parade at KCACTF in Lincoln, Nebraska in 2013. I received a Certificate of Merit from KCACTF for Achievement in Costume Design for Agravio. ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Appendix A: Scene Breakdown ",
+        "text_level": 1,
+        "page_idx": 71
+    },
+    {
+        "type": "table",
+        "img_path": "images/d6e637c80fea2d6dbdc9792dc44a5657826f049683d5ea09ecc736c15d818c4d.jpg",
+        "table_caption": [
+            "\\*\\* Indicates a scene with Sword Fighting "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Scene</td><td>Rehearsal Scenes</td><td>Page</td><td>Title</td><td>Characters (Indicates Disguise)</td></tr><tr><td>1.1</td><td></td><td>3</td><td>At the Convent</td><td>Leonora, Flora</td></tr><tr><td rowspan=\"4\">1.2**</td><td>A</td><td>7</td><td>The Wilderness</td><td>Don Juan, Tomillo</td></tr><tr><td>B**</td><td>8</td><td>Attacked in the Wilderness</td><td>Estela, Lisarda, Tibaldo, Rufino, Astolfo, Don Juan</td></tr><tr><td>C**</td><td>11</td><td>Rescue</td><td>Estela, Lisarda, Fernando, Don</td></tr><tr><td>A</td><td>16</td><td>Arriving at Court</td><td>Juan, Ludovico, Tomillo (Leonora), (Flora)</td></tr><tr><td rowspan=\"2\">1.3 1.4</td><td>B</td><td>18</td><td>Meeting Fernando</td><td>(Leonora), (Flora), Fernando, Ludovico</td></tr><tr><td>A</td><td>24</td><td>Estela's Lament</td><td>Estela, Lisarda, Fernando,</td></tr><tr><td rowspan=\"4\"></td><td>B</td><td>26</td><td>Leonora Woos Estela</td><td>(Leonora), (Flora), Estela, Lisarda, (Leonora),</td></tr><tr><td>C</td><td>27</td><td>Leonora plots with</td><td>(Flora), Ludovico, Tomillo (Leonora), (Flora), Ludovico</td></tr><tr><td>D</td><td>28</td><td>Ludovico Paisano!</td><td>(Flora), Tomillo</td></tr><tr><td>E</td><td>29</td><td>Don Juan Laments and</td><td>Don Juan, (Flora)</td></tr><tr><td rowspan=\"2\">1.5**</td><td>A</td><td>32</td><td>Gets a Message First Night</td><td>(Leonora), (Flora), Don Juan,</td></tr><tr><td>B**</td><td>33</td><td>Fighting in the Dark</td><td>Ludovico (Leonora), Don Juan, Ludovico</td></tr><tr><td colspan=\"5\">Intermission</td></tr><tr><td>2.1</td><td></td><td>39</td><td>The Balcony Scene</td><td>(Flora), Leonora, Estela, Lisarda, Ludovico, Fernando,</td></tr><tr><td rowspan=\"3\">2.2**</td><td>A</td><td>50</td><td>The Next Morning</td><td>Don Juan Fernando, Don Juan, Tomillo,</td></tr><tr><td>B</td><td>53</td><td>Asking questions</td><td>Estela, Lisarda, Estela, Lisarda, Tomillo</td></tr><tr><td>C**</td><td>54</td><td>Leonora Lures and Fights Don Juan</td><td>Estela, Lisarda, (Leonora), Flora for a brief moment -, Don</td></tr><tr><td>2.3</td><td></td><td>59</td><td>Flora Tricks Tomillo</td><td>Juan, Fernando Tomillo, Flora (Flora ends disguised)</td></tr><tr><td rowspan=\"2\">2.4**</td><td>A**</td><td>63</td><td>The Labyrinth of Honor</td><td>Don Juan, (Leonora), Fernando, Ludovico</td></tr><tr><td>B</td><td>66</td><td>The Big Finish</td><td>Don Juan, Fernando, Estela, Lisarda, Flora, Tomillo, Leonora</td></tr></table></body></html>\n\n",
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Appendix B: Construction Drawings ",
+        "text_level": 1,
+        "page_idx": 72
+    },
+    {
+        "type": "image",
+        "img_path": "images/be3b8f7a481eb22727ee86ba50175064c7f5e0a9d5588cfa88e46dcb65df1f55.jpg",
+        "img_caption": [
+            "Figure B-1 Leonora Construction Drawing 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 72
+    },
+    {
+        "type": "image",
+        "img_path": "images/807c57d3ee847f3fd14954c21801294ca7b00543d6eabb036b17e577409668a9.jpg",
+        "img_caption": [
+            "Figure B-2: Leonora Construction Drawing 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 73
+    },
+    {
+        "type": "image",
+        "img_path": "images/7b5b9cc214e823b1796e8e8d488a276054ca00a5a1d164d8376dc4039281d0bf.jpg",
+        "img_caption": [
+            "Figure B-3: Leonora Construction Drawing 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 74
+    },
+    {
+        "type": "image",
+        "img_path": "images/03ae9b608ce39b690de50a825490465e9eba6dc75174ff7ddcaf302e83b63e5f.jpg",
+        "img_caption": [
+            "Figure B-4: Don Juan Construction Drawings "
+        ],
+        "img_footnote": [],
+        "page_idx": 75
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc67c42465eaca8b746f77be377746968169ef61ee2e235857fded58d9574c42.jpg",
+        "img_caption": [
+            "Figure B-5: Tomillo Construction Drawing 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "image",
+        "img_path": "images/db27440a155cc38080473ff4d9f08ac3b9fecb5039e60903338f7002e83149e5.jpg",
+        "img_caption": [
+            "Figure B-6: Tomillo Construction Drawing 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 77
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e33ab76653a4d37aed499bcf9cefd8cecd8faa7ca9ad3f0d51462d48da591c8.jpg",
+        "img_caption": [
+            "Figure B-7: Tomillo Construction Drawing 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 78
+    },
+    {
+        "type": "image",
+        "img_path": "images/39ebd2094d39c65bca817fd5abc733395922de12032eca7adcc0e1d12d36f10e.jpg",
+        "img_caption": [
+            "Figure B-8: Estela Construction Drawing 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 79
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc22d11e661bc953929b21f6bc6d17127a78868d2778ba90e621a4d5d2492f27.jpg",
+        "img_caption": [
+            "Figure B-9: Estela Construction Drawing 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 80
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e618fb4f7f2828c44dfe2c0e16c7bab9fe53388295363ad16a83ccdab8f518f.jpg",
+        "img_caption": [
+            "Figure B-10: Estela Construction Drawing 3 "
+        ],
+        "img_footnote": [],
+        "page_idx": 81
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e4e66bb128bc7e3d242d2afb73832ac4b47777b93dc196f767ec7681619df9f.jpg",
+        "img_caption": [
+            "Figure B-11: Lisarda Construction Drawing 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 82
+    },
+    {
+        "type": "image",
+        "img_path": "images/15c5b8fbcc2bec3c115f504378d86dd3fb8b4b776ad28dc010b0113d0d2de6f7.jpg",
+        "img_caption": [
+            "Figure B-12: Lisarda Construction Drawing 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 83
+    },
+    {
+        "type": "image",
+        "img_path": "images/92f700114e5341cb0ad57a719da282b6487099209befd9661fce3e29dbfa3480.jpg",
+        "img_caption": [
+            "Figure B-13: Don Fernando Construction Drawing "
+        ],
+        "img_footnote": [],
+        "page_idx": 84
+    },
+    {
+        "type": "text",
+        "text": "Appendix C: Final Renderings ",
+        "text_level": 1,
+        "page_idx": 85
+    },
+    {
+        "type": "image",
+        "img_path": "images/7fa20bac8e96652598d9e325da8b393defbd6a6763890ccb43ec3a39e1d62e46.jpg",
+        "img_caption": [
+            "Figure C-1: Leonora Final Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 85
+    },
+    {
+        "type": "image",
+        "img_path": "images/04902781d46bb08085ed9258ca232dd8845bc102c4b14bf333f9b33639d2eb3e.jpg",
+        "img_caption": [
+            "Figure C-2: Leonora Final Rendering Balcony Scene "
+        ],
+        "img_footnote": [],
+        "page_idx": 86
+    },
+    {
+        "type": "image",
+        "img_path": "images/8abc2ec43ab5301937575f0c399f0eaf9c64c4a090d367e03ad58b819fed8744.jpg",
+        "img_caption": [
+            "Figure C-3: Leonora Final Rendering Don Leonardo "
+        ],
+        "img_footnote": [],
+        "page_idx": 87
+    },
+    {
+        "type": "image",
+        "img_path": "images/bbb6774c0fed5b228511b06b46485ae1d25a29f2703c8471584bcb7bedc18d4e.jpg",
+        "img_caption": [
+            "Figure C-4: Don Juan Final Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 88
+    },
+    {
+        "type": "image",
+        "img_path": "images/048cf6019c642aeca6b6b5bfb0c97ad804e489b42c009c9faf37e30022c9eaf3.jpg",
+        "img_caption": [
+            "Figure C-5: Don Juan Final Rendering Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 89
+    },
+    {
+        "type": "image",
+        "img_path": "images/81c8b933656cf244cacbb5d267b052b72ad32211aecc506f7998645193f5ceca.jpg",
+        "img_caption": [
+            "Figure C-6: Tomillo Final Rendering "
+        ],
+        "img_footnote": [],
+        "page_idx": 90
+    },
+    {
+        "type": "image",
+        "img_path": "images/bac5550641bd80fa64448db0df51ce0d22d83b9e2c18d63daf1717d0532fa5c6.jpg",
+        "img_caption": [
+            "Figure C-7: Estela Final Rendering Acts 1 & 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 91
+    },
+    {
+        "type": "image",
+        "img_path": "images/5aacba333fe918400aa42118964f542919891edb87af2df4711ae21d6e58c3e5.jpg",
+        "img_caption": [
+            "Figure C-8: Lisarda Final Rendering Acts 1 & 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 92
+    },
+    {
+        "type": "image",
+        "img_path": "images/3d239c8fdd78cf0eb7ad64c1f2c2579615bc4d20d77abcac68146eaa434e9828.jpg",
+        "img_caption": [
+            "Figure C-9: Don Fernando Final Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 93
+    },
+    {
+        "type": "image",
+        "img_path": "images/b9b40544e134f68ccb762a0a562c661cfc483e0db35bde1b185a9bcc9cddd2d2.jpg",
+        "img_caption": [
+            "Figure C-10: Don Fernando Final Rendering Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 94
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b7efea03609dcc5c9cb6d6c1fde3a123a2ad077b3ed4158a6dd96ada235d0cc.jpg",
+        "img_caption": [
+            "Figure C-11: Ludovico Final Rendering Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 95
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5446d4628c5bff66debf8a0ca6a83f80476706490e269b9944d279670e9ae62.jpg",
+        "img_caption": [
+            "Figure C-12: Ludovico Final Rendering Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 96
+    },
+    {
+        "type": "text",
+        "text": "Appendix D: Production Photos ",
+        "text_level": 1,
+        "page_idx": 97
+    },
+    {
+        "type": "image",
+        "img_path": "images/00a29e6493c3292a80db6c651a762f0f6ddd18f3414521f192af3834526994c5.jpg",
+        "img_caption": [
+            "Figure D-1: Leonora and Flora, Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 97
+    },
+    {
+        "type": "image",
+        "img_path": "images/09f4ba81aa4da16cb94897746a39b15720839f08671f360256ecb16f67cbd2e2.jpg",
+        "img_caption": [
+            "Figure D-2: Estela, Lisarda, Don Juan, Don Fernando and Tomillo, Act 1 (Photos Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 97
+    },
+    {
+        "type": "image",
+        "img_path": "images/be9e24860748edcda78d753925f614caa01a83ba7db8eb72749b795fac703465.jpg",
+        "img_caption": [
+            "Figure D-3: Estela and Lisarda, Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 98
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d68ef818a6afbf1ab1707e6358c3919abe2c1230b6012ac3db2543f48dfc037.jpg",
+        "img_caption": [
+            "Figure D-4: Don Juan and Don Fernando, Act 1 (Photos Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 98
+    },
+    {
+        "type": "image",
+        "img_path": "images/a73816539e92a028e4fe159daa8e09622dfa76519b3f5c6208658ced852c7d09.jpg",
+        "img_caption": [
+            "Figure D-5: Flora/Ribete, Leonora/Leonardo and Don Fernando, Act 1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 99
+    },
+    {
+        "type": "image",
+        "img_path": "images/fcdcb5b730eff9c887dba4ac282fa660c5f1913c79c65160b859f8b0ba3bf9b9.jpg",
+        "img_caption": [
+            "Figure D-6: Flora/Ribete, Leonora/Leonardo and Prince Ludovico, Act 1 (Photos Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 99
+    },
+    {
+        "type": "image",
+        "img_path": "images/8c01bf94f019026cb114fda505d68a8fd4eca9fd89225507e84803d4ca2a632a.jpg",
+        "img_caption": [
+            "Figure D-7: Flora and Tomillo, Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 100
+    },
+    {
+        "type": "image",
+        "img_path": "images/49449bbb86a641ca5112bca87a79a9deaf34f7d7ee13aa995dc72189966cc108.jpg",
+        "img_caption": [
+            "Figure D-8: Leonora, Don Juan, Ludovico, Don Fernando, Estela and Lisarda, Act 2 (Photos Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 100
+    },
+    {
+        "type": "image",
+        "img_path": "images/036795879644195161fea9a46a990f076f635149f7524e03d7339393ee94f638.jpg",
+        "img_caption": [
+            "Figure D-9: Prince Ludovico, Don Fernando and Don Juan, Act 2 "
+        ],
+        "img_footnote": [],
+        "page_idx": 101
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d99be753219632f5168f04e8a1228cd308978e007eeb34bdad526b0de57df48.jpg",
+        "img_caption": [
+            "Figure D-10: Don Juan, Ludovico, Don Fernando and Don Leonardo, Act 2 (Photos Courtesy of Doug Smith) "
+        ],
+        "img_footnote": [],
+        "page_idx": 101
+    },
+    {
+        "type": "text",
+        "text": "Appendix E: Costume Plot ",
+        "text_level": 1,
+        "page_idx": 102
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ca6be2fdfd7c3a667fee98c2cbd9a2001255732860d413495f8fb21f55a15ee.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>Kayla/Leonora/Leonardo</td><td>Jenny/Flora/Ribete</td><td>Lucy/Estela</td><td>Lauren/Lisarda</td></tr><tr><td>1.1</td><td>LS \"Blackwork\" shit </td><td>Corset</td><td>offstage</td><td>offstage</td></tr><tr><td></td><td>Blue corset</td><td>Pink pantaloons</td><td></td><td></td></tr><tr><td></td><td>Blue underskirt</td><td>Black striped bodice</td><td></td><td></td></tr><tr><td></td><td>Blue & silver overdress</td><td>Black striped skit</td><td></td><td></td></tr><tr><td></td><td>Siver shoes</td><td>Brown shoes</td><td></td><td></td></tr><tr><td></td><td>Tights:</td><td>Tights:</td><td></td><td></td></tr><tr><td></td><td>Jewelry:</td><td>Headpiece</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.2</td><td>offstage</td><td>offstage</td><td>Corset </td><td>Corset</td></tr><tr><td></td><td></td><td></td><td>Hoop skit</td><td>Hoop skirt </td></tr><tr><td></td><td></td><td></td><td>Aqua brocade skirt</td><td>Burgundy & pink skit </td></tr><tr><td></td><td></td><td></td><td>Aqua velvet bodice</td><td>Burgundy velvet bodice</td></tr><tr><td></td><td></td><td></td><td>Aqua velvet cape</td><td>Burgundy velvet cape</td></tr><tr><td></td><td></td><td></td><td>Aqua hat</td><td>Burgundy hat</td></tr><tr><td></td><td></td><td></td><td>Pointy toed shoes Tights:</td><td>Copper shoes</td></tr><tr><td></td><td></td><td></td><td>Belt w/Quiver</td><td>Tights: Belt w/Quiver</td></tr><tr><td></td><td></td><td></td><td>Jewelry:</td><td>Jewelry:</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.3</td><td>Shirt & corset</td><td>Corset & pantaloons</td><td>Remove hat & cape</td><td>Remove hat & cape</td></tr><tr><td></td><td>Grey pants</td><td>Rust pants</td><td>Remove Belt &Quiver</td><td>Remove Belt & quiver</td></tr><tr><td></td><td>Grey & blue doublet</td><td>Brown doublet</td><td></td><td></td></tr><tr><td></td><td>Blue velvet cape</td><td>Brown & cream flat cap</td><td></td><td></td></tr><tr><td></td><td>Hat: </td><td>Black boots</td><td></td><td></td></tr><tr><td></td><td>Black boots</td><td>Belt </td><td></td><td></td></tr><tr><td></td><td>Scabbard, Sword, Dagger</td><td></td><td></td><td></td></tr><tr><td>1.4</td><td>same</td><td></td><td>same</td><td></td></tr><tr><td>1.5</td><td>same</td><td>same</td><td>loffstage</td><td>same</td></tr><tr><td>2.1</td><td>Kayla/Leonora/Leonardo</td><td>same</td><td>Lucy/Estela</td><td>loffstage</td></tr><tr><td></td><td>Shirt & corset</td><td>Jenny/Flora/Ribete</td><td>Aqua bodice</td><td>Lauren/Lisarda</td></tr><tr><td></td><td>Blue underskirt</td><td>Corset & pantaloons Black striped bodice</td><td>The rest remains same</td><td>Pink & burgundy bodice The rest remains same</td></tr><tr><td></td><td>Boots</td><td>Black striped skirt </td><td></td><td></td></tr><tr><td></td><td></td><td>Brown shoes</td><td></td><td></td></tr><tr><td>2.2</td><td>Shirt & corset Grey pants Grey & blue doublet</td><td>Same</td><td>Same</td><td>Same</td></tr><tr><td></td><td>Blue velvet cape</td><td></td><td></td><td></td></tr><tr><td></td><td>Hat:</td><td></td><td></td><td></td></tr><tr><td></td><td>Black boots Scabbard, Sword, Dagger</td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.3</td><td>offstage</td><td>Same NOTE: end scene with</td><td>offstage</td><td>offstage</td></tr><tr><td></td><td></td><td>Tomillo's clothes on</td><td></td><td></td></tr><tr><td></td><td></td><td>over bodice & pantaloons; skit off in burlap bag</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.4</td><td>Same to begin scene</td><td>Doublet</td><td>Same</td><td>Same</td></tr><tr><td></td><td>*Top p.67 exit and Remove</td><td>Rust pants</td><td></td><td></td></tr><tr><td></td><td>Doublet, pants, hat, belt&</td><td>Boots</td><td></td><td></td></tr><tr><td></td><td>weapons</td><td>Hat </td><td></td><td></td></tr><tr><td></td><td>Put on: Underskirt &</td><td>Belt?</td><td></td><td></td></tr><tr><td></td><td>Overdress</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 102
+    },
+    {
+        "type": "table",
+        "img_path": "images/bfdba5f56e7055c0a1acdf15dd6d6bc27e5df5f16dace8d5b4893fc74c8050fb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>David/Don Juan</td><td>Shade/Tomillo/Tibaldo</td><td>Billy/DonFernando/Rufino</td><td>Patrick/Ludovico/Astolfo</td></tr><tr><td>1.1</td><td>offstage</td><td>offstage</td><td>offstage</td><td>offstage</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.2</td><td>Shirt w/b&w collar Blue velvet doublet</td><td>As Tomillo (1): Shirt/Jerkin combo</td><td>As Rufino (1): *OVER Fernando costume (below)</td><td>As Astolfo (1): **OVER Ludovico costume (below)</td></tr><tr><td></td><td>Blue breeches</td><td>Brown striped breeches</td><td>Brown tunic</td><td>Tunic:</td></tr><tr><td></td><td>Blue brocade cape</td><td>Undershirt</td><td>Breeches:</td><td>Breeches:</td></tr><tr><td></td><td>Undershirt</td><td>Linen underwear</td><td>Cape:</td><td>Cape:</td></tr><tr><td></td><td>Tights:</td><td>Tights:</td><td>Hat:</td><td>Hat:</td></tr><tr><td></td><td>Black flat cap</td><td>Brownboots</td><td></td><td>Beat-up gloves</td></tr><tr><td></td><td>Black boots</td><td>Hat:</td><td></td><td>Rope belt</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>As Tibaldo (2):</td><td>*As Don Fernando (2):</td><td>**As Ludovico (2):</td></tr><tr><td></td><td></td><td>OVER Tomillo clothes:</td><td>White Shirt</td><td>Purple &red doublet</td></tr><tr><td></td><td></td><td>Grey/blue tunic</td><td>Green raised velvet doublet</td><td>Purple &red pumpkin pants</td></tr><tr><td></td><td></td><td>Breeches:</td><td>Dark grn/black breeches</td><td>Cool cape w/red lining</td></tr><tr><td></td><td></td><td>Cape:</td><td>Blackvelvet cape</td><td>Undershirt</td></tr><tr><td></td><td></td><td>Hat:</td><td>Undershirt</td><td>Tights:</td></tr><tr><td></td><td></td><td></td><td>Tights:</td><td>Black \"top hat\"</td></tr><tr><td></td><td></td><td></td><td>Green velvet flat cap</td><td>Black tie shoes</td></tr><tr><td></td><td></td><td></td><td>Black boots</td><td></td></tr><tr><td></td><td></td><td></td><td>Kneepad</td><td></td></tr><tr><td>1.3</td><td>offstage</td><td>offstage</td><td>Same</td><td>Same</td></tr><tr><td>1.4</td><td>Same</td><td>Same</td><td>Same</td><td>Same</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>1.5</td><td>Same</td><td>offstage</td><td>offstage</td><td>Same</td></tr><tr><td></td><td>David/Don Juan</td><td></td><td></td><td></td></tr><tr><td>INT.</td><td></td><td>Shade/Tomillo/Tibaldo *Remove undershirt to</td><td>Billy/Don Fernando/Rufino</td><td>Patrick/Ludovico/Astolfo</td></tr><tr><td></td><td></td><td>prep for 2.3</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.1</td><td>2nd doublet:</td><td>offstage</td><td>2nd doublet:</td><td>2nd doublet:</td></tr><tr><td></td><td>Blue w/ Shiny chest</td><td>(Same minus undershirt)</td><td>Green velvet doublet</td><td>Purple brocade</td></tr><tr><td></td><td>NO Hat</td><td></td><td>NO Hat</td><td>NO Hat</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.2</td><td>Add Blue hat (preset)</td><td>Same w/out undershirt</td><td>Add hat (preset)</td><td>Add hat (preset)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.3</td><td>offstage</td><td>Removes clothes (to underwear) onstage</td><td>offstage</td><td>offstage</td></tr><tr><td></td><td></td><td>PRESET:</td><td></td><td></td></tr><tr><td></td><td></td><td>Blue breeches</td><td></td><td></td></tr><tr><td></td><td></td><td>Undershirt White shirt</td><td></td><td></td></tr><tr><td></td><td></td><td>Brown jerkin</td><td></td><td></td></tr><tr><td></td><td></td><td>Hat:</td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td>2.4</td><td>Same</td><td>See above</td><td>Same</td><td>Same</td></tr></table></body></html>\n\n",
+        "page_idx": 103
+    },
+    {
+        "type": "text",
+        "text": "Appendix F: Costume Shop Communication & Organization ",
+        "text_level": 1,
+        "page_idx": 104
+    },
+    {
+        "type": "table",
+        "img_path": "images/ce6331699a85e595303371bdf4f8df0e9b374ea77fd28a7bc0bb83f4ac658ab4.jpg",
+        "table_caption": [
+            "Figure F-1: Example of first Make/Pull/Purchase List 9.6.12 "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>NOTES</td><td></td><td>NOTES</td><td></td><td>NOTES</td></tr><tr><td>DONJUAN/DavidMichael Fox</td><td>Make</td><td>Purchase</td><td></td><td>Pull</td><td></td></tr><tr><td>Blue breeches</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Blue/blackVelvetDoublet(1)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Hat (1)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Blue/gold Doublet (2)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Hat (2)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Blue cape</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Black boots</td><td></td><td></td><td></td><td>X</td><td>UNL Opera</td></tr><tr><td>Sword belt</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Undershirt</td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>Tights</td><td></td><td>？</td><td></td><td>？</td><td></td></tr><tr><td>Gloves</td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>Accessories:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>DONFERNANDO/BillyJones</td><td>Make</td><td>Purchase</td><td></td><td>Pull</td><td></td></tr><tr><td>Greenbreeches</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Green doublet w/ velvet brocade sleeves (1)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Hat (1)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Green on green doublet (2)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Hat (2)</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Black diamond-velvet cape</td><td>X</td><td></td><td></td><td></td><td></td></tr><tr><td>Black boots</td><td></td><td></td><td></td><td>X</td><td>UNL Opera</td></tr><tr><td>Sword belt</td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>Undershirt</td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>Tights Gloves</td><td></td><td>？</td><td></td><td>？</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td>X</td><td></td></tr><tr><td>Accessories:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>AS THIEF:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Tunic</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Pants</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Boots</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Accessories:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 104
+    },
+    {
+        "type": "text",
+        "text": "Agravio Synopsis ",
+        "text_level": 1,
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "The original version of Agravio, which is Spanish Commedia, took place in Spain in the early 1600s. Our version is a new translation by Ian Borden et al. We decided to set the play in 1560-1580 Spain, however we are stretching the boundaries of historical fact for theatrical effect as well as ease of production and believability by a 21 century audience. ",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "Leonora (Kayla Klammer) seeks revenge on Don Juan (David Michael Fox) after he pledges his love then runs off to join the Spanish Army. At her servant Flora’s (Jenny Holm) behest, she dresses as a man, “Don Leonardo” in order to pursue said revenge. Flora must then dress as her male servant, “Ribete”. ",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "In Seville, they encounter Don Juan, his servant Tomillo (Shade Ingraham,) Don Fernando (Billy Jones)—Leonora’s older brother who left home when she was six and thus won’t recognize her, the Contessa Estela (Lucy Myrtue), her dreamy cousin Lisarda (Lauren Huston), and Prince Ludovico (Patrick Stayer). ",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "There are thieves & rescues, everyone falls in love with everyone else (love quadrangles?), mistaken-identity romances ensue, and sword fights occur as often as possible. It probably ends “happily ever after”, like all good fairy tales! ",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "Figure F-2: Synopsis for Costume Shop Technicians ",
+        "page_idx": 105
+    },
+    {
+        "type": "text",
+        "text": "Appendix G: Budget ",
+        "page_idx": 106
+    },
+    {
+        "type": "table",
+        "img_path": "images/e57c83240b359ff2574cf334ed8d61fd9a3474514d6baf861bce8a08cd1f151b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>Vendor</td><td>Purchaser</td><td>Amount</td><td>Notes</td></tr><tr><td>Date</td><td>Fed Ex</td><td> J. Douglass</td><td>$18.14</td><td>Copies</td></tr><tr><td>8/28/12 8/28/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$62.16</td><td></td></tr><tr><td>8/28/12</td><td>JoAnn Fabrics</td><td> J. Douglass</td><td>$9.93</td><td></td></tr><tr><td>8/30/12</td><td>Fed Ex</td><td> J. Stauffer</td><td>$13.80</td><td>Copies</td></tr><tr><td>8/31/12</td><td>JoAnn Fabrics</td><td> J. Stauffer</td><td>$57.21</td><td></td></tr><tr><td>9/1/12</td><td> Kaplans</td><td> J. Stauffer</td><td>$701.19</td><td></td></tr><tr><td>9/1/12</td><td>JoAnn Fabrics</td><td> J. Stauffer</td><td>$99.34</td><td></td></tr><tr><td>9/1/12</td><td>Hancock Fabrics</td><td> J. Stauffer</td><td>$50.24</td><td></td></tr><tr><td>9/2/12</td><td>JoAnn Fabrics</td><td> J. Stauffer</td><td>$108.43</td><td></td></tr><tr><td>9/3/12</td><td>Hancock Fabrics</td><td> J. Stauffer</td><td>$59.45</td><td></td></tr><tr><td>9/3/12</td><td>Hancock Fabrics</td><td> J. Stauffer</td><td>$76.41</td><td></td></tr><tr><td>9/5/12</td><td>JoAnn Fabrics</td><td>J. Douglass</td><td>$157.17</td><td></td></tr><tr><td>9/5/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$34.43</td><td></td></tr><tr><td>9/6/12</td><td>Fed Ex</td><td> J. Douglass</td><td>$8.48</td><td>Copies</td></tr><tr><td>9/6/12</td><td>JoAnn Fabrics</td><td> J. Douglass</td><td>$117.79</td><td></td></tr><tr><td>9/8/12</td><td>Kaplans</td><td> J. Stauffer</td><td>$119.92</td><td></td></tr><tr><td>9/12/12</td><td>Hobby Lobby</td><td> J. Douglass</td><td>$16.19</td><td></td></tr><tr><td>9/12/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$89.21</td><td></td></tr><tr><td>9/12/12</td><td>JoAnn Fabrics</td><td> J. Douglass</td><td>$90.98</td><td></td></tr><tr><td>9/12/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$120.30</td><td></td></tr><tr><td>9/15/12</td><td>Hobby Lobby</td><td> J. Stauffer</td><td>$66.88</td><td></td></tr><tr><td>9/18/12</td><td>Hancock Fabrics</td><td> J. Stauffer</td><td>$16.56</td><td></td></tr><tr><td>9/19/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$14.83</td><td></td></tr><tr><td>9/19/12</td><td> Sears</td><td> J. Douglass</td><td>$152.95</td><td></td></tr><tr><td>9/22/12</td><td> J. Douglass (reimb.)</td><td> J. Douglass</td><td>$60.00</td><td>Hair cuts/Color</td></tr><tr><td>9/23/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>-$10.77</td><td>Return</td></tr><tr><td>9/23/12</td><td>Hancock Fabrics</td><td>J. Douglass</td><td>$55.08</td><td></td></tr><tr><td>9/27/12</td><td>Nebraska Bookstore</td><td>A. Watson</td><td>$5.00</td><td></td></tr><tr><td>9/27/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>$9.28</td><td></td></tr><tr><td>10/2/12</td><td>Walgreens</td><td> J. Douglass</td><td>$27.80</td><td>Makeup Supplies</td></tr><tr><td>10/8/12</td><td>Hancock Fabrics</td><td> J. Douglass</td><td>-$13.50</td><td>Return</td></tr><tr><td>10/8/12</td><td> Sears</td><td> J. Douglass</td><td>-$79.98</td><td> Return</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td>$2,314.90</td><td>Total</td></tr></table></body></html>\n\n",
+        "page_idx": 106
+    },
+    {
+        "type": "text",
+        "text": "Works consulted ",
+        "text_level": 1,
+        "page_idx": 107
+    },
+    {
+        "type": "text",
+        "text": "Angeloglou, Maggie. A History of Makeup. London: The Macmillan Company, 1970. Print. ",
+        "page_idx": 107
+    },
+    {
+        "type": "text",
+        "text": "Anguissola, Sofonisba. Isabel von Valois. 1599. Kunsthistorisches Museum, Vienna. 10 October 2008. Wikimedia Commons. Web. 9 April 2013. <http://commons.wikimedia.org/wiki/File:Isabel_von_Valois_by_Sofonisba_Ang uissola.jpg>. ",
+        "page_idx": 107
+    },
+    {
+        "type": "text",
+        "text": "Ashelford, Jane. A Visual History of Costume: The Sixteenth Century. New York: Drama Book Publishers, 1983. Print.   \nBarsis, Max. The Common Man through the Centuries: A Book of Costume Drawings. New York: Frederick Unger Publishing Co., Inc., 1973. Print.   \nBraun and Schneider. The History of Costume. Southern Illinois University Edwardsville. Web. 9 April 2013. <http://www.siue.edu/COSTUMES/COSTUME8_INDEX.HTML>.   \nBrooke, Iris. Footwear: A Short History of European and American Shoes. New York: Theatre Arts Books, 1971. Print.   \nCarr, Dawson W. Velázquez. New York: Rizzoli International Publications, 2006. Print.   \nCarriere, Patrick. KCACTF Response. 10 October 2013.   \nCassin-Scott, Jack. Costume and Fashion in Colour 1550-1760. London: Bladford Press, Ltd., 1975. Print. ",
+        "page_idx": 107
+    },
+    {
+        "type": "text",
+        "text": "Clouet, François. Jeanne d’Albret. 1570. Musée Condé, Chantilly, France. Grand Ladies. Web. 15 April 2013.  <http://www.gogmsite.net/the_middle_1500s_- _1550_to_/subalbum-jeanne-dalbret/1570-jeanne-dalbret-by-fran-2.html>. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Clouet, François. Catherine de Medici. c. 1555. Victoria and Albert Museum, London. Wikimedia Commons. Web. 10 April 2013. <http://commons.wikimedia.org/wiki/File:Catherine-de-medici.jpg>. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Coello, Alonso Sánchez. Philip II. 1570s. Pollok House, Glasgow. 18 June 2011. Wikimedia Commons. Web. 9 April 2013. <http://commons.wikimedia.org/wiki/File:Alonso_S%C3%A1nchez_Coello_- _Philip_II_-_WGA20722.jpg>. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Cumming, Valerie. Exploring Costume History 1500-1900. London: Batsford Academic and Educational Limited, 1981. Print. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Cunnington, Willett, C. The History of Underclothes. London: Faber and Faber Limited, 1981. Print. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Dahl, Michael. Princess Anne. c. 1690. National Portrait Gallery, London. Wikimedia Commons. Web. 8 April 2013. <http://commons.wikimedia.org/wiki/File:Princess_Anne_c.1690.jpg>. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Davis, R. I. Men’s 17th & 18th Century Costume, Cut, and Fashion. California: Players Press, Inc., 2000. Print. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "De Courtais, Georgine. Women’s Headdress and Hairstyles in England from AD 600 to the present day. London: B.T. Batsford Ltd, 1986. Print. ",
+        "page_idx": 108
+    },
+    {
+        "type": "text",
+        "text": "Egerton, Mary Margaret Stanley, Countess of Wilton. The Book of Costume: or Annals of Fashion (1846) by a Lady of Rank. 1846. California: R. L. Shep, 1986. Print. Elizabeth: The Golden Age. Dir. Shekhar Kapur. Universal Pictures, 2007. DVD. ",
+        "page_idx": 109
+    },
+    {
+        "type": "text",
+        "text": "El Escorial. Photograph. Architessica. 21 March 2011. Web. 9 April 2013. <http://architessica.wordpress.com/2011/03/21/el-escorial-san-lorenzo-de-elescorial-spain/>.   \nEwing, Elizabeth. Dress and Undress: A History of Women’s Underwear. London: B.T. Basford Ltd., 1978. Print.   \nEwing, Elizabeth. Underwear, A History. New York: Theatre Arts Books, 1972. Print.   \nFuentes, Carlos. The Buried Mirror, Reflections on Spain and the New World. New York: Houghton Mifflin, 1992. Print.   \nGoya, Francisco. The Parasol. 1777. Museo de Prado. WikiPaintings. Web. 9 April 2013. <http://www.wikipaintings.org/en/francisco-goya/the-parasol-1777>.   \nHunnisett, Jean. Period Costume for Stage & Screen: Patterns for Women’s Dress 1500- 1800. California: Players Press, Inc., 1991. Print.   \nJeffs, Kathleen. “Ana Caro”. Out of the Wings.org. King’s College London, 2013. Web. 18 May 2013. < http://www.outofthewings.org/db/author/ana-caro>.   \nKelly, Francis M. and Randolph Schwabe. A Short History of Costume & Armour. New York: Dover Publications, Inc., 2002. Print.   \nKeniper, Rachel H. Costume. New York: Newsweek Books, 1977. Print. ",
+        "page_idx": 109
+    },
+    {
+        "type": "text",
+        "text": "“La conjura de El Escorial”or The Conspiracy. Dir. Antonio del Real. Sony Pictures, 2008. DVD. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Lester, Katherine and Bess Viola Oerke. Accessories of Dress: An Illustrated Encyclopedia. New York: Dover Publications, Inc., 2004. Print. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Leventon, Melissa. What People Wore When: A Complete Illustrated History of Costume from Ancient Times to the Nineteenth Century for Every Level of Society. New York: St. Martin’s Griffin, 2008. Print. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Mikhaila, Ninya and Jane Malcolm-Davies. The Tudor Tailor: Reconstructing 16thcentury dress. 2006. Reprint. Hollywood: Costume and Fashion Press-Quite Specific Media Group Ltd., 2008. Print. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Moffitt, John F. The Arts in Spain. New York: Thames and Hudson Inc., 1999. Print.   \nMollenkamp, Julie. KCACTF Response. 13 October 2012. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Mor, Antonio. Elisabeth de Valois. 1568. Grand Ladies. 2 November 2009. Web. 9 April 2013. <http://www.gogmsite.net/iberian_style_in_the_farthi/minialbum_isabel_de_valo is/ca_1568_elisabeth_de_valois_2.html>. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Mulcahy, Rosemarie. Philip II of Spain, Patron of the Arts. Oregon: Four Courts Press, 2004. Print. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "Myrtue, Lucy. KCACTF Response. 13 October 2012. ",
+        "page_idx": 110
+    },
+    {
+        "type": "text",
+        "text": "North, Susan and Jenny Tiramani. Seventeenth-Century Women’s Dress Patterns. London: V&A Publishing, 2011. Print.   \nNunn, Joan. Fashion in Costume 1200-2000. 2nd ed. Chicago: New Amsterdam Books/ Ivan R. Dee, 2000. Print.   \nPayne, Blanche. The History of Costume. 2nd ed. New York: HarperCollins Publishers Inc., 1992. Print.   \nThe Princess of Montpensier or “La princesse de Montpensier”. Dir. Bertrand Tavernier. Paradis Films, 2010. Netflix.   \nRussell, Douglas A. Costume History and Style. New Jersey: Prentice Hall, Inc., 1983. Print.   \nSichel, Marion. History of Men’s Costume. New York: Chelsea House Publishers, 1984. Print.   \nSichel, Marion. History of Women’s Costume. New York: Chelsea House Publishers, 1985. Print.   \nSmith, Bradley. Spain: A History in Art. New York: Simon and Schuster, 1966. Print.   \nStroke, Melicent. The Bankside Costume Book for Children. New York: The Saalfield Publishing Company, 1913. Print.   \nTomlinson, Janis. From El Greco to Goya: Painting in Spain 1561-1828. New York: Harry N. Abrams, Inc., 1997. Print. ",
+        "page_idx": 111
+    },
+    {
+        "type": "text",
+        "text": "Victors of Lepanto. 1575. Museum of Fine Arts, Vienna. Wikimedia Commons. 26 August 2008. Web. 9 April 2013. <http://commons.wikimedia.org/wiki/File:Victors_of_Lepanto.jpg>. ",
+        "page_idx": 112
+    },
+    {
+        "type": "text",
+        "text": "Veronese, Paolo. Portrait of a Woman, Called La Bella Nani. 16th Century.  Musée du Louvre, Paris. Web. 9 April 2013. <http://commons.wikimedia.org/wiki/File:Paolo_Veronese_040.jpg>. ",
+        "page_idx": 112
+    },
+    {
+        "type": "text",
+        "text": "Warren, Geoffrey. Fashion Accessories Since 1500. New York: Drama Book Publishers, 1987. Print. ",
+        "page_idx": 112
+    },
+    {
+        "type": "text",
+        "text": "Williams, Mark. The Story of Spain. 1990. Spain: Santana Books, 2000. Print. ",
+        "page_idx": 112
+    }
+]

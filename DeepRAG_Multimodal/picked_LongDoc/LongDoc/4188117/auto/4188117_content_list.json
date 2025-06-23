@@ -1,0 +1,1795 @@
+[
+    {
+        "type": "text",
+        "text": "Concurrent Robin Hood Hashing ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supervisor: Barak A. Pearlmutter ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Motivations ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Make improvements on a 10 year old state of the art. Provide the first concurrent Robin Hood Hashing in the literature. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Contributions ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First linearisable concurrent variant of Robin Hood Hashing.   \nStrong application of new K-CAS developments [Arbel-Raviv,, Brown; 2016]   \nCompetitive performance compared to state of the art concurrent hash tables. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "General talk structure ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hash table and Robin Hood background   \nChallenges with concurrent Robin Hood   \nWhat are the options?   \nSolution   \nCorrectness/Progress   \nEvaluation ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hash Tables ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Constant time O(1) set/map   \nstructures   \nSet operations: ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Contains(Key)   \n2. Add(Key)   \n3. Remove(Key) ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "No need for sorting of keys, unlike tree-based sets/maps   \nRequire a hash function for keys   \nApplications: Search, Object representation in VMs/interpretors, caches... ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hash Tables ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Divided into two camps: Open vs Closed Addressing. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Open Addressing. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Items are stored in individual buckets only. If bucket is already taken find a new one: Collision algorithm. ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Closed Addressing. ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Items are stored at original bucket only.   \nTypically in a linked list structure. ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d05cd988ec38ed0a62e75a6a56d5f5026567688fb4153fd35d7731c54a47c53.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Hashing (Open Addressing) ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Search: Linear probing with culling. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Search: Linear probing with culling. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Insertion: Linear probing with conditional recursive displacement. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Search: Linear probing with culling. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Insertion: Linear probing with conditional recursive displacement. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Removal: Backward shifting.   \nMore on that later. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Search: Linear probing with culling. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Definition: The number of buckets away an entry is from its ideal bucket - Distance From Bucket (DFB) ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Insertion: Linear probing with conditional recursive displacement. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Removal: Backward shifting.   \nMore on that later. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood [Celis ;86] ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Motto: Steal from the rich and give to the poor. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Search: Linear probing with culling. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Definition: The number of buckets away an entry is from its ideal bucket - Distance From Bucket (DFB) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Insertion: Linear probing with conditional recursive displacement. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If relocated item has bigger DFB than than current, kick current out, take spot, and recursively insert current further down the table. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Removal: Backward shifting.   \nMore on that later. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing vs Robin Hood ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Initial Table, inserting V. ",
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/c2fdada7195a9ed52132e6bf0ff9382021c5722baaa466f4c7854656e3437b0b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>OxoY1Z1WO</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing vs Robin Hood ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Initial Table, inserting V. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Key: ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/b0bd45ed0a285e58e37cf88d9f5bbe4c2a832a6d74b87be955a9ca3a223a9a76.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>Ox。YZ1WO</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Moved item Inserted item ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4af8581e11283d65cac2ff7408c73e7ccfc6ec742d7f3d97b9e32d0f9a6480b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing Table ",
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/e3cdb47cab7d42f6eb448ab4123361bcd26acd96eed48db33b1d73612fda4bd9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>OXoY1 Z1W</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing vs Robin Hood ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Initial Table, inserting V. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Key: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Moved item Inserted item ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/72521cdb771b5b261c1aad10a3533bdc73f430235ebbf168a8ca64a186ce8cb1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>Ox。YZ1WO</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c5eff8f63013473d5eaedbbb23c0c0330d287e2f89f489d2f1bb1b50221e628.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing Table ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e59c7abf3e616aeed208770f8066e078a963d41d34471b833fdedb99426fbeb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>OXoY1 Z1W</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Table ",
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/ca8c6bc3287ebad57393c0f73630d0ca58ed5596c50d450bf8384d5d0a14b343.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>2 W2 Z2</td></tr></table></body></html>\n\n",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing vs Robin Hood ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Initial Table, inserting V. ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Key: ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Moved item Inserted item ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b9072d33e52efd6b1afa0c3eb523b0066d98cd99f5d54461207cd5a699227b2.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>Ox。YZ1WO</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/e746b1d43dfe6e4c8eb06165c9aa13c65f156856030938587bbe570d0ceac2d4.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Linear Probing Table ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/aec473ee5c320f9480d5a057ee60885e84e545dca79fe0374f48fbc238ff7e93.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>OXoY1 Z1W</td><td></td><td></td><td></td><td>4</td></tr></table></body></html>\n\n",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Table ",
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/605fd84b2211f9a9a1b0e7b61fc1bdfc524f9879b79cfd969cd24b86dc961d9c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>2 W2 Z2</td></tr></table></body></html>\n\n",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Less work ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Less distance variance ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "When you see someone not as far away as you: Stop. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/92ffa791c4191461c2a4aecda5e644cc57622ddc59d580e61287682446fef5be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"6\">Uo</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>X Y1V2Z2W2</td></tr></table></body></html>\n\n",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "When you see someone not as far away as you: Stop. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "When you see someone not as far away as you: Stop. ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/7cd2e823abbbf134010aa862a4ce7f18d9621d35ebbb3101a3664e53332b523e.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "When you see someone not as far away as you: Stop. ",
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/5979e585ffff3a231fe00420d28d5f15bfb2e949be581b1ef27323a85a8c5899.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood Search ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Linear probe as normal. ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "When you see someone not as far away as you: Stop. ",
+        "page_idx": 23
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fa5ebe90989d8091514f0225cd2d7388de626aaa9f37e367cb37ddfe333682f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Uo</td><td></td><td></td><td></td></tr><tr><td></td><td>OXo Y1 V2 Z2 W2</td><td></td><td></td></tr><tr><td></td><td>→U1</td><td></td><td></td></tr><tr><td></td><td>OXo Y1 V2Z2 W2</td><td></td><td></td></tr><tr><td></td><td></td><td>U2</td><td></td></tr><tr><td></td><td>Xo Y1V2 Z2 W2</td><td></td><td></td></tr><tr><td></td><td></td><td>→U3</td><td></td></tr><tr><td>OXo Y1 V2 Z2 W2</td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood benefits ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood benefits ",
+        "text_level": 1,
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "1. Fast, predictable performance: ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Optimised for reads - 2.6 probes per successful search.   \nlog(n) on failed search.   \nDoesn't degenerate over time (poisoning). ",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood benefits ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "1. Fast, predictable performance: ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Optimised for reads - 2.6 probes per successful search. log(n) on failed search.   \nDoesn't degenerate over time (poisoning). ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "2. Relatively simple: ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "No linked list or pointer manipulation. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood benefits ",
+        "text_level": 1,
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "1. Fast, predictable performance: ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Optimised for reads - 2.6 probes per successfu search.   \nlog(n) on failed search.   \nDoesn't degenerate over time (poisoning). ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "2. Relatively simple: ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "No linked list or pointer manipulation. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "3. Cache efficient. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Flat data, low probes.   \nNo dynamic allocation.   \nProbes are generally on a single cache line. ",
+        "page_idx": 27
+    },
+    {
+        "type": "text",
+        "text": "Standard Solution: Shardedlocks ",
+        "text_level": 1,
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/b748a9231e009d77bf0856d373d2f9d0e5d1ccc19f081a448becad4922887649.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "text",
+        "text": "Standard Solution: Shardedlocks ",
+        "text_level": 1,
+        "page_idx": 29
+    },
+    {
+        "type": "image",
+        "img_path": "images/765a996b473ec4a7065158ff19a00c8d59e58a942d2aae71a26fb95d461abbed.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Could grab multiple locks.   \nCould result in deadlock, if allowed to wrap around. ",
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "Standard Solution: Shardedlocks ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe5ef6d2d3e3f92292d872839a5ef04876e3015c4a48f266e04c99327d4a4b13.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Could grab multiple locks.   \nCould result in deadlock, if allowed to wrap around.   \nNot very clean for our case: Need extra phantom segment to stop deadlock.   \nHacky. Slow. Lots of contention. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 32
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "When you find the entry delete it, move everyone back by 1. ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "When you find the entry delete it, move everyone back by 1. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Stopping condition: The entry you're moving back has a distance of 0 or it's a Null. ",
+        "page_idx": 34
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "When you find the entry delete it, move everyone back by 1. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Stopping condition: The entry you're moving back has a distance of 0 or it's a Null. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Initial table. ",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/aa19359527936c4b346ad915256ba2b68a1707319827a577d44ebb6858e613fa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>Z2</td><td>W2</td></tr></table></body></html>\n\n",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "We want to delete Y. ",
+        "page_idx": 35
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "When you find the entry delete it, move everyone back by 1. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Stopping condition: The entry you're moving back has a distance of 0 or it's a Null. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Initial table. ",
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/11b50fc1c5dd38e0d0dfe6cb5af09d4086a32b64a94b31476a4befeefc6e5f86.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>Z2</td><td>W2</td></tr></table></body></html>\n\n",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "We want to delete Y. ",
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Y deleted. ",
+        "page_idx": 36
+    },
+    {
+        "type": "image",
+        "img_path": "images/1477b52439a29c5d62d90a99d9075fe5470dc695eebe130cdd8741bbbfedfaf5.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 36
+    },
+    {
+        "type": "text",
+        "text": "Contention: Remove ",
+        "text_level": 1,
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "First part is normal search. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "When you find the entry delete it, move everyone back by 1. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Stopping condition: The entry you're moving back has a distance of 0 or it's a Null. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Great source of contention. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Initial table. ",
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/528748c98088006efabd37c9f5318100fcff9d23010d05ed77e84a202c72036e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>Z2</td><td>W2</td></tr></table></body></html>\n\n",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "We want to delete Y. ",
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Y deleted. ",
+        "page_idx": 37
+    },
+    {
+        "type": "image",
+        "img_path": "images/0db076bb89a5d7e57da6094b39fc9fe0c3575ebce8d2d23517f2d6674564f334.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 37
+    },
+    {
+        "type": "text",
+        "text": "Problems with creating Concurrent Robin Hood ",
+        "text_level": 1,
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Problems with creating Concurrent Robin Hood ",
+        "text_level": 1,
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Lots of moving parts. Performance problem. ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "Problems with creating Concurrent Robin Hood ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Lots of moving parts. Performance problem.   \nAn insert can trigger a global table reorganisation. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Problems with creating Concurrent Robin Hood ",
+        "text_level": 1,
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Lots of moving parts. Performance problem.   \nAn insert can trigger a global table reorganisation.   \nCyclic lock grabbing. If locks are sharded, deadlock is possible.   \nHuge contention on Remove. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Problems with creating Concurrent Robin Hood ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Lots of moving parts. Performance problem.   \nAn insert can trigger a global table reorganisation.   \nCyclic lock grabbing. If locks are sharded, deadlock is possible.   \nHuge contention on Remove. ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Possible Solutions ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Bespoke non-blocking solution Transactional Memory K-CAS (Multi-word compare and swap) ",
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "Issues with bespoke ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Issues with bespoke ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "1. Use of dynamic memory, ruins cache locality. Slow. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Issues with bespoke ",
+        "text_level": 1,
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "1. Use of dynamic memory, ruins cache locality. Slow. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "2. Horrendously complicated. Difficult to even to get insertion working. Robin Hood invariant must hold all the time. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Issues with bespoke ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "1. Use of dynamic memory, ruins cache locality. Slow. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "2. Horrendously complicated. Difficult to even to get insertion working. Robin Hood invariant must hold all the time. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "3. End up reimplementing K-CAS. Why not just use KCAS? ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Issues with bespoke ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "1. Use of dynamic memory, ruins cache locality. Slow. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "2. Horrendously complicated. Difficult to even to get insertion working. Robin Hood invariant must hold all the time. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "3. End up reimplementing K-CAS. Why not just use KCAS? ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Method Chosen: K-CAS ",
+        "text_level": 1,
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "K-CAS is a multi-word compare-and-swap primitive. Each table operation is described as one large K-CAS. ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Shardedtimestamps ",
+        "page_idx": 48
+    },
+    {
+        "type": "image",
+        "img_path": "images/20e19d165934d5fcf57de150bc89fd2ae9b830eeafbae04891cd7dc6468479f3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Similar to lock-base sharding. Groups of timestamps protect the table. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "Each relocation operation increments the timestamp. Except relocations can be done in bulk. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Readers of the table may miss entries that are moved backwards by remove. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Readers of the table may miss entries that are moved backwards by remove. ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Try find V. ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/bce47dcb6864e13da481e269d23743e028f80bea7a83227e4a13bc67de88ea72.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 51
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a2e4f6c8a04d9543d7fffdc99361f115fd4d78d630a393c280750927e0e7f05.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>XoYV2Z2W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Readers of the table may miss entries that are moved backwards by remove. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Try find V. ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/01bd0be7821002d7326a3809303f9a050f0d2439f052f14f3bfa50b1ab3ddde9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "table",
+        "img_path": "images/f073bd8ae62f38bb7b70b105584b205f5bf0679fba648fa02ccd0b6443cba2fe.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>O x。 Y1</td><td></td><td>V2</td><td>Z2</td><td>W2</td></tr></table></body></html>\n\n",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/059a8733ca7a2e358be8be9bb4486871b1f7755bcbe6c04fe55bb5b936435f6b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "table",
+        "img_path": "images/363eadf98c196e9de84dfd0af5f9410e5b5384f79d16c61612b5ce8aa06e64be.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>0 x。 Y1</td><td></td><td>V2</td><td>Z2W2</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Readers of the table may miss entries that are moved backwards by remove. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Try find V. ",
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/f28c3d2fe8a2f7af0d1a077e5e43a900a04b380cf61ff6173b8478cc355eb245.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "table",
+        "img_path": "images/1c4ea27c1122186a1a29c29281ca749d64fd545334260f5e36f712d0b98d78d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>OXo Y1 V2Z2 W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/b03e464a20c5fbaaedb7cad3b47a7d451a5366d44e8a584df6f59231dd18fefa.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "table",
+        "img_path": "images/dedf0e00e2b4f7907e2869e92fdb95d04b9b7f34088f67863e8405cf44da5e78.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>XoY1V2 Z2W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Before check V get interrupted. ",
+        "page_idx": 53
+    },
+    {
+        "type": "image",
+        "img_path": "images/23a57b162bd59a6d44bf22a8a8769ae1c5db3e9ffab3fe3f69faa739593290c8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 53
+    },
+    {
+        "type": "table",
+        "img_path": "images/23c67b19cc05ecc31670bf62f7e68d34ceededa6cef0183c6883d01c2d172a11.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>Xo Y1V2 Z2W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "K-CASwithout timestamps ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Say our K-CAS solution just encapsulates every modifying operation {Add, Remove} into a K-CAS operation. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Readers of the table may miss entries that are moved backwards by remove. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Try find V.V。",
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ad5c46172bb7c8aa4905540a2893f519190fc4203d01f33e4a428f9c71a72f3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>OXoY1V2 Z2W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/5dd3ad91fbd8da0e9fc60979197ed78894b42ac5484e04c84fddf46d5b97f5db.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/a34db27bcd7b3250a9cef3fa5d465660065dcd4275371a0a2fee25598b57956c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td>XoY1V2 Z2W2</td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Before check V get interrupted. ",
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/75ac6d048b46ad29fb6436f68a6943fdf7f01317f3c39a9c4d6e99743e2067fd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/720c03038c57fef16f986aca4507ff113a86750e89a6de4968fa89b892f876f3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td>OXo Y1 V2 Z2W2</td><td></td><td></td><td></td><td>2</td></tr></table></body></html>\n\n",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Delete Y. Move V back. Find Z, exit. V2 ",
+        "page_idx": 54
+    },
+    {
+        "type": "table",
+        "img_path": "images/70d081ce5c9be01fb2ebf900b6a4944a1ca59236035db13db6426bf7f305a3fd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td>Ox。 V Z. W0</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Example ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "image",
+        "img_path": "images/3669a209de2ff4483448f2b9962bf64f340d2c62b859864a74a16dee2369259d.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Going to delete Y from table, with concurrent reader. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Example ",
+        "text_level": 1,
+        "page_idx": 56
+    },
+    {
+        "type": "image",
+        "img_path": "images/46f661a50bc1655827b0cd6be1df675d7aa83c496a21b9ddb8380dc220de2757.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "table",
+        "img_path": "",
+        "table_caption": [],
+        "table_footnote": [],
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "Ugly little array is a deletion descriptor. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "Moves items. Increments two timestamps. ",
+        "page_idx": 56
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Example ",
+        "text_level": 1,
+        "page_idx": 57
+    },
+    {
+        "type": "image",
+        "img_path": "images/5fa4e2244d2b633db7d51ffe951a9c4c777037cb2bc539e554945c42428c03bf.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Reader misses V, due to deletion of Y. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Reader sees timestamp change, restarts operation. ",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Benefits ",
+        "text_level": 1,
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Benefits ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Relatively simple design, close to the sequential algorithm. ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Benefits ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Relatively simple design, close to the sequential algorithm. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "No dynamic memory, great cache performance. Minimal memory overhead. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Similar amount of CAS operations as bespoke dynamic memory solution. ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Benefits ",
+        "text_level": 1,
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Relatively simple design, close to the sequential algorithm. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "No dynamic memory, great cache performance. Minimal memory overhead. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Similar amount of CAS operations as bespoke dynamic memory solution. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Use of K-CAS allows for thread collaboration. Well defined nonblocking progress guarantees. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Bulk relocation greatly reduces contention. Fast. ",
+        "page_idx": 61
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Correctness ",
+        "text_level": 1,
+        "page_idx": 62
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Correctness ",
+        "text_level": 1,
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Simple design means simple proof. Correctness is informally argued. ",
+        "page_idx": 63
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Correctness ",
+        "text_level": 1,
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Simple design means simple proof. Correctness is informally argued. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Every modifying operation is a K-CAS operation. Cannot be seen midway. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Every reader must remember every timestamp seen. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Before any actions attempts to take effect they re-read timestamps. If any discrepancies are seen, retry operation. ",
+        "page_idx": 64
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Progress ",
+        "text_level": 1,
+        "page_idx": 65
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Progress ",
+        "text_level": 1,
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Solution is obstruction-free/lock-free. Obstruction-free Contains, lock-free Add and Remove. ",
+        "page_idx": 66
+    },
+    {
+        "type": "text",
+        "text": "Our Solution: Progress ",
+        "text_level": 1,
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Solution is obstruction-free/lock-free. Obstruction-free Contains, lock-free Add and Remove. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Every operation checks timestamps before the operation completes. Timestamps are coarse so operations can impede each other. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "The impeding of Contains means potentially no Contains will pass, but at least one Add or Remove will get through. ",
+        "page_idx": 67
+    },
+    {
+        "type": "text",
+        "text": "Benchmarking setup ",
+        "text_level": 1,
+        "page_idx": 68
+    },
+    {
+        "type": "text",
+        "text": "Benchmarking setup ",
+        "text_level": 1,
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Hardware ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "4 x Intel $\\textcircled{8}$ Xeon® CPU E7-8890 v3, 18 cores each, 2 threads per core, 144 threads in total HyperThreading avoided until the end PAPI used to measure various CPU artefacts numactl to control memory allocation ",
+        "page_idx": 69
+    },
+    {
+        "type": "text",
+        "text": "Benchmarking setup ",
+        "text_level": 1,
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Hardware ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "4 x Intel $\\textcircled{8}$ Xeon® CPU E7-8890 v3, 18 cores each, threads per core, 144 threads in total HyperThreading avoided until the end PAPI used to measure various CPU artefacts numactl to control memory allocation ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Software ",
+        "text_level": 1,
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Microbenchmark measuring operations per microsecond A number of strong performing concurrent hash tables Four load factors of 20%, 40%, 60%, and 80% Two read/write workloads of 10% and 20% ",
+        "page_idx": 70
+    },
+    {
+        "type": "text",
+        "text": "Tables - Explainer ",
+        "text_level": 1,
+        "page_idx": 71
+    },
+    {
+        "type": "text",
+        "text": "Tables - Explainer ",
+        "text_level": 1,
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Hopscotch Hashing [Herlihy, Shavit, Tzafrir; 2008]:  Flattened separate chaining. ",
+        "page_idx": 72
+    },
+    {
+        "type": "text",
+        "text": "Tables - Explainer ",
+        "text_level": 1,
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Hopscotch Hashing [Herlihy, Shavit, Tzafrir; 2008]:  Flattened separate chaining.   \nLock-Free Linear Probing [Nielsen, Karlsson; 2016] : State simplified Purcell, Harris Table. ",
+        "page_idx": 73
+    },
+    {
+        "type": "text",
+        "text": "Tables - Explainer ",
+        "text_level": 1,
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "Hopscotch Hashing [Herlihy, Shavit, Tzafrir; 2008]:  Flattened separate chaining.   \nLock-Free Linear Probing [Nielsen, Karlsson; 2016] : State simplified Purcell, Harris Table.   \nSeparate Chaining [Maged Michael; 2003]: Per-bucket lock-free linked lists. ",
+        "page_idx": 74
+    },
+    {
+        "type": "text",
+        "text": "Tables - Explainer ",
+        "text_level": 1,
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "Hopscotch Hashing [Herlihy, Shavit, Tzafrir; 2008]:  Flattened separate chaining.   \nLock-Free Linear Probing [Nielsen, Karlsson; 2016] : State simplified Purcell, Harris Table.   \nSeparate Chaining [Maged Michael; 2003]: Per-bucket lock-free linked lists.   \nLock-Elision Robin Hood. Serial algorithm with hardware transactional lock-elision wrapper   \nK-CAS Robin Hood Hash. K-CAS with sharded timestamps. ",
+        "page_idx": 75
+    },
+    {
+        "type": "text",
+        "text": "Performance 20%/40% ",
+        "text_level": 1,
+        "page_idx": 76
+    },
+    {
+        "type": "image",
+        "img_path": "images/df40934b82146b338ef4192b49cecdb089071fcd4c41a45dcd8ee90c275439dd.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "Number of threads. ",
+        "page_idx": 76
+    },
+    {
+        "type": "text",
+        "text": "Performance 60%/80% ",
+        "text_level": 1,
+        "page_idx": 77
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea5501942e72df452374a0ba20a9bddc000b658b42ff9c65c28ddeb1390d6719.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "Number of threads. ",
+        "page_idx": 77
+    },
+    {
+        "type": "text",
+        "text": "Performance Summary ",
+        "text_level": 1,
+        "page_idx": 78
+    },
+    {
+        "type": "text",
+        "text": "Performance Summary ",
+        "text_level": 1,
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood scales best in almost all workloads.   \nOtherwise very competitive with Hopscotch Hashing. Comfortably ahead (10%) with 10% update load.   \nMore competitive (5%) with 20% updates. ",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 79
+    },
+    {
+        "type": "text",
+        "text": "Performance Summary ",
+        "text_level": 1,
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood scales best in almost all workloads.   \nOtherwise very competitive with Hopscotch Hashing. Comfortably ahead (10%) with 10% update load.   \nMore competitive (5%) with 20% updates. Robin Hood dominates other concurrent hash tables.   \nGap narrows during Hyperthreading. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Transactional Robin Hood scales very strongly until Hyperthreading. Then it dies and never recovers. ",
+        "page_idx": 80
+    },
+    {
+        "type": "text",
+        "text": "Conclusion ",
+        "text_level": 1,
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "First linearisable concurrent variant of Robin Hood Hashing. Strong application of new K-CAS developments. Competitive performance compared to state of the art concurrent hash tables. ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Future Work ",
+        "text_level": 1,
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Extended Robin Hood work (different timestamp encodings/placements, cache aware, vectorised, various lock-based solutions)   \nYahoo benchmark (YCSB) ",
+        "page_idx": 81
+    },
+    {
+        "type": "text",
+        "text": "Thank you! ",
+        "text_level": 1,
+        "page_idx": 82
+    },
+    {
+        "type": "text",
+        "text": "Questions and Comments? ",
+        "page_idx": 82
+    }
+]

@@ -1,0 +1,4670 @@
+[
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      48,
+      59
+    ],
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "correct_pages": [
+      48
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 77.77345776557922,
+    "success": false
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      113,
+      3
+    ],
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 112.94911503791809,
+    "success": false
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      73,
+      81
+    ],
+    "evidence_pages": [
+      81
+    ],
+    "correct_pages": [
+      81
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 74.46682715415955,
+    "success": true
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      49,
+      50
+    ],
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "correct_pages": [
+      49,
+      50
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 33.19974970817566,
+    "success": true
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      10,
+      29
+    ],
+    "evidence_pages": [
+      33
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 92.62780594825745,
+    "success": false
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      74,
+      30
+    ],
+    "evidence_pages": [
+      74
+    ],
+    "correct_pages": [
+      74
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 72.12056994438171,
+    "success": true
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      5,
+      6
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 78.46625113487244,
+    "success": false
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      112,
+      125
+    ],
+    "evidence_pages": [
+      125
+    ],
+    "correct_pages": [
+      125
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 59.2216260433197,
+    "success": true
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      97,
+      102
+    ],
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 73.10277390480042,
+    "success": false
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      108,
+      111
+    ],
+    "evidence_pages": [
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 57.014864921569824,
+    "success": true
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      1,
+      105
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [
+      105
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 57.118337631225586,
+    "success": false
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      112,
+      54
+    ],
+    "evidence_pages": [
+      112
+    ],
+    "correct_pages": [
+      112
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 61.27999496459961,
+    "success": true
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      84,
+      61
+    ],
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "correct_pages": [
+      84,
+      61
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 146.9126000404358,
+    "success": true
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 35.819714069366455,
+    "success": false
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      86,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "correct_pages": [
+      86,
+      87
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 96.31655979156494,
+    "success": false
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      72,
+      90
+    ],
+    "evidence_pages": [
+      90
+    ],
+    "correct_pages": [
+      90
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 85.1383490562439,
+    "success": true
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      73,
+      71
+    ],
+    "evidence_pages": [
+      73
+    ],
+    "correct_pages": [
+      73
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 96.13458895683289,
+    "success": true
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      106,
+      71
+    ],
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 85.90273594856262,
+    "success": false
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      106,
+      107
+    ],
+    "evidence_pages": [
+      107
+    ],
+    "correct_pages": [
+      107
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 99.73886179924011,
+    "success": true
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      106,
+      95
+    ],
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "correct_pages": [
+      95
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 46.3741250038147,
+    "success": false
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      93,
+      95
+    ],
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "correct_pages": [
+      93,
+      95
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 51.33764314651489,
+    "success": false
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 63.10504913330078,
+    "success": false
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      140,
+      141
+    ],
+    "evidence_pages": [
+      140
+    ],
+    "correct_pages": [
+      140
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 89.13438200950623,
+    "success": true
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      99,
+      6
+    ],
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "correct_pages": [
+      99
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 57.38222885131836,
+    "success": false
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      18,
+      68
+    ],
+    "evidence_pages": [
+      68
+    ],
+    "correct_pages": [
+      68
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 67.63479399681091,
+    "success": true
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      100,
+      117
+    ],
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "correct_pages": [
+      117
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 78.61593174934387,
+    "success": false
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      96,
+      93
+    ],
+    "evidence_pages": [
+      96
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 64.4834041595459,
+    "success": true
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      76,
+      77
+    ],
+    "evidence_pages": [
+      77
+    ],
+    "correct_pages": [
+      77
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 71.70509004592896,
+    "success": true
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      146,
+      106
+    ],
+    "evidence_pages": [
+      117
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 80.65137720108032,
+    "success": false
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      83,
+      79
+    ],
+    "evidence_pages": [
+      64
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 80.48780393600464,
+    "success": false
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      96,
+      65
+    ],
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 124.30091905593872,
+    "success": false
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      112,
+      113
+    ],
+    "evidence_pages": [
+      113
+    ],
+    "correct_pages": [
+      113
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 52.8692889213562,
+    "success": true
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      66,
+      31
+    ],
+    "evidence_pages": [
+      66
+    ],
+    "correct_pages": [
+      66
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 95.3427209854126,
+    "success": true
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      84,
+      79
+    ],
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "correct_pages": [
+      84,
+      79
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 83.6852798461914,
+    "success": false
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      57,
+      58
+    ],
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 44.61117959022522,
+    "success": false
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      41,
+      103
+    ],
+    "evidence_pages": [
+      103
+    ],
+    "correct_pages": [
+      103
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 46.48781108856201,
+    "success": true
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      88,
+      83
+    ],
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "correct_pages": [
+      88
+    ],
+    "recall": 0.25,
+    "precision": 0.5,
+    "f1": 0.3333333333333333,
+    "retrieval_time": 89.21507811546326,
+    "success": false
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      113,
+      111
+    ],
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 116.92852783203125,
+    "success": false
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [
+      28,
+      29
+    ],
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 82.13252186775208,
+    "success": false
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "weight_config": "Text-only mode",
+    "text_weight": 1.0,
+    "image_weight": 0.0,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 48.826493978500366,
+    "success": false
+  },
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      48,
+      59
+    ],
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "correct_pages": [
+      48
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 69.01760697364807,
+    "success": false
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      3,
+      54
+    ],
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 132.2055549621582,
+    "success": false
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      73,
+      81
+    ],
+    "evidence_pages": [
+      81
+    ],
+    "correct_pages": [
+      81
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 102.98696112632751,
+    "success": true
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      49,
+      50
+    ],
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "correct_pages": [
+      49,
+      50
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 40.29026794433594,
+    "success": true
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      33,
+      10
+    ],
+    "evidence_pages": [
+      33
+    ],
+    "correct_pages": [
+      33
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 81.12830424308777,
+    "success": true
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      74,
+      30
+    ],
+    "evidence_pages": [
+      74
+    ],
+    "correct_pages": [
+      74
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 99.19531798362732,
+    "success": true
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      89,
+      26
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 59.844773054122925,
+    "success": false
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      126,
+      111
+    ],
+    "evidence_pages": [
+      125
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 54.559370040893555,
+    "success": false
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      97,
+      102
+    ],
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 85.92825102806091,
+    "success": false
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      108,
+      111
+    ],
+    "evidence_pages": [
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 87.13045310974121,
+    "success": true
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      1,
+      105
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [
+      105
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 70.76068711280823,
+    "success": false
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      112,
+      54
+    ],
+    "evidence_pages": [
+      112
+    ],
+    "correct_pages": [
+      112
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 62.81750774383545,
+    "success": true
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      84,
+      61
+    ],
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "correct_pages": [
+      84,
+      61
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 67.09092879295349,
+    "success": true
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      98,
+      6
+    ],
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correct_pages": [
+      98
+    ],
+    "recall": 0.2,
+    "precision": 0.5,
+    "f1": 0.28571428571428575,
+    "retrieval_time": 39.189773082733154,
+    "success": false
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 50.366841077804565,
+    "success": false
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      72,
+      90
+    ],
+    "evidence_pages": [
+      90
+    ],
+    "correct_pages": [
+      90
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 155.45648002624512,
+    "success": true
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      73,
+      71
+    ],
+    "evidence_pages": [
+      73
+    ],
+    "correct_pages": [
+      73
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 98.74378776550293,
+    "success": true
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      106,
+      71
+    ],
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 64.359445810318,
+    "success": false
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      106,
+      107
+    ],
+    "evidence_pages": [
+      107
+    ],
+    "correct_pages": [
+      107
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 67.1700451374054,
+    "success": true
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      96,
+      95
+    ],
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "correct_pages": [
+      96,
+      95
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 61.47099995613098,
+    "success": true
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      93,
+      95
+    ],
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "correct_pages": [
+      93,
+      95
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 70.79889273643494,
+    "success": false
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      85,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "correct_pages": [
+      87
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 60.388330936431885,
+    "success": false
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      41,
+      57
+    ],
+    "evidence_pages": [
+      140
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 97.46938014030457,
+    "success": false
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      99,
+      6
+    ],
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "correct_pages": [
+      99
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 66.33751797676086,
+    "success": false
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      18,
+      68
+    ],
+    "evidence_pages": [
+      68
+    ],
+    "correct_pages": [
+      68
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 92.9167730808258,
+    "success": true
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      100,
+      117
+    ],
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "correct_pages": [
+      117
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 70.99450206756592,
+    "success": false
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      96,
+      93
+    ],
+    "evidence_pages": [
+      96
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 67.09958124160767,
+    "success": true
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      76,
+      77
+    ],
+    "evidence_pages": [
+      77
+    ],
+    "correct_pages": [
+      77
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 80.18349623680115,
+    "success": true
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      146,
+      106
+    ],
+    "evidence_pages": [
+      117
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 73.26816701889038,
+    "success": false
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      83,
+      79
+    ],
+    "evidence_pages": [
+      64
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 65.87476110458374,
+    "success": false
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      96,
+      65
+    ],
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 80.19966673851013,
+    "success": false
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      112,
+      113
+    ],
+    "evidence_pages": [
+      113
+    ],
+    "correct_pages": [
+      113
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 36.19074106216431,
+    "success": true
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      66,
+      31
+    ],
+    "evidence_pages": [
+      66
+    ],
+    "correct_pages": [
+      66
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 82.81285810470581,
+    "success": true
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      84,
+      79
+    ],
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "correct_pages": [
+      84,
+      79
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 138.81358575820923,
+    "success": false
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      57,
+      61
+    ],
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "correct_pages": [
+      61
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 93.8850359916687,
+    "success": false
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      41,
+      103
+    ],
+    "evidence_pages": [
+      103
+    ],
+    "correct_pages": [
+      103
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 68.25237512588501,
+    "success": true
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      88,
+      83
+    ],
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "correct_pages": [
+      88
+    ],
+    "recall": 0.25,
+    "precision": 0.5,
+    "f1": 0.3333333333333333,
+    "retrieval_time": 111.13046503067017,
+    "success": false
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      113,
+      109
+    ],
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 90.68528819084167,
+    "success": false
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      28,
+      29
+    ],
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 86.7385241985321,
+    "success": false
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "weight_config": "Image-only mode",
+    "text_weight": 0.0,
+    "image_weight": 1.0,
+    "retrieved_pages": [
+      85,
+      109
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 52.63789486885071,
+    "success": false
+  },
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      48,
+      59
+    ],
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "correct_pages": [
+      48
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 91.18332529067993,
+    "success": false
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      84,
+      54
+    ],
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 84.57903790473938,
+    "success": false
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      73,
+      81
+    ],
+    "evidence_pages": [
+      81
+    ],
+    "correct_pages": [
+      81
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 78.33774971961975,
+    "success": true
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      49,
+      50
+    ],
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "correct_pages": [
+      49,
+      50
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 65.44866108894348,
+    "success": true
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      33,
+      10
+    ],
+    "evidence_pages": [
+      33
+    ],
+    "correct_pages": [
+      33
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 65.11730408668518,
+    "success": true
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      74,
+      30
+    ],
+    "evidence_pages": [
+      74
+    ],
+    "correct_pages": [
+      74
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 57.61976194381714,
+    "success": true
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      8,
+      5
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 62.7162139415741,
+    "success": false
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      112,
+      125
+    ],
+    "evidence_pages": [
+      125
+    ],
+    "correct_pages": [
+      125
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 66.06583595275879,
+    "success": true
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      96,
+      98
+    ],
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "correct_pages": [
+      96,
+      98
+    ],
+    "recall": 0.5,
+    "precision": 1.0,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 114.80194091796875,
+    "success": false
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      108,
+      111
+    ],
+    "evidence_pages": [
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 78.7575752735138,
+    "success": true
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      1,
+      105
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [
+      105
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 54.47156000137329,
+    "success": false
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      112,
+      54
+    ],
+    "evidence_pages": [
+      112
+    ],
+    "correct_pages": [
+      112
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 83.15126013755798,
+    "success": true
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      84,
+      61
+    ],
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "correct_pages": [
+      84,
+      61
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 78.95213508605957,
+    "success": true
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      98,
+      6
+    ],
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correct_pages": [
+      98
+    ],
+    "recall": 0.2,
+    "precision": 0.5,
+    "f1": 0.28571428571428575,
+    "retrieval_time": 52.800501108169556,
+    "success": false
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      86,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "correct_pages": [
+      86,
+      87
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 68.9206337928772,
+    "success": false
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      72,
+      90
+    ],
+    "evidence_pages": [
+      90
+    ],
+    "correct_pages": [
+      90
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 99.56379508972168,
+    "success": true
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      73,
+      71
+    ],
+    "evidence_pages": [
+      73
+    ],
+    "correct_pages": [
+      73
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 64.27109885215759,
+    "success": true
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      106,
+      71
+    ],
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 91.07880401611328,
+    "success": false
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      106,
+      107
+    ],
+    "evidence_pages": [
+      107
+    ],
+    "correct_pages": [
+      107
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 59.830090045928955,
+    "success": true
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      106,
+      95
+    ],
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "correct_pages": [
+      95
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 113.34151673316956,
+    "success": false
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      93,
+      95
+    ],
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "correct_pages": [
+      93,
+      95
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 64.57071685791016,
+    "success": false
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      85,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "correct_pages": [
+      87
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 63.705568075180054,
+    "success": false
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      140,
+      141
+    ],
+    "evidence_pages": [
+      140
+    ],
+    "correct_pages": [
+      140
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 92.67285394668579,
+    "success": true
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      99,
+      6
+    ],
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "correct_pages": [
+      99
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 69.03429293632507,
+    "success": false
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      18,
+      68
+    ],
+    "evidence_pages": [
+      68
+    ],
+    "correct_pages": [
+      68
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 82.08420205116272,
+    "success": true
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      100,
+      117
+    ],
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "correct_pages": [
+      117
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 70.84180092811584,
+    "success": false
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      96,
+      93
+    ],
+    "evidence_pages": [
+      96
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 75.8357949256897,
+    "success": true
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      76,
+      77
+    ],
+    "evidence_pages": [
+      77
+    ],
+    "correct_pages": [
+      77
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 50.8336820602417,
+    "success": true
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      146,
+      106
+    ],
+    "evidence_pages": [
+      117
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 89.57929682731628,
+    "success": false
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      83,
+      79
+    ],
+    "evidence_pages": [
+      64
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 82.53905010223389,
+    "success": false
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      96,
+      65
+    ],
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 100.53566074371338,
+    "success": false
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      112,
+      113
+    ],
+    "evidence_pages": [
+      113
+    ],
+    "correct_pages": [
+      113
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 51.05736780166626,
+    "success": true
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      66,
+      31
+    ],
+    "evidence_pages": [
+      66
+    ],
+    "correct_pages": [
+      66
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 91.33285212516785,
+    "success": true
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      84,
+      79
+    ],
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "correct_pages": [
+      84,
+      79
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 102.64280796051025,
+    "success": false
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      57,
+      61
+    ],
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "correct_pages": [
+      61
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 80.23604202270508,
+    "success": false
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      41,
+      103
+    ],
+    "evidence_pages": [
+      103
+    ],
+    "correct_pages": [
+      103
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 45.32359218597412,
+    "success": true
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      88,
+      81
+    ],
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "correct_pages": [
+      88
+    ],
+    "recall": 0.25,
+    "precision": 0.5,
+    "f1": 0.3333333333333333,
+    "retrieval_time": 103.16237306594849,
+    "success": false
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      113,
+      111
+    ],
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 88.85632300376892,
+    "success": false
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 63.31413412094116,
+    "success": false
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "weight_config": "Text-dominant",
+    "text_weight": 0.7,
+    "image_weight": 0.3,
+    "retrieved_pages": [
+      85,
+      109
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 86.4209930896759,
+    "success": false
+  },
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      48,
+      59
+    ],
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "correct_pages": [
+      48
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 56.02621817588806,
+    "success": false
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      84,
+      54
+    ],
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 103.55382990837097,
+    "success": false
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      73,
+      81
+    ],
+    "evidence_pages": [
+      81
+    ],
+    "correct_pages": [
+      81
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 118.15618109703064,
+    "success": true
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      49,
+      50
+    ],
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "correct_pages": [
+      49,
+      50
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 48.90098714828491,
+    "success": true
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      33,
+      10
+    ],
+    "evidence_pages": [
+      33
+    ],
+    "correct_pages": [
+      33
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 77.32698202133179,
+    "success": true
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      74,
+      30
+    ],
+    "evidence_pages": [
+      74
+    ],
+    "correct_pages": [
+      74
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 78.12892389297485,
+    "success": true
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      19,
+      5
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 104.04358291625977,
+    "success": false
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      112,
+      125
+    ],
+    "evidence_pages": [
+      125
+    ],
+    "correct_pages": [
+      125
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 54.29938578605652,
+    "success": true
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      97,
+      102
+    ],
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 58.261335134506226,
+    "success": false
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      108,
+      111
+    ],
+    "evidence_pages": [
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 136.2739381790161,
+    "success": true
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      1,
+      105
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [
+      105
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 72.04415488243103,
+    "success": false
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      112,
+      54
+    ],
+    "evidence_pages": [
+      112
+    ],
+    "correct_pages": [
+      112
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 107.65109705924988,
+    "success": true
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      84,
+      61
+    ],
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "correct_pages": [
+      84,
+      61
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 52.84654498100281,
+    "success": true
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      98,
+      6
+    ],
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correct_pages": [
+      98
+    ],
+    "recall": 0.2,
+    "precision": 0.5,
+    "f1": 0.28571428571428575,
+    "retrieval_time": 47.30492687225342,
+    "success": false
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 44.69432020187378,
+    "success": false
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      72,
+      90
+    ],
+    "evidence_pages": [
+      90
+    ],
+    "correct_pages": [
+      90
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 75.59802103042603,
+    "success": true
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      73,
+      71
+    ],
+    "evidence_pages": [
+      73
+    ],
+    "correct_pages": [
+      73
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 55.80178093910217,
+    "success": true
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      72,
+      71
+    ],
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 129.25823616981506,
+    "success": false
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      106,
+      107
+    ],
+    "evidence_pages": [
+      107
+    ],
+    "correct_pages": [
+      107
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 99.24325799942017,
+    "success": true
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      106,
+      95
+    ],
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "correct_pages": [
+      95
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 77.53216814994812,
+    "success": false
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      93,
+      95
+    ],
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "correct_pages": [
+      93,
+      95
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 65.44643592834473,
+    "success": false
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      85,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "correct_pages": [
+      87
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 120.15599203109741,
+    "success": false
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      140,
+      134
+    ],
+    "evidence_pages": [
+      140
+    ],
+    "correct_pages": [
+      140
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 118.45054316520691,
+    "success": true
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      99,
+      6
+    ],
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "correct_pages": [
+      99
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 74.63326692581177,
+    "success": false
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      18,
+      68
+    ],
+    "evidence_pages": [
+      68
+    ],
+    "correct_pages": [
+      68
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 111.80468988418579,
+    "success": true
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      100,
+      117
+    ],
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "correct_pages": [
+      117
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 91.41492509841919,
+    "success": false
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      96,
+      93
+    ],
+    "evidence_pages": [
+      96
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 143.61330485343933,
+    "success": true
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      76,
+      77
+    ],
+    "evidence_pages": [
+      77
+    ],
+    "correct_pages": [
+      77
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 57.846049785614014,
+    "success": true
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      146,
+      106
+    ],
+    "evidence_pages": [
+      117
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 71.9907500743866,
+    "success": false
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      64
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 65.29532885551453,
+    "success": false
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      96,
+      65
+    ],
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 82.45966696739197,
+    "success": false
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      112,
+      113
+    ],
+    "evidence_pages": [
+      113
+    ],
+    "correct_pages": [
+      113
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 106.79415488243103,
+    "success": true
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      66,
+      31
+    ],
+    "evidence_pages": [
+      66
+    ],
+    "correct_pages": [
+      66
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 99.39776182174683,
+    "success": true
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      84,
+      79
+    ],
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "correct_pages": [
+      84,
+      79
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 113.27436017990112,
+    "success": false
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      57,
+      62
+    ],
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "correct_pages": [
+      62
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 76.72511267662048,
+    "success": false
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      41,
+      103
+    ],
+    "evidence_pages": [
+      103
+    ],
+    "correct_pages": [
+      103
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 87.69596099853516,
+    "success": true
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      88,
+      83
+    ],
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "correct_pages": [
+      88
+    ],
+    "recall": 0.25,
+    "precision": 0.5,
+    "f1": 0.3333333333333333,
+    "retrieval_time": 91.43980312347412,
+    "success": false
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      113,
+      111
+    ],
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 198.96543788909912,
+    "success": false
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [
+      28,
+      29
+    ],
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 70.34000873565674,
+    "success": false
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "weight_config": "Balanced mode",
+    "text_weight": 0.5,
+    "image_weight": 0.5,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 55.04264807701111,
+    "success": false
+  },
+  {
+    "doc_id": "4064501",
+    "pdf_path": "4064501.pdf",
+    "query": "Count the total inpatient beds listed for \"South Wing Phase l\" and \"South Wing Phase 2\" combined.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      48,
+      59
+    ],
+    "evidence_pages": [
+      48,
+      49
+    ],
+    "correct_pages": [
+      48
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 66.20724296569824,
+    "success": false
+  },
+  {
+    "doc_id": "4129670",
+    "pdf_path": "4129670.pdf",
+    "query": "Which section best matches the follwing description: \n<description>The text describes the backgrounds and roles of Marco Conner DiAquoi and Alex Elegudin. Marco is the Deputy Director at Transportation Alternatives in New York City, overseeing the organization's advocacy for livable, inclusive, and safe streets. He has led campaigns for speed safety cameras near schools and the legalization of e-bikes and e-scooters. Alex is the President and Co-founder of Wheeling Forward, a disability advocacy organization. He has worked as an attorney and an Accessibility Program Manager at the New York City Taxi and Limousine Commission, and as a Senior Advisor for Systemwide Accessibility at MTA New York City Transit.</description>\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      113,
+      3
+    ],
+    "evidence_pages": [
+      118,
+      120,
+      121,
+      122
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 174.32048225402832,
+    "success": false
+  },
+  {
+    "doc_id": "4012567",
+    "pdf_path": "4012567.pdf",
+    "query": "What is the maximum percentage of \"total application percentage\" for the Mesket Census Area in Texas on Map 5.2?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      73,
+      81
+    ],
+    "evidence_pages": [
+      81
+    ],
+    "correct_pages": [
+      81
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 113.66282510757446,
+    "success": true
+  },
+  {
+    "doc_id": "4057714",
+    "pdf_path": "4057714.pdf",
+    "query": "Count the total number of steps in the continuum of harm as described in the document.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      49,
+      50
+    ],
+    "evidence_pages": [
+      49,
+      50
+    ],
+    "correct_pages": [
+      49,
+      50
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 59.443230867385864,
+    "success": true
+  },
+  {
+    "doc_id": "4196005",
+    "pdf_path": "4196005.pdf",
+    "query": "Which demographic is most likely to experience material hardship in Kent County?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      33,
+      10
+    ],
+    "evidence_pages": [
+      33
+    ],
+    "correct_pages": [
+      33
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 178.32778596878052,
+    "success": true
+  },
+  {
+    "doc_id": "4174854",
+    "pdf_path": "4174854.pdf",
+    "query": "Count the total number of primary and alias network variables supported by CNP on a typical Neuron hosted device.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      74,
+      30
+    ],
+    "evidence_pages": [
+      74
+    ],
+    "correct_pages": [
+      74
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 219.22402930259705,
+    "success": true
+  },
+  {
+    "doc_id": "4005877",
+    "pdf_path": "4005877.pdf",
+    "query": "Where is the discussion on social and economic inequality, particularly in relation to housing?\nSelect titles from the doc that best answer the question, do not alter or analyze the titles themselves.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      8,
+      5
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 73.88993382453918,
+    "success": false
+  },
+  {
+    "doc_id": "4072232",
+    "pdf_path": "4072232.pdf",
+    "query": "What's name of the table talking about the Aquatic nuisance species？",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      112,
+      125
+    ],
+    "evidence_pages": [
+      125
+    ],
+    "correct_pages": [
+      125
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 57.80094385147095,
+    "success": true
+  },
+  {
+    "doc_id": "4069930",
+    "pdf_path": "4069930.pdf",
+    "query": "What are the key titles related to 'charity' across the document?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      97,
+      102
+    ],
+    "evidence_pages": [
+      96,
+      98,
+      101,
+      103
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 93.81154465675354,
+    "success": false
+  },
+  {
+    "doc_id": "4176503",
+    "pdf_path": "4176503.pdf",
+    "query": "Black students, who made up just 12.3% of the student population, represented just one quarter of out-of-school suspensions, yes or no?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [],
+    "evidence_pages": [
+      111
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0,
+    "f1": 0,
+    "retrieval_time": 352.8218069076538,
+    "success": false
+  },
+  {
+    "doc_id": "4138347",
+    "pdf_path": "4138347.pdf",
+    "query": "What was the date  for the document titled \"LETTER OF UNDERSTANDING NO. 8\"?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      1,
+      105
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [
+      105
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 93.73836302757263,
+    "success": false
+  },
+  {
+    "doc_id": "4111230",
+    "pdf_path": "4111230.pdf",
+    "query": "Which dataset scree plot denotes the EM imputation method?\n(A). CCA\n(B). CCA with long transformed item 25\n(C). EM imputed dataset\n(D). EM with long transformed item 25\nChoose the letter name in front of the right option from A, B, C, D.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      112,
+      54
+    ],
+    "evidence_pages": [
+      112
+    ],
+    "correct_pages": [
+      112
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 77.29535984992981,
+    "success": true
+  },
+  {
+    "doc_id": "4174181",
+    "pdf_path": "4174181.pdf",
+    "query": "Which tables compare Unix/Linux and Windows permissions and list key topics and summaries for Chapter 7?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      84,
+      61
+    ],
+    "evidence_pages": [
+      84,
+      61
+    ],
+    "correct_pages": [
+      84,
+      61
+    ],
+    "recall": 1.0,
+    "precision": 1.0,
+    "f1": 1.0,
+    "retrieval_time": 254.0697901248932,
+    "success": true
+  },
+  {
+    "doc_id": "4094684",
+    "pdf_path": "4094684.pdf",
+    "query": "How many production photos are depicted in Appendix D, across all pages?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      98,
+      6
+    ],
+    "evidence_pages": [
+      98,
+      99,
+      100,
+      101,
+      102
+    ],
+    "correct_pages": [
+      98
+    ],
+    "recall": 0.2,
+    "precision": 0.5,
+    "f1": 0.28571428571428575,
+    "retrieval_time": 69.80771493911743,
+    "success": false
+  },
+  {
+    "doc_id": "4129570",
+    "pdf_path": "4129570.pdf",
+    "query": "How many alternatives offered by the insurance subcommittee are there to prevent misuse of genetic information in insurance?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      86,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87,
+      88
+    ],
+    "correct_pages": [
+      86,
+      87
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 63.14622116088867,
+    "success": false
+  },
+  {
+    "doc_id": "4066338",
+    "pdf_path": "4066338.pdf",
+    "query": "What's name of the figure at the page which contains a table whose name is \"Table 5.1: Gender performance using LBP texture and full face. Percentage values represent the class-specific accuracies and the average class-specific accuracy for each experiment. VeriLook pre-dicted no gender on 2.75% and 0.89% of male and female images respectively in the FRGC dataset. In the MORPH dataset it predicted no gender on 0.5% and 11.26% of male and female images.\"?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      72,
+      90
+    ],
+    "evidence_pages": [
+      90
+    ],
+    "correct_pages": [
+      90
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 873.8554508686066,
+    "success": true
+  },
+  {
+    "doc_id": "4091919",
+    "pdf_path": "4091919.pdf",
+    "query": "How many drones in the $500-$1000 range have a camera with no distortion lens, preventing a fisheye effect, as described in the text?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      73,
+      71
+    ],
+    "evidence_pages": [
+      73
+    ],
+    "correct_pages": [
+      73
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 207.9386429786682,
+    "success": true
+  },
+  {
+    "doc_id": "4132494",
+    "pdf_path": "4132494.pdf",
+    "query": "French economy ranks higher than all states in the United States, yes or no?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      72,
+      71
+    ],
+    "evidence_pages": [
+      97,
+      105
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 112.46680283546448,
+    "success": false
+  },
+  {
+    "doc_id": "4063393",
+    "pdf_path": "4063393.pdf",
+    "query": "What is the primary conclusion about the effectiveness of skin carotenoid status as a biomarker?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      106,
+      107
+    ],
+    "evidence_pages": [
+      107
+    ],
+    "correct_pages": [
+      107
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 178.91168689727783,
+    "success": true
+  },
+  {
+    "doc_id": "4010333",
+    "pdf_path": "4010333.pdf",
+    "query": "How many steps are mentioned in the notification process for unauthorized disclosure detailed in Annex 6?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      106,
+      95
+    ],
+    "evidence_pages": [
+      95,
+      96
+    ],
+    "correct_pages": [
+      95
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 246.26892399787903,
+    "success": false
+  },
+  {
+    "doc_id": "4106951",
+    "pdf_path": "4106951.pdf",
+    "query": "The document contains an article titled \"DARWINISM AND ITS PERVERSIONS\",yes or no?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      93,
+      95
+    ],
+    "evidence_pages": [
+      93,
+      94,
+      95
+    ],
+    "correct_pages": [
+      93,
+      95
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 117.75186109542847,
+    "success": false
+  },
+  {
+    "doc_id": "4072260",
+    "pdf_path": "4072260.pdf",
+    "query": "Which item must be created after restoring both the configuration and stores databases to the new server?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      85,
+      87
+    ],
+    "evidence_pages": [
+      86,
+      87
+    ],
+    "correct_pages": [
+      87
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 96.9070680141449,
+    "success": false
+  },
+  {
+    "doc_id": "4185438",
+    "pdf_path": "4185438.pdf",
+    "query": "What is defined as an action of a group G on an object A in a category C, as per Definition 4.5?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      108,
+      134
+    ],
+    "evidence_pages": [
+      140
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 101.39034605026245,
+    "success": false
+  },
+  {
+    "doc_id": "4148165",
+    "pdf_path": "4148165.pdf",
+    "query": "The document mention addressing the fairness issue of the \"benefiting conscientious objector\"-alternative service,yes or no?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      99,
+      6
+    ],
+    "evidence_pages": [
+      99,
+      100
+    ],
+    "correct_pages": [
+      99
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 236.7891001701355,
+    "success": false
+  },
+  {
+    "doc_id": "4077673",
+    "pdf_path": "4077673.pdf",
+    "query": "How many notices are considered redundant or irrelevant and will be eliminated according to the Quick Start proposal?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      18,
+      68
+    ],
+    "evidence_pages": [
+      68
+    ],
+    "correct_pages": [
+      68
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 244.02272009849548,
+    "success": true
+  },
+  {
+    "doc_id": "4145761",
+    "pdf_path": "4145761.pdf",
+    "query": "How many ways are there to mute/unmute a microphone during a Nextcloud Talk call?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      100,
+      117
+    ],
+    "evidence_pages": [
+      117,
+      118
+    ],
+    "correct_pages": [
+      117
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 316.1379179954529,
+    "success": false
+  },
+  {
+    "doc_id": "4027862",
+    "pdf_path": "4027862.pdf",
+    "query": "What was the total export quantity for Japanese Muskmelon in 2020?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      96,
+      49
+    ],
+    "evidence_pages": [
+      96
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 232.7913179397583,
+    "success": true
+  },
+  {
+    "doc_id": "4126467",
+    "pdf_path": "4126467.pdf",
+    "query": "Which tables outline the required flow and openings for flushing pipelines?\nSelect table names from the doc that best answer the question, do not alter or analyze the table names themselves.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      76,
+      77
+    ],
+    "evidence_pages": [
+      77
+    ],
+    "correct_pages": [
+      77
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 141.02343797683716,
+    "success": true
+  },
+  {
+    "doc_id": "4057524",
+    "pdf_path": "4057524.pdf",
+    "query": "Enumerate the key features associated with \"Huddle\" section.",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      146,
+      106
+    ],
+    "evidence_pages": [
+      117
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 97.80549597740173,
+    "success": false
+  },
+  {
+    "doc_id": "4107960",
+    "pdf_path": "4107960.pdf",
+    "query": "What is the average number of samples an operator can analyze in an 8-hour day according to the analysis time summary?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      83,
+      79
+    ],
+    "evidence_pages": [
+      64
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 117.38202691078186,
+    "success": false
+  },
+  {
+    "doc_id": "4170122",
+    "pdf_path": "4170122.pdf",
+    "query": "What is the difference in the 'Original 2017 Budget' between 'SOCIAL SECURITY' (Dept 9030) in Fund 007 (Page 96) and 'SOCIAL SECURITY' (Dept 9030) in Fund 009 (Page 109)?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      96,
+      65
+    ],
+    "evidence_pages": [
+      96,
+      109
+    ],
+    "correct_pages": [
+      96
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 159.24179601669312,
+    "success": false
+  },
+  {
+    "doc_id": "4057121",
+    "pdf_path": "4057121.pdf",
+    "query": "What is the title of Exhibit 21.1?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      112,
+      113
+    ],
+    "evidence_pages": [
+      113
+    ],
+    "correct_pages": [
+      113
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 89.88549613952637,
+    "success": true
+  },
+  {
+    "doc_id": "4031704",
+    "pdf_path": "4031704.pdf",
+    "query": "How many team members did \"Spike It Up Sports Track Club A\" confirm for the 4x100 Meter Relay 17-18 year old Men?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      66,
+      31
+    ],
+    "evidence_pages": [
+      66
+    ],
+    "correct_pages": [
+      66
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 123.15568614006042,
+    "success": true
+  },
+  {
+    "doc_id": "4173940",
+    "pdf_path": "4173940.pdf",
+    "query": "What is the total number of  \"Newborn\" inpatient beds across buildings BLD-00411, BLD-00413, and BLD-00418?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      84,
+      79
+    ],
+    "evidence_pages": [
+      79,
+      81,
+      84
+    ],
+    "correct_pages": [
+      84,
+      79
+    ],
+    "recall": 0.6666666666666666,
+    "precision": 1.0,
+    "f1": 0.8,
+    "retrieval_time": 298.25934290885925,
+    "success": false
+  },
+  {
+    "doc_id": "4046173",
+    "pdf_path": "4046173.pdf",
+    "query": "How many occurrences of 'Stainless' categories are spread across different pages ?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      57,
+      61
+    ],
+    "evidence_pages": [
+      61,
+      62
+    ],
+    "correct_pages": [
+      61
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 80.57176971435547,
+    "success": false
+  },
+  {
+    "doc_id": "4088173",
+    "pdf_path": "4088173.pdf",
+    "query": "Which organization produced the Aponjon-MAMA project？",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      41,
+      103
+    ],
+    "evidence_pages": [
+      103
+    ],
+    "correct_pages": [
+      103
+    ],
+    "recall": 1.0,
+    "precision": 0.5,
+    "f1": 0.6666666666666666,
+    "retrieval_time": 88.67231631278992,
+    "success": true
+  },
+  {
+    "doc_id": "4050613",
+    "pdf_path": "4050613.pdf",
+    "query": "What is the total number of inpatient beds across all four buildings (BLD-03877, BLD-05669, BLD-05670, BLD-05671) for \"Medical /Surgical (Include GYN)\" units in 2018?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      88,
+      83
+    ],
+    "evidence_pages": [
+      88,
+      89,
+      90,
+      91
+    ],
+    "correct_pages": [
+      88
+    ],
+    "recall": 0.25,
+    "precision": 0.5,
+    "f1": 0.3333333333333333,
+    "retrieval_time": 169.966454744339,
+    "success": false
+  },
+  {
+    "doc_id": "4147727",
+    "pdf_path": "4147727.pdf",
+    "query": "How many different ratings of 1492-MCA branch circuit breakers are listed in Table?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      113,
+      111
+    ],
+    "evidence_pages": [
+      110,
+      111
+    ],
+    "correct_pages": [
+      111
+    ],
+    "recall": 0.5,
+    "precision": 0.5,
+    "f1": 0.5,
+    "retrieval_time": 163.24246287345886,
+    "success": false
+  },
+  {
+    "doc_id": "4078345",
+    "pdf_path": "4078345.pdf",
+    "query": "In terms of employment rates, who is more negatively impacted by \"low-wage workers\" vs \"high-wage workers\"?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      28,
+      29
+    ],
+    "evidence_pages": [
+      83,
+      85
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 128.38002181053162,
+    "success": false
+  },
+  {
+    "doc_id": "4086173",
+    "pdf_path": "4086173.pdf",
+    "query": "In male-dominated occupations, both men and women report higher job satisfaction, yes or no?",
+    "weight_config": "Image-dominant",
+    "text_weight": 0.3,
+    "image_weight": 0.7,
+    "retrieved_pages": [
+      85,
+      109
+    ],
+    "evidence_pages": [
+      105,
+      106
+    ],
+    "correct_pages": [],
+    "recall": 0.0,
+    "precision": 0.0,
+    "f1": 0,
+    "retrieval_time": 91.94823408126831,
+    "success": false
+  }
+]

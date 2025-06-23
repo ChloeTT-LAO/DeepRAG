@@ -1,0 +1,2721 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/1ad4ed347bffb5a06ca99fa7a7ebf1cfe266c2f8d6e2f7b32c51f18e4ad73898.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Quality Management in the Bosch Group ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "16. Problem Solving ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Demarcation and Objective.. 3   \n2 Principles   \n3 Basic Procedure. 6   \n3.1 Problem Solving Funnel...   \n3.2 Managerial Root Cause . . 10   \n4 Basic Methods .. 12   \n4.1 Facts Collection . 12   \n4.2 Flow Chart .... .... 13   \n4.3 Cause-Effect Diagram (Ishikawa Diagram) .. 4   \n4.4 5xWhy?.. 15   \n5 Problem Areas and Detailed Procedures . 17   \n5.1 Problems in the Indirect Area .... 18   \n5.1.1 Procedure – Problem Solving Sheet for Indirect Areas .... 18   \n5.2 Manufacturing Process problems . 21   \n5.2.1 Procedure – BPS Problem Solving Sheet ... 21   \n5.2.2 Example – Process Problem ...... 22   \n5.3 Product Problems . .. 23   \n5.3.1 Procedure 24   \n5.3.2 Guideline Product Problems.... . 26   \n6 Lessons Learned . 40   \n7 Further Problem Solving Methodologies .. . 43   \n7.1 Problem Solving and Decision Making in Accordance with Kepner-Tregoe (KT) ... .. 43   \n7.2 Shainin® 44   \n7.3 Six Sigma... ..... 46   \n8 Bibliography.. 48   \n9 Glossary . . 49   \nAppendix 1 – 8D-Method .. 50   \nA1.1 Purpose. . 50   \nA1.2 Terms and Definitions 50   \nA1.3 8D-Method .. .. 52   \nA1.3.1 Description of the steps D1 to D8 . 53   \nA1.3.1.1 D1: Establishing Problem Solving Team / Project.. . 53   \nA1.3.1.2 D2: Problem Description .. .. 53   \nA1.3.1.3 D3: Containment Actions.. . 53   \nA1.3.1.4 D4: Cause and Effect Analysis.. . 54   \nA1.3.1.5 D5: Defining Corrective Actions and Proving Effectiveness .. 54   \nA1.3.1.6 D6: Implementing Corrective Actions and Tracking Effectiveness... .. 55   \nA1.3.1.7 D7: Establishing Preventive Actions .. . 55   \nA1.3.1.8 D8: Final Meeting ... . 55   \nAppendix 2 – Templates . 56 ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Appendix 3 – Evaluation Criteria of Product Problems.. 60 ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Demarcation and Objective ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The term 'problem' is used in a variety of ways; essentially it is understood to mean a 'difficult task in need of resolution' or an 'undecided issue' [Dude01]. Such tasks may range from mathematical issues and decisions to be made through to products and processes to be developed and diagnostics or troubleshooting [Funk06]. In this document, the term 'problem' when used in the context of diagnostics or troubleshooting refers to a 'deviation from a defined target situation with an unknown cause'. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The aim of this booklet is to describe suitable procedures and methodological resources for an analysis of these causes. The areas of application used for the purpose are both technical and nontechnical products and processes. Moreover, these problems are essentially to be regarded as 'an opportunity for improvement' – i.e. beyond the remedying of the deviation, improvements for the products and processes looked at are derivable  from an understanding of the causes and functions. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The complexity of and effort that goes into resolving problems depend, among other things, on the timing of the occurrence of the problems (figure 1.1). In addition, problem solving may be determined by the chronological and geographical distribution of the underlying causes. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/30450202fdf0a975038a93c49ad41282b59ad96327a7ae1c9add36048ac7ac14.jpg",
+        "img_caption": [
+            "Figure 1.1: Possibilities of chronological occurrence of problems "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The methodology for problem solving as described here is subdivided into 3 levels (figure 1.2): ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The requirements to behavior, procedure and result are defined in the principles for problem solving at Bosch. In particular, the product engineering approach with regard to well-understood cause-effect relationships is formulated here. The procedure for problem solving forms the core of the methodology. The steps correspond to the procedure used in the 8D method (see Appendix 1). They are adapted to the different problem areas (product problems, process problems, problems in the indirect area) and the contents detailed with regard to some subtasks. The basic procedure (see figure 3.2 problem solving funnel) can be applied, however, regardless of complexity and the problem area. Individual methods (e.g. a matrix for collecting the facts, question models for deriving possible causes, etc.) and documents (e.g. problem solving sheets) support the aforementioned subtasks. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/84700be4fdd30b5b1447105284ef75ec895dc56b12904059405d8bdcca1969be.jpg",
+        "img_caption": [
+            "Figure 1.2: Methodology for problem solving "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2 Principles ",
+        "text_level": 1,
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The principles for problem solving describe the requirements with regard to the approach to and procedure for problem solving (mindset) and with regard to the result of a problem solution (figure 2.1). ",
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e84a75ff2c590f46c126daa5e2dbdb54fdcdaf66cdda554ce71e2a0fea0d77c9.jpg",
+        "img_caption": [
+            "Figure 2.1: Principles for problem solving "
+        ],
+        "img_footnote": [],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Leadership (executives and managers) is required, through their own behavior, to influence the courses of action taken by their associates in accordance with these principles, and to lead by example (\"I am concerned\"). The prerequisite for successful problem solving is the acceptance of a problem as a personal task (\"problems concern me personally – solving them is my task\"). This is a prerequisite for a problem being recognized as such and a solution to it addressed in terms of the principle effects for the company. The attitude of problem acceptance is aimed not only at causes and measures with regard to the immediate problem, but also at findings based on them for correction and further development in comparable areas (\"solving problem is our opportunity for improvement\"). ",
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "During the entire problem solving process, leadership has a special responsibility for both the problem solving and change processes. By demanding defined, methodologically supported subtasks, associates are guided systematically in the problem solving process. By leading by example and through active participation on the part of the leadership the significance of and opportunities afforded by solutions to problems are shown to the associates, thereby promoting ongoing change (\"as a manager I cannot delegate my responsibility for solving problems\"). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Involvement, responsibility and the will to improve can be clearly observed in how consequent the procedure is implemented. The second block of principles is written with the procedural problem solving objective: \"I want to understand the problem and its causes fundamentally\". Understanding and describing the problem in detail and a grasp of the underlying causes are essential prerequisites for effective and efficient measures to deal with that problem. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The associated principles characterize the essential steps that constitute the procedure. The principle behind all problem solving involves collection and confirmation of accurate and reliable facts. To procure these facts, inspection at the location where the event occurred is of particular importance (\"I am observing on-site and analyze the problem based on facts\"). The exchange of information between the persons affected and those involved in the problem solving process is facilitated by maintaining a presence at the site of the cause (the 'place of action') and/or at the place where the problem was discovered (the 'place of finding'). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Particularly where a large number of people are involved - which may involve working at various locations - it is absolutely essential that information is clear, consolidated, and structured (\"I describe the problem in comprehensible form for all parties involved\"). This involves first and foremost an overall description of the facts, e.g. in the form of diagrams, process charts and graphical evaluations. ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The crucial step in solving a problem is a logical analysis that substantiates clear description of the underlying causes. In this respect it is important to determine the factors connected with the cause of the problem and to describe their function (\"I understand the problem and how it occurs trough investigation of the relevant cause and effect relationships \"). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The third block of principles addresses the quality, durability and transferability of the solution developed (\"The problems we solve do not reoccur\"). The prerequisite for sustainable solutions is a far-reaching cause analysis which also takes into account relationships across specialist area and organizational limits (\"We develop a lasting solution by eliminating the real root cause – from both the technical and systemic perspectives\"). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The cause-effect relationships determined are to be proven based on real conditions and, in terms of effects, evaluated beyond the problem area (\"We provide evidence of the problem solving effect and understand their consequences\"). When transferring findings and measures to other areas, particular importance is attached to the responsibility of leadership. First of all it is important to abandon the limits of personal areas of responsibility and thus integrate new people into the problem solving process. Secondly, the findings must be conceptualized and transferred in the sense of a new standard (\"We transfer improvements for other products/processes/divisions and integrate them into our standards\"). ",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3 Basic Procedure ",
+        "text_level": 1,
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In line with the objective set out in the preceding section, the procedure for problem solving is at the heart of this document. A large number of procedures are known - from both literature and practical applications. Some of these procedures are explained briefly in section 6. First of all it is necessary to describe both the common core and its particular focus in order to derive the basic procedure for problem solving at Bosch. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The analysis has shown that the tried and tested procedures for problem solving can be presented in the form of a common structure (figure 3.1). A basic, broadly based classification is provided by the phases under PDCA (Plan, Do, Check, Act) [Zoll01] or KULT (Klärung (Clarification), Ursache (Cause), Lösung (Solution), Transfer (Transfer)) [Bren07]. All of the approaches listed in figure 3.1 can be integrated into this grid. The sequence of basic tasks – or the \"thought patterns\" [Kepn98] – are the same, regardless of the procedure or methodology. ",
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/e530ca704dfefbf36467094fa0224a6f467fa9d1b393daf96b7de7234be57e85.jpg",
+        "img_caption": [
+            "Figure 3.1: Tried and tested procedures/methodologies for problem solving "
+        ],
+        "img_footnote": [],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Nevertheless, the individual methodologies are aligned differently to individual phases or tasks for which they provide methodical support. The Toyota descriptions [Toyo06, Toyo08] (Toyota Business Practices, Toyota Problem Solving) stress, in particular, clarification of the target situation, the localizing description of the problem (\"locate the point of cause\", \"break down the problem\", \"grasp the situation\"), a tiered cause analysis and transfer of the solution to standards. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Six Sigma is aimed, in addition to clarification of the target situation and a description of the problem (define), primarily at the measurability of improvement (measure) from the statistical perspective of change abilities. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The Kepner-Tregoe procedure [Kepn98] stresses first and foremost the description or clarification of the problem (\"problem analysis\") and offers approaches to cause analysis (hypothesis testing). ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The individual methodologies break down once again the aforementioned 4-phase classification. An example of this is the 8D method [TOPS92]. The 8D method is the most established problem solving procedure in the area of the automotive industry. The 8 steps ('8 disciplines') D1 to D8 are aimed at the resolution of problems, the avoidance of recurrences and the transfer of findings to comparable processes or products. At the heart of the 8D method is a comprehensible explanation of the identification, understanding and remedying of the root cause. ",
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The 8D logic forms the basis for problem solving at Bosch. All of the steps in the 8D method (D1 to D8) are described in detail in Appendix 1. ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.1 Problem Solving Funnel ",
+        "text_level": 1,
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As explained in section 2 \"principles for problem solving\", the problem description (D2) and the cause-effect analysis (D4) comprise the decisive steps in the procedure. These are summarized and represented in the Bosch problem solving funnel (figure 3.2). The main tasks are explained below. The associated basic methods are described in section 4. Section 5 describes in detail the specifications of the procedure in different problem areas. The focus is on the description of the procedure for product problems – presented in the form of guidelines (section 5.3). ",
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/66e615d850c557622b32d2917fa38b04e4570d6eedd3b4918c4b69f7f0c885ae.jpg",
+        "img_caption": [
+            "Figure 3.2: Bosch problem solving funnel "
+        ],
+        "img_footnote": [],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Based on a - in most cases vague - description of the problem \"What problem / what deviation / what defect exists?\",   \nis initially clarified or defined in step D2 \"What is the corresponding target situation (parameters, process sequence, etc.)?\"   \nIf no target situation is defined: ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\"What is the target situation?\" ",
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Based on this, the following issues arise ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What is the current situation?   \nWhat facts to describe the current status are known and verifiably confirmed (e.g. incidents from   \nthe past, chronicle of events)?   \nWhat facts are missing or are still to be confirmed? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Important in this respect is, creating a consistent understanding of the problem within the team by formulating it as precisely as possible. Visualize problem understanding with sketches, pictures, process sequences, etc. so that it is comprehensible (\"I describe the problem for all participants in a comprehensible form\"). The task is to describe the problem clearly (only facts are allowed, no hypothesis). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Specific questions are to be asked according to the nature of what happened: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What exactly is the problem? (e.g. the defect in the process step or the process step with the defect), the location where the incident occurred ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Where exactly is the problem observed? (geographically, markets, customers, in the process sequence, etc.), ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "the time of the incident: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "When exactly is the problem observed? (when at first, when again, etc.), ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "the scale of the incident: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "How often exactly does the problem occur? How much/many is/are affected? (number, size, trend). ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In addition to the question about the $\"15^{\\prime\\prime}$ , it is particularly important to ask about the “IS NOT” for localizing the problem and later resolving the cause: ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What exactly is the problem not? Where exactly can the problem not be observed? When exactly can the problem not be observed? How much is, or how many are, affected? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The analysis of the differences and specifics of the $\"15^{\\prime\\prime}$ and “IS NOT” helps within the later cause analysis to detect possible causes as well as evaluating and eliminating them respectively ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "It may be that check questions are also helpful, e.g. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "What information is missing or is still to be confirmed?   \nWhat else can we add?   \nWho else could give us information?   \nHow can we describe the information more precisely / better / more simply / more clearly? ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Crucial in terms of the description of the problem is the overall structuring and analysis of the information. This covers, in particular, the ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "portrayal and analysis of the facts (e.g. process charts, allocations, trends, etc.), analysis of differences, specifics and connections between these facts. ",
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The first – problem-oriented – part of the problem solving funnel begins in a precise, textual, description of the problem (chronologically, geographically, quantitatively, etc.) – the so-called fundamental problem. The necessity to formulate the problem as accurately as possible in one or more sentences calls for a reflective discussion within the team. The fundamental problem forms the entry into the second, cause-oriented part of the procedure. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Experience shows that several fundamental problems can arise, particularly where the problems are described in very vague terms and/or are complex. In such cases, it must be checked to what extent these fundamental problems are really independent of one another, and whether a separate cause analysis is possible. Specifically at the transition from the problem- to the cause-oriented part it has to be pointed out that although the procedure is described in a forward direction, in a specific application case recurrences are unavoidable – which may even be helpful in the context of a targetoriented procedure. The plausibility check of possible causes with the fundamental problem is such an example. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "As part of the cause-effect analysis (D4), initially fundamental considerations (section 5.3.1, sub-step 6) are carried out, which means detecting the cause-effect-relationships and deviations (Is/Is not). Thereby possible causes are derived – based on the fundamental problem – and documented in a structured form (e.g. cause-effect-/Ishikawa-diagram, section 4.3) (cause localization). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What possible causes are derived from the fundamental problem?   \nWhich of these possible causes most probably create the fundamental problem   \n(using the facts situation to prioritize and select)?   \nDoes the possible cause appear plausible in light of the description of the symptoms and   \nsituation? ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, based on the most probable (direct) causes the root cause(s) is/are determined by querying the logical and functional relationships: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What has actually caused the fundamental problem? ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "With the aid of the '5xwhy?' method (see section 4.4), through systematic querying both the combined effect of causative conditions (technical root cause) and the reasons for permitting the combined effect (managerial root cause) are to be determined and verified (section 3.1). Crucial in this respect is an in-depth understanding of the combined effect of the conditions and/or the reasons for their being permitted – in the context of a mathematical/physical equation or of procedures and rules of an organization. Here it is possible to speak either of the root cause as a combination of causative (collaborative) parameters or the root causes and their interaction – e.g. an increased stress with, at the same time, reduced strength (see section 5.3.1). ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Once the technical root cause (TRC) is found after proving the connection between the causing conditions, the following question has to be raised: ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Why was the problem not detected? ",
+        "text_level": 1,
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "First, this questions should be answered technically, e.g. product audits. By observing deeply it is possible to identify quickly causes in procedures and regularities of an organization (managerial root cause). The '5xwhy' method is also suitable for this purpose. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Often there are attempts to 'abridge' the procedure, i.e. suspicions are raised as early as the start of the description of the problem regarding possible causes – e.g. as a result of experiences with earlier comparable cases. In individual cases this can be quite promising or, due to obligations (e.g. ",
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "customer demand), it can be necessary. In any event, it is absolutely imperative to investigate such suspicions (hypotheses or \"initial suspicion\") by corresponding querying in the context of the relationships understood (collaborating and permitting). In these cases, too, the key evidence (why and how) must be produced. Essentially there is a danger that the path of gradual localization of the problem (problem solving funnel) is abandoned. Generally speaking it is advisable to document the suspicions that arise during the problem description and then to query again as part of the plausibility check of possible causes with the fundamental problem. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3.2 Managerial Root Cause ",
+        "text_level": 1,
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Why is it important to look for reasons that go beyond technical causes? ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There are generally two reasons: ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "a) Problems that occur in accordance with similar \"pattern\" should be prevented. b) Each problem solving case is an opportunity to improve management systems and the organization. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "These underlying causes are referred to as \"Managerial Root Causes.\" \"Managerial\" encompasses both systemic aspects and leadership aspects, or a combination of the two. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The systemic root cause encompasses all causes that can be found in the management system (e.g.   \nQM system) and/or the business processes. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The first step is to analyze which specific requirements/specifications from the direct surrounding of the product/process are causing the problem. Based on this analysis, any missing requirements/specifications must then be drawn up and incorrect requirements/specifications must be revised, e.g. an error analysis that has not been carried out in the FMEA or tolerances that were not specified in the order specification. This is illustrated by the \"management system\" block in figure 3.3. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "This first step in the systemic cause can be identified and remedied by 8D teams. In practice, the causes described below can only be identified and remedied jointly by teams and managers from the affected entity. ",
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/dc744208396ea264355abf486c71c0b68b1e3070b32acf18ba1792fd7c802d09.jpg",
+        "img_caption": [
+            "Figure 3.3: Managerial Root Cause (MRC) "
+        ],
+        "img_footnote": [],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The second stage of the systemic cause is to investigate whether a fundamental root cause can be found in a supporting business process. This means that higher-level regulations/requirements must be analyzed. For example, the procedure for creating an FMEA, the procedure for engineering change requests or the product / process release procedure. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "In addition to the systemic causes described above, other leadership causes often play a role. These causes can be divided into those relating to personnel and those relating to the organization. ",
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Personnel causes are all issues that affect associate deployment and qualifications and may include causes in knowledge and competence management, workplace ergonomics and task complexity. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Organizational causes relate to how parts of the organization work together and how responsibilities are defined, e.g. are there regular meetings between two departments? How is communication between the lead plant and production plants maintained? Who is responsible for providing approval? Is knowledge exchanged between sites, including via exchange of associates if applicable? ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In practice, the topic areas are difficult to distinguish and often overlap. However, in the root cause analysis it is not crucial to find a root cause for every block in figure 3.3. It is more important to find out which main reasons from the \"managerial\" area are responsible for the fundamental problem so as to prevent similar errors from occurring in future. Figure 3.4 show by way of example starting points for these topic areas. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to eliminate the \"Managerial Root Causes,\" it is often possible to implement either a systemic or a leadership measure. For example, introducing a checklist would be a systemic measure, while pooling teams together in the same space would be a leadership measure. ",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Systemic measures usually increase complexity in the company, which in turn often makes it difficult to adhere to rules and standards. In contrast, it is often difficult, or takes a long time, to prove the effectiveness of leadership measures. These aspects must be weighed up against one another and decided upon in specific cases. ",
+        "page_idx": 11
+    },
+    {
+        "type": "table",
+        "img_path": "images/f52e9b1d56f957f4833205243f6f03717b63bd6e7d0ae8987a8d77edf19b91a6.jpg",
+        "table_caption": [
+            "Figure 3.4: Topic areas of \"Managerial Root Causes\" "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">Managerial Root Causes</td><td colspan=\"2\">Examples</td></tr><tr><td rowspan=\"2\">supporting business</td><td>Management system Cause relates to the immediate surroundings of the product/process.</td><td>Specifications for the product/process, e.g. work plan, FMEA, CP, order specification Higher-level rules, e.g. checklist</td><td>- Not created - Incomplete - Misleading - Created but with errors - Applied incorrectly</td></tr><tr><td>Business processes Cause relates to the</td><td rowspan=\"2\">for product or process approval, PEP, central directives, procedures, work instructions, standards</td><td>- Implemented incorrectly - Disregarded - Not created - Incomplete - Misleading</td></tr><tr><td>processes Personnel Personnel deployment and qualifications </td><td>- Created but with errors Associate deployment, use of associate skills, associate induction, knowledge management, competence management, training systems, associate development, personnel management, personnel development, working environment, ergonomics,</td></tr><tr><td></td><td>Organization Interfaces, cooperation, responsibilities</td><td colspan=\"2\">decision making Establishing an operating unit (organizational, spatial), responsibilities (RASIC) in product and process approval, interfaces between development and sales, cooperation between lead plant and production plant, standard agenda in regular meetings, managing capacity and resources</td></tr></table></body></html>\n\n",
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4 Basic Methods ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The fundamental problem solving methods are listed in the problem solving funnel (figure 3.2) allocated to the corresponding tasks. These methods help in the systematic procedure and structure the basic issues and results. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4.1 Facts Collection ",
+        "text_level": 1,
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The key questions “what, where, when, who and how many” have proven to be helpful collecting the facts in a structured way. The answers to the basic questions (see section 3) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What exactly is the problem? Where exactly is the problem observed? When exactly is the problem observed? Who observed the problem for the first time? How often exactly does the problem occur? How much/many is/are affected? ('extent') ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "are documented in tabular form under the so called \"Is\"-column. The problem is thus described clearly and in a structured manner based on facts (no suspicions or opinions) (see tasks in the problem solving funnel, figure 3.2). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Similar issues under the heading \"The problem is not\" are used for further localization or demarcation\", i.e. the search is for a comparable/similar ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What (situations, processes, sequences, functions, defects, deviations, errors)   \nWhere (countries, regions, plants, departments, processes, lines, workplaces, work steps,   \npositions on the object)   \nWhen (months, weeks, days, times/periods, shifts, chronological rhythms)   \nScale (quantities, quantity-based discrepancies/rhythms, intervals) ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "that are not, but could be, affected by the problem. Important here is the stress on the second clause \"but could be\", i.e. only relevant areas are included in the demarcation, otherwise one would become lost in the variety of possibilities. The template listed in Appendix 2 (table A2) has been augmented by some issues that arise particularly in relation to product problems (section 5.3). ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References to or indications of possible causes can arise, in particular, from differences, special features and changes between \"Is\" and \"Is not\". ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There must be at least one difference / special feature, otherwise the is-not areas would also be affected by the problem.   \nThere must have been at least one change, otherwise the problem would always have been there and not occurred only now. ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Helpful for recording the changes, for example, is a supplementary representation of all one-off and regular events on a timeline (flow chart, see section 4.2). As part of the cause analysis, the collecting of facts can be used for checking the plausibility of possible causes (check question): ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "How is the respective \"Is\" and \"Is not\" explained for a possible cause of the problem? ",
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f8efb5ef5aa773dc9d48b16667d8e6cc9e904b144a0b12287466aae87634c0b.jpg",
+        "img_caption": [
+            "Figure 4.1: Facts collection table (see appendix 2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Phrasing the fundamental problem (actual problem) – if possible in one sentence – shall be the result of the thorough facts analysis. ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "4.2 Flow Chart ",
+        "text_level": 1,
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Flow charts are used either to represent a chronological sequence of events (chronology of events, history chart) and/or the chronological change of parameters (flow charts for facts analysis regarding deviations/influencing factors). Both types of descriptions are used, among other things, for condensed documentation and an analysis of differences, special features and changes over the course of a problem situation (see section 4.1). ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The representation of event sequences – e.g. in the form of flow charts or flow diagrams [EWQ-05] – are aimed at ",
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "clear visualization,   \nreview of the combined effect (logic),   \nreview of interrelations and/or relationships, completeness check. ",
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/9445b625701c027766a5a757dfd2c2253f4fc48d405d4f578a6364b57c08a54a.jpg",
+        "img_caption": [
+            "Figure 4.2: Flow chart – example manufacturing process "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4.3 Cause-Effect Diagram (Ishikawa Diagram) ",
+        "text_level": 1,
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Generally speaking, cause-effect diagrams (also known as fishbone or Ishikawa diagrams) are used for clear structuring of the possible causes allocated to an effect (problem) [Ishi90, EWQ-05]. Structuring corresponds to branching and thus a subdivision of the possible influencing factors (tree structure, causal chains). ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The simplest type of diagram is produced by brainstorming with subsequent structuring of the information [EWQ-05]. A further type of structuring is done in accordance with [Ishi90] according to the specific process steps. Each step represents a branch with the respective influencing factors. ",
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The other type of structuring is performed according to the influencing factors that are possible in principle, such as materials, equipment (machines or tools), working methods or processes and/or the persons performing them (men), as well as environment (environmental influences). This gives rise to the 5M as a collective term for possible influencing factors – subsequently augmented by the terms measurement and management. The 7M are used, beyond structuring, in the sense of a creativity method with regard to possible causes to think in terms of all directions that are possible in principle. ",
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/81d098df9277a038a470ac34cb0703a002f7dad919f33fa2cdec99a790327020.jpg",
+        "img_caption": [
+            "Figure 4.3: Cause-effect diagrams – example 5M / 7 M structure "
+        ],
+        "img_footnote": [],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Within problem solving at Bosch, the Ishikawa Diagram is not used as a brainstorming method for possible causes, but to structure possible causes, which have been identified through the facts collection and successive fundamental considerations (cause-effect-relationships). The 5M or 7M structure helps to see if it is complete, which means that all fundamental parameters have been considered. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Visualizing factors Reviewing all factors and evidence concerning their possible relation with the problem Detecting and prioritizing the direct causes using the 5xwhy method ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "4.4 5xWhy? ",
+        "text_level": 1,
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The core question of the problem solving \"Why has the problem occurred\" is the starting point for the \"5xwhy\" (5W) method. As part of the Toyota production system, the method likewise stands for a disciplined and acribic procedure [Toyo08]. The starting point for its application is a probable cause (see figure 3.2) which it is important to explore and confirm with the aid of 5W. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "All further questioning after the why leads further back in the process chain or sequence (collaborating) and thus ever deeper into the organization and its behavior (permitting). The number 5 is merely an empirical value that has given rise to the name of the method. The required number of why steps depends, among other things, on the starting point, the complexity of the problem, and the discipline and experience of the users. ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The possible measures for resolving the problem vary greatly after each why step – i.e. increasing depth of the cause analysis – in terms of the nature and importance of the problem. The deeper the analysis, the more far-reaching are the measures. Crucial when searching for the cause of the problem is the question of whether the corresponding measure rules out any risk of the problem recurring. Only if the corresponding measure also avoids similar causes - in principle and systematically - in terms of collaborating and permitting has the root cause really been found, and the 5W chain can be ended. ",
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/956d0ba085d60d50c2f22559bf5b25b6bf32f7e76697ad0e3fd659be5f831012.jpg",
+        "img_caption": [
+            "Figure 4.4: \"5xwhy?\" "
+        ],
+        "img_footnote": [],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The application of 5W requires appropriate experience and care: ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The logic chain must be based on facts – assumptions, suspicions or unclear formulations are not allowed (see Appendix 2, table A4). ",
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "For both querying and the answer, short but grammatically complete, comprehensible sentences with simple words must be written down.   \nIn principle, there are several possibilities for the question after the why. Where there are multiple answers at the why level, there is branching into paths that are to be looked at separately. These should be arranged in a tree structure (e.g. visualized in graphical form), verified systematically and then ruled out as applicable.   \nThe effect chain must be closed, i.e. \"remain at the object and its cause-effect relationships\" and thus not skip over any logical steps (ensure relationship to the problem).   \nThe transition to the next why step requires that the answer to the preceding why has really been found. This is ultimately only possible with a key, doubt-free reversal of the why steps (logic check also in reverse: \"therefore\" or \"because\"). ",
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/613d0c5f83a78c4ff67a2c6896ca9c12a6f18cd2b8a5a7ed1efd7d3c4a96194d.jpg",
+        "img_caption": [
+            "Figure 4.5:  „5xwhy?“ – example "
+        ],
+        "img_footnote": [],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Supplementary references to formulations when carrying out the \"5xwhy\" method are listed in Appendix 2 (table A4). ",
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "5 Problem Areas and Detailed Procedures ",
+        "text_level": 1,
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Generally, problems can be subdivided into three problem areas (figure 5.1): ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Product problems (e.g. problems regarding the verification/validation of prototypes, 0-km faults, field problems).   \nManufacturing process problems (e.g. production sequence, assembly, materials provision), Problems in the indirect areas (e.g. controlling, human resources) ",
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/0c68ac37edfe497e8d1e73a235c259e0b5a4e8ef1e70074b35c15f7360c736a7.jpg",
+        "img_caption": [
+            "Figure 5.1: Procedure and problem areas "
+        ],
+        "img_footnote": [],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Step D4 has already been subdivided as early as the basic procedure (problem solving funnel, figure 3.2). ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Deriving possible causes, Determining the root cause. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Due to the complexity, and based on eligibility to the solution to be worked out, the subdivision of step D4 for the area of the product problems is carried out in the form of explicit substeps (section 5.3): ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "D 4.1: Cause analysis – fundamental considerations, D 4.2: Cause-effect relationship. ",
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "5.1 Problems in the Indirect Area ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "In principle, a distinction is drawn between \"direct personnel capacities\" (activity is dependent on the production volume and thus directly affected by employment fluctuations), and \"indirect personnel capacities\" (activity is not dependent on the production volume and thus not directly affected by employment fluctuations) [CAO-11]. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "On that basis, a distinction is drawn between direct areas: ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "direct processes/activities on materials (not data media), e.g. processing, assembly, transport ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "and indirect areas: ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "activities related to planning, control, monitoring or information processing in which only information is exchanged or processed, e.g. controlling, human resources, work planning, production control, logistics planning. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "For problems in the indirect area a problem solving sheet for indirect areas was drawn up based on the procedure described in section 3. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "5.1.1 Procedure – Problem Solving Sheet for Indirect Areas ",
+        "text_level": 1,
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The individual steps in the problem solving sheet for indirect areas (figure 5.2) correspond, with the exception of the immediate measures (D3) step, to the 8D method. In addition to the title (corresponds to D1), the sheet is subdivided according to the \"CCST phases\" (figure 3.1). The lefthand part of the sheet is given over entirely to the problem description with the steps symptom description, problem localization and description of current state (D2). The upper right-hand part of the sheet is subdivided into cause localization and analysis of the root cause for the cause-effect analysis (D4). Steps D5 to D8 (solution, effectiveness, standardization, completion) are displayed in the upper right-hand part of the screen. This subdivision was deliberately chosen in view of the importance of the problem description and the cause-effect analysis. The description below corresponds to the contents of the references to the problem solving sheet for indirect areas [Kais10]. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The Problem Solving Sheet (PSS) is both guidance for and documentation of problem solving in indirect areas. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The decision whether or not to solve a problem using the PSS should be made on basis of department-specific criteria (e.g. recurrence of defects / mistakes, endangered goal achievement, affected core process, effects on internal/external customers, etc.) ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The systematic problem solving approach at Bosch is based on 8D logic. In the PSS, the PDCA control loop is closed two times: (1) by assuring the achievement of the target state; and (2) by assuring improvement of the standards. ",
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "At Bosch there is an expectation to completely understand the problem and its root causes. Cause and effect relationships have to be determined. If the true root cause is understood, we can find lasting solutions and avoid reoccurrence; derive improvements for other products, processes or areas; and integrate them into standards. ",
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/c2ad52686d1cbb60b31fd3e0b831c6765a6045f93e41c76c5c2fa90694edc8f7.jpg",
+        "img_caption": [
+            "Figure 5.2: Problem solving sheet for indirect areas "
+        ],
+        "img_footnote": [],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Managers are responsible for problem solving in their area. In order to use the PSS correctly, basic problem solving knowledge and experience are necessary.  The PSS is not just another form to quickly fill out. Practice and experience are necessary to master the PSS and the problem solving process. Ideally, associates are coached and supported by their managers. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "PSS Hints: ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Title ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The title completely and concisely describes the problem from the perspective of those impacted. The responsible executive sponsor nominates a responsible topic owner and installs a team, if necessary. The executive actively supports the associates in their problem solving efforts.  The focus of the approach is the determination of the cause of the problem. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Symptom Description ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The symptom description must provide a clear picture of the current state and the target state to all involved. To achieve this, it is necessary to collect and to confirm facts, as well as describe them unambiguously. Sketches and pictures help create a consistent view for everyone, e.g. by describing or visualizing past events. In addition, a target in the form of an ideal future state is to be formulated in this step. ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Problem Localization ",
+        "text_level": 1,
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The narrowing down or localization of the problem via leading questions aims to eliminate nonrelevant areas. In the process location, time and frequency of occurrence are scrutinized (what, where, when, how) and documented in a structured way (is / is not). ",
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Description of Current (Actual) State: ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The description of the current (actual) state, along with the analysis of differences, special aspects and relationships from the problem localization, leads to the fundamental problem – the narrowed down problem (in terms of time, location, quantity, etc.) clearly distinguished from unaffected areas. The fundamental problem constitutes the transition from the problem-oriented to the causeoriented part of the PSS. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Cause localization ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In order to narrow down possible causes, the PSS includes a cause-and-effect diagram, a time-tested method. Based on the fundamental problem, possible causes are derived in a structured way. Possible groupings are given in the diagram as main branches: man, machine, method, material and environment. These branches can be changed (e.g. into management, organizational structure, etc.) or expanded, as appropriate. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Root Cause Analysis ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Those possible causes which seem most probable can be narrowed down in a first step through a logic check by asking a few key questions: ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Is this probable cause consistent with the results from the problem localization (the problem is / is not)? Do the facts and current state description seem plausible assuming this is the cause? ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The resultant most probable causes (typically one to three) are scrutinized (applying the “5 x Why” method) yielding the root cause (verified through “why … therefore …” forward and backward logic statements). ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Countermeasures ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Occasionally various countermeasure options or paths are open for selection. It is essential not to create a new uncontrolled state. It is imperative that countermeasures are chosen based on how well they achieve the target state and sustainably eliminate the root cause. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Effectiveness ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "A procedure has to be defined that concretely checks the effectiveness of the countermeasures (measurement criteria and method, schedule, etc.). It is management’s responsibility to control and personally check the effectiveness of the countermeasures. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Standardization ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In addition to achieving a target state, the executive makes sure that the improved standards (target state) are communicated and used. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Completion ",
+        "text_level": 1,
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "After signing in the completion cell, the executive sponsor and the topic owner confirm that the target state is completely achieved. ",
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "5.2 Manufacturing Process problems ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Process problems are deviations in a production or logistics process that are not dependent on the characteristics of a product being made or transported. The procedure described in section 3 also applies for this purpose. The Bosch Production System (BPS) is a system for continuous further development, improvement of and change to production and production-related processes with the aim of waste-free procedures. \"In point CIP, the management process for identifying priority problems in production and logistics and providing a long-term remedy for them is described within the BPS\" [BPS-06]. One of the key elements of point CIP is \"sustained problem resolution\". \"The problem solving sheet developed specially for the purpose can be used as a tool for structured implementation of the problem solving process\" [BPS-06]. ",
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.2.1 Procedure – BPS Problem Solving Sheet ",
+        "text_level": 1,
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The 9 individual steps of the procedure are set out in the BPS problem solving sheet (figure 5.3). These steps correspond largely to the 8D method (figure 3.1). The problem description (D2) is subdivided into the collection of facts and data analysis. The terms of fundamental problem, technical and managerial root cause and causes for occurrence and non-detection are added to the problem solving sheet. With these additions the problem solving sheet is inline with the PS approach. ",
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/3bc90d5e5addd8de044ef70be2fa79c03a0860e62fc255b020badbf1a7d5a31f.jpg",
+        "img_caption": [
+            "Figure 5.3: BPS problem solving sheet [BPS-06] "
+        ],
+        "img_footnote": [],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "5.2.2 Example – Process Problem ",
+        "text_level": 1,
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/be079f1cd650d54d6154958e2ccbc0242ef4f8ffd660c6863c66fac2cdc99922.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "5.3 Product Problems ",
+        "text_level": 1,
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Product problems are conformity- or function-related deviations of a target (e.g. specification) in the form of an error (\"non-fulfillment of a requirement\" [DIN-05]), defect (\"non-fulfillment of a requirement in relation to intended or defined use\" [DIN-05]), failure (non-fulfillment of a requested function) or error status (\"status of a unit in which it is unable to fulfill a requested function ...\" [FMEA06]). These deviations can manifest themselves during the entire lifecycle of a product – during design (e.g. during testing/validation), manufacture (e.g. in the production process) or the application (e.g. application, 0-km problem, field problems). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The causes underlying the problem can also arise from the overall lifecycle of the product – design (e.g. an error when taking into consideration a customer requirement), manufacture (e.g. an error when securing a production process parameter that is definitive for the product features) or the application (e.g. storage, transport or use in an environment not provided for the product). The more causes that come together from these lifecycle phases, the more these causes act in combination, and the more varied their interactions (figure 5.4), the more complex the problems are. ",
+        "page_idx": 23
+    },
+    {
+        "type": "image",
+        "img_path": "images/e0fbb8da27a297792614a867f6f37fcaace230fa246073533621238e7814fbf9.jpg",
+        "img_caption": [
+            "Figure 5.4: Interaction of causes of different phases in product problems "
+        ],
+        "img_footnote": [],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "This variety and complexity give rise to the special claim to resolving product problems with the necessity of understanding the collaboration. The procedure is therefore aimed at understanding the causes and their functional relationships and effects on the basis of understood design and understood production processes according to the principles of product engineering (PE) [PEHB10]. In problem solving (PS), areas of cause-effect relationships that have either not been understood or looked at to date (so-called \"white spots\") are identified (steps D2 and D4). As part of the solution (steps D5 and D6), the gaps in knowledge with respect to these areas are closed (\"well understood cause-effect relationships\") and transferred to other products and / or processes (step D7) (figure   5.5). ",
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a6a57fa5dbf61444da66d16bb304105389abd79cf060efb652b1552a93728a7.jpg",
+        "img_caption": [
+            "Fig. 5.5:  Improved product understanding through problem solving (PS) and product engineering (PE) "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "5.3.1 Procedure ",
+        "text_level": 1,
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In the case of product problems, intensive dealing with the product itself and/or its components and functions, as well as with its environment and associated processes is of particular importance. As with presence at the site of the cause (the 'scene of the crime') or at the place where the problem was discovered (the 'place of finding'), so too in this case it is crucial to get a picture of the object ('victim') and its status. In order, for example, to describe the problem in comprehensible terms for all those involved it is necessary to have the 'parts on the table'. ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A crucial factor in terms of resolving product-related problems is an understanding of the relationships based on the existing active principles [Pahl07, Lind08, PEHB10]: \"The physical incident, through the existence of physical effects and by determining geometric and material features, is brought into a cause-effect relationships which requires that the function is fulfilled in the sense of a task definition\". [Pahl07] ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Characteristic of product problems is the effect of influences from the product generation phases design, manufacture and application that may have been concealed/disguised (see figure 5.4). Crucial for product problems is therefore the targeted use of information from the entire product lifecycle: \"What do we know about the design, manufacture and application, including the respective boundary conditions?\" (figure 5.6). ",
+        "page_idx": 24
+    },
+    {
+        "type": "image",
+        "img_path": "images/317ac29902cc95dc892f556a5ec8ef675a282e59aa45f545d0b8d6db77950d25.jpg",
+        "img_caption": [
+            "Figure 5.6: Events along the product creation phases – examples "
+        ],
+        "img_footnote": [],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "The complexity of the problem as a consequence of the number and interdependencies of causes becomes greater the more distant chronologically and geographically the causes are from the discovery of the problem (extreme case: field failure). As the complexity increases, the necessity for – but also the difficulty of – a clear problem description and structure increases. So it is all the more important to query the sequence of events along the product generation process in terms of facts, indices and possible causes (timeline, figure 5.6). ",
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The basic procedure for resolving product problems is represented in figure 5.7. In addition to the known steps D2 and D4, the issues in respect of the aforementioned product generation phases that occur during the entire procedure are listed. To start D4.1, the cause-effect analysis (D4) oriented to the object, in particular, is based on a very detailed facts analysis of the problem (D2). By doing so, possible causes are determined by “putting myself into the object” and using its function and effect. A delta examination for comparing target and actual situations leads directly to fact-based possible causes for the problem. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/0af46320e6cb0d9b86983b15c6bdc49078956aaa1769e41842f24f134e35b5a3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "During the delta examination the effects on the object are analyzed by searching towards the inside and outside direction (figure 5.8). Searching toward the outside direction investigates the interaction between the system (How/where is the object assembled? How should it operate?) and the environment (How are the environmental conditions? Consider how these conditions influence the object/system?). Searching toward the inside direction investigates the interaction between the configuration/design (Of what does the object consist? What does the function depend on?) and the product’s production (How was the object produced? How was the function realized?) By doing so, strength and stress are compared or functionality and its tolerance. ",
+        "page_idx": 25
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad654b865c62de3dc057c305def8beb6b07724dd3ec67222f6272b60d688f243.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [
+            "Figure 5.8: Directions of investigation for resolving product problems "
+        ],
+        "img_footnote": [],
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "Experience has shown that this type of cause analysis requires support by a coach or expert experienced in both product engineering and problem solving – but that even then it is far more targeted and effective. The transition from D2 to D4, above all, is one of the most difficult steps. This is linked to the question of whether the fundamental problem was identified with sufficient precision to facilitate the nomination of the object necessary for the cause analysis. ",
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "5.3.2 Guideline Product Problems ",
+        "text_level": 1,
+        "page_idx": 26
+    },
+    {
+        "type": "text",
+        "text": "The procedure for resolving product problems, which was augmented by the approaches of Product Engineering, is presented for steps D2 (problem description) and D4 (cause-effect analysis) in the form of a structured guideline (figures 5.9 to 5.11), and is described below in its individual steps. This guideline is intended, in particular, as an introduction to working on product problems in a team, e.g. in the form of a DIN-A0 printout and explanation by an experienced problem solving coach. ",
+        "page_idx": 26
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c36e5f362c59b5b336d6577c590f42e7dcad4c790ec7c235e04d05c1931937f.jpg",
+        "img_caption": [
+            "Figure 5.9: Guideline on the procedure for solving product problems (D2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 27
+    },
+    {
+        "type": "image",
+        "img_path": "images/a9c2480df00f522fb17e4bd2037a8f4f782c5916c57a574eb0332244158a1e83.jpg",
+        "img_caption": [
+            "Figure 5.10:  Guideline on the procedure for solving product problems (D4.1) "
+        ],
+        "img_footnote": [],
+        "page_idx": 28
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a33e55ef3cc63c9f0ab03dd65816449f2c14b608caa2c473bd2955028b20970.jpg",
+        "img_caption": [
+            "Figure 5.11:  Guideline on the procedure for solving product problems (D4.2) "
+        ],
+        "img_footnote": [],
+        "page_idx": 29
+    },
+    {
+        "type": "text",
+        "text": "As part of the problem description (D2), a comprehensive description of the situation and an extended collection of facts must be drawn up, taking into consideration the existing and/or expected product and process information. The aim is to localize the fundamental problem being processed by a clear description which structures the symptoms (chronologically, regionally, quantitatively, etc.) and by clear demarcation of the areas not affected by the problem (figure 5.9). The sub-steps 1 to 5 explain the problem description and its methodical aids: visualizations, analysis of the object, structure and/or system structure, process description and collection of facts. The sequence within the sub-steps of D2 can vary. Methods beyond this which can be applied according to the facts situation are mentioned in each case in the \"Further methods\" column. ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "The possible causes in relation to the fundamental problem are to be derived during the causeeffect analysis (D4). The special feature of the procedure for product problems are the componentand/or function-oriented questions – the so-called fundamental considerations – for deriving possible causes (D4.1). This way of looking at the situation is based on the approach of Bosch Product Engineering. A product-oriented approach is thus upstream of the conventional, hypothesisoriented procedure so that on the one hand an understanding of the product is called for and promoted, and on the other the number of required hypotheses is kept to a minimum and/or their quality improved. The sub-steps 6 and 7 describe the fundamental considerations and their methodical aids: delta examination, question model, Ishikawa diagrams (figure 5.10). ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Within the scope of determining the cause-effect relationship (D4.2), the plausibility of the possible causes and/or their exclusion must first be verified. In accordance with the function-oriented procedure and the claim \"I want to understand the problem and its causes fundamentally\" (figure 2.1) it is important to first determine and evaluate the relevant parameters (prioritize). By using the 5xwhy questioning technique (5xwhy & how) for a deeply cause analysis, the technical root cause (TRC) and the managerial root cause (MRC) are to be determined and verified in reverse. The sub-steps 8 and  9 describe the analysis of the cause-effect relationship, consisting of the selection of probable causes, determination of the root cause, and the subsequent documentary evidence (see Figure 5.11). ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "In addition to the basic procedure (section 3) and/or the specifications for the indirect area (section 5.1) and process problems (section 5.2), the following aspects are characteristic of the solution of product problems: ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "D2 ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Accompanying analysis of the object (by experts)   \nStructure and/or system structure as an aid for the \"entry point\" for the cause analysis   \nExtended facts collection based on Kepner-Tregoe ",
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "D4 ",
+        "text_level": 1,
+        "page_idx": 30
+    },
+    {
+        "type": "text",
+        "text": "Determining possible causes based on fundamental considerations   \n- entry point with delta examination   \n- search directions similar to an understanding of content/function   \nEvaluating possible causes with evidence of target / actual / deviations   \nUse/determination of functional relationships (cause-effect relationship)   \nby \"5xwhy and how\" ",
+        "page_idx": 30
+    },
+    {
+        "type": "image",
+        "img_path": "images/2847ee2be7223f5475850ca64747d95a08d09a6857f6a355d2ecbb8aa5707ea8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "page_idx": 31
+    },
+    {
+        "type": "table",
+        "img_path": "images/d305cd820bb9d371855ba872cbbf91f1659a6ac75e3f1918cc2af5efdee9da9d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Objective</td><td></td></tr><tr><td></td><td>Clear, easily understandable (if possible self-explanatory) description of the circumstances</td></tr><tr><td></td><td>·Rapid exchange of information between all those affected and those involved</td></tr><tr><td></td><td>Concise representation of symptoms, including data analyses</td></tr><tr><td>Tasks</td><td>·Limited room for interpretation by avoiding textual descriptions</td></tr><tr><td></td><td></td></tr><tr><td></td><td>Drawing up pictures (documentation of facts)</td></tr><tr><td></td><td>·Transfer of existing information to graphical representations</td></tr><tr><td>Methods</td><td>· Creation of new information by a graphical analysis of existing data</td></tr><tr><td>·Photographing, sketching, drawing</td><td></td></tr><tr><td>Representation ofstatistical analyses</td><td></td></tr><tr><td></td><td>(e.g. original value sequence, histogram, Pareto analysis, correlation diagram, etc. [EWQ-05])</td></tr><tr><td></td><td>· Representation of events and/or changes along a timeline (history chart)</td></tr><tr><td>Result</td><td></td></tr><tr><td>· Consolidated, visualized basis in fact</td><td></td></tr><tr><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 31
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 32
+    },
+    {
+        "type": "table",
+        "img_path": "images/184f6141c42289b5b52d8b52ed8908560ef251d52387c87ae4b908f734621dcf.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">D2 (problem description) - analysis of the object</td><td>Product problem - sub-step 2</td></tr><tr><td></td><td>untight tight</td><td></td></tr><tr><td colspan=\"3\">Example: sealing surfaces Objective ·Clearly identified picture of damage with the extent of damage (e.g. overload fracture) [Roos08]</td></tr><tr><td colspan=\"3\">Tasks Planning the analysis (sequence and priorities), e.g. in order not to destroy information Analysis of the objects (e.g. faulty products) and their picture of damage by experts </td></tr><tr><td colspan=\"3\">·Comparison of stress (operating conditions, operation, ambient conditions,life cycle of damaged part) and strength (material, manufacture) [Roos08] </td></tr><tr><td colspan=\"3\">Methods [Schm05, Roos08] ·Macroscopic analysis: e.g. run-up colors, corrosion effect, picture of damage (breakage areas and </td></tr><tr><td colspan=\"3\">morphology), destruction-free test procedures (e.g. X-ray or ultrasound)</td></tr><tr><td colspan=\"3\">Where applicable, microscopic analysis (e.g. micrographs, scanning electron microscope, computer tomography)</td></tr><tr><td colspan=\"3\">Result</td></tr><tr><td colspan=\"3\">Statements on the picture of damage (breakage morphology) and, where applicable, strength (e.g. micrograph)</td></tr></table></body></html>\n\n",
+        "page_idx": 32
+    },
+    {
+        "type": "image",
+        "img_path": "images/b7995b7550b2748129382d594bffa82ae787c71e6a6f904c5dd04fdbb0b62d75.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Mutual illustration of components and functions ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Result ",
+        "text_level": 1,
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Entry point within the product (\"object\") for D4.1 (object behavior, delta examination, cause-effect relationships) ",
+        "page_idx": 33
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/d40513bb7cd251e555742bb5fc862d53c92fbcbe93c897f23c25e8856474286d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"6\">D2 (problem description) - process description Product problem - sub-step 4</td></tr><tr><td colspan=\"6\">Example Stress</td></tr><tr><td colspan=\"6\">Strength</td></tr><tr><td colspan=\"6\">Supplier D Supplier C PA 6.6 Drying Injection Drying Assembly Ultrasonic</td></tr><tr><td colspan=\"2\">molding Transport Storage</td><td>Transport Storage</td><td colspan=\"2\"></td><td> welding</td></tr><tr><td colspan=\"6\">Plant Customer Assembly Assembly in Unpacking</td></tr><tr><td colspan=\"6\">Assembly in Booster vehicle hose Transport Storage Transport Storage Transport Storage</td></tr><tr><td colspan=\"6\">Stress</td></tr><tr><td colspan=\"6\">Strength.</td></tr><tr><td colspan=\"6\">Objective Clear representation of logical and/or chronological sequences (e.g. processes), events in relation to the condition and/or use of the product</td></tr><tr><td colspan=\"6\">Tasks Describing the manufacturing processes and the application - also, where applicable, of the design process (consideration of the guiding quesions from figure 5.7) Consideration and representation of influencing factors and stresses or influences of the strength of the product</td></tr><tr><td colspan=\"6\">Method · Flow chart in accordance with section 4.2 - agreed with those affected and involved</td></tr><tr><td colspan=\"6\">Result Clear process chart in respect of the possible occurrence or detection of the problem as a basis for collecting facts and subsequent examinations</td></tr></table></body></html>\n\n",
+        "page_idx": 34
+    },
+    {
+        "type": "table",
+        "img_path": "images/790d26ed1e1d0b45e55ff7df5897e58ac54ed5665a465411a182ce94b6d474aa.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"7\">D2 (Problem description) -facts collection</td><td colspan=\"5\">Product problem - sub-step 5</td></tr><tr><td colspan=\"7\"></td><td colspan=\"7\"></td></tr><tr><td>？</td><td></td><td>is</td><td>is not</td><td>D&C</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>what</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\">where</td><td rowspan=\"3\"></td><td rowspan=\"3\"></td><td rowspan=\"7\"></td><td rowspan=\"7\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">when</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">who how many</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"5\">Fundamental Problem:</td><td colspan=\"5\"></td><td></td><td></td></tr><tr><td colspan=\"5\">D & C ... Differences and Changes</td><td colspan=\"5\">Template for product problems (Appendix 2, A2)</td><td></td><td></td></tr><tr><td colspan=\"9\">Objective</td></tr><tr><td colspan=\"9\">Delimited, localized and consolidated facts Tasks · Document facts in structured format (areas affected and those not affected) Analyzing and documenting the differences, special features and chronological changes between the areas affected and those not affected</td></tr></table></body></html>\n\n",
+        "page_idx": 35
+    },
+    {
+        "type": "table",
+        "img_path": "images/318e11e5a6df537a18020a1f8e13e345db0968a3ee6aaa01a5a2e18ea46fd4a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">Problem Solving</td><td></td></tr><tr><td>D4.1 (cause analysis) - fundamental considerations</td><td></td><td>Product problem - sub-step 6</td></tr><tr><td>Target: How must the object function correctly? What is expected from the object? What is the capability of the object? → Cause and effect relationship Imagine What is now different? → Where are deviations from the specification?</td><td>Environment the system? Production</td><td>How is the object mounted? What should it perform? Configuration Object</td></tr><tr><td>Stress Strenght</td><td>+</td><td>Fundamental considerations LSL USL Tolerance range </td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Failures</td></tr><tr><td></td><td></td><td>probable</td></tr><tr><td>Failures probable</td><td>Loading </td><td></td></tr><tr><td>Stress and strength</td><td></td><td>Characteristic</td></tr><tr><td>(overlap area in diagrammatic form)</td><td></td><td>Function behavior and function limits</td></tr><tr><td>Objective</td><td></td><td>(overlap areas in diagrammatic form)</td></tr><tr><td></td><td>· Possible causes derived on the basis of an understanding of the content/function </td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Tasks</td><td> Delta examination (target-actual comparison) with querying of the cause-effect relationships</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>based on questions regarding the effects - external and internal </td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Methods</td><td></td><td></td></tr><tr><td></td><td>Fundamental considerations: Question model with two integrated search directions (inside and</td><td></td></tr><tr><td></td><td>outside) and with object- or function-oriented guiding questions. In this respect, both the inner</td><td></td></tr><tr><td></td><td>object status (structure and manufacture) and the outer conditions (system structure and </td><td></td></tr><tr><td></td><td>ambient conditions) are taken into account. The further search directions into the inner and/or</td><td></td></tr><tr><td></td><td>outer object are derived according to the facts situation - for each analysis step (i.e. at each level</td><td></td></tr><tr><td></td><td> of the system structure) it is important to decide again where the search is heading.</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td> Delta examination: Examination of the respective object target situation (cause-effect </td><td></td></tr><tr><td></td><td>relationships which describe the correct functionality of the object), the actual status and the</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td> specific description of the deviations </td><td></td><td></td></tr><tr><td></td><td>Derivation of possible causes by an analysis of the facts from D2 in combination with the results</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>of the fundamental considerations and associated delta examination</td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td>Result</td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td>Possible causes with regard to the changed stress and/or strength or effect on the function</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 36
+    },
+    {
+        "type": "table",
+        "img_path": "images/8401fd9147b8dea03ea6e9e6d0e0651d1eb42bedd6ff00a5eef29c37e36358cd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\"> Problem Solving</td></tr><tr><td>D4.1 (Cause analysis) Documentation of possible causes / Completeness check</td><td>Product problem - sub-step 7</td></tr><tr><td>Men Machine Material Which pas sibleroot causesre ing thefundamental</td><td>relative Frequency Stress</td></tr><tr><td>Method nvironme Ishikawa diagrams regarding stress and strength Men Machine Material</td><td>Failures probable Strenght</td></tr><tr><td>Method Environment Objective</td><td>Loading </td></tr><tr><td colspan=\"2\"> Structured documentation and determination of further possible causes</td></tr><tr><td colspan=\"2\">Tasks</td></tr><tr><td colspan=\"2\">· Documenting possible causes </td></tr><tr><td colspan=\"2\"> Completeness check by determining further possible causes by querying the fundamental</td></tr><tr><td colspan=\"2\">problem with 5M (creativity) Indicating dependencies and interdependencies between the possible causes </td></tr><tr><td colspan=\"2\">Where applicable, subdividing into several documentations in accordance with the search directions (fundamental considerations) and/or in accordance with the sequence or process</td></tr><tr><td colspan=\"2\">description (see D2). Subdivision into several diagrams (e.g. separated into strength and stress) facilitates, where applicable, separate processing in teams with differing compositions </td></tr><tr><td colspan=\"2\">(e.g. strength with the focus on production, stress with the focus on application/operation) and the decision regarding the integration of experts for checking and completing the possible causes.</td></tr><tr><td colspan=\"2\"> Taking into consideration influences that affect the stress and strength</td></tr><tr><td colspan=\"2\">Methods ● Ishikawa diagram(s) (where applicable several, e.g. with regard to stress and strength)</td></tr><tr><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">·Where applicable, effect diagram (Ishikawa diagram with representation of interactions)</td></tr><tr><td colspan=\"2\">Result</td></tr><tr><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">· Possible causes documented in structured form and completed in Ishikawa diagram(s) </td></tr></table></body></html>\n\n",
+        "page_idx": 37
+    },
+    {
+        "type": "table",
+        "img_path": "images/b642e407153b2ed98ab12a5beaf24266dd802f5a4aecd9c9c96fe7e5bfd10dd9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"5\">D4.2 (Cause-effect relationship) Product problem - sub-step 8 Selection of probable causes</td></tr><tr><td>Berch dfrection (stress Probable auses</td><td>to fundamental problemn) Detailed delta Target sta Actual staf</td><td>Deviatio</td><td>avider</td><td rowspan=\"9\">Force [N] Melting Melting Hold</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td>Template \"Detailed delta examination\"</td><td></td></tr><tr><td colspan=\"6\">regarding probable causes (Appendix A3)</td></tr><tr><td colspan=\"6\">Function behavior - example Objective</td></tr><tr><td colspan=\"6\">· Possible causes prioritized and plausibility checked Tasks</td></tr><tr><td colspan=\"6\">·Substantiated, comprehensible selection of probable causes Methods</td></tr><tr><td colspan=\"6\">Evaluating and plausibility checking (questioning technique) and identifying the possible causes (Ishikawa diagram): which causes are possible? (yellow)</td></tr><tr><td colspan=\"6\">which causes are excluded by evidence? (green)</td></tr><tr><td colspan=\"6\">which causes are plausible and probable (red)? Documented, fact-based evidence for exclusion.</td></tr><tr><td colspan=\"6\"></td></tr><tr><td colspan=\"6\">Detailed delta examination of the probable causes (target, actual, deviation, evidence) as a basis</td></tr><tr><td colspan=\"6\">for subsequent determination of the root cause:</td></tr><tr><td colspan=\"6\"> 1. Query target and substantiate where applicable</td></tr><tr><td colspan=\"6\">2. Document deviation (observe measuring system) 3. Objective evidence by existing data or by determining (targeted test, DoE)</td></tr><tr><td colspan=\"6\">4. Document further steps</td></tr><tr><td colspan=\"6\"></td></tr><tr><td colspan=\"6\">Prioritizing possible causes using the findings obtained D2 and D4.1</td></tr><tr><td colspan=\"6\">Results</td></tr><tr><td colspan=\"6\">·Probable causes</td></tr></table></body></html>\n\n",
+        "page_idx": 38
+    },
+    {
+        "type": "text",
+        "text": "Decisions regarding further investigations (e.g. substantiated tests) ",
+        "page_idx": 38
+    },
+    {
+        "type": "table",
+        "img_path": "images/19f4501d74479428a2527c15f22ab342085f518ce62ee6aaf41fd2e1ccd477a6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"8\">D4.2 (Cause-effect relationship) Determining the root cause</td><td colspan=\"4\">Product problem - sub-step 9</td></tr><tr><td rowspan=\"5\"></td><td colspan=\"2\">why?</td><td rowspan=\"2\">[</td><td rowspan=\"2\">why?</td><td rowspan=\"2\"></td><td rowspan=\"2\">why?</td><td rowspan=\"2\"></td><td colspan=\"2\"></td><td rowspan=\"2\">why?</td><td colspan=\"2\">Huidity a torae</td></tr><tr><td></td><td>how</td><td>Why?</td><td>Arsirpto ot umit atetimete</td><td colspan=\"2\">is grater hinre </td></tr><tr><td colspan=\"5\">why? how?</td><td>why? jhow?</td><td colspan=\"2\">5 x \"whys & hows\" - example</td><td></td><td>Storage time Is greater tstorage,target =>rF > rFtarget</td><td>how?</td></tr><tr><td colspan=\"18\">5 x\"whys & hows\" Objective Root cause determined by verifiable - described logically and functionally - relationships (\"cause-</td></tr><tr><td colspan=\"18\">effect relationship \") Tasks Determining logic and associated functions, starting from the probable cause Methods</td></tr><tr><td colspan=\"18\">Description of the logical sequence of the probable cause as far as the root cause using \"5xwhy?\" (section 4.4): Why has the probable cause occurred, and is therefore the actual cause? Prove functional relationships within the logic chain: \"How do the (process) parameters interact?\" Evidence based on the available facts (e.g. from development) or</td></tr><tr><td colspan=\"18\">through targeted tests (e.g. DoE, Shainin?, etc.) Confirmation of the root cause by conclusive \"reverse evidence\"</td></tr><tr><td colspan=\"18\">Result</td></tr><tr><td colspan=\"18\"> Technical root cause (TRC) and managerial root cause (MRC)</td></tr></table></body></html>\n\n",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "The root cause as the result of the cause-effect analysis (D4) is the basis for the following steps for determining and introducing corrective actions (D5, D6) and a prerequisite for the introduction of preventive actions (D7) within the meaning of the Lessons Learned and/or standardization (see Appendix 1). ",
+        "page_idx": 39
+    },
+    {
+        "type": "text",
+        "text": "6 Lessons Learned ",
+        "text_level": 1,
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "The purpose of \"Lessons Learned\" is to avoid duplicating work and ensure failures are not repeated, thereby increasing efficiency. This means that any knowledge acquired in the organization must be used extensively. This knowledge should be prepared and communicated accordingly. This rule applies to both knowledge of product or process development and to knowledge that arises from solving problems. That is why problem solving is specifically interlinked with the knowledge management approaches in the Bosch Product Engineering System (BES-KM) [BES-12]. ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "After solving a product/process problem, the knowledge is available in the form of descriptions of Technical Root Causes (TRC), Managerial Root Causes (MRC), cause-effect relationships and measures. In order for the knowledge to be used across the organization, the lessons learned from an individual application (single case) must be transferred to general applications (broad base). For doing so, there are five elements necessary (figure 6.1): ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "Description   \nDistribution (\"push\")   \nStandards   \nAccess (\"pull\")   \nNetworks ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "…to a broad base ",
+        "page_idx": 40
+    },
+    {
+        "type": "image",
+        "img_path": "images/c677426f0901cd590c922309c8f1c990cefb5ffd5dfcd8c9b859503e447e0ed6.jpg",
+        "img_caption": [
+            "Figure 6.1: Elements of Lessons Learned "
+        ],
+        "img_footnote": [],
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "The requirement when preparing Lessons Learned is an understandable description (product-neutral and technical terminology) of cause-effect relationships and the formulation of instructions. The root causes must be abstracted from the individual problem case, with the recipient orientation the main concern. Instructions must be based on the questions ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "\"What should we do in future?\" and \"What should we not do in future?\" ",
+        "page_idx": 40
+    },
+    {
+        "type": "text",
+        "text": "In order to ensure that Lessons Learned are communicated in a targeted manner (distribution) recipients must be identified who are likely to encounter a similar root cause. The following key questions may be helpful: \"What else can the problem affect?\", \"Where else can the problem occur?\", \"When could the problem occur again?\", \"Who else can cause the problem?\", \"How much more damage can the problem cause?\" (figure 6.2). ",
+        "page_idx": 41
+    },
+    {
+        "type": "table",
+        "img_path": "images/0e12b782af1461f8743069ac7012e2a6cb651132b16ffb8ea482b433155dfab3.jpg",
+        "table_caption": [
+            "Figure 6.2: Questions to identify recipients "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>？</td><td>the crobem additionally</td><td>hints / explanations (consider logic \"can not\")</td></tr><tr><td>what</td><td>affect?</td><td>Similar applicationsregarding system/product / design elements/technology/production/assembly/ process / method / business process ..</td></tr><tr><td>where</td><td>occur?</td><td>Other production lines, plants, development locations, regions,climate,products,platforms,customer applications, usage ...</td></tr><tr><td>when</td><td>occur?</td><td>New production lines, plants, development locations, regions,climate,products,platforms,customer applications, usage ...</td></tr><tr><td>who</td><td>cause? (alhe else can be problem?)</td><td>Other / new: supplier, associate / manager/ process ow ner / user, trainer,...</td></tr><tr><td>how many</td><td>damage?</td><td>Risk assessment, priorities</td></tr><tr><td colspan=\"3\">Distribute to:</td></tr></table></body></html>\n\n",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Once they have been prepared, Lessons Learned must be actively distributed (\"Push\"). The best way of sharing Lessons Learned is personal communication, e.g. regular meetings. Feedback on the applicability and, if relevant, implementation of Lessons Learned in the operating unit or in the recipient's working environment is useful. For important cases, tracking of distributed cases has been proven to work in practice. To ensure further distribution Lessons Learned cases are typically provided in the form of a database. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Standards that result from implementation provide a basis for avoiding errors across the organization (e.g. design of standards, design guidelines, layout guidelines, process and production standards, standard training). Improving an existing standard is just as likely to achieve the goal as creating a new one. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Finally, the cause-effect relationships that have been learned and the organizational standards that have been developed are made available on a permanent basis. In the same way that knowledge is sent, databases are used to enable organizational access to the knowledge (\"Pull\"). ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Provision of (knowledge) networks is essential to exchanging, completing and implementing Lessons Learned. These networks include manufacturing networks, working groups (BEO-AK), Centers of Competence (CoC), Lessons Learned networks and PS networks. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "As already mentioned in the principles (chapter 2), executives and managers are required to take an active role. Regarding Lessons Learned this includes leading associates through Lessons Learned, contributing their own personal expertise and making decisions about how to implement standards. Managerial participation is fundamental to the success of Lessons Learned. ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "For practical implementation purposes, the procedure is summarized in a guideline for step D7 of Lessons Learned and is divided into four tasks/sub-steps (see figure 6.3). ",
+        "page_idx": 41
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "text_level": 1,
+        "page_idx": 42
+    },
+    {
+        "type": "image",
+        "img_path": "images/ae42577ebf8c6c6bfeba9edf7153d1bf0976c7cc1bf10545565bad9a9197ad0a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 42
+    },
+    {
+        "type": "text",
+        "text": "7 Further Problem Solving Methodologies ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "7.1 Problem Solving and Decision Making in Accordance with Kepner-Tregoe (KT) ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Problem solving and decision making in accordance with KT are based on the systematic determination and description of causal relationships. The method is based on four \"thinking patterns\" (assessing and clarifying, relating cause and effect, making choices, anticipating the future) or the \"four basic rational analysis processes\" derived from them: situation appraisal, problem analysis, decision analysis, potential problem analysis [Kepn98]. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "The approach is characterized by structured questions, in particular the so-called W-questions (who, what, where, when, how much, how / in what way, why) and the exclusion of possible causes (is/is not) and by evaluations weighted subjectively. Also decisive in terms of a successful application of the method is its implementation and/or the responses to the aforementioned issues in the team. KT offers the opportunity to localize unclear, variously influenced problems systematically and evaluate them qualitatively. ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Requirements ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Regardless of specific circumstances, applicable to any problems Solutions to problems based on a description of a situation using structured W-questions, as well as checklists and tables ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Principle ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Application of four basic analysis processes (based on four \"thought patterns\") in teamwork ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Course of action ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "1. Situation appraisal ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "3. Decision Analysis ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Identify situation   \nBreak situation down   \nDefine priorities   \nSelect an analysis/solution process   \nDefinition of decision   \nTargets   \nGrouping targets (mandatory/optional)   \nWeighting optional targets   \nDevelop alternatives   \nCompare alternatives   \nProvisional choice   \nRisk assessment   \nMake a decision ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "2. Problem analysis ",
+        "text_level": 1,
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Definition of deviation   \nDescription of the deviation using   \nW-questions: what, where, when, how much   \nSpecial features/differences (is/is not)   \nChanges (e.g. chronological)   \nFormation of hypotheses (possible causes)   \nHypothesis test   \nDocumentary evidence (review) ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "4. Potential problem analysis ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "Action plan Identify potential problems Causes – Measures – Information ",
+        "page_idx": 43
+    },
+    {
+        "type": "text",
+        "text": "7.2 Shainin® ",
+        "text_level": 1,
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "The Shainin® method is used to improve product performance, product reliability, and process performance. The corresponding investigative strategies utilize observed extreme good/bad differences (contrasts between best of best BOB and worst of worst WOW) to identify the major source(s) (Red $\\bigstar^{\\circledcirc}$ ) of these contrasts [Shai07]. ",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "The underlying model describes the variation $(\\Delta y)$ of the target value $(y)$ as a function of the variation $(\\Delta x_{i})$ of input variables $(x_{i})$ , ",
+        "page_idx": 44
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\Delta y=f(\\Delta x_{i})\n$$",
+        "text_format": "latex",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "and assumes that the observed extreme good/bad difference in ∆y are caused by only one or a few most influential input variable(s) and its/their variation (Pareto principle). In mathematical terms, the total variation (variance $\\left(\\Delta y\\right)^{2})$ depends on the “strength” of this influence (given by the functional relationship between target value and input variables, expressed by $c_{i}$ ) and the variation of the input variables (expressed by the variances $\\left(\\Delta x_{i}\\right)^{2})$ : ",
+        "page_idx": 44
+    },
+    {
+        "type": "equation",
+        "text": "$$\n\\left(\\Delta y\\right)^{2}=c_{1}^{2}\\cdot\\left(\\Delta x_{1}\\right)^{2}+c_{2}^{2}\\cdot\\left(\\Delta x_{2}\\right)^{2}+....+c_{n}^{2}\\cdot\\left(\\Delta x_{n}\\right)^{2}+\\varepsilon^{2}\n$$",
+        "text_format": "latex",
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "As a consequence, the search for the culprit(s) concentrates on one or only a few critical influences that have the highest impact (figure 7.1). Further information of the statistical background, limitations and statistical tools of Shainin® is provided in booklet 11 (Design of Experiments) of the Bosch booklet series “Quality Management in the Bosch Group” [DoE-10]. ",
+        "page_idx": 44
+    },
+    {
+        "type": "image",
+        "img_path": "images/ec79b80bcf81433b220e9ee29e0c76993bc8219190fc3202d7a387c7d0915091.jpg",
+        "img_caption": [
+            "Figure 7.1: Example of converging diagnostic journey "
+        ],
+        "img_footnote": [],
+        "page_idx": 44
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Shainin® distinguishes between 5 different strategies depending on the type of failure (Malfunction Event, Destructive Event, Defect, Feature, and Property). They focus on the diagnostic process. A Shainin project is structured in seven project phases with the acronym FACTUAL™: ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Focus – Leadership converts business problems into technical projects, assigns team resources, and establishes sponsorship. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Approach – The team collects facts, identifies y and dy/dx measurement systems, and selects the best strategy for the observed variation. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Converge – The team conducts a binomial type, converging investigation, which ends in the identifications of a suspect root cause(s) (Red $\\mathsf{X}^{\\circledast}$ candidate). ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Test – With proof tests the team statistically confirms the Red $\\mathsf{X}^{\\circledast}$ candidate. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Understand – The team and product/process experts establish a detailed technical root cause with cause-effect relationship and underlying causes (“mother of the Red $\\bigstar^{\\circledcirc\\prime\\prime}$ ). ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Apply – Leadership, team, and experts select, validate, and implement corrective actions. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Leverage – Leadership drives lessons learned across the organization. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Shainin® certified leaders are known as Rolling Top $5\\textcircled{\\circ}$ Executive or Rolling Top $5^{\\textregistered}$ Manager and are responsible for converting business problems into technical projects, team resource allocation, barrier removal and leveraging lessons learned. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Shainin® certified Red $\\bigstar^{\\circledcirc}$ Masters are responsible for project coaching, and ongoing development of skilled problem solvers. ",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "Shainin® certified problem solvers are known as Journeyman, or Apprentice, and are responsible for individual projects. A Journeyman is a proven problem solver and an Apprentice is a problem solver in training. ",
+        "page_idx": 45
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d393ba864f5250e0672749b6581d9164faabfc47efa14b340909deb0cd29836.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Requirements</td><td>· Carrying out tests</td><td>Available products and/or components</td></tr><tr><td rowspan=\"3\">Principles</td><td></td><td>Pareto principle</td></tr><tr><td></td><td>Application of analysis methods</td></tr><tr><td></td><td>The most important influencing factors, or combinations thereof, are</td></tr><tr><td rowspan=\"3\">Course of action</td><td></td><td>determined from a large number of potential influencing factors with as few tests as possible</td></tr><tr><td></td><td>Definition of a measurable feature</td></tr><tr><td></td><td>Exclusion of possible causes (analysis of spot checks)</td></tr><tr><td rowspan=\"3\"></td><td></td><td>Targeted localization of the cause(s) by experimental investigations</td></tr><tr><td></td><td>Procedural model: FACTUALTM (Focus, Approach, Convergence, Test, Understand, Apply, Leverage)</td></tr><tr><td></td><td>Multivari chart</td></tr><tr><td rowspan=\"7\">Methods</td><td></td><td></td></tr><tr><td></td><td> Paired comparisonsTm</td></tr><tr><td></td><td>Component searchTm</td></tr><tr><td></td><td>Concentration chart</td></tr><tr><td></td><td>Product/process search</td></tr><tr><td>.</td><td>Variable searchTM</td></tr><tr><td></td><td>Statistical test planning (test applying all factors)</td></tr></table></body></html>\n\n",
+        "page_idx": 45
+    },
+    {
+        "type": "text",
+        "text": "7.3 Six Sigma ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Six Sigma is used for the measurable improvement of processes and products based on data and facts [Harr97]. The term Six Sigma is used in many different ways. Its importance ranges from 'guiding principle' through to 'continuous improvement program' and 'collection of methods'. Sigma (Greek letter σ) designates standard deviation. A normally distributed process with a spread of 6σ corresponds (taking into consideration a mean value displacement of 1.5σ) to a failure rate of 3.4 failure per 1 million possible failures $=3.4$ ppm (parts per million). Six Sigma could therefore also be characterized as a 'zero-defect program'. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Six Sigma is aimed not only at technical processes: it can also be used in business processes, e.g. in indirect areas. At the heart of the observations is measurable process performance and its improvement: e.g. lead time, costs, quality or yield. Six Sigma employs well known statistical methods and quality and project management. Crucial to the success of Six Sigma is the targeted integration of methods, support through training and introductory programs and their consistent, project-oriented application. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "The focus is on the procedure - oriented to five project phases - for improving existing processes with the acronym DMAIC: Define, Measure, Analyze, Improve and Control. This approach is comparable to known models for continuous improvement (e.g. PDCA) or procedures for problem solving (see Figure 3.1) ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Define ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Determining or defining the (customer) requirements and formulating the project goals. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Measure ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Measuring and evaluating the performance of processes involved. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Analyze ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Analyzing the processes for causes of failures. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Improve ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Improving the processes by remedying or mastering the causes of failures. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Control ",
+        "text_level": 1,
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Checking and regulating to keep the process at a new, improved level. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "An adapted procedure - Design for Six Sigma (DFSS) - is available for newly developed processes o products. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "With Six Sigma, a number of possible methods based on one another are allocated to the project phases: e.g. affinity diagram, failure mode and effect analysis (FMEA), frequency diagram, hypothesis test, correlation diagram, creativity techniques, Pareto diagram, process yield, process flow chart, machine and process capability test, quality characteristic tree, control chart, regression analysis, cause-effect diagram, variance analysis, statistical test planning (design of experiment), progression chart. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Simple aids such as process representations help to create transparency regarding sequences and influencing factors. Systematically applied measuring and analysis tools provide information on the effects of control and disruptive factors on the process result (figure 6.1). ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "In addition to the project procedure described by the project phases and the methods, Six Sigma also describes the boundary conditions for the project organization, and thus specifies the structures required for project management. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "Trained Six Sigma project managers known as black belts are responsible for the projects. They are supported by trained project associates and/or sub-project managers (green belts) and other project associates (yellow belts). The projects are commissioned, promoted and monitored by project sponsors. Black belts are method specialists. They undergo four weeks of intensive training in the aforementioned methods and principles. Green belts are generally process and/or product specialists who are familiar with the most important methods after one to two weeks training. ",
+        "page_idx": 46
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 47
+    },
+    {
+        "type": "image",
+        "img_path": "images/6bdd4e1d5255b761b650375726bf2ce62318713ffaea81f4d3200a5fe9a62090.jpg",
+        "img_caption": [
+            "Figure 7.3: Six Sigma process model "
+        ],
+        "img_footnote": [],
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "By way of summary, Six Sigma can be characterized as follows: ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "Applicable to all process types   \nFocusing on customer requirements and business results   \nUse of tried and tested methods for statistics and causal logic   \nAcquisition of information through a statistical analysis of available data   \nMeasurable improvements based on figures, data and facts   \nStructured, project-oriented procedure   \nConsistent project management and controlling ",
+        "page_idx": 47
+    },
+    {
+        "type": "text",
+        "text": "8 Bibliography ",
+        "text_level": 1,
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "[BPS-06] N.N.: Point CIP Problem Solving Guidelines. Leonberg: Robert Bosch GmbH, 2006.   \n[BES-12] Mittwollen, N.: Bosch Product Engineering System – Module Description Knowledge Management. Stuttgart: Robert Bosch GmbH, 2012.   \n[Bren07] Brendt, B.; Bingel, C.; Bittner, B.: Tools im Problemlösungsprozess. Bonn: managerSeminare, 2007.   \n[DIN-05] DIN EN ISO 9000: Quality management systems – Fundamentals and vocabulary. Berlin: Beuth, 2005.   \n[DIN-10] DIN EN 31010: Risk management – Risk assessment techniques. Berlin: Beuth, 2010.   \n[DoE-10] N.N.: Quality Management in the Bosch Group, Booklet 11 – Design of Experiment (DoE). Stuttgart: Robert Bosch GmbH, 2010.   \n[Dude01] N.N.: Duden – Rechtschreibung. Mannheim: Dudenverlag, 2001.   \n[EWQ-05] N.N.: Elementary Quality Assurance Tools. Stuttgart: Robert Bosch GmbH, 1997.   \n[FMEA06] DIN EN 60812: Analysis techniques for system reliability – Procedure for failure mode and effects analysis (FMEA). Berlin: Beuth, 2006.   \n[Funk06] Funke, J.: Denken und Problemlösen. Göttingen: Hogrefe, 2006.   \n[Harr97] Harry, M. J.: The Vision of Six Sigma – Tools and Methods for Breakthrough. Phoenix AZ: Tri Star Publishing, 1997.   \n[Ishi90] Ishikawa, K.: Guide to Quality Control. Tokyo: Asian Productivity Organization, 1990.   \n[ISO-09] ISO 31000: Risk management — Principles and guidelines. Genf: ISO, 2009.   \n[Kais10] Kaiser, L.: Hints Regarding ‘Problem Solving Sheet for Indirect Areas’ (PSS) – Version 2.7. Stuttgart: Robert Bosch GmbH, 2010.   \n[Kepn98] Kepner, C. H.; Tregoe, B. B.: The Rational Manager. Princeton NJ: Kepner-Tregoe, 1998.   \n[Lind08] Lindemann, U; Ponn, J.·: Konzeptentwicklung und Gestaltung technischer Produkte. Berlin: Springer, 2008.   \n[Pahl07] Pahl, G.; Beitz, W.; Feldhusen, J.; Grote, K.-H.: Konstruktionslehre. Berlin: Springer, 2007.   \n[PEHB10] Moser, W.: Bosch Product Engineering System – Product Engineering Handbook. Stuttgart: Robert Bosch GmbH, 2010.   \n[Roos08] Roos, E.; Maile, K.: „Kriterien zur Schadensbewertung“ in Werkstoffkunde für Ingenieure – Grundlagen, Anwendung, Prüfung. Berlin: Springer, 2008.   \n[Schm05] Schmitt-Thomas, K. G.: Integrierte Schadenanalyse. Berlin: Springer, 2005.   \n[Shai07] N.N.: Shainin® Strategies – Pocket Guide. Unterschleißheim: Shainin, 2007.   \n[TOPS92] N.N.: Team Oriented Problem Solving – TOPS(8D). Essex: Ford Motor Company Ltd., 1992.   \n[Toyo06] N.N.: Toyota Business Practices – Toyota Problem Solving (Basic). Toyota Institute, 2006.   \n[Toyo08] Liker, J.K.: Der Toyota Way. München: FinanzBuch Verlag, 2008.   \n[Zoll01] Zollondz, H.-D.: Lexikon Qualitätsmanagement. München: Oldenbourg, 2001. ",
+        "page_idx": 48
+    },
+    {
+        "type": "text",
+        "text": "9 Glossary ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "For further terms see also the section \"Definition of terms\" in Appendix 1 (8D method) ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Active parameter [Wirkparameter] [PEHB10] Physical parameter with causal effect on a target parameter. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Active principle [Wirkprinzip] [PEHB10] Basic physical or chemical law. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Cause effect relationship [Wirkzusammenhang] [PEHB10] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Quantitative dependence of a target parameter on an active parameter. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Chain of effects [Wirkkette] [PEHB10] Sequence of cause effect relationships. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Design element [Designelement] [PEHB10] The smallest component enclosed for fulfillment on one or more functions, consists of one or more parts. Examples: Valve seat, Coil-Spring, Printed Circuit Board (PCB), Bond. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Functional structure [Funktionsstruktur] [PEHB10] Hierarchical arrangement of the system in functions and sub-functions. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Indirect area [Indirekter Bereich] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Activities related to planning, control, monitoring or information processing in which only information is exchanged or processed, e.g. controlling, human resources, work planning, production control, logistics planning. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Load [Belastung] [PEHB10] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Sum of mechanically, chemically, thermally and electromagnetically induced loads applied externally on the product. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Process problem [Ablaufproblem] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Deviation (fault, defect, failure, error status) of a production or logistics process from a defined target situation with an unknown cause, regardless of the characteristics of the product to be produced or transported. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Product life cycle [Produktlebenszyklus] [PEHB10] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Period of time a product passes through from product idea development across operation in field including diagnosis and maintenance to disposal after reaching its end of life or its decommissioning, respectively. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Product problems [Produktproblem] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Conformity- or function-related deviations of a target in the form of an error (\"non-fulfillment of a requirement\" [DIN-05]), defect (\"non-fulfillment of a requirement related to an incident or specified use\" [DIN-05]), failure (non-fulfillment of a requested function) or error status (\"status of a unit in which it is unable to fulfill a requested function ...\" [FMEA06]). ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Strength [Beanspruchbarkeit] [PEHB10] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Maximum stress endurable by a design element for a specified amount of stress and for the damage/failure mechanism under consideration. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Stress [Beanspruchung] [PEHB10] ",
+        "text_level": 1,
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Local effects of the load within the design element with respect to the considered damage-/failure mechanism, e.g. mechanical stress, induced voltage, temperature distribution, mass transfer during chemical reaction. ",
+        "page_idx": 49
+    },
+    {
+        "type": "text",
+        "text": "Appendix 1 – 8D-Method ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "A1.1 Purpose.. . 50   \nA1.2 Terms and Definitions ... . 50   \nA1.3 8D-Method .. .... 52   \nA1.3.1 Description of the steps D1 to D8 ... .... 53   \nA1.3.1.1 D1: Establishing Problem Solving Team / Project..... .. 53   \nA1.3.1.2 D2: Problem Description .... .. 53   \nA1.3.1.3 D3: Containment Actions... .. 53   \nA1.3.1.4 D4: Cause and Effect Analysis.. . 54   \nA1.3.1.5 D5: Defining Corrective Actions and Proving Effectiveness ... .. 54   \nA1.3.1.6 D6: Implementing Corrective Actions and Tracking Effectiveness.. . 55   \nA1.3.1.7 D7: Establishing Preventive Actions .. . 55   \nA1.3.1.8 D8: Final Meeting ... . 55 ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "A1.1 Purpose ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "This chapter describes the procedure for problem solving according to the 8D method. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The purpose of the 8D method is eliminating problems (problem $\\mathbf{\\tau}=\\mathbf{\\tau}$ deviation from a defined targe state) and therefore preventing the recurrence by: ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Lasting and systematic processing of internal and external problems by locating and eliminating the technical root cause as well as the systemic root cause and the leadership root cause (managerial root cause).   \nTransfer the findings (lessons learned) to comparable business or production processes as well as products. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "The core content of the 8D method is the identification of the fundamental problem, identifying and understanding of the root causes as well as sustainably eliminating these root causes. A comprehensible explanation is necessary for all steps. ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "A1.2 Terms and Definitions ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Cause [Ursache] Circumstances / event which causes an effect ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Conformity [Konformität] fulfilment of a requirement [EN ISO 9000:2005] ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Containment action [Sofortmaßnahme] ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Temporary measures, which keep the problem away from the customer / protect the customer from further incorrect products ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Corrective action [Korrekturmaßnahme bzw. Abstellmaßnahme] action to eliminate the root cause of a detected nonconformity or other undesirable situation ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Defect [Mangel] ",
+        "text_level": 1,
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "non-fulfilment of a requirement related to an intended or specified use [EN ISO 9000:2005] ",
+        "page_idx": 50
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Direct Cause [unmittelbare Ursache] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "selected and obviously valued cause for the fundamental problem (incl. target, actual, deviation, evidence) by prioritizing the possible causes and checking their plausibility ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Failure [Ausfall] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Non-fulfilment of a demanded function ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Fundamental (Real) Problem [Grundproblem] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Limiting description of the problem (chronologically, locally, quantitatively, etc) with differentiation of the areas not affected by the problem (in literatures and other descriptions the terms ’Point of Cause’ and ‘Preliminary Defect Cause / Defect Location / Defect Type’ are also used) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Leadership Root Cause [Ursache in der Führung] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Root Cause in personnel (e.g. competence / qualification) and reasons in the organization (e.g. interface between organizational units) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Managerial Root Cause, MRC [Managerial Root Cause] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Reasons for  interaction of causing conditions in the management system and the business process (systemic root cause) as well as in personnel and in the organization (leadership root cause) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Nonconformity [Fehler] non-fulfilment of a requirement [EN ISO 9000:2005] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Objective evidence [Objektiver Nachweis] data supporting the existence or verity of something [EN ISO 9000:2005] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Possible Causes [mögliche Ursachen]   \nLikely causes for the fundamental problem derived on the basis of content oriented / functional   \nunderstanding ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Preventive action [Vorbeugungsmaßnahme resp. Vorbeugende Maßnahme] action to eliminate the cause of a potential nonconformity or other undesirable potential situation [EN ISO 9000:2005] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Problem [Problem] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Deviation (nonconformity, defect, failure, fault) from a defined target state or objective state with unknown cause ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Problem Description [Problembeschreibung] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Localizing, unambiguous structuring and description of the problem as well as the associated symptoms and boundary conditions (result: fundamental problem) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Requirement [Anforderung] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Need or expectation that is stated, generally implied or obligatory [EN ISO 9000:2005] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Risk evaluation [Risikobewertung] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Process of comparing the results of risk analysis with risk criteria to determine whether the risk and/or its magnitude is acceptable or tolerable [ISO 31000] ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Systemic Root Cause [Systemische Grundursache]   \nReasons in the management system (e.g. directives, FMEAs, drawings) and reasons in the business   \nprocess (e.g. process of FMEA creation,  quotation process) ",
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Technical Root Cause, TRC [Technische Grundursache] ",
+        "text_level": 1,
+        "page_idx": 51
+    },
+    {
+        "type": "text",
+        "text": "Reasons for admitting the interaction of causing conditions for the problem/fundamental problem, which are proven by logical (why?) and functional (how?) relations. ",
+        "page_idx": 51
+    },
+    {
+        "type": "image",
+        "img_path": "images/01d15036b301bcbe05573f955ffefbabe263d095d55b630f133208e15be5ca27.jpg",
+        "img_caption": [
+            "Figure A1.1: Funnel model as a basis of problem solving for the steps D2 and D4 "
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Figure A1.1 shows the most important terms and definitions mentioned above concerning the 8D method described in the following. Starting from the problem first the fundamental problem has to be localized in line with the problem description. Based on that possible causes and direct causes are derived. These have to be confirmed by evidence to identify root causes. ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "A1.3 8D-Method ",
+        "text_level": 1,
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "The 8D method is a procedure for the problem solving in 8 steps (8 disciplines). All 8 steps are to be processed within the problem solving. As needed the steps have to be run through recursive, i.e. the 8D method is set up new at a previous point with known and secured facts. The steps D1 to D3 can be processed in parallel. ",
+        "page_idx": 52
+    },
+    {
+        "type": "image",
+        "img_path": "images/5d6aefd3e85705ac9d189d6cee2c531f3d40ed0cbf94e7d0198fd56f5fb53e96.jpg",
+        "img_caption": [
+            "Figure A1.2: 8D steps "
+        ],
+        "img_footnote": [],
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D1: Establishing Problem Solving Team / Project ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D2: Problem Description ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D3: Containment Actions ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D4: Cause and Effect Analysis ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D5: Defining Corrective Actions and Proving Effectiveness ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D6: Implementing Corrective Actions and Tracking Effectiveness ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D7: Establishing Preventive Actions ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "D8: Final Meeting ",
+        "page_idx": 52
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1 Description of the steps D1 to D8 ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.1 D1: Establishing Problem Solving Team / Project ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Characteristic for the 8-D method is the problem solving within a team, consisting of persons who can contribute with their knowledge and abilities to the active problem solving. Also representatives of external customers or suppliers can be team members. The team leader puts the problem solving team together in cooperation with the sponsor (minimum “department head”), cares for the consistent application of the method and informs the sponsor (guarantees the team resources) as well as externals about the state of the problem solving. The composition of the team must be adapted if necessary during the steps D1 to D7. According to character and complexity of the problem the 8D method can be also executed in form of a project organization. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Result: Problem Solving Team, if necessary project organization ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.2 D2: Problem Description ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "The problem description is the detailed description of the situation, facts collection, structuring and analysis of the problem (e.g. Situation and Problem Analysis according to Kepner-Tregoe). It limits the problem and separates it from not affected areas (e.g. describes which part of a product is affected or which production period). The description must be unambiguous, understandable and generally comprehensible. Documented evidence (e.g. flow diagrams, progression diagrams, parts, figures, drawings) are to be provided if necessary to the description and simplification of the problem analysis. The problem description must contain information which permits to reproduce the nonconformity. Within the problem description the target state is also explained and the interaction in the superior system is described. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "For mass-produced products an overall history (Pareto Analysis regarding all customers over time) is recommended to be maintained in order to identify reoccurring problems. Also recommended are information from product creation (e.g. test results) as well as customer-based analyses. If other business or production processes and products are also affected these must also be taken into account. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A risk evaluation (e.g. according to IEC/ISO 31010) also begins with the problem description. This estimates the occurrence probability (e.g. number of complained parts covered to production period) and the damage magnitude (e.g. number of affected customers, safety, …). If necessary a recommendation takes place for the further escalation. Effects on end user / vehicle / product have to be estimated to be able to initiate adequate containment actions in D3. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Result: Description of the Fundamental Problem (see also figure A1.1) ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.3 D3: Containment Actions ",
+        "text_level": 1,
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Directly after a problem becomes known containment actions must be implemented in order to contain the effect of the problem with the objective that the customer furthermore gets, applies or delivers no non-conform products. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Examples for containment actions are putting lots on hold and sorting manufactured products, initiation of incoming inspection for delivered products, etc. Furthermore also products which are already on the transport to the customer, in intermediate stores or already at the customer side are to be taken into consideration. In addition, it must be ensured that information about the nonconformity is forwarded within the affected area (e.g. next shift) as well as to potential affected areas (e.g. other lines/plants). Containment actions must be documented together with the associated results. If no containment actions are possible, this has to be justified and to be documented. Before containment actions are implemented possible unrequested side effects should be assessed. ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "Result: Implemented Containment Actions incl. documentation and information ",
+        "page_idx": 53
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.4 D4: Cause and Effect Analysis ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "The cause and effect analysis determines why the problem could occur (technical reasons, systemic reasons and reasons related to leadership for the deviation) and why it has not been detected (nondetection). The root cause is determined if the reason for the deviation can clearly be identified, reproduced and proved. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "The root cause includes: ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "the interaction of causing conditions (TRC), the reasons why the concurrence of these conditions has been admitted (MRC). ",
+        "page_idx": 54
+    },
+    {
+        "type": "image",
+        "img_path": "images/52832073a74b330fd8c771ca12714a38be28ff381f42c0fae3cdc13abb15bef2.jpg",
+        "img_caption": [
+            "Figure A1.3: Definition of root causes (TRC and MRC, for examples see ‘Terms and Definitions’) "
+        ],
+        "img_footnote": [],
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "The derivation of the root cause must be described comprehensively. The root cause must be verified, preferably by reproducing the non-conformity-occurrence (e.g. simulation or experiment) and the non-detection (e.g. with a test setup). If the verification is not possible, the reason why must be documented. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Failure Modes from FMEA must be taken into account. Examples of techniques, which can support the root cause analysis: Cause and Effect Diagram (Ishikawa), 5xwhy question technique, Fault Tree Analysis (FTA), Shainin, Six Sigma, Process Analysis (regarding MRC). ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "After the root cause has been determined and verified it has to be checked if the scope has to be extended (e.g. other products, lines, plants, units or customers); containment actions (D3) must be revised and if necessary adjusted regarding their effectivity. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "After the identification of the root cause the risk evaluation will be closed, i.e. the occurrence probability and the damage size are determined (e.g. with number of produced parts in the production period, qualitative estimate, safety relevance, number of affected plants/customers, effect on other products/processes, …). ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Result: Documented derivation and description of the Root Cause (TRC and MRC) with evidence ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.5 D5: Defining Corrective Actions and Proving Effectiveness ",
+        "text_level": 1,
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Definition of potential corrective actions to eliminate the root cause. Theoretical (e.g. DRBFM, FMEA, description of the changed process flow) and/or practical examination of the measures must be performed, in order to prove the effectiveness and prevent with objective evidence unrequested secondary effects. Selecting Corrective Actions to be implemented. ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Result: Corrective Actions with effectiveness evidence ",
+        "page_idx": 54
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.6 D6: Implementing Corrective Actions and Tracking Effectiveness ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Implementation of the previously selected Corrective Actions, validation of the effectiveness after implementing and ensuring that there are no negative consequences. The results must be documented.  Removal of the containment actions after introduction and verification of the corrective actions. For a later or earlier closing of the containment actions the reasons have to be documented. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Result: Established and in the effectiveness confirmed Corrective Actions, removal of the Containment Actions from D3 (if necessary after the agreement of the customer) ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.7 D7: Establishing Preventive Actions ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The occurrence of comparable problems in other business or production processes and products due to the identified root cause(es) must be prevented by: ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Review and update of the documentation (e.g. FMEA, Control Plan, drawings etc.)   \ndefinition of appropriate measures in respect to the Quality Management System (documentations, procedures, work instructions, development/design policy, control plans, conduction of resulting trainings)   \nTransfer of acquired expertise via a Lessons Learned Network (Standardization and implementing standard). A Transfer of acquired expertise into the Bosch Expert Organization (BEO) is recommended. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Any omission requires an explanation. It has to be assured, that the defined measures will be implemented. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Result: Updated standards, exchange of experience (Lessons Learned) ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "A1.3.1.8 D8: Final Meeting ",
+        "text_level": 1,
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The problem solving has to be assessed in a meeting with participation of possibly all involved persons. Prerequisite for the completion of the problem solving is the completion of the steps D1 to D7. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "The steps D1 to D7 are reviewed in the whole flow of the problem solving process (feedback, improvement opportunities). The results must be documented. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "For a complaint which refers to former or running problem solving with known root cause, the step D8 does not have to be executed again. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Result: Discussion/Debriefing and evaluation of the steps D1 to D7, conclusion of the problem solving with agreement of the involved persons and if necessary the customer, acknowledgment of the teamwork by the sponsor have taken place. ",
+        "page_idx": 55
+    },
+    {
+        "type": "text",
+        "text": "Appendix 2 – Templates ",
+        "text_level": 1,
+        "page_idx": 56
+    },
+    {
+        "type": "table",
+        "img_path": "images/15068da42326d14ad604c5b78cbe021fce8cfa1e6982c2e4807ea2426877f833.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table A1: Template Contracting "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>BOSCH</td><td colspan=\"4\"></td><td colspan=\"2\">Date: Version:</td></tr><tr><td colspan=\"2\">Department</td><td colspan=\"4\">Prconraetining</td><td>Owner:</td></tr><tr><td colspan=\"2\">1. Case description Title</td><td colspan=\"6\"></td></tr><tr><td colspan=\"2\"></td><td colspan=\"6\"></td></tr><tr><td colspan=\"2\">Short description: (problem)</td><td colspan=\"5\"></td></tr><tr><td colspan=\"2\"> 2. Period</td><td></td><td> End date (planed):</td><td colspan=\"2\"></td><td></td></tr><tr><td colspan=\"2\">Start date: Review dates:</td><td></td><td></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\"> 3. Objectives</td><td colspan=\"2\"></td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">Targets</td><td colspan=\"5\"> Root cause understood, proven and remedied standards derived and implemented</td></tr><tr><td colspan=\"2\">4. Organisation</td><td colspan=\"2\"></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Cos cent alys) </td><td></td><td>Responsible</td><td></td><td></td><td>from until</td></tr><tr><td colspan=\"2\">Team Team leader </td><td></td><td> Department</td><td></td><td> Capacity %</td><td></td></tr><tr><td colspan=\"2\">Proxy</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Coach:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"> Sponsor:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 1: </td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 2:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 3:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 4:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 5:</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\">Team member 6:</td><td colspan=\"6\"></td></tr><tr><td colspan=\"2\">Supportive functions: Specific tasks,</td><td colspan=\"6\"></td></tr><tr><td colspan=\"8\">restrictions</td></tr><tr><td colspan=\"8\">6. Signatures</td></tr><tr><td>Team leaderProxy of TL date/signature</td><td>date/s ignature</td><td>Coach Sponsor date/signture date/signture</td><td>Supervisor team leader datesignature</td><td>Superisor proxy of TL date/signature</td><td></td><td colspan=\"2\">Superisor team m em bers date/signature</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td colspan=\"2\"></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 56
+    },
+    {
+        "type": "table",
+        "img_path": "images/5277b91da0e2f590fe45090f7ddbb9ea3cc2d3b1c3fbe65cd4049abe5695ff56.jpg",
+        "table_caption": [
+            "Fundamental problem "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td>oum </td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\"></td><td rowspan=\"4\">3</td></tr><tr><td></td></tr><tr><td>10N-SI (z aq pino inq) </td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\"></td></tr><tr><td>S</td></tr><tr><td>2</td><td></td><td>2</td><td>3</td><td></td><td>5</td><td></td><td>6</td><td></td><td></td><td>8</td><td></td><td>10</td><td></td><td></td><td>2</td></tr><tr><td></td><td></td><td></td><td></td><td></td><td>apeesgoanes</td><td></td><td></td><td></td><td></td><td></td><td>oum</td><td>ane aun panasqo seu</td><td></td><td></td><td></td><td>puan oueual]</td></tr></table></body></html>\n\n",
+        "page_idx": 57
+    },
+    {
+        "type": "text",
+        "text": "Table A2: Extended collection of facts for product problems (template) ",
+        "page_idx": 57
+    },
+    {
+        "type": "table",
+        "img_path": "images/7e6ba6aee0508d8e31aa39437e6e64224176249f9daa5daf4a998825d6ae1660.jpg",
+        "table_caption": [
+            "Search direction (stress resp. strength due to fundamental problem): "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"2\">uopenepoupig sne (v) uoeaa </td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>s  </td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td colspan=\"2\"></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Table A3: Detailed delta examination regarding probable causes (Template) ",
+        "page_idx": 58
+    },
+    {
+        "type": "text",
+        "text": "Problem Solving ",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Avoid terms like Alternatives for better description Assessing words Describe facts / add figures ",
+        "page_idx": 59
+    },
+    {
+        "type": "table",
+        "img_path": "images/1b54905eaf5ce7aa76fa89ab3aa24ee3944f51f07db5782f0f34edf10a00f64a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>insufficient</td><td>What was insufficient? (quantify with Engineering units)</td></tr><tr><td>good</td><td>What exactly does \"good\" mean?</td></tr><tr><td>bad </td><td>What exactly does \"bad\"?</td></tr><tr><td>It doesn't work</td><td>What does not work?</td></tr><tr><td>defect</td><td>What exactly does \"defect\" mean?</td></tr><tr><td>better</td><td>What exactly does\"better\"?</td></tr><tr><td>clean</td><td>What exactly does \"clean\" mean? (e.g. particle density, distribution)?</td></tr><tr><td>dirty</td><td>What exactly does \"dirty\" mean? (e.g particle density, distribution)?</td></tr><tr><td>moistly</td><td>Specification of humidity in %</td></tr><tr><td>tight</td><td>What exactly means ,tight\"? Which pressure is specified? Tight against what?</td></tr><tr><td>associate's error</td><td>How was he trained?</td></tr><tr><td>probably</td><td>Hypothesis in % occurrence probability</td></tr><tr><td>temporary</td><td>Period from ... till ...</td></tr><tr><td>fortuitous</td><td>Specify statistical evidence</td></tr><tr><td>damaged</td><td>Caused by what? Mechanical force, electrical force?</td></tr><tr><td>current</td><td>Number ofversion of documents Which status at what time?</td></tr><tr><td>right</td><td>Which process description at what time? What is right?</td></tr></table></body></html>\n\n",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Adjectives without specification Give facts in physical unit ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "table",
+        "img_path": "images/e059bafb2062c294d700941c71a3986e64f826747ebec31b20b39c565a2f2549.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>greater</td><td>Greater than what (in meter)</td></tr><tr><td> smaller</td><td>Smaller than what (in meter)</td></tr><tr><td>colder</td><td>Colder than what (in °K)</td></tr><tr><td>Too big</td><td>Too big related to dimension (in meter)</td></tr><tr><td>Too small</td><td>To small related to dimension (in meter)</td></tr></table></body></html>\n\n",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Prove of effectiveness ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Methods / verification of capability ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "table",
+        "img_path": "images/14ae66ef64a27fcabd5d01ea89b366ac2785c8251a8c16791154a64b17f1c619.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Implemented and tested</td><td>How was it tested?</td></tr><tr><td>,Effectiveness proved by customerstatistics!\"</td><td>Use/formulation is not allowed, because it is not in the sense of sustainableproblem solving (see8D method)</td></tr><tr><td>100% visual inspection</td><td>What was the result of the visual inspection? (Tests, capability)</td></tr><tr><td>improved, failure rate</td><td>Process capability (Cpk), yield rate (First Pass Yield), ...</td></tr></table></body></html>\n\n",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Passive sentences/subjunctive Use active sentences ",
+        "text_level": 1,
+        "page_idx": 59
+    },
+    {
+        "type": "table",
+        "img_path": "images/8471409b2def927c73241c71ca75341d9b7c3eb5ab891a957cf739cdeaee9d76.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table A4: Hints for formulations using the method „5xWhy?“ "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>It has been proven</td><td>How? Who? Describe method, test, simulation, ...</td></tr><tr><td>It was applied</td><td>How? Who? Describe method, test, simulation, ..</td></tr><tr><td>It should / could / will do</td><td> Process specifies, machine/associate does it in another way</td></tr></table></body></html>\n\n",
+        "page_idx": 59
+    },
+    {
+        "type": "text",
+        "text": "Appendix 3 – Evaluation Criteria of Product Problems ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are visualizations ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/d72ad658a3bc36cfe9babd1f40f74e2885a91392315cadb0f684916ddd2b0ad6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>- available</td><td>yes</td><td>no</td></tr><tr><td>- described</td><td>yes</td><td>no</td></tr><tr><td> comprehensible (self-explanatory)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are analysis of the object ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/f45722d1e0fc116c378b630474878f03170d0f57150009c44c10491e0fc612ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>-available</td><td>yes</td><td>no</td></tr><tr><td>-assessed (regarding the symptom)</td><td>yes</td><td>no</td></tr><tr><td>- comprehensible (self-explanatory)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are descriptions of the system structure / design ",
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/76a244aa7162ddd66c720a2c30e4fd7d97cf9e2540e34b9fd113760c332c3a99.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>-available</td><td>yes</td><td>no</td></tr><tr><td>- analyzed (regarding design structure and functions)</td><td>yes</td><td>no</td></tr><tr><td>- comprehensible (self-explanatory)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Is the process flow ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/a236f70e7d9b411b89aa6e8f1a6eb09a9f20c3fadc06cf2297564e5725a86e8e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>- available (alternatively History Chart)</td><td>yes</td><td>no</td></tr><tr><td>- complete (all process steps described, e.g. from the supplier to the vehicle's end-user)</td><td>yes</td><td>no</td></tr><tr><td>- comprehensible (self-explanatory)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Is the facts collection ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/d1d5366110c100f092c16389c79fda83ed0d7960e79c0dacd2d57d36648e519c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>-available</td><td>yes</td><td>no</td></tr><tr><td>- complete (all questions with differences and changes)</td><td>yes</td><td>no</td></tr><tr><td>- comprehensible (self-explanatory and the fundamental problem derived)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Is the object (entry point) described regarding ",
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/ae084b3539ef9d41629415e65bbc96b8c269c84ae86e2257d5d98d8baf23b24f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td> should be state (target state)</td><td>yes</td><td>no</td></tr><tr><td>-actual state</td><td>yes</td><td>no</td></tr><tr><td>- delta examination</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are possible causes documented regarding ",
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7283174901ac551bdbe0e4601e1dd542eb853ddbf68ed3b6a0cba9f4a084e00.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>- stress</td><td>yes</td><td>no</td></tr><tr><td>- strength or</td><td>yes</td><td>no</td></tr><tr><td>- function</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are possible causes ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/0f1d36033c41d897d0c8608f62cdcc7da8d62b9f3999fb38f74ccd3fecfd403f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>- in an Ishikawa diagram documented (alternatively e.g. Failure Tree Analysis (FTA))</td><td>yes</td><td>no</td></tr><tr><td>- checked with 5M regarding completeness</td><td>yes</td><td>no</td></tr><tr><td>- completed and described regarding interactions</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are possible causes ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/b8bccf567d5f415c687f0503bdc9ff787d8f46f015db35da907b8c8b1e787c6b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>-plausible</td><td>yes</td><td>no</td></tr><tr><td>- prioritized (evidence, experience, clues from facts collection)</td><td>yes</td><td>no</td></tr><tr><td>- marked (probable, possible, excluded)</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are the probable causes ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/069293e5d7ae562ad65e6e13e89c8a15f5edaa7c65217f86a5f8e2eb83aae815.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>documented (target /is /delta)</td><td>yes</td><td>no</td></tr><tr><td>- with causes for the deviation</td><td>yes</td><td>no</td></tr><tr><td>- with conclusion and next steps</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Are the root causes proven by ",
+        "text_level": 1,
+        "page_idx": 60
+    },
+    {
+        "type": "table",
+        "img_path": "images/69d1203ec37be3abc5309543e6b36f4881e0ce72b30d8ca01040a3f49a74547e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>- ,5xwhy?\" (logic chain)</td><td>yes</td><td>no</td></tr><tr><td>- including ,how\" (functional relationship)</td><td>yes</td><td>no</td></tr><tr><td>- and by ,backward prove\" (therefore) completed.</td><td>yes</td><td>no</td></tr></table></body></html>\n\n",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Table A5: Evaluation criteria of product problems ",
+        "page_idx": 60
+    },
+    {
+        "type": "text",
+        "text": "Robert Bosch GmbH   \nC/PJ-PS   \nPostfach 30 02 20   \nD-70442 Stuttgart   \nGermany   \nPhone $+49$ 711 811-0   \nwww.bosch.com ",
+        "page_idx": 61
+    }
+]
