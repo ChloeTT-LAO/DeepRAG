@@ -1,9 +1,12 @@
 import json
+from collections import defaultdict
 from copy import deepcopy
-from typing import List, Dict, Annotated, Optional, Any
+from typing import List, Dict, Set, Tuple, Optional, Any
+import re
 from DeepRAG_Multimodal.deep_retrieve.ming.agent_gpt4 import AzureGPT4Chat, create_response_format
 from datetime import datetime
 import sys
+import torch
 
 sys.path.append(
     "/Users/chloe/Documents/Academic/AI/Project/基于Colpali的多模态检索标准框架/multimodal-RAG/DeepRAG_Multimodal/deep_retrieve")
@@ -19,20 +22,11 @@ import numpy as np
 import pytesseract
 from pdf2image import convert_from_path
 import os
+import spacy
+from sklearn.feature_extraction.text import TfidfVectorizer
+import re, string, joblib
 import logging
 
-# # Ensure the directory for the log file exists
-# log_file_path = "/Users/chloe/Documents/Academic/AI/Project/基于Colpali的多模态检索标准框架/multimodal-RAG/DeepRAG_Multimodal/deep_retrieve/ming/deepsearch.log"
-# os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
-#
-# # Configure logger
-# logger.basicConfig(
-#     filename=log_file_path,
-#     level=logger.INFO,
-#     format="%(asctime)s - %(levelname)s - %(message)s"
-# )
-#
-# logger.info("logger setup complete. This is a test log message.")
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
 logger.info("DeepSearch_Beta模块初始化")
@@ -84,20 +78,34 @@ class DeepSearch_Beta(DeepSearch_Alpha):
             matched_docs.append(matched_doc)
         return matched_docs
 
-    def search_retrieval(self, data: dict, retriever: MultimodalMatcher):
+    def search_retrieval(self, data: dict, multi_intent: False, retriever: MultimodalMatcher):
         original_query = deepcopy(data['query'])
         data_ori = deepcopy(data)
         embedding_topk = self.params['embedding_topk']
         rerank_topk = self.params['rerank_topk']
 
-        # 第一步：使用LLM拆分查询意图
-        intent_queries = self._split_query_intent(original_query)
-        # intent_queries = self._split_query_intent_exist(original_query)
-        logger.info(f"🔍 意图拆分结果: {intent_queries}")
-
         all_search_results = {}
         final_search_results = []
         seen_texts = set()
+
+        # 初步探索检索
+        if multi_intent:
+            initial_retrieval_list = retriever.retrieve(original_query, data['documents'])
+            initial_retrieval_list = initial_retrieval_list[:embedding_topk]
+            for r in initial_retrieval_list:
+                if r['text'] not in seen_texts:
+                    seen_texts.add(r['text'])
+                    all_search_results[original_query] = [r['text']]
+                    final_search_results.append(r)
+
+        # 第一步：使用LLM拆分查询意图
+        if multi_intent:
+            intent_queries = self._split_query_intent(original_query,
+                                                      json.dumps(all_search_results, ensure_ascii=False, indent=2))
+            # intent_queries = self._split_query_intent(original_query)
+            logger.info(f"🔍 意图拆分结果: {intent_queries}")
+        else:
+            intent_queries = [original_query]
 
         # 第二步：对每个意图进行第一轮检索
         for intent_idx, intent_query in enumerate(intent_queries):
@@ -112,9 +120,18 @@ class DeepSearch_Beta(DeepSearch_Alpha):
                     final_search_results.append(r)
 
         # 第三步：基于第一轮检索结果进行意图细化
-        refined_intent_queries = self._refine_query_intent(original_query, intent_queries,
-                                                           json.dumps(all_search_results, ensure_ascii=False, indent=2))
-        logger.info(f"🔍 意图细化结果: {refined_intent_queries}")
+        if multi_intent:
+            # refined_intent_queries = self._refine_query_intent(original_query, intent_queries,
+            #                                                    json.dumps(all_search_results, ensure_ascii=False, indent=2))
+            # logger.info(f"意图细化结果: {refined_intent_queries}")
+
+            refined_intent_queries = self._refine_query_intent_with_knowledge_graph(
+                original_query,
+                intent_queries,
+                json.dumps(all_search_results, ensure_ascii=False, indent=2)
+            )
+        else:
+            refined_intent_queries = [original_query]
 
         # 第四步：对细化后的意图进行第二轮检索
         if set(refined_intent_queries) != set(intent_queries):
@@ -131,7 +148,6 @@ class DeepSearch_Beta(DeepSearch_Alpha):
 
         # 第五步：对所有结果进行最终排序
         final_search_results = self.llm_rerank(original_query, final_search_results, self.reranker, rerank_topk)
-        print("final_search_results: ", final_search_results)
 
         logger.info(f"📊 最终结果: {len(final_search_results)} 条")
         logger.info([doc['score'] for doc in final_search_results])
@@ -145,44 +161,108 @@ class DeepSearch_Beta(DeepSearch_Alpha):
             }
             for doc in final_search_results
         ]
-        print("final_results_with_pages: ", final_results_with_pages)
 
         return final_results_with_pages
 
-    def _split_query_intent(self, query: str) -> List[str]:
+    # 6.28修改
+    def _split_query_intent(self, query: str, context=None) -> List[str]:
         """将查询拆分为多个不同维度的意图查询"""
+        # SYSTEM_MESSAGE = dedent("""
+        # You are a professional expert in analyzing query intentions. Your task is to analyze the user's query and break it down into multiple sub-queries of different dimensions.
+        #
+        # Please follow the following rules:
+        # 1. If the query contains multiple different information requirements or concerns, split it into multiple sub-queries.
+        # 2. Ensure that each sub-query focuses on a different dimension or aspect to maintain diversity.
+        # 3. Do not merely change the form of the question; instead, focus on different information dimensions.
+        # 4. If the original query is already very clear and only focuses on a single dimension, there is no need to split it.
+        # 5. Sub-queries should be more specific and clear, which helps to retrieve more accurate information.
+        # 6. The split sub-queries must be relevant to the context of the document.
+        #
+        # Please return in JSON format, including the following fields:
+        # {
+        #     "intent_queries": ["subquery1", "subquery2", ...]
+        # }
+        # """)
+        # messages = [
+        #     {"role": "system", "content": SYSTEM_MESSAGE},
+        #     {"role": "user", "content": f"""Please analyze the following query and break it down into multiple sub-queries:
+        #
+        #     Original query:
+        #     {query}
+        #
+        #     """}
+        # ]
+        '''改进后的prompt'''
         SYSTEM_MESSAGE = dedent("""
-        你是一个专业的查询意图分析专家。你的任务是分析用户的查询，并将其拆分为多个不同维度的子查询。
+                You are a professional expert in analyzing query intentions. Your task is to analyze the user's query based on the retrieved context information of the document and break it down into multiple sub-queries of different dimensions.
 
-        请遵循以下规则：
-        1. 如果查询包含多个不同的信息需求或关注点，请将其拆分为多个子查询
-        2. 确保每个子查询关注不同的维度或方面，保证多样性
-        3. 不要仅仅改变问题的表述形式，而应该关注不同的信息维度
-        4. 如果原始查询已经非常明确且只关注单一维度，则不需要拆分
-        5. 子查询应该更加具体和明确，有助于检索到更精准的信息
+                Please follow the following rules:
+                1. If the query contains multiple different information requirements or concerns, split it into multiple sub-queries.
+                2. Ensure that each sub-query focuses on a different dimension or aspect to maintain diversity.
+                3. Do not merely change the form of the question; instead, focus on different information dimensions.
+                4. If the original query is already very clear and only focuses on a single dimension, there is no need to split it.
+                5. Sub-queries should be more specific and clear, which helps to retrieve more accurate information.
+                6. The split sub-queries must be relevant to the context of the document.
 
-        请以JSON格式返回，包含以下字段：
-        {
-            "intent_queries": ["子查询1", "子查询2", ...]
-        }
-        """)
+                Please return in JSON format, including the following fields:
+                {
+                    "intent_queries": ["subquery1", "subquery2", ...]
+                }
+                """)
 
         messages = [
             {"role": "system", "content": SYSTEM_MESSAGE},
-            {"role": "user", "content": f"请分析以下查询并拆分为多个不同维度的子查询：\n\n{query}"}
-        ]
+            {"role": "user", "content": f"""
+                    Please analyze the following query and break it down into multiple sub-queries based on different dimensions based on retrieved context.：
 
-        response_format = create_response_format({
-            "intent_queries": {
-                "type": "array",
-                "description": "拆分后的子查询列表",
-                "items": {"type": "string"}
-            }
-        })
+                    Original Query: {query}
+
+                    Retrieved Context:
+                    {context}
+                    """}
+        ]
+        # SYSTEM_MESSAGE = dedent("""
+        #                 You are a professional expert in analyzing query intentions. Your task is to analyze the user's query based on the retrieved context information of the document and break it down into multiple sub-queries of different dimensions.
+        #                 Your task has *two stages*:
+        #                 **Stage 1 · Clean the query**
+        #                 • Remove any words that do NOT help locate information inside the document:
+        #                   – answer-format instructions (e.g. "write in float format", "return as integer",
+        #                     "round to two decimals", "answer Yes/No");
+        #                   – general politeness / meta phrases ("please", "thanks", "根据文档…");
+        #                   – output-scene hints ("for a presentation", "for my homework");
+        #                   – citations of page numbers UNLESS the page itself is the target of the question.
+        #                 • Preserve domain keywords, entities, units, and page numbers **when** they are
+        #                   essential for retrieval.
+        #
+        #                 **Stage 2 · Split the query**
+        #                 Please follow the following rules:
+        #                 1. If the query contains multiple different information requirements or concerns, split it into multiple sub-queries.
+        #                 2. Ensure that each sub-query focuses on a different dimension or aspect to maintain diversity.
+        #                 3. Do not merely change the form of the question; instead, focus on different information dimensions.
+        #                 4. If the original query is already very clear and only focuses on a single dimension, there is no need to split it.
+        #                 5. Sub-queries should be more specific and clear, which helps to retrieve more accurate information.
+        #                 6. The split sub-queries must be relevant to the context of the document.
+        #
+        #                 Please return in JSON format, including the following fields:
+        #                 {
+        #                     "intent_queries": ["subquery1", "subquery2", ...]
+        #                 }
+        #                 """)
+        #
+        # messages = [
+        #     {"role": "system", "content": SYSTEM_MESSAGE},
+        #     {"role": "user", "content": f"""
+        #                     Please analyze the following query. First clean it, then break it down into multiple sub-queries based on different dimensions based on retrieved context.：
+        #
+        #                     Original Query: {query}
+        #
+        #                     Retrieved Context:
+        #                     {context}
+        #                     """}
+        # ]
 
         response = AzureGPT4Chat().chat_with_message_format(
-            message_list=messages,
-            # response_format=response_format
+            message_list=messages
         )
 
         try:
@@ -194,49 +274,125 @@ class DeepSearch_Beta(DeepSearch_Alpha):
             logger.error(f"意图拆分出错: {e}")
             return [query]
 
-    def _split_query_intent_exist(self, query: str) -> List[str]:
-        """Directly fetch expanded queries from the JSONL file if the question matches the query."""
-        jsonl_path = "/Users/chloe/Documents/Academic/AI/Project/基于Colpali的多模态检索标准框架/multimodal-RAG/DeepRAG_Multimodal/deep_retrieve/query_expansion_task.jsonl"
+    def _refine_query_intent_with_knowledge_graph(
+            self,
+            original_query: str,
+            intent_queries: List[str],
+            context: str
+    ) -> List[str]:
+        """基于检索结果和知识图谱细化查询意图"""
+
+        SYSTEM_MESSAGE = dedent("""
+            You are a professional query intent optimization expert with knowledge graph construction capabilities. Your task is to first build a knowledge graph from the retrieved content and decomposed queries, then use this graph to refine and enhance the user's search intent.
+
+        **CRITICAL CONSTRAINT: All refined queries MUST stay strictly within the scope and semantic boundaries of the original query. Do NOT introduce new concepts, domains, or topics not present in the original query.**
+    
+        Please follow these steps:
+    
+        **Step 1: Knowledge Graph Construction**
+        1. Extract key entities from the retrieved context that are directly related to the original query:
+           - Named entities (persons, organizations, locations, dates, etc.)
+           - Domain-specific concepts and terminologies that appear in both the original query and context
+           - Important events, processes, or phenomena that are semantically connected to the original query
+           - Technical terms that help answer the original query
+        
+        2. Identify relationships between entities, but ONLY those that are relevant to the original query:
+           - Hierarchical relationships (is-a, part-of, belongs-to)
+           - Functional relationships (causes, affects, enables)
+           - Temporal relationships (before, after, during)
+           - Spatial relationships (located-in, connected-to)
+           - Semantic relationships (related-to, similar-to, opposite-to)
+    
+        **Step 2: Intent Refinement with Strict Scope Control**
+        Based on the constructed knowledge graph, refine the queries following these STRICT rules:
+        
+        **MUST DO:**
+        1. Keep all refined queries semantically aligned with the original query's core intent
+        2. Only explore aspects, facets, or dimensions of the SAME topic from the original query
+        3. Use the knowledge graph to find more specific ways to ask about the SAME information
+        4. Maintain the same domain, context, and information type as the original query
+        5. Generate queries that are complementary parts of answering the original question
+        
+        **MUST NOT DO:**
+        1. Introduce completely new topics or domains not in the original query
+        2. Shift focus to tangentially related but different questions
+        3. Expand beyond the scope of what the original query is asking
+        4. Generate queries about general background information unless specifically asked in the original query
+        5. Create queries that could be answered independently without contributing to the original question
+    
+        **Refinement Guidelines:**
+        - Create sub-queries that target different aspects of the SAME answer
+        - Use entity relationships to create more precise versions of the SAME question
+        - Explore different angles or perspectives on the SAME topic
+        - Limit the number of refined sub-queries to a maximum of **three**
+    
+        **Validation Check:**
+        Before finalizing, ask yourself: "Would answering this refined query directly contribute to answering the original query?" If not, discard it.
+    
+        
+        Return your output in JSON format with the following structure:
+        {
+            "knowledge_graph": {
+                "entities": [
+                    {"name": "entity_name", "type": "entity_type", "description": "brief_description"},
+                    ...
+                ],
+                "relationships": [
+                    {"source": "entity1", "target": "entity2", "relation": "relationship_type", "description": "relationship_description"},
+                    ...
+                ]
+            },
+            "refined_intent_queries": ["Refined sub-query 1", "Refined sub-query 2", "Refined sub-query 3"]
+        }
+        """)
+
+        messages = [
+            {"role": "system", "content": SYSTEM_MESSAGE},
+            {"role": "user", "content": f"""
+            Original query:
+            {original_query}
+    
+            Decomposed intent queries:
+            {json.dumps(intent_queries, ensure_ascii=False, indent=2)}
+    
+            Retrieved context:
+            {context}
+    
+            Based on the information above, please:
+            1. First construct a knowledge graph from the retrieved context and decomposed queries
+            2. Then refine and optimize the search intent using the knowledge graph insights
+            """}
+        ]
+
+        response = AzureGPT4Chat().chat_with_message_format(
+            message_list=messages
+        )
+
         try:
-            with open(jsonl_path, 'r', encoding='utf-8') as f:
-                for line in f:
-                    line = line.strip()  # Remove leading/trailing whitespace
-                    if not line:  # Skip empty lines
-                        continue
-                    try:
-                        # Ensure the line is a valid JSON object
-                        if line.startswith("[") or line.startswith("]") or line.startswith("}"):
-                            continue  # Skip invalid lines like stray brackets
-                        task = json.loads(line)  # Parse JSON line
-                        if task.get("question") == query:
-                            return [
-                                task["Understanding"]["expanded_query"],
-                                task["Reasoning"]["expanded_query"],
-                                task["Locating"]["expanded_query"]
-                            ]
-                    except json.JSONDecodeError as e:
-                        logger.error(f"Skipping invalid JSON line: {line[:50]}... Error: {e}")
+            result = parse_llm_response_with_kg(response)
+
+            # 记录知识图谱信息（用于调试和分析）
+            knowledge_graph = result.get("knowledge_graph", {})
+            visualize_knowledge_graph(knowledge_graph)
+            logger.info(f"构建的知识图谱包含 {len(knowledge_graph.get('entities', []))} 个实体和 {len(knowledge_graph.get('relationships', []))} 个关系")
+
+            # 提取细化后的查询
+            refined_queries_with_reasoning = result.get("refined_intent_queries", [])
+            refined_queries = [item.get("query", "") for item in refined_queries_with_reasoning if item.get("query")]
+
+            # 如果没有成功提取到查询，回退到原始意图
+            if not refined_queries:
+                refined_queries = intent_queries
+
+            logger.info(f"基于知识图谱细化的查询: {refined_queries}")
+            return refined_queries
+
         except Exception as e:
-            logger.error(f"Error reading expanded queries from {jsonl_path}: {e}")
-        return [query]  # Fallback to the original query if no match is found
+            logger.error(f"意图细化出错: {e}")
+            return intent_queries
 
     def _refine_query_intent(self, original_query: str, intent_queries: List[str], context: str) -> List[str]:
         """基于检索结果细化查询意图"""
-        # SYSTEM_MESSAGE = dedent("""
-        # 你是一个专业的查询意图优化专家。你的任务是基于已有的检索结果，进一步细化和优化查询意图。
-
-        # 请遵循以下规则：
-        # 1. 分析已有检索结果，识别信息缺口和需要进一步探索的方向
-        # 2. 基于原始查询和已拆分的意图，生成更加精确的子查询
-        # 3. 确保新的子查询能够覆盖原始查询未被满足的信息需求
-        # 4. 子查询应该更加具体，包含专业术语和明确的信息需求
-        # 5. 避免生成过于相似的子查询，保证多样性
-
-        # 请以JSON格式返回，包含以下字段：
-        # {
-        #     "refined_intent_queries": ["细化子查询1", "细化子查询2", ...]
-        # }
-        # """)
 
         SYSTEM_MESSAGE = dedent("""
         You are a professional query intent optimization expert. Your task is to refine and enhance the user's search intent based on the retrieved content.
@@ -255,22 +411,6 @@ class DeepSearch_Beta(DeepSearch_Alpha):
         }
         """)
 
-        # messages = [
-        #     {"role": "system", "content": SYSTEM_MESSAGE},
-        #     {"role": "user", "content": f"""
-        #     原始查询：
-        #     {original_query}
-
-        #     已拆分的意图查询：
-        #     {json.dumps(intent_queries, ensure_ascii=False)}
-
-        #     已检索到的内容：
-        #     {context}
-
-        #     请基于以上信息，细化和优化查询意图：
-        #     """}
-        # ]
-
         messages = [
             {"role": "system", "content": SYSTEM_MESSAGE},
             {"role": "user", "content": f"""
@@ -287,17 +427,8 @@ class DeepSearch_Beta(DeepSearch_Alpha):
             """}
         ]
 
-        response_format = create_response_format({
-            "refined_intent_queries": {
-                "type": "array",
-                "description": "细化后的子查询列表",
-                "items": {"type": "string"}
-            }
-        })
-
         response = AzureGPT4Chat().chat_with_message_format(
-            message_list=messages,
-            # response_format=response_format
+            message_list=messages
         )
 
         try:
@@ -314,34 +445,9 @@ class DeepSearch_Beta(DeepSearch_Alpha):
         return '\n'.join([f"{index + 1}. {result['text']}" for index, result in enumerate(search_results)])
 
 
-def calculate_accuracy(json_file_path, retrieved_pages):
-    with open(json_file_path, 'r') as f:
-        logs = [json.loads(line.strip()) for line in f]
-
-    total = 0
-    correct = 0
-
-    for log in logs:
-        evidence_pages = set(log.get('evidence_pages', []))
-        if evidence_pages:
-            total += 1
-            if evidence_pages.intersection(retrieved_pages):
-                correct += 1
-
-    accuracy = (correct / total * 100) if total > 0 else 0.0
-    logger.info("\n===== Retrieval Accuracy =====")
-    logger.info(f"Accuracy: {accuracy:.2f}% ({correct}/{total})")
-
-
 def parse_llm_response(response_text: str) -> dict:
     """
     从LLM响应中提取JSON数据，处理各种可能的格式
-
-    Args:
-        response_text: 模型返回的原始文本
-
-    Returns:
-        dict: 解析后的JSON对象
     """
     import re
     import json
@@ -366,12 +472,23 @@ def parse_llm_response(response_text: str) -> dict:
     # 4. 回退方案：手动提取关键字段
     output_dict = {}
 
-    # 提取refined_intent_queries数组
-    queries_pattern = r'"refined_intent_queries"\s*:\s*\[(.*?)\]'
+    # 提取refined_queries数组
+    queries_pattern = r'"refined_queries"\s*:\s*\[(.*?)\]'
     queries_match = re.search(queries_pattern, cleaned_text, re.DOTALL)
     if queries_match:
-        query_items = re.findall(r'"([^"]+)"', queries_match.group(1))
-        output_dict["refined_intent_queries"] = query_items
+        # 更复杂的解析
+        query_items = re.findall(r'\{[^}]*\}', queries_match.group(1))
+        refined_queries = []
+        for item in query_items:
+            query_match = re.search(r'"query"\s*:\s*"([^"]+)"', item)
+            sources_match = re.search(r'"sources"\s*:\s*\[(.*?)\]', item)
+            if query_match:
+                query = query_match.group(1)
+                sources = []
+                if sources_match:
+                    sources = re.findall(r'"([^"]+)"', sources_match.group(1))
+                refined_queries.append({"query": query, "sources": sources})
+        output_dict["refined_queries"] = refined_queries
 
     # 提取intent_queries数组（如果有）
     intent_pattern = r'"intent_queries"\s*:\s*\[(.*?)\]'
@@ -381,6 +498,169 @@ def parse_llm_response(response_text: str) -> dict:
         output_dict["intent_queries"] = intent_items
 
     return output_dict
+
+
+def parse_llm_response_with_kg(response_text: str) -> dict:
+    """
+    从LLM响应中提取包含知识图谱的JSON数据（简化版）
+    """
+    import re
+    import json
+
+    # 1. 清理可能的markdown代码块格式
+    cleaned_text = re.sub(r'```(?:json|python)?', '', response_text)
+    cleaned_text = re.sub(r'`', '', cleaned_text).strip()
+
+    # 2. 尝试直接解析JSON
+    try:
+        return json.loads(cleaned_text)
+    except json.JSONDecodeError:
+        # 3. 尝试查找JSON内容
+        json_pattern = r'\{[\s\S]*\}'
+        match = re.search(json_pattern, cleaned_text)
+        if match:
+            try:
+                return json.loads(match.group(0))
+            except json.JSONDecodeError:
+                pass
+
+    # 4. 回退方案：手动提取关键字段
+    output_dict = {}
+
+    # 提取knowledge_graph
+    kg_pattern = r'"knowledge_graph"\s*:\s*\{([\s\S]*?)\}(?=\s*,\s*"refined_intent_queries"|\s*\})'
+    kg_match = re.search(kg_pattern, cleaned_text)
+    if kg_match:
+        try:
+            kg_json = "{" + kg_match.group(1) + "}"
+            output_dict["knowledge_graph"] = json.loads(kg_json)
+        except:
+            # 手动提取实体和关系
+            entities_pattern = r'"entities"\s*:\s*\[([\s\S]*?)\]'
+            relationships_pattern = r'"relationships"\s*:\s*\[([\s\S]*?)\]'
+
+            entities_match = re.search(entities_pattern, kg_match.group(1))
+            relationships_match = re.search(relationships_pattern, kg_match.group(1))
+
+            kg_dict = {}
+            if entities_match:
+                entities = []
+                entity_matches = re.findall(r'\{[^}]*"name"\s*:\s*"([^"]+)"[^}]*\}', entities_match.group(1))
+                for entity_name in entity_matches:
+                    entities.append(
+                        {"name": entity_name, "type": "unknown", "description": "", "relevance_to_original": ""})
+                kg_dict["entities"] = entities
+
+            if relationships_match:
+                relationships = []
+                relationship_matches = re.findall(
+                    r'\{[^}]*"source"\s*:\s*"([^"]+)"[^}]*"target"\s*:\s*"([^"]+)"[^}]*"relation"\s*:\s*"([^"]+)"[^}]*\}',
+                    relationships_match.group(1))
+                for src, tgt, rel in relationship_matches:
+                    relationships.append(
+                        {"source": src, "target": tgt, "relation": rel, "description": "", "relevance_to_original": ""})
+                kg_dict["relationships"] = relationships
+
+            output_dict["knowledge_graph"] = kg_dict
+
+    # 提取refined_intent_queries（简化版 - 直接提取字符串数组）
+    refined_pattern = r'"refined_intent_queries"\s*:\s*\[([\s\S]*?)\]'
+    refined_match = re.search(refined_pattern, cleaned_text)
+    if refined_match:
+        try:
+            # 直接提取字符串数组
+            queries = re.findall(r'"([^"]+)"', refined_match.group(1))
+            output_dict["refined_intent_queries"] = queries
+        except:
+            output_dict["refined_intent_queries"] = []
+
+    # 如果都没有找到，返回空结构
+    if not output_dict:
+        output_dict = {
+            "knowledge_graph": {"entities": [], "relationships": []},
+            "refined_intent_queries": []
+        }
+
+    return output_dict
+
+def calculate_accuracy(json_file_path, retrieved_pages):
+    with open(json_file_path, 'r') as f:
+        logs = [json.loads(line.strip()) for line in f]
+
+    total = 0
+    correct = 0
+
+    for log in logs:
+        evidence_pages = set(log.get('evidence_pages', []))
+        if evidence_pages:
+            total += 1
+            if evidence_pages.intersection(retrieved_pages):
+                correct += 1
+
+    accuracy = (correct / total * 100) if total > 0 else 0.0
+    logger.info("\n===== Retrieval Accuracy =====")
+    logger.info(f"Accuracy: {accuracy:.2f}% ({correct}/{total})")
+
+
+def visualize_knowledge_graph(knowledge_graph: dict):
+    """可视化知识图谱"""
+    entities = knowledge_graph.get('entities', [])
+    relationships = knowledge_graph.get('relationships', [])
+
+    print("\n" + "=" * 60)
+    print(" 知识图谱可视化")
+    print("=" * 60)
+
+    # 统计信息
+    entity_types = {}
+    for entity in entities:
+        entity_type = entity.get('type', 'Unknown')
+        entity_types[entity_type] = entity_types.get(entity_type, 0) + 1
+
+    print(f"\n 统计信息:")
+    print(f"   总实体数: {len(entities)}")
+    print(f"   总关系数: {len(relationships)}")
+    print(f"   实体类型分布:")
+    for entity_type, count in entity_types.items():
+        print(f"     - {entity_type}: {count}")
+
+    # 按类型分组显示实体
+    print(f"\n 按类型分组的实体:")
+    for entity_type in entity_types.keys():
+        print(f"\n    {entity_type}:")
+        type_entities = [e for e in entities if e.get('type') == entity_type]
+        for entity in type_entities:
+            name = entity.get('name', 'Unknown')
+            desc = entity.get('description', '')
+            if desc:
+                print(f"     • {name} - {desc}")
+            else:
+                print(f"     • {name}")
+
+    # 关系网络
+    print(f"\n 关系网络:")
+    relation_types = {}
+    for rel in relationships:
+        rel_type = rel.get('relation', 'Unknown')
+        relation_types[rel_type] = relation_types.get(rel_type, 0) + 1
+
+    print(f"   关系类型分布:")
+    for rel_type, count in relation_types.items():
+        print(f"     - {rel_type}: {count}")
+
+    print(f"\n   详细关系:")
+    for rel in relationships:
+        source = rel.get('source', 'Unknown')
+        target = rel.get('target', 'Unknown')
+        relation = rel.get('relation', 'Unknown')
+        desc = rel.get('description', '')
+
+        print(f"      {source} --[{relation}]--> {target}")
+        if desc:
+            print(f"         {desc}")
+
+    print("=" * 60)
+
 
 if __name__ == "__main__":
     # Initialize DeepSearch_Beta instance with parameters
