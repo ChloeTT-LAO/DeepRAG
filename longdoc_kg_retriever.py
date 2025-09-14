@@ -6,6 +6,8 @@ import sys
 import json
 import time
 import argparse
+import glob
+import traceback
 from pathlib import Path
 from typing import List, Dict, Set, Tuple, Optional, Any
 import numpy as np
@@ -20,7 +22,8 @@ import networkx as nx
 from dataclasses import dataclass
 
 # 添加必要的路径
-sys.path.append("DeepRAG_Multimodal/deep_retrieve")# 加载环境变量
+sys.path.append("DeepRAG_Multimodal/deep_retrieve")
+# 加载环境变量
 load_dotenv("/Users/chloe/Documents/Academic/AI/Project/DeepSearch/multimodal-RAG/DeepRAG_Multimodal/configs/.env")
 
 # 导入必要的库
@@ -272,25 +275,36 @@ class LongDocKnowledgeGraphProcessor:
             if not new_chunks:
                 break
 
-            # 基于重叠度排序，只取前N个最相关的
-            chunk_scores = []
-            for chunk_id in new_chunks:
-                score = 0
-                for seed_chunk in seed_chunk_ids:
-                    if self.chunk_graph.has_edge(chunk_id, seed_chunk):
-                        score += self.chunk_graph[chunk_id][seed_chunk].get('overlap', 0)
-                chunk_scores.append((chunk_id, score))
+            # 限制扩展数量，避免过度扩展
+            if len(new_chunks) > 20:  # 限制每跳最多扩展20个chunks
+                # 按与种子chunks的关联强度排序
+                chunk_scores = []
+                for chunk_id in new_chunks:
+                    score = 0
+                    if chunk_id in self.chunk_to_entities:
+                        chunk_entities = self.chunk_to_entities[chunk_id]
+                        overlap = len(seed_entities.intersection(chunk_entities))
+                        score += overlap * 0.5
 
-            # 排序并取前10个
-            chunk_scores.sort(key=lambda x: x[1], reverse=True)
-            selected_chunks = [chunk_id for chunk_id, score in chunk_scores[:10]]
+                    # 基于chunk图的连接强度
+                    if self.chunk_graph.has_node(chunk_id):
+                        for seed_chunk in seed_chunk_ids:
+                            if self.chunk_graph.has_edge(chunk_id, seed_chunk):
+                                edge_data = self.chunk_graph.get_edge_data(chunk_id, seed_chunk)
+                                score += edge_data.get('weight', 1) * 0.3
 
-            expanded_chunks.update(selected_chunks)
-            current_chunks = set(selected_chunks)
+                    chunk_scores.append((chunk_id, score))
 
-            logger.info(f"第{hop + 1}跳扩展: 新增 {len(selected_chunks)} 个chunks")
+                # 选择得分最高的chunks
+                chunk_scores.sort(key=lambda x: x[1], reverse=True)
+                new_chunks = set([chunk_id for chunk_id, _ in chunk_scores[:20]])
 
-        logger.info(f"🔍 图扩展完成: 从 {len(seed_chunk_ids)} 扩展到 {len(expanded_chunks)} 个chunks")
+            expanded_chunks.update(new_chunks)
+            current_chunks = new_chunks
+
+            logger.debug(f"第{hop + 1}跳扩展: 新增 {len(new_chunks)} 个chunks")
+
+        logger.info(f"Chunk扩展完成: 从 {len(seed_chunk_ids)} 个种子扩展到 {len(expanded_chunks)} 个chunks")
         return expanded_chunks
 
     def organize_subgraph_context(self, subgraph: nx.Graph, query: str) -> List[Dict]:
@@ -397,8 +411,8 @@ class LongDocKGRetriever:
     def retrieve(self, query: str, documents: List[Dict], topk: int = None) -> List[Dict]:
         """基础检索方法"""
         if topk is None:
-            topk = self.params.get('embedding_topk', 10)
-        topk *= 2 # chunk检索2倍数量
+            topk = self.params.get('rerank_topk', 10)
+        topk *= 2  # chunk检索2倍数量
 
         # 计算相似度并排序
         doc_similarities = self.compute_text_similarity(query, documents)
@@ -455,7 +469,7 @@ class LongDocKGRetriever:
         3. Generate queries that can capture different aspects and perspectives of the topic
         4. Include entity-specific and domain-specific variations
         5. Maintain semantic coherence with the original intent
-        6. Generate 3-5 refined queries to maximize retrieval recall
+        6. Generate 1-3 refined queries to maximize retrieval recall
 
         Return in JSON format:
         {
@@ -489,7 +503,7 @@ class LongDocKGRetriever:
     def search_with_kg_enhanced_multi_intent(self, query: str, documents: List[Dict]) -> List[Dict]:
         """基于知识图谱增强的多意图检索 - 完整的KG2RAG流程"""
         embedding_topk = self.params.get('embedding_topk', 15)
-        rerank_topk = self.params.get('rerank_topk', 10)*2
+        rerank_topk = self.params.get('rerank_topk', 10) * 2
 
         logger.info(f"🔍 开始KG增强多意图检索: {query}")
 
@@ -748,6 +762,10 @@ class LongDocEvaluator:
         # 建立chunk_id到页面的映射
         self.chunk_to_pages = {}
         self.page_to_chunks = defaultdict(list)
+        self.params = {
+            "embedding_topk": 15,
+            "rerank_topk": 10
+        }
 
         for chunk in self.chunk_data:
             if chunk.pages:
@@ -811,13 +829,12 @@ class LongDocEvaluator:
         page_metrics = {}
         if ground_truth.relevant_pages:
             # 获取检索到的页面
-            count = 0
             retrieved_pages = set()
             for chunk_id in retrieved_chunk_ids:
-                if count <= self.params.get('rerank_topk', 10):
                     if chunk_id in self.chunk_to_pages:
                         retrieved_pages.update(self.chunk_to_pages[chunk_id])
-                        count += 1
+                        if len(retrieved_pages) >= self.params.get('rerank_topk', 10):
+                            break
 
             relevant_page_set = set(ground_truth.relevant_pages)
             page_true_positives = len(retrieved_pages.intersection(relevant_page_set))
@@ -825,7 +842,7 @@ class LongDocEvaluator:
             page_precision = page_true_positives / len(retrieved_pages) if retrieved_pages else 0.0
             page_recall = page_true_positives / len(relevant_page_set) if relevant_page_set else 0.0
             page_f1 = 2 * page_precision * page_recall / (page_precision + page_recall) if (
-                                                                                                       page_precision + page_recall) > 0 else 0.0
+                                                                                                   page_precision + page_recall) > 0 else 0.0
 
             page_metrics = {
                 'page_precision': page_precision,
@@ -888,15 +905,12 @@ class LongDocEvaluator:
 class LongDocKGTester:
     """LongDoc KG增强测试器 - 支持ground truth评估"""
 
-    def __init__(self, chunk_data_dir: str, kg_files_dir: str, test_data_path: str, args: argparse.Namespace = None):
-        self.chunk_data_dir = chunk_data_dir
-        self.kg_files_dir = kg_files_dir
-        self.test_data_path = test_data_path
+    def __init__(self, data_path: str, kg_files_prefix: str, args: argparse.Namespace = None,
+                 ground_truth_path: str = None):
+        self.data_path = data_path
+        self.kg_files_prefix = kg_files_prefix
         self.args = args
-
-        # 存储可用的文档信息
-        self.available_documents = self._discover_available_documents()
-        logger.info(f"发现 {len(self.available_documents)} 个有KG文件的文档")
+        self.ground_truth_path = ground_truth_path
 
         # 初始化组件
         self.data_processor = LongDocDataProcessor(data_path, kg_files_prefix, args)  # 传递args
@@ -907,41 +921,6 @@ class LongDocKGTester:
 
         # 初始化模型
         self._setup_models()
-
-    def _discover_available_documents(self) -> Dict[str, Dict]:
-        """发现有对应KG文件的文档"""
-        available_docs = {}
-
-        # 扫描KG文件目录，找到所有有KG文件的文档
-        kg_pattern = os.path.join(self.kg_files_dir, "*_subgraphs.json")
-        kg_files = glob.glob(kg_pattern)
-
-        for kg_file in kg_files:
-            # 从KG文件名提取文档ID
-            basename = os.path.basename(kg_file)
-            doc_id = basename.replace("_subgraphs.json", "")
-
-            # 检查对应的chunk数据文件是否存在
-            chunk_file = os.path.join(self.chunk_data_dir, f"{doc_id}.json")
-
-            if os.path.exists(chunk_file):
-                kg_prefix = os.path.join(self.kg_files_dir, doc_id)
-
-                # 验证所有必需的KG文件都存在
-                processor = LongDocKnowledgeGraphProcessor(kg_prefix)
-                if processor._check_kg_files_exist():
-                    available_docs[doc_id] = {
-                        'chunk_file': chunk_file,
-                        'kg_prefix': kg_prefix,
-                        'doc_id': doc_id
-                    }
-                    logger.debug(f"找到可用文档: {doc_id}")
-                else:
-                    logger.debug(f"文档 {doc_id} 的KG文件不完整，跳过")
-            else:
-                logger.debug(f"文档 {doc_id} 缺少chunk文件: {chunk_file}")
-
-        return available_docs
 
     def _load_ground_truth(self) -> Dict[str, GroundTruthItem]:
         """加载ground truth数据 - 适配LongDoc格式，增强错误处理"""
@@ -1343,29 +1322,411 @@ class LongDocKGTester:
             logger.info(f"  KG增强   - 平均分数: {np.mean(kg_scores):.4f}, KG增强: {np.mean(kg_boosts):.4f}")
             logger.info(f"  时间开销 - 基线: {np.mean(baseline_times):.2f}s, KG增强: {np.mean(kg_times):.2f}s")
 
-        # === 综合分析 ===
-        logger.info(f"\n🔍 综合效果分析:")
+        logger.info("=" * 80)
 
-        # KG增强效果统计
-        all_kg_results = [r['kg_enhanced'] for r in results]
-        entity_coverages = [r.get('quality_entity_coverage', 0) for r in all_kg_results]
-        triplet_coverages = [r.get('quality_triplet_coverage', 0) for r in all_kg_results]
 
-        if entity_coverages:
-            logger.info(f"  平均实体覆盖: {np.mean(entity_coverages):.2f}")
-            logger.info(f"  平均三元组覆盖: {np.mean(triplet_coverages):.2f}")
+# ===== 新增多文档处理器 =====
 
-        # 查询细化效果
-        all_refinement_sources = defaultdict(int)
-        for result in results:
-            refinement_sources = result['kg_enhanced'].get('quality_refinement_sources', {})
-            for source, count in refinement_sources.items():
-                all_refinement_sources[source] += count
+class LongDocMultiDocumentTester:
+    """LongDoc多文档KG增强测试器 - 只负责多文档处理"""
 
-        if all_refinement_sources:
-            logger.info(f"  查询细化来源分布:")
-            for source, count in all_refinement_sources.items():
-                logger.info(f"    {source}: {count}")
+    def __init__(self, chunk_data_dir: str, kg_files_dir: str, test_data_path: str, args: argparse.Namespace = None):
+        self.chunk_data_dir = chunk_data_dir
+        self.kg_files_dir = kg_files_dir
+        self.test_data_path = test_data_path
+        self.args = args
+
+        # 发现可用的文档
+        self.available_documents = self._discover_available_documents()
+        logger.info(f"发现 {len(self.available_documents)} 个有KG文件的文档")
+
+    def _discover_available_documents(self) -> Dict[str, Dict]:
+        """发现有对应KG文件的文档"""
+        available_docs = {}
+
+        # 扫描KG文件目录
+        kg_pattern = os.path.join(self.kg_files_dir, "*_subgraphs.json")
+        kg_files = glob.glob(kg_pattern)
+
+        for kg_file in kg_files:
+            basename = os.path.basename(kg_file)
+            doc_id = basename.replace("_subgraphs.json", "")
+
+            # 检查对应的chunk数据文件
+            chunk_file = os.path.join(self.chunk_data_dir, f"{doc_id}.json")
+
+            if os.path.exists(chunk_file):
+                kg_prefix = os.path.join(self.kg_files_dir, doc_id)
+
+                # 验证KG文件完整性
+                required_files = [
+                    f"{kg_prefix}_subgraphs.json",
+                    f"{kg_prefix}_kg.json",
+                    f"{kg_prefix}_triplets.json"
+                ]
+
+                if all(os.path.exists(f) for f in required_files):
+                    available_docs[doc_id] = {
+                        'chunk_file': chunk_file,
+                        'kg_prefix': kg_prefix,
+                        'doc_id': doc_id
+                    }
+
+        return available_docs
+
+    def load_test_data(self) -> List[Dict]:
+        """加载测试数据，只保留有KG文件的文档"""
+        logger.info(f"加载测试数据: {self.test_data_path}")
+        all_test_data = []
+
+        try:
+            with open(self.test_data_path, 'r', encoding='utf-8') as f:
+                for line in f:
+                    if line.strip():
+                        item = json.loads(line)
+                        all_test_data.append(item)
+
+            # 筛选有KG文件的数据
+            filtered_data = []
+            for item in all_test_data:
+                pdf_path = item.get("pdf_path", "")
+                doc_id = os.path.splitext(os.path.basename(pdf_path))[0]
+
+                if doc_id in self.available_documents:
+                    item['doc_id'] = doc_id
+                    filtered_data.append(item)
+
+            # 采样
+            if self.args and self.args.sample_size > 0 and len(filtered_data) > self.args.sample_size:
+                np.random.seed(42)
+                filtered_data = np.random.choice(filtered_data, self.args.sample_size, replace=False).tolist()
+
+            logger.info(f"加载了 {len(filtered_data)} 条有KG文件的测试数据（原始 {len(all_test_data)} 条）")
+            return filtered_data
+
+        except Exception as e:
+            logger.error(f"加载测试数据失败: {str(e)}")
+            return []
+
+    def test_multi_documents(self):
+        """测试多文档KG增强检索"""
+        logger.info("开始多文档KG增强检索测试...")
+
+        test_data = self.load_test_data()
+        if not test_data:
+            logger.error("没有可用的测试数据")
+            return []
+
+        results = []
+        successful_tests = 0
+        failed_tests = 0
+
+        for idx, doc_data in enumerate(tqdm(test_data, desc="多文档KG增强测试")):
+            try:
+                doc_id = doc_data['doc_id']
+                query = doc_data.get("question", "")
+                evidence_pages = doc_data.get("evidence_pages", [])
+
+                logger.info(f"\n测试 {idx + 1}/{len(test_data)}: 文档 {doc_id}")
+                logger.info(f"查询: {query}")
+
+                # 获取文档信息
+                doc_info = self.available_documents[doc_id]
+
+                # 为当前文档创建测试器（使用原有的LongDocKGTester）
+                tester = LongDocKGTester(
+                    data_path=doc_info['chunk_file'],
+                    kg_files_prefix=doc_info['kg_prefix'],
+                    args=self.args
+                )
+
+                # 构造ground truth
+                # 构造 ground truth 时，根据页面计算相关的chunk IDs
+                relevant_chunk_ids = []
+                if evidence_pages:
+                    for page in evidence_pages:
+                        chunks_in_page = tester.evaluator.page_to_chunks.get(page, [])
+                        relevant_chunk_ids.extend(chunks_in_page)
+                    relevant_chunk_ids = list(set(relevant_chunk_ids))  # 去重
+
+                ground_truth = GroundTruthItem(
+                    query=query,
+                    relevant_chunk_ids=relevant_chunk_ids,  # 明确设置
+                    relevant_pages=evidence_pages,
+                    metadata=doc_data
+                )
+
+                # 准备文档
+                documents = tester.data_processor.prepare_documents_for_retrieval()
+                if not documents:
+                    logger.warning(f"文档 {doc_id} 没有有效内容，跳过")
+                    failed_tests += 1
+                    continue
+
+                # 基线检索
+                baseline_start = time.time()
+                baseline_results = tester.baseline_retriever.retrieve(
+                    query, documents, topk=self.args.rerank_topk if self.args else 5
+                )
+                baseline_time = time.time() - baseline_start
+
+                # KG增强检索
+                kg_start = time.time()
+                kg_results = tester.kg_enhanced_retriever.search_with_kg_enhanced_multi_intent(query, documents)
+                kg_time = time.time() - kg_start
+
+                # 评估结果
+                baseline_eval = tester.evaluator.evaluate_retrieval_with_ground_truth(
+                    query, baseline_results, ground_truth)
+                kg_eval = tester.evaluator.evaluate_retrieval_with_ground_truth(
+                    query, kg_results, ground_truth)
+
+                # 记录结果
+                result = {
+                    "doc_id": doc_id,
+                    "query": query,
+                    "evidence_pages": evidence_pages,
+                    "task_tag": doc_data.get("task_tag", ""),
+                    "baseline": {
+                        **baseline_eval,
+                        "retrieval_time": baseline_time
+                    },
+                    "kg_enhanced": {
+                        **kg_eval,
+                        "retrieval_time": kg_time
+                    }
+                }
+
+                results.append(result)
+                successful_tests += 1
+
+                # ===== 详细调试信息 =====
+                logger.info("\n" + "=" * 50)
+                logger.info("🔍 检索结果详细分析")
+                logger.info("=" * 50)
+
+                if ground_truth:
+                    logger.info(f"📋 Ground Truth信息:")
+                    logger.info(f"  证据页面: {ground_truth.relevant_pages}")
+                    logger.info(f"  证据chunks: {ground_truth.relevant_chunk_ids}")
+
+                # 基线检索结果
+                logger.info(f"\n📄 基线检索结果 ({len(baseline_results)} 个):")
+                for i, result in enumerate(baseline_results, 1):
+                    chunk_id = result['chunk_id']
+                    chunk_pages = tester.evaluator.chunk_to_pages.get(chunk_id, [])
+                    is_correct = str(chunk_id) in (ground_truth.relevant_chunk_ids if ground_truth else [])
+                    logger.info(
+                        f"  {i}. chunk_{chunk_id} | 页面: {chunk_pages} | 分数: {result['score']:.3f} | {'✓' if is_correct else '✗'}")
+
+                # KG增强检索结果
+                logger.info(f"\n🚀 KG增强检索结果 ({len(kg_results)} 个):")
+                for i, result in enumerate(kg_results, 1):
+                    chunk_id = result['chunk_id']
+                    chunk_pages = tester.evaluator.chunk_to_pages.get(chunk_id, [])
+                    is_correct = str(chunk_id) in (ground_truth.relevant_chunk_ids if ground_truth else [])
+                    kg_boost = result.get('kg_boost', 0)
+                    source_query = result.get('source_query', 'original')
+                    logger.info(
+                        f"  {i}. chunk_{chunk_id} | 页面: {chunk_pages} | 分数: {result.get('score', 0):.3f} | KG增强: {kg_boost:.3f} | 来源: {source_query} | {'✓' if is_correct else '✗'}")
+
+                # 页面到chunk映射检查
+                if ground_truth:
+                    logger.info(f"\n🗺️ 页面到chunk映射检查:")
+                    for page in ground_truth.relevant_pages:
+                        chunks_in_page = tester.evaluator.page_to_chunks.get(page, [])
+                        logger.info(f"  页面 {page}: chunks {chunks_in_page}")
+
+                # 打印评估结果
+                if ground_truth:
+                    logger.info(f"\n📊 评估指标:")
+                    logger.info(f"  基线检索 - P: {baseline_eval.get('precision', 0):.3f}, "
+                                f"R: {baseline_eval.get('recall', 0):.3f}, "
+                                f"F1: {baseline_eval.get('f1', 0):.3f}")
+                    logger.info(f"  KG增强   - P: {kg_eval.get('precision', 0):.3f}, "
+                                f"R: {kg_eval.get('recall', 0):.3f}, "
+                                f"F1: {kg_eval.get('f1', 0):.3f}")
+
+                    # 页面级评估
+                    if 'page_precision' in baseline_eval:
+                        logger.info(f"  页面基线 - P: {baseline_eval.get('page_precision', 0):.3f}, "
+                                    f"R: {baseline_eval.get('page_recall', 0):.3f}, "
+                                    f"F1: {baseline_eval.get('page_f1', 0):.3f}")
+                        logger.info(f"  页面KG   - P: {kg_eval.get('page_precision', 0):.3f}, "
+                                    f"R: {kg_eval.get('page_recall', 0):.3f}, "
+                                    f"F1: {kg_eval.get('page_f1', 0):.3f}")
+                else:
+                    logger.info(f"\n📊 质量评估:")
+                    logger.info(f"  基线检索 - 检索数量: {baseline_eval.get('quality_retrieved_count', 0)}, "
+                                f"平均分数: {baseline_eval.get('quality_avg_score', 0):.3f}")
+                    logger.info(f"  KG增强   - 检索数量: {kg_eval.get('quality_retrieved_count', 0)}, "
+                                f"平均分数: {kg_eval.get('quality_avg_score', 0):.3f}, "
+                                f"KG增强: {kg_eval.get('quality_kg_boost_avg', 0):.3f}")
+
+                logger.info("=" * 50)
+
+            except Exception as e:
+                logger.error(f"处理文档 {doc_data.get('doc_id', 'unknown')} 时出错: {str(e)}")
+                logger.error(f"详细错误信息:\n{traceback.format_exc()}")
+                failed_tests += 1
+                continue
+
+        # 保存和分析结果
+        self._save_results(results)
+        self._analyze_results(results)
+
+        logger.info(f"测试完成: 成功 {successful_tests}, 失败 {failed_tests}")
+        return results
+
+    def _save_results(self, results: List[Dict]):
+        """保存测试结果"""
+        try:
+            output_dir = self.args.results_dir if self.args and hasattr(self.args, 'results_dir') else './test_results'
+            os.makedirs(output_dir, exist_ok=True)
+
+            result_file = os.path.join(output_dir, 'multi_document_kg_enhanced_results.json')
+
+            with open(result_file, 'w', encoding='utf-8') as f:
+                json.dump(results, f, ensure_ascii=False, indent=2)
+
+            logger.info(f"结果已保存到: {result_file}")
+
+        except Exception as e:
+            logger.error(f"保存结果失败: {str(e)}")
+
+    def _analyze_results(self, results: List[Dict]):
+        """分析并输出平均性能指标"""
+        if not results:
+            logger.warning("没有结果可供分析")
+            return
+
+        # 收集指标
+        baseline_recalls_chunk = [r["baseline"].get("recall", 0) for r in results]
+        baseline_precisions_chunk = [r["baseline"].get("precision", 0) for r in results]
+        baseline_f1s_chunk = [r["baseline"].get("f1", 0) for r in results]
+        baseline_times = [r["baseline"]["retrieval_time"] for r in results]
+
+        kg_recalls_chunk = [r["kg_enhanced"].get("recall", 0) for r in results]
+        kg_precisions_chunk = [r["kg_enhanced"].get("precision", 0) for r in results]
+        kg_f1s_chunk = [r["kg_enhanced"].get("f1", 0) for r in results]
+        kg_times = [r["kg_enhanced"]["retrieval_time"] for r in results]
+
+        baseline_success = sum(1 for r in results if r["baseline"].get("success", False))
+        kg_success = sum(1 for r in results if r["kg_enhanced"].get("success", False))
+
+        baseline_recalls_page = [r["baseline"].get("page_recall", 0) for r in results]
+        baseline_precisions_page = [r["baseline"].get("page_precision", 0) for r in results]
+        baseline_f1s_page = [r["baseline"].get("page_f1", 0) for r in results]
+
+        kg_recalls_page = [r["kg_enhanced"].get("page_recall", 0) for r in results]
+        kg_precisions_page = [r["kg_enhanced"].get("page_precision", 0) for r in results]
+        kg_f1s_page = [r["kg_enhanced"].get("page_f1", 0) for r in results]
+
+        # 计算平均值(chunk)
+        avg_baseline_recall_chunk = np.mean(baseline_recalls_chunk)
+        avg_baseline_precision_chunk = np.mean(baseline_precisions_chunk)
+        avg_baseline_f1_chunk = np.mean(baseline_f1s_chunk)
+        avg_baseline_time = np.mean(baseline_times)
+
+        avg_kg_recall_chunk = np.mean(kg_recalls_chunk)
+        avg_kg_precision_chunk = np.mean(kg_precisions_chunk)
+        avg_kg_f1_chunk = np.mean(kg_f1s_chunk)
+        avg_kg_time = np.mean(kg_times)
+
+        # 计算平均值(page)
+        avg_baseline_recall_page = np.mean(baseline_recalls_page)
+        avg_baseline_precision_page = np.mean(baseline_precisions_page)
+        avg_baseline_f1_page = np.mean(baseline_f1s_page)
+
+        avg_kg_recall_page = np.mean(kg_recalls_page)
+        avg_kg_precision_page = np.mean(kg_precisions_page)
+        avg_kg_f1_page = np.mean(kg_f1s_page)
+
+        baseline_success_rate = baseline_success / len(results) * 100
+        kg_success_rate = kg_success / len(results) * 100
+
+        # 计算提升幅度
+        recall_improvement_chunk = (
+                                         avg_kg_recall_chunk - avg_baseline_recall_chunk) / avg_baseline_recall_chunk * 100 if avg_baseline_recall_chunk > 0 else 0
+        precision_improvement_chunk = (
+                                            avg_kg_precision_chunk - avg_baseline_precision_chunk) / avg_baseline_precision_chunk * 100 if avg_baseline_precision_chunk > 0 else 0
+        f1_improvement_chunk = (avg_kg_f1_chunk - avg_baseline_f1_chunk) / avg_baseline_f1_chunk * 100 if avg_baseline_f1_chunk > 0 else 0
+
+        recall_improvement_page = (
+                                           avg_kg_recall_page - avg_baseline_recall_page) / avg_baseline_recall_page * 100 if avg_baseline_recall_page > 0 else 0
+        precision_improvement_page = (
+                                              avg_kg_precision_page - avg_baseline_precision_page) / avg_baseline_precision_page * 100 if avg_baseline_precision_page > 0 else 0
+        f1_improvement_page = (
+                                           avg_kg_f1_page - avg_baseline_f1_page) / avg_baseline_f1_page * 100 if avg_baseline_f1_page > 0 else 0
+
+        # 输出结果
+        logger.info("\n" + "=" * 80)
+        logger.info("🔍 多文档KG增强检索性能分析")
+        logger.info("=" * 80)
+
+        logger.info(f"\n📊 总体统计:")
+        logger.info(f"  测试文档数: {len(results)}")
+        logger.info(f"  有KG文件的文档: {len(self.available_documents)}")
+
+        logger.info(f"\n📈 平均性能指标(chunk):")
+        logger.info(f"  基线检索:")
+        logger.info(f"    Recall:    {avg_baseline_recall_chunk:.4f}")
+        logger.info(f"    Precision: {avg_baseline_precision_chunk:.4f}")
+        logger.info(f"    F1:        {avg_baseline_f1_chunk:.4f}")
+        logger.info(f"    成功率:    {baseline_success_rate:.2f}%")
+        logger.info(f"    平均时间:  {avg_baseline_time:.2f}s")
+
+        logger.info(f"\n  KG增强检索:")
+        logger.info(f"    Recall:    {avg_kg_recall_chunk:.4f}")
+        logger.info(f"    Precision: {avg_kg_precision_chunk:.4f}")
+        logger.info(f"    F1:        {avg_kg_f1_chunk:.4f}")
+        logger.info(f"    成功率:    {kg_success_rate:.2f}%")
+        logger.info(f"    平均时间:  {avg_kg_time:.2f}s")
+
+        logger.info(f"\n🚀 性能提升:")
+        logger.info(f"  Recall 提升:    {recall_improvement_chunk:+.2f}%")
+        logger.info(f"  Precision 提升: {precision_improvement_chunk:+.2f}%")
+        logger.info(f"  F1 提升:        {f1_improvement_chunk:+.2f}%")
+        logger.info(f"  成功率提升:     {kg_success_rate - baseline_success_rate:+.2f}%")
+
+        logger.info(f"\n📈 平均性能指标(page):")
+        logger.info(f"  基线检索:")
+        logger.info(f"    Recall:    {avg_baseline_recall_page:.4f}")
+        logger.info(f"    Precision: {avg_baseline_precision_page:.4f}")
+        logger.info(f"    F1:        {avg_baseline_f1_page:.4f}")
+
+        logger.info(f"\n  KG增强检索:")
+        logger.info(f"    Recall:    {avg_kg_recall_page:.4f}")
+        logger.info(f"    Precision: {avg_kg_precision_page:.4f}")
+        logger.info(f"    F1:        {avg_kg_f1_page:.4f}")
+
+        logger.info(f"\n🚀 性能提升:")
+        logger.info(f"  Recall 提升:    {recall_improvement_page:+.2f}%")
+        logger.info(f"  Precision 提升: {precision_improvement_page:+.2f}%")
+        logger.info(f"  F1 提升:        {f1_improvement_page:+.2f}%")
+
+        # 按任务类型分析
+        task_types = {}
+        for r in results:
+            task_tag = r.get("task_tag", "Unknown")
+            if task_tag not in task_types:
+                task_types[task_tag] = {"count": 0, "baseline_f1": 0, "kg_f1": 0}
+            task_types[task_tag]["count"] += 1
+            task_types[task_tag]["baseline_f1"] += r["baseline"].get("f1", 0)
+            task_types[task_tag]["kg_f1"] += r["kg_enhanced"].get("f1", 0)
+
+        if task_types:
+            logger.info(f"\n📋 按任务类型分析:")
+            for task_tag, stats in task_types.items():
+                count = stats["count"]
+                avg_baseline_f1 = stats["baseline_f1"] / count
+                avg_kg_f1 = stats["kg_f1"] / count
+                improvement = (avg_kg_f1 - avg_baseline_f1) / avg_baseline_f1 * 100 if avg_baseline_f1 > 0 else 0
+
+                logger.info(f"  {task_tag} (样本数: {count}):")
+                logger.info(f"    基线 F1:   {avg_baseline_f1:.4f}")
+                logger.info(f"    KG增强 F1: {avg_kg_f1:.4f}")
+                logger.info(f"    F1提升:    {improvement:+.2f}%")
 
         logger.info("=" * 80)
 
@@ -1374,23 +1735,30 @@ def parse_arguments():
     """解析命令行参数"""
     parser = argparse.ArgumentParser(description='LongDoc KG增强检索测试 - 支持Ground Truth评估')
 
-    parser.add_argument('--data_path', type=str, required=True,
-                        help='LongDoc chunk数据文件路径')
-    parser.add_argument('--kg_dir', type=str, required=True,
+    parser.add_argument('--kg_dir', type=str, default=None,
                         help='包含KG文件的目录路径')
     parser.add_argument('--ground_truth_path', type=str, default=None,
                         help='Ground truth文件路径 (LongDoc格式的JSON/JSONL文件)')
-    parser.add_argument('--queries', type=str, nargs='*',
-                        default=None,
-                        help='测试查询列表 (如果提供ground_truth_path则可以不指定)')
-    parser.add_argument('--sample_size', type=int, default=0,
+    parser.add_argument('--sample_size', type=int, default=50,
                         help='测试查询数量，0表示全部')
     parser.add_argument('--embedding_topk', type=int, default=15,
                         help='嵌入检索Top-K')
-    parser.add_argument('--rerank_topk', type=int, default=5,
+    parser.add_argument('--rerank_topk', type=int, default=10,
                         help='重排序Top-K')
     parser.add_argument('--debug', action='store_true',
                         help='调试模式')
+
+    # 新增多文档处理选项
+    parser.add_argument('--multi_doc', action='store_true',
+                        help='多文档处理模式')
+    parser.add_argument('--chunk_data_dir', type=str,
+                        help='多文档模式：chunk数据目录路径')
+    parser.add_argument('--kg_files_dir', type=str,
+                        help='多文档模式：KG文件目录路径')
+    parser.add_argument('--test_data_path', type=str,
+                        help='多文档模式：测试数据文件路径 (JSONL格式)')
+    parser.add_argument('--results_dir', type=str, default='./test_results',
+                        help='结果保存目录')
 
     return parser.parse_args()
 
@@ -1399,34 +1767,66 @@ def main():
     """主函数"""
     args = parse_arguments()
 
-    # 检查文件是否存在
-    if not os.path.exists(args.data_path):
-        logger.error(f"数据文件不存在: {args.data_path}")
-        return
+    if args.multi_doc:
+        # 多文档处理模式
+        if not all([args.chunk_data_dir, args.kg_files_dir, args.test_data_path]):
+            logger.error("多文档模式需要指定 --chunk_data_dir, --kg_files_dir, --test_data_path")
+            return
 
-    # 检查KG文件是否存在
-    kg_files_exist = any([
-        os.path.exists(f"{args.kg_files_prefix}_subgraphs.json"),
-        os.path.exists(f"{args.kg_files_prefix}_kg.json"),
-        os.path.exists(f"{args.kg_files_prefix}_triplets.json")
-    ])
+        # 检查路径
+        for path, name in [(args.chunk_data_dir, "chunk数据目录"),
+                           (args.kg_files_dir, "KG文件目录"),
+                           (args.test_data_path, "测试数据文件")]:
+            if not os.path.exists(path):
+                logger.error(f"{name}不存在: {path}")
+                return
 
-    if not kg_files_exist:
-        logger.error(f"未找到KG文件，请检查前缀路径: {args.kg_files_prefix}")
-        return
+        # 创建多文档测试器
+        tester = LongDocMultiDocumentTester(
+            chunk_data_dir=args.chunk_data_dir,
+            kg_files_dir=args.kg_files_dir,
+            test_data_path=args.test_data_path,
+            args=args
+        )
 
-    # 创建测试器
-    tester = LongDocKGTester(args.data_path, args.kg_files_prefix, args, args.ground_truth_path)
+        # 运行多文档测试
+        results = tester.test_multi_documents()
+        logger.info("🎉 多文档KG增强检索测试完成！")
 
-    # 确定查询列表
-    if args.ground_truth_path and os.path.exists(args.ground_truth_path) and tester.ground_truth_data:
-        logger.info("使用Ground Truth文件中的查询进行测试")
-        results = tester.test_kg_enhancement_with_ground_truth()
-    elif args.queries:
-        logger.info("使用命令行指定的查询进行测试")
-        results = tester.test_kg_enhancement_with_queries(args.queries)
+    else:
+        # 原有的单文档处理模式
+        if not os.path.exists(args.data_path):
+            logger.error(f"数据文件不存在: {args.data_path}")
+            return
 
-    logger.info("🎉 LongDoc KG增强检索测试完成！")
+        kg_files_prefix = os.path.join(args.kg_dir, os.path.basename(args.data_path).replace('.json', ''))
+
+        # 检查KG文件是否存在
+        kg_files_exist = any([
+            os.path.exists(f"{kg_files_prefix}_subgraphs.json"),
+            os.path.exists(f"{kg_files_prefix}_kg.json"),
+            os.path.exists(f"{kg_files_prefix}_triplets.json")
+        ])
+
+        if not kg_files_exist:
+            logger.error(f"未找到KG文件，请检查前缀路径: {kg_files_prefix}")
+            return
+
+        # 创建测试器
+        tester = LongDocKGTester(args.data_path, kg_files_prefix, args, args.ground_truth_path)
+
+        # 确定查询列表
+        if args.ground_truth_path and os.path.exists(args.ground_truth_path) and tester.ground_truth_data:
+            logger.info("使用Ground Truth文件中的查询进行测试")
+            results = tester.test_kg_enhancement_with_ground_truth()
+        elif args.queries:
+            logger.info("使用命令行指定的查询进行测试")
+            results = tester.test_kg_enhancement_with_queries(args.queries)
+        else:
+            logger.error("请提供查询列表或Ground Truth文件")
+            return
+
+        logger.info("🎉 LongDoc KG增强检索测试完成！")
 
 
 if __name__ == "__main__":
